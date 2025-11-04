@@ -15,6 +15,7 @@ class RailwayController:
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json"
         }
+        self.workspace_id = None
         self.project_id = None
         self.service_id = None
     
@@ -31,7 +32,14 @@ class RailwayController:
                 headers=self.headers,
                 timeout=30
             )
-            response.raise_for_status()
+            
+            if response.status_code >= 400:
+                try:
+                    error_details = response.json()
+                    raise Exception(f"Railway API error ({response.status_code}): {error_details}")
+                except:
+                    raise Exception(f"Railway API error ({response.status_code}): {response.text}")
+            
             result = response.json()
             
             if "errors" in result:
@@ -40,6 +48,120 @@ class RailwayController:
             return result.get("data", {})
         except requests.exceptions.RequestException as e:
             raise Exception(f"Railway API request failed: {str(e)}")
+    
+    def introspect_user_type(self) -> Optional[Dict]:
+        """Introspect the User type to see available fields"""
+        query = """
+        query IntrospectionQuery {
+            __type(name: "User") {
+                name
+                kind
+                fields {
+                    name
+                    type {
+                        name
+                        kind
+                        ofType {
+                            name
+                            kind
+                        }
+                    }
+                    description
+                }
+            }
+        }
+        """
+        
+        try:
+            data = self._execute_query(query)
+            user_type = data.get("__type", {})
+            
+            if user_type:
+                print(f"\n📋 User Type Fields:")
+                fields = user_type.get("fields", [])
+                for field in fields:
+                    field_name = field.get("name")
+                    print(f"  - {field_name}")
+            
+            return user_type
+        except Exception as e:
+            print(f"✗ Introspection failed: {str(e)}")
+            return None
+    
+    def introspect_project_input(self) -> Optional[Dict]:
+        """Introspect the ProjectCreateInput schema"""
+        query = """
+        query IntrospectionQuery {
+            __type(name: "ProjectCreateInput") {
+                name
+                kind
+                inputFields {
+                    name
+                    type {
+                        name
+                        kind
+                        ofType {
+                            name
+                            kind
+                        }
+                    }
+                    description
+                }
+            }
+        }
+        """
+        
+        try:
+            data = self._execute_query(query)
+            input_type = data.get("__type", {})
+            
+            if input_type:
+                print(f"\n📋 ProjectCreateInput Schema:")
+                fields = input_type.get("inputFields", [])
+                for field in fields:
+                    field_name = field.get("name")
+                    field_type = field.get("type", {})
+                    type_name = field_type.get("name") or field_type.get("ofType", {}).get("name")
+                    desc = field.get("description", "")
+                    print(f"  - {field_name}: {type_name} {desc}")
+            
+            return input_type
+        except Exception as e:
+            print(f"✗ Introspection failed: {str(e)}")
+            return None
+    
+    def get_workspace_id(self) -> Optional[str]:
+        """Get the user's default workspace ID"""
+        query = """
+        query {
+            me {
+                id
+                workspaces {
+                    edges {
+                        node {
+                            id
+                            name
+                        }
+                    }
+                }
+            }
+        }
+        """
+        
+        try:
+            data = self._execute_query(query)
+            user = data.get("me", {})
+            workspaces = user.get("workspaces", {}).get("edges", [])
+            
+            if workspaces:
+                workspace = workspaces[0].get("node", {})
+                workspace_id = workspace.get("id")
+                print(f"  Workspace: {workspace.get('name')} (ID: {workspace_id})")
+                return workspace_id
+            return None
+        except Exception as e:
+            print(f"✗ Failed to get workspace ID: {str(e)}")
+            return None
     
     def test_connection(self) -> bool:
         """Test Railway API connection"""
@@ -60,6 +182,11 @@ class RailwayController:
             if user:
                 print(f"✓ Successfully connected to Railway API")
                 print(f"  User: {user.get('name', 'N/A')} ({user.get('email', 'N/A')})")
+                
+                workspace_id = self.get_workspace_id()
+                if workspace_id:
+                    self.workspace_id = workspace_id
+                
                 return True
             else:
                 print("✗ Failed to authenticate with Railway API")
@@ -81,11 +208,12 @@ class RailwayController:
         }
         """
         
-        variables = {
-            "input": {
-                "name": project_name
-            }
-        }
+        input_data = {"name": project_name}
+        
+        if self.workspace_id:
+            input_data["workspaceId"] = self.workspace_id
+        
+        variables = {"input": input_data}
         
         try:
             data = self._execute_query(query, variables)
@@ -208,17 +336,21 @@ class RailwayController:
             print("   Please check your RAILWAY_API_KEY in Secrets")
             return False
         
-        print("\nStep 2: Listing existing projects...")
+        print("\nStep 2: Introspecting Railway schema...")
+        self.introspect_user_type()
+        self.introspect_project_input()
+        
+        print("\nStep 3: Listing existing projects...")
         self.list_projects()
         
-        print("\nStep 3: Creating new project 'StudySmart-AI-Worker'...")
+        print("\nStep 4: Creating new project 'StudySmart-AI-Worker'...")
         project_id = self.create_project("StudySmart-AI-Worker")
         
         if not project_id:
             print("\n❌ Failed to create project")
             return False
         
-        print("\nStep 4: Creating worker service...")
+        print("\nStep 5: Creating worker service...")
         service_id = self.create_service(project_id, "lesson-worker")
         
         if not service_id:
@@ -226,7 +358,7 @@ class RailwayController:
             print(f"   You can manually add a service to project: {project_id}")
             return False
         
-        print("\nStep 5: Verifying deployment...")
+        print("\nStep 6: Verifying deployment...")
         project_info = self.get_project_info(project_id)
         
         if project_info:
