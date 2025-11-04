@@ -1,0 +1,269 @@
+import os
+import sys
+import requests
+import time
+from typing import Optional, Dict, Any
+
+
+class RailwayController:
+    """Simple Railway API automation controller"""
+    
+    def __init__(self, api_key: str):
+        self.api_key = api_key
+        self.base_url = "https://backboard.railway.app/graphql/v2"
+        self.headers = {
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json"
+        }
+        self.project_id = None
+        self.service_id = None
+    
+    def _execute_query(self, query: str, variables: Optional[Dict] = None) -> Dict[Any, Any]:
+        """Execute GraphQL query against Railway API"""
+        payload: Dict[str, Any] = {"query": query}
+        if variables:
+            payload["variables"] = variables
+        
+        try:
+            response = requests.post(
+                self.base_url,
+                json=payload,
+                headers=self.headers,
+                timeout=30
+            )
+            response.raise_for_status()
+            result = response.json()
+            
+            if "errors" in result:
+                raise Exception(f"GraphQL errors: {result['errors']}")
+            
+            return result.get("data", {})
+        except requests.exceptions.RequestException as e:
+            raise Exception(f"Railway API request failed: {str(e)}")
+    
+    def test_connection(self) -> bool:
+        """Test Railway API connection"""
+        query = """
+        query {
+            me {
+                id
+                name
+                email
+            }
+        }
+        """
+        
+        try:
+            data = self._execute_query(query)
+            user = data.get("me", {})
+            
+            if user:
+                print(f"✓ Successfully connected to Railway API")
+                print(f"  User: {user.get('name', 'N/A')} ({user.get('email', 'N/A')})")
+                return True
+            else:
+                print("✗ Failed to authenticate with Railway API")
+                return False
+        except Exception as e:
+            print(f"✗ Connection test failed: {str(e)}")
+            return False
+    
+    def create_project(self, project_name: str = "StudySmart-AI-Worker") -> Optional[str]:
+        """Create a new Railway project"""
+        query = """
+        mutation ProjectCreate($input: ProjectCreateInput!) {
+            projectCreate(input: $input) {
+                id
+                name
+            }
+        }
+        """
+        
+        variables = {
+            "input": {
+                "name": project_name
+            }
+        }
+        
+        try:
+            data = self._execute_query(query, variables)
+            project = data.get("projectCreate", {})
+            
+            if project and project.get("id"):
+                self.project_id = project["id"]
+                print(f"✓ Created project: {project.get('name')} (ID: {self.project_id})")
+                return self.project_id
+            else:
+                print("✗ Failed to create project")
+                return None
+        except Exception as e:
+            print(f"✗ Project creation failed: {str(e)}")
+            return None
+    
+    def list_projects(self) -> list:
+        """List existing Railway projects"""
+        query = """
+        query {
+            projects {
+                edges {
+                    node {
+                        id
+                        name
+                        createdAt
+                    }
+                }
+            }
+        }
+        """
+        
+        try:
+            data = self._execute_query(query)
+            projects = data.get("projects", {}).get("edges", [])
+            
+            print(f"\n📋 Your Railway Projects:")
+            for edge in projects:
+                node = edge.get("node", {})
+                print(f"  - {node.get('name')} (ID: {node.get('id')})")
+            
+            return projects
+        except Exception as e:
+            print(f"✗ Failed to list projects: {str(e)}")
+            return []
+    
+    def create_service(self, project_id: str, service_name: str = "lesson-worker") -> Optional[str]:
+        """Create a service in the project"""
+        query = """
+        mutation ServiceCreate($input: ServiceCreateInput!) {
+            serviceCreate(input: $input) {
+                id
+                name
+            }
+        }
+        """
+        
+        variables = {
+            "input": {
+                "projectId": project_id,
+                "name": service_name
+            }
+        }
+        
+        try:
+            data = self._execute_query(query, variables)
+            service = data.get("serviceCreate", {})
+            
+            if service and service.get("id"):
+                self.service_id = service["id"]
+                print(f"✓ Created service: {service.get('name')} (ID: {self.service_id})")
+                return self.service_id
+            else:
+                print("✗ Failed to create service")
+                return None
+        except Exception as e:
+            print(f"✗ Service creation failed: {str(e)}")
+            return None
+    
+    def get_project_info(self, project_id: str) -> Optional[Dict]:
+        """Get detailed project information"""
+        query = """
+        query Project($id: String!) {
+            project(id: $id) {
+                id
+                name
+                createdAt
+                services {
+                    edges {
+                        node {
+                            id
+                            name
+                        }
+                    }
+                }
+            }
+        }
+        """
+        
+        variables = {"id": project_id}
+        
+        try:
+            data = self._execute_query(query, variables)
+            return data.get("project")
+        except Exception as e:
+            print(f"✗ Failed to get project info: {str(e)}")
+            return None
+    
+    def run_deployment(self) -> bool:
+        """Main deployment workflow"""
+        print("\n" + "="*60)
+        print("  Railway Automation Controller - StudySmart AI Worker")
+        print("="*60 + "\n")
+        
+        print("Step 1: Testing Railway API connection...")
+        if not self.test_connection():
+            print("\n❌ Cannot proceed without valid Railway connection")
+            print("   Please check your RAILWAY_API_KEY in Secrets")
+            return False
+        
+        print("\nStep 2: Listing existing projects...")
+        self.list_projects()
+        
+        print("\nStep 3: Creating new project 'StudySmart-AI-Worker'...")
+        project_id = self.create_project("StudySmart-AI-Worker")
+        
+        if not project_id:
+            print("\n❌ Failed to create project")
+            return False
+        
+        print("\nStep 4: Creating worker service...")
+        service_id = self.create_service(project_id, "lesson-worker")
+        
+        if not service_id:
+            print("\n⚠️  Project created but service creation failed")
+            print(f"   You can manually add a service to project: {project_id}")
+            return False
+        
+        print("\nStep 5: Verifying deployment...")
+        project_info = self.get_project_info(project_id)
+        
+        if project_info:
+            print(f"✓ Project verified: {project_info.get('name')}")
+            services = project_info.get('services', {}).get('edges', [])
+            print(f"  Services: {len(services)} active")
+        
+        print("\n" + "="*60)
+        print("  ✅ Railway Connection Established Successfully!")
+        print("="*60)
+        print(f"\n📍 Project ID: {project_id}")
+        print(f"📍 Service ID: {service_id}")
+        print(f"\n🔗 Dashboard: https://railway.app/project/{project_id}")
+        print("\n💡 Next steps:")
+        print("   1. Add your StudySmart AI lesson directives")
+        print("   2. Upload curriculum JSON files")
+        print("   3. Configure worker deployment settings")
+        print("\n" + "="*60 + "\n")
+        
+        return True
+
+
+def main():
+    """Main entry point"""
+    api_key = os.getenv("RAILWAY_API_KEY")
+    
+    if not api_key:
+        print("\n❌ ERROR: RAILWAY_API_KEY not found in environment")
+        print("\n📝 Please add your Railway API key to Replit Secrets:")
+        print("   1. Click on 'Tools' in the left sidebar")
+        print("   2. Select 'Secrets'")
+        print("   3. Add: RAILWAY_API_KEY = your_api_key_here")
+        print("\n   Get your API key from: https://railway.app/account/tokens")
+        sys.exit(1)
+    
+    controller = RailwayController(api_key)
+    success = controller.run_deployment()
+    
+    if not success:
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()
