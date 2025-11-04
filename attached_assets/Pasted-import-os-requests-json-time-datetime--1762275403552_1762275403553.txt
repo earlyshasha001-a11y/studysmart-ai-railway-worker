@@ -1,0 +1,116 @@
+import os, requests, json, time, datetime
+
+# ======================================================
+# STUDYSMART AI – REPLIT CONTROLLER + RAILWAY + DEEPSEEK V3.1
+# ======================================================
+
+# 🔧 CONFIG
+RAILWAY_API = "https://backboard.railway.com/graphql/v2"
+OPENROUTER_API = "https://openrouter.ai/api/v1/chat/completions"
+
+RAILWAY_PROJECT_TOKEN = os.getenv("RAILWAY_PROJECT_TOKEN")
+RAILWAY_PROJECT_ID = os.getenv("RAILWAY_PROJECT_ID")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
+
+OUTPUT_DIR = "output"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+# ======================================================
+# 🧠 1️⃣ Check Railway connection
+# ======================================================
+def check_railway():
+    query = f"""
+    query {{
+      project(id: "{RAILWAY_PROJECT_ID}") {{
+        id
+        name
+        deployments(first: 1) {{
+          edges {{
+            node {{
+              id
+              createdAt
+              status
+            }}
+          }}
+        }}
+      }}
+    }}
+    """
+    headers = {"Project-Access-Token": RAILWAY_PROJECT_TOKEN, "Content-Type": "application/json"}
+    r = requests.post(RAILWAY_API, headers=headers, json={"query": query})
+    if r.status_code == 200:
+        print("✅ Connected to Railway:")
+        print(json.dumps(r.json(), indent=2))
+    else:
+        print("❌ Railway connection failed:", r.text)
+
+# ======================================================
+# 🤖 2️⃣ Generate one lesson with DeepSeek V3.1
+# ======================================================
+def generate_lesson(prompt_text, lesson_name):
+    headers = {
+        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+        "Content-Type": "application/json"
+    }
+    payload = {
+        "model": "deepseek/deepseek-chat",
+        "messages": [
+            {"role": "system", "content": "You are StudySmart AI, a professional curriculum teacher assistant."},
+            {"role": "user", "content": prompt_text}
+        ],
+        "max_tokens": 8192,
+        "temperature": 0.7
+    }
+
+    print(f"\n🧠 Generating lesson: {lesson_name}")
+    r = requests.post(OPENROUTER_API, headers=headers, json=payload)
+    if r.status_code == 200:
+        result = r.json()
+        content = result["choices"][0]["message"]["content"]
+        save_lesson(lesson_name, content)
+    else:
+        print(f"❌ DeepSeek failed for {lesson_name}:", r.text)
+
+# ======================================================
+# 💾 3️⃣ Save lesson locally (limit 200 MB)
+# ======================================================
+def save_lesson(name, text):
+    timestamp = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    filename = os.path.join(OUTPUT_DIR, f"{name}_{timestamp}.json")
+    with open(filename, "w", encoding="utf-8") as f:
+        json.dump({"lesson_name": name, "content": text}, f, ensure_ascii=False, indent=2)
+    print(f"✅ Saved {filename}")
+    check_storage()
+
+def check_storage():
+    total_size = sum(os.path.getsize(os.path.join(OUTPUT_DIR, f)) for f in os.listdir(OUTPUT_DIR))
+    mb = total_size / 1_000_000
+    print(f"💾 Total storage used: {mb:.2f} MB")
+    if mb > 190:
+        print("⚠️ Nearing 200 MB limit — stop or download outputs soon!")
+
+# ======================================================
+# 🚀 4️⃣ Batch generation
+# ======================================================
+def batch_generate():
+    lesson_prompts = [
+        ("Cambridge Y10 Math – Simultaneous Equations", 
+         "Create a Cambridge Year 10 Mathematics lesson on 'Simultaneous Equations'. Include introduction, explanation, worked examples, exercises, and summary. Length 7000–8000 characters."),
+        ("CBC G4 Science – Plants and Light", 
+         "Create a CBC Grade 4 Science lesson on 'How plants use light for growth'. Include introduction, observation activities, reasoning, and conclusion. Length 7000–8000 characters."),
+        ("844 Form 3 Biology – Respiration", 
+         "Create a Kenyan 8-4-4 Form 3 Biology lesson on 'Respiration in plants and animals'. Include practical examples, definitions, diagrams explained in words, and conclusion. Length 7000–8000 characters.")
+    ]
+
+    for name, text in lesson_prompts:
+        generate_lesson(text, name)
+        time.sleep(5)  # gentle delay to avoid rate limits
+
+# ======================================================
+# 🏁 MAIN
+# ======================================================
+if _name_ == "_main_":
+    print("🔹 StudySmart AI Controller Starting...")
+    check_railway()
+    batch_generate()
+    print("\n✅ All lessons generated successfully.")

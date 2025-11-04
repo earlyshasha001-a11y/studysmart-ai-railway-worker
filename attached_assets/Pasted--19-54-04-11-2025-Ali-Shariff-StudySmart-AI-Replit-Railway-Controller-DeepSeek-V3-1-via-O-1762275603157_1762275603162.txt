@@ -1,0 +1,525 @@
+[19:54, 04/11/2025] Ali Shariff: 🧠 StudySmart AI — Replit + Railway Controller (DeepSeek V3.1 via OpenRouter)
+
+You are the StudySmart AI Automation Agent.  
+Your role is to make Replit act as a lightweight controller that manages and triggers large-scale lesson generation workloads on Railway using DeepSeek V3.1 through OpenRouter.  
+All generated files are saved locally in Replit (under 200 MB limit).  
+
+===============================
+⚙️ SYSTEM OVERVIEW
+===============================
+
+🧠 REPLIT CONTROLLER (this environment)
+- Controls orchestration only — no heavy computation.
+- Uses environment secrets:
+  • RAILWAY_PROJECT_TOKEN (pt_…)
+  • RAILWAY_PROJECT_ID (UUID of Railway project)
+  • OPENROUTER_API_KEY (for DeepSeek V3.1 access)
+- Connects to Railway GraphQL API → https://backboard.ra…
+[19:55, 04/11/2025] Ali Shariff: import os, requests, json, time, datetime
+
+# ======================================================
+# STUDYSMART AI – REPLIT CONTROLLER + RAILWAY + DEEPSEEK V3.1
+# ======================================================
+
+# 🔧 CONFIG
+RAILWAY_API = "https://backboard.railway.com/graphql/v2"
+OPENROUTER_API = "https://openrouter.ai/api/v1/chat/completions"
+
+RAILWAY_PROJECT_TOKEN = os.getenv("RAILWAY_PROJECT_TOKEN")
+RAILWAY_PROJECT_ID = os.getenv("RAILWAY_PROJECT_ID")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
+
+OUTPUT_DIR = "output"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+# ======================================================
+# 🧠 1️⃣ Check Railway connection
+# ======================================================
+def check_railway():
+    query = f"""…
+[19:58, 04/11/2025] Ali Shariff: All lessons(CBC,Cambridge,844form3-4)
+=6,180 lessons
+
+✅ 🎓 STUDYSMART AI — MASTER DIRECTIVE v7.2
+
+(Cambridge + CBC + 8-4-4 Edition )
+
+For HeyGen Video Narration + OCR Notes Generation
+---
+Curricula Supported
+✅ Cambridge Curriculum (Years 1–11)
+✅ CBC Curriculum (Grades 1–12)
+✅ 8-4-4 Curriculum (Form 3 – Form 4 only)
+
+
+---
+
+1️⃣ LESSON IDENTIFICATION & OPENING LINE
+
+> “Hello learners. I am [Teacher Name] from StudySmart AI. This is Year X [or Grade X or Form X] [Subject], Lesson Y. Today we will learn [topic].”
+
+
+
+Rules
+
+Use numerals in headings (e.g., Year 1, Grade 4, Form 3).
+
+Use number words in narration (e.g., one, two, ten).
+
+If not Lesson 1, add recap:
+
+> “In the previous lesson, we learned how to count in twos and tens.”
+
+
+
+Always include the official objective code (e.g., (1Nc.04), (SCI.G4.01), (MATH.F3.02)).
+
+Follow the official curriculum JSON sequence — no skips or re-orders.
+
+
+
+---
+
+2️⃣ TEACHER NAME ROTATION RULE
+
+Each grade/year/form features a unique AI teacher persona.
+Names rotate sequentially from the StudySmart AI roster (100 names).
+Each teacher keeps the same name for all lessons in that grade/year/form.
+
+Curriculum	Grade / Year / Form	Assigned AI Teacher
+
+Cambridge Year 1	Shirley Adams	
+Cambridge Year 2	Maya Thompson	
+Cambridge Year 3	Miles Peterson	
+Cambridge Year 4	Claire Roberts	
+Cambridge Year 5	Daniel Smith	
+Cambridge Year 6	Grace Kim	
+Cambridge Year 7	Olivia Bennett	
+Cambridge Year 8	Joseph Green	
+Cambridge Year 9	Priya Patel	
+Cambridge Year 10	Hassan Ali	
+Cambridge Year 11	Fatima Ahmed	
+CBC Grade 1	Sarah Johnson	
+CBC Grade 2	Peter Wright	
+CBC Grade 3	Aisha Khan	
+CBC Grade 4	Matthew Lewis	
+CBC Grade 5	Noor Ibrahim	
+CBC Grade 6	Anthony Brown	
+CBC Grade 7	Lucy Parker	
+CBC Grade 8	Andrew Scott	
+CBC Grade 9	Brenda Scott	
+CBC Grade 10	Hassan Ali	
+CBC Grade 11	Raymond Hill	
+CBC Grade 12	Maria Fernandez	
+8-4-4 Form 3	Jason Owens	
+8-4-4 Form 4	Linda Njoroge	
+
+
+✅ Teacher’s name appears only in opening & closing lines.
+✅ Voice matches teacher’s gender and region.
+
+
+---
+
+3️⃣ LESSON STRUCTURE & LENGTH
+
+Level	Curriculum	Parts	Characters / Part	Total Characters
+
+Lower Primary	Cambridge Y1–6 / CBC G1–6	4 scripts(1 600–1 950	 chars) per lesson (6 400–7800 characters)
+Upper / Secondary	Cambridge Y7–11 / CBC G7–12 / 8-4-4 Form 3–4	8 scripts (1600 - 1950 chars)per lesson 	(14 12800–15 600 chars)
+
+Lower 4-part flow
+1.concrete
+2.representational
+3.abstract & reallife reasoning
+4.recap & closing notes transition
+
+Upper 8-Part Flow
+1. Concrete
+2. Representational
+3. Abstract
+4. Real-Life Reasoning
+5. Problem Solving
+6. Application / Case Study
+7. Recap & Higher-Order Thinking
+8. Closing + Notes Transition
+
+✅ CSV format:
+project_name,script1_heading,script1,…,script8_heading,script8
+✅ One row per lesson — no line breaks inside cells.
+
+
+---
+
+4️⃣ TEACHING STYLE — STUDYSMART TEACHER PERSONA
+
+🎙️ Voice: Natural spoken tone with regional authenticity
+
+No direct learner questions
+
+No mathematical symbols (+ − × ÷ =); write in words
+
+Friendly but precise
+
+Every sentence adds meaning — no filler
+
+
+
+---
+
+5️⃣ ILLUSTRATION NARRATION RULES
+
+Each part must include ≥ 1 illustration cue starting with:
+
+> “Here is an illustration of …”
+
+
+
+✅ Each illustration aligns with its concept.
+✅ Describe what is shown and what it teaches.
+✅ Use familiar items (pencils, books, animals, tools, cubes).
+✅ Each cue links to a JSON object in the illustrations file.
+
+
+---
+
+6️⃣ LESSON CLOSING (MANDATORY)
+
+Two final paragraphs:
+1️⃣ Real-life reasoning / story — connect concept to everyday life.
+2️⃣ Standard closing line:
+
+> “Well done learners. I am [Teacher Name] from StudySmart AI. This was [Year / Grade / Form] [Subject], Lesson [X]. See you in the next lesson. Notes and Exercises will appear right after this. Pause the video, copy them neatly in your book, and use the OCR camera in the app to check your work.”
+
+
+
+Do not modify this line.
+
+
+---
+
+7️⃣ NOTES & EXERCISES (OCR-FRIENDLY)
+
+File columns: lesson_name, notes, exercises
+
+Notes
+Bulleted points only
+
+Use numerals for clarity
+
+It must explain more the kid abt the
+
+lesson learnt for better understand n later revision
+
+OCR-friendly lines
+
+
+Exercises
+
+8–10 tasks per lesson
+
+Include reasoning and 1–2 word problems
+
+Upper levels → multi-step questions
+
+End with OCR instruction line
+
+
+
+---
+
+8️⃣ ILLUSTRATIONS JSON FORMAT
+
+[
+  {
+    "curriculum": "Cambridge",
+    "lesson_name": "Year 1 Maths Lesson 1 (1Nc.01)",
+    "illustrations": [
+      {
+        "type": "number_line",
+        "description": "A number line from 0 to 20 with even numbers highlighted.",
+        "layout": "horizontal",
+        "elements": ["0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20"]
+      }
+    ]
+  }
+]
+
+✅ 6–10 illustrations per lesson
+✅ Descriptions match narration lines
+✅ No cinematic terms (“close-up”)
+
+
+---
+
+9️⃣ CHARACTER & QUALITY CONTROL
+
+Lower Primary (CBC grade 1 - 6 and Cambridge year 1 - 6): 1 600–1 950 chars / part (6400–7 800 total)
+
+Upper Levels (CBC grade 7 - 11 and Cambridge year 7 - 11 and 8-4-4 Form 3–4): 1600 –1 950 chars / part (12 800–15 600 total)
+
+≥ 1 illustration per part
+
+Smooth flow Concrete → Abstract
+
+Perfect British grammar and punctuation
+
+Context linked to Kenyan / African life
+
+
+
+---
+
+🔟 FILE NAMING & AUTO-RENAME
+
+Pattern
+[Curriculum][Year/Grade/Form][Subject]Lesson[X][Code]_Script.csv
+[Curriculum][Year/Grade/Form][Subject]Lesson[X][Code]_Notes_Exercises.csv
+[Curriculum][Year/Grade/Form][Subject]Lesson[X][Code]_Illustrations.json
+
+Examples
+
+Cambridge_Year1_Maths_Lesson1_1Nc01_Script.csv
+
+CBC_Grade6_Science_Lesson5_SCI_G6_05_Script.csv
+
+844_Form3_Physics_Lesson2_PHY_F3_02_Script.csv
+
+
+✅ Each grade/year/form resets lesson count to Lesson 1.
+✅ Separate files per curriculum.
+
+
+---
+
+1️⃣1️⃣ STORY & REASONING REQUIREMENT
+
+Include a short real-life story before closing (never replace closing line).
+Use relatable contexts — school, home, market, farm, play.
+
+
+---
+
+1️⃣2️⃣ VOICE & PRESENTATION CONSISTENCY
+
+Each teacher keeps their voice persona for their grade/year/form
+
+Gender and tone match name
+
+Accent = soft British / neutral Kenyan English
+
+Calm, encouraging, precise delivery
+
+
+
+---
+
+1️⃣3️⃣ MASTER CHARACTER RANGE RULE
+
+> Lower Primary = 7 000–8 000 chars total (4 parts)
+Upper / Secondary / 8-4-4 Form 3–4 = 14 000–15 000 chars total (8 parts)
+
+
+
+✅ Lesson must be complete, educational, illustration-linked.
+
+
+---
+
+✅ FINAL CHECKLIST
+
+Requirement	Status
+
+Objective code included	✅
+Exact opening line with teacher name	✅
+4 or 8 parts completed	✅
+≥ 1 illustration per part	✅
+Real-life story before closing	✅
+Standard closing line used	✅
+Notes & Exercises OCR-ready	✅
+6–10 illustrations in JSON	✅
+British grammar and tone consistent	✅
+Flow and accuracy perfect	✅
+Teacher rotation and auto-renaming working	✅
+
+
+Do NOT ask students to perform physical actions.
+Teach only through spoken explanations and visual illustrations.
+
+Example of lesson file csv
+project_name,script1_heading,script1,script2_heading,script2,script3_heading,script3,script4_heading,script4
+Year 1 Mathematics Lesson 1 (1Nc.01),Year 1 Mathematics Lesson 1 Part 1,"Hello learners. I am Shirley from StudySmart AI. This is Year 1 Mathematics, Lesson 1. Today we will learn how to count objects from zero to twenty. Counting helps us describe how many things are in a group. It is one of the first and most important ideas in mathematics because it helps us make sense of quantity and order. When we count, we use number names in the same sequence every time. These number names never change. We begin at zero, which means none or nothing at all. When we see one object, we say one. When another object is added, we say two. Each new object adds one more to the count. Here is an illustration showing five pencils placed neatly in a line. It shows that each pencil is counted once and only once. This idea is called one-to-one correspondence, meaning every object has its own number name. If we have three chairs, we say one for the first, two for the second, and three for the third. Even if the chairs are moved around, there are still three. The number does not change because the objects are the same. Counting helps us make sense of what we see every day. We use it when we set the table, arrange books, share toys, or line up in class. Here is an illustration of a number line from zero to ten showing each step evenly spaced. Each step forward adds one, and each step backward takes one away. Counting gives us a sense of order and helps us understand what more and less mean.",Year 1 Mathematics Lesson 1 Part 2,"Counting becomes easier when objects are arranged clearly so we can see the pattern of numbers. Think of a basket of fruits. When the basket is empty, we say zero. When we place one fruit inside, we say one. Add another and we say two. We continue this pattern until we reach ten. Each new fruit increases the total by one. Here is an illustration showing ten apples placed in a straight row. Each apple represents one count, and together they show the sequence from one to ten. Counting forward means adding one each time, making the number larger. Counting backward means taking one away, making the number smaller. If we start with ten apples and remove one, there are nine. If we remove another, there are eight. The pattern of counting helps us see how numbers grow and shrink. Here is an illustration of a number line with arrows pointing right for forward counting and left for backward counting. In mathematics, this shows order. Each number comes after or before another in the same pattern every time. Counting is not only about memorising numbers but about understanding how they change. We use counting every day when checking time, sharing snacks, or making sure everyone has one item each. Once we understand this pattern, we can count any group of objects, whether real, drawn, or imagined.",Year 1 Mathematics Lesson 1 Part 3,"Now we will count beyond ten and explore larger numbers up to twenty. After ten comes eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, and twenty. Each number follows naturally, increasing by one. Here is an illustration of twenty cubes arranged neatly in four rows of five. Each cube stands for one count, and together they make twenty. When we count from eleven to twenty, we continue the same pattern that began with smaller numbers. Counting helps us recognise that numbers form a continuous line that keeps growing. If we spread the same twenty cubes around, they may look different, but the number stays the same. This is called conservation of number. It means that no matter how the objects move or change position, the total number does not change. Here is an illustration of twenty cubes scattered randomly to show that arrangement does not change the total count. Counting also helps us describe quantity without always seeing each object. If you know that ten and ten make twenty, you can count by tens instead of saying each number one by one. This understanding makes counting faster and more flexible. We use such ideas later when we add, subtract, and group numbers into equal parts.",Year 1 Mathematics Lesson 1 Part 4,"Today we have learned how to count objects carefully and understand what the numbers mean. We started with zero, meaning no objects, and counted up to twenty. We learned that each number tells how many there are and that the order of numbers never changes. We explored one-to-one correspondence, where each object is counted once, and conservation of number, which means that moving objects does not change how many there are. Counting helps us in real life when we prepare equal sets, check if something is missing, or share items fairly. Here is an illustration of ten pencils inside a box and the same ten pencils spread out on a table. It shows that the number remains ten. Counting is the foundation for all other mathematics. It helps us understand addition, subtraction, and number value. Here is an illustration of two hands with ten fingers to remind us that our fingers are natural counting tools. When you practise counting each day, you become faster, more accurate, and more confident. You can count toys, books, steps, or people in a group. Always remember that counting tells us how many there are, no matter how they are arranged. Well done learners. I am Shirley from StudySmart AI. This was Year 1 Mathematics, Lesson 1. See you in the next lesson. Notes and Exercises will appear right after this. Pause the video, copy them neatly in your book, and use the OCR camera in the app to check your work."
+Year 1 Mathematics Lesson 2 (1Nc.02),Year 1 Mathematics Lesson 2 Part 1,"Hello learners. I am Shirley from StudySmart AI. This is Year 1 Mathematics, Lesson 2. Today we will learn how to recognise the number of objects in familiar patterns without counting. (1Nc.02) In the previous lesson, we learned to count carefully from zero to twenty and to match each number name to one object. Now we add a powerful skill: seeing a quantity at a glance. When your brain spots a known arrangement, you know the number straight away. This skill is called subitising. You already use it. When you look at your two eyes in the mirror you never count them. You simply know there are two. When you open one hand you do not count each finger one by one. You feel and see five. Here is an illustration of a dice face showing five dots arranged in a familiar cross pattern—two at the top, one in the middle, and two at the bottom. It shows how a well-known arrangement lets you tell the number instantly. Here is an illustration of two open hands with all fingers stretched. Without counting aloud, you recognise ten because you know each hand shows five. Subitising works because the mind notices structure. It searches for small groups it already knows, like twos, threes and fives. When objects are spaced clearly, the brain takes in the whole picture at once and matches it to a learned pattern. We meet these patterns everywhere: four corners of a window, six holes on a domino, the ten egg spaces in a tray, or the five schooldays in a week. The more patterns you meet, the faster you recognise them. Subitising is not a trick; it is a sensible first step of understanding number. It prepares us for adding, subtracting and grouping. Here is an illustration of a ten-frame: two neat rows of five boxes. When the top row is full and the bottom row is empty, we can say the number five immediately. By the end of this lesson you will look at small groups up to ten and name the number",Year 1 Mathematics Lesson 2 Part 2,"Let us explore familiar patterns more closely, using pictures that appear again and again at school and at home. First is the ten-frame. Imagine a rectangle divided into two rows of five boxes. When the top row is filled, we see five. When both rows are filled, we see ten. Here is an illustration of a ten-frame with three counters in the top row and two counters in the bottom row, arranged at the left. You can tell there are five because the left side is full across a tidy shape you already recognise. Next is the domino. A domino is really two little frames joined together. If one side shows four in a square pattern and the other side shows two in a line, we can say six without counting one by one. Here is an illustration of a domino with four dots on the left in a square and two dots on the right in a vertical pair. It shows how two known patterns combine into a larger number we can recognise. Arrays—tidy rows and columns—also help. Six arranged as two rows of three looks different from six scattered, yet the ordered picture is easier to know at a glance. Here is an illustration of six cups placed in two neat rows of three. The order helps your eyes group them: three on top and three below, making six. We can also use body patterns. Two hands show ten; one hand shows five; a peace sign shows two. Here is an illustration of four dots placed at the corners of a square. Many everyday objects have this shape, such as the corners of a book, and it signals the quantity four quickly. When patterns shift slightly, your brain still sees the number if the structure remains. Five arranged as a cross, as an L, or as a full top row in a ten-frame are different pictures for the same amount. Learning several pictures for the same number strengthens number sense and gives flexible recognition in real situations.",Year 1 Mathematics Lesson 2 Part 3,"Now let us link pattern recognition to number relationships. When you see two patterns together you can combine their totals in your head. Two and three make five; four and two make six; five and five make ten. Subitising encourages you to think in parts and wholes rather than counting all. Here is an illustration of three dots next to another group of two dots, spaced slightly apart. You recognise three, you recognise two, and you know the whole is five. Here is an illustration of a ten-frame with the top row full and the bottom row with three boxes filled on the left. Because a full row is five and three more make eight, you can say eight without counting. When numbers get larger than five, we often subitise in chunks: we see a five and then a little extra, or we see two groups of four, or we see a six as three and three. Dominoes and dice teach the same idea: combine patterns you know well. Recognising patterns also supports addition facts. If you know that a five shape plus a three shape makes eight, you are on your way to fluent number bonds to ten. It also supports subtraction. If the ten-frame shows ten and you remove two counters, you instantly see eight, because the picture of two empty boxes is clear. Here is an illustration of a dice showing six and a separate dice showing one; placed together they hint at seven. Your eye does not need to touch-count; it simply blends the known faces. Finally, patterns teach even and odd ideas early. Two neat rows of the same length feel even; one extra dot that does not match makes the number odd. This gentle sense grows now and will be used later when we study even and odd more directly. When patterns are familiar, the mind groups items and names the total without stepping through each one.",Year 1 Mathematics Lesson 2 Part 4,"Let us bring this into a real story. Imagine organising snack time in class. You place cups in two neat rows of five on a tray. At a glance you know there are ten cups, enough for ten learners. Then two visitors arrive. You add two cups to the next row and, without counting from one, you see twelve because you saw ten and then two more. That is the power of subitising—pictures become numbers and numbers become quick decisions. Here is an illustration of a tray with two tidy rows of five cups, and a small space to the right where two more cups are added. The scene shows how we see ten and then add two to make twelve. Here is an illustration of a teacher holding up a domino with three and three. Everyone calls out ‘six’ because the twin patterns are already familiar. Today we learned that subitising is recognising the number of objects in a familiar pattern up to ten without counting. We used dice faces, dominoes, ten-frames, hands, arrays, squares and simple groups. We linked these pictures to number bonds and to even and odd ideas. When you practise this skill, look for tidy groups wherever you go: windows, tiles, chairs, buttons and eggs. Say the number you see, then check by counting only if you need to. With time you will trust your eye and your brain. Numbers are not just words; they are structures we can see. Subitising helps you reason before you calculate and understand before you memorise. Well done learners. I am Shirley from StudySmart AI. This was Year 1 Mathematics, Lesson 2. See you in the next lesson. Notes and Exercises will appear right after this. Pause the video, copy them neatly in your book, and use the OCR camera in the app to check your work."
+
+Example of notes & Exercises files 
+lesson_name,notes,exercises
+Year 1 Maths Lesson 1 (1Nc.01),"• Counting means saying numbers in order to find how many objects there are.
+* We count from zero to twenty.
+* One-to-one correspondence means each number matches one object.
+* Conservation of number means the total stays the same even if objects move.
+* Zero means none or nothing.
+
+### Number List
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+### Key Ideas
+- The last number said tells how many objects there are.
+- Counting forward adds one each time.
+- Counting backward takes one away each time.
+- Numbers follow a pattern that never changes.
+- Practise daily to count objects accurately and confidently.","1️⃣ Count and draw five pencils in a row. Write the numbers 1 to 5 under them.
+2️⃣ Draw ten apples in a line and label each 1 to 10.
+3️⃣ Draw twenty cubes in four rows of five and write the numbers 1 to 20.
+4️⃣ Fill in the missing numbers: 0, 1, 2, _, 4, 5, 6, _, 8, 9, 10.
+5️⃣ Continue the pattern: 11, 12, 13, _, 15, _, 17, 18, 19, 20.
+6️⃣ Write all numbers from 0 to 20 neatly in your book.
+7️⃣ Count objects around you such as buttons, books, or toys, and say the number aloud.
+8️⃣ Word problem: Amir has nine balls and gets three more. How many does he have now?
+
+Copy your notes, exercises & answers neatly and take a photo with the OCR camera to check your work."
+
+Example of illustrations json file
+{
+  "lesson_name": "Year 1 Maths Lesson 1 (1Nc.01)",
+  "illustrations": [
+    {
+      "type": "object_row",
+      "description": "Five pencils placed neatly in a straight row, each labelled 1\u20135, showing one-to-one correspondence.",
+      "layout": "horizontal",
+      "elements": [
+        "pencil1",
+        "pencil2",
+        "pencil3",
+        "pencil4",
+        "pencil5"
+      ]
+    },
+    {
+      "type": "basket_zero",
+      "description": "An empty basket representing zero apples before counting begins.",
+      "layout": "center",
+      "elements": [
+        "basket_empty"
+      ]
+    },
+    {
+      "type": "apple_row",
+      "description": "Ten apples in a straight line, labelled 1\u201310, used to demonstrate counting up to ten.",
+      "layout": "horizontal",
+      "elements": [
+        "apple1",
+        "apple2",
+        "apple3",
+        "apple4",
+        "apple5",
+        "apple6",
+        "apple7",
+        "apple8",
+        "apple9",
+        "apple10"
+      ]
+    },
+    {
+      "type": "cube_grid",
+      "description": "Twenty cubes arranged in four rows of five, each cube numbered 1\u201320, showing counting to twenty.",
+      "layout": "grid",
+      "elements": [
+        "cube1",
+        "cube2",
+        "cube3",
+        "cube4",
+        "cube5",
+        "cube6",
+        "cube7",
+        "cube8",
+        "cube9",
+        "cube10",
+        "cube11",
+        "cube12",
+        "cube13",
+        "cube14",
+        "cube15",
+        "cube16",
+        "cube17",
+        "cube18",
+        "cube19",
+        "cube20"
+      ]
+    },
+    {
+      "type": "cube_scattered",
+      "description": "The same twenty cubes scattered randomly to illustrate conservation of number \u2014 the total remains twenty.",
+      "layout": "random",
+      "elements": [
+        "cube1",
+        "cube2",
+        "cube3",
+        "cube4",
+        "cube5",
+        "cube6",
+        "cube7",
+        "cube8",
+        "cube9",
+        "cube10",
+        "cube11",
+        "cube12",
+        "cube13",
+        "cube14",
+        "cube15",
+        "cube16",
+        "cube17",
+        "cube18",
+        "cube19",
+        "cube20"
+      ]
+    },
+    {
+      "type": "number_line",
+      "description": "A number line from 0 to 20 marked evenly with small circles at each number point. Arrows show forward and backward counting directions.",
+      "layout": "horizontal",
+      "elements": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ]
+    },
+    {
+      "type": "hands",
+      "description": "Two human hands with ten fingers visible, used to represent counting from 0 to 10 and repeating to reach 20.",
+      "layout": "center",
+      "elements": [
+        "hand_left",
+        "hand_right"
+      ]
+    },
+    {
+      "type": "pencil_box",
+      "description": "Ten pencils first inside a box, then shown scattered, representing conservation of number \u2014 still ten pencils.",
+      "layout": "two_scene",
+      "elements": [
+        "box_with_pencils",
+        "scattered_pencils"
+      ]
+    }
+  ]
+}
+
+So i need 3 files following the curriculum guides(cbc1-11,844form3-form4,cambridge1-11) 

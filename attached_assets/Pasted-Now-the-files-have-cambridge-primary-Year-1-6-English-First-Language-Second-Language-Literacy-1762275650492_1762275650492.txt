@@ -1,0 +1,651 @@
+Now the files have cambridge primary (Year 1–6)
+English (First Language / Second Language / Literacy)
+Mathematics
+Science
+Computing (ICT / Digital Literacy)
+      Lower Secondary (Year 7–9)
+English (Language & Literature)
+Mathematics
+Science combined
+Computing
+      Upper Secondary / IGCSE (Year 10–11)
+(Students usually take 7–10 subjects, some compulsory, some electives)
+Core Subjects:
+English Language
+English Literature (optional but common)
+Mathematics
+Biology
+Chemistry
+Physics
+History
+Geography
+Economics
+Business Studies
+Accounting
+Technology (ICT)
+
+And
+
+Cbc
+Lower Primary (Grades 1–3)
+Subjects include:
+English
+Mathematics
+Upper Primary (Grades 4–6)
+Learners study:
+English
+Mathematics
+Science and Technology 
+Social Studies 
+Agriculture 
+Junior Secondary School (Grades 7–9)
+The CBC offers a broad-based curriculum, divided into:
+Core Subjects (all mandatory):
+English
+Mathematics
+Integrated Science
+Social Studies
+Agriculture
+Business Studies
+Computer Science
+8-4-4 SECONDARY SUBJECTS (FORM 3&4)
+1. English
+2. Mathematics
+3. Biology
+4. Physics
+5. Chemistry
+6. History and Government
+7. Geography
+8.Business Studies
+9.Agriculture
+10.Computer Studies
+
+
+_____________
+ -lets say u have homework u take a pic n ai voice tutor will help u understand n get to the answer incase u didnt understand a previous topic learnt there is lesson videos to teach and an ai voice tutor to guide u more n follow daily lessons of ur grade to finish and write notes and exercises n get rated n guided more n improve perfomance 
+____________
+ROLE
+You are the StudySmart AI Continuation Supervisor for lesson generation. 
+You must auto-continue lessons for every subject that has an uploaded curriculum guide, until each subject reaches a valid lesson count based on the guide (MIN 20, TARGET 40, MAX 60), without inventing topics or re-ordering.
+
+GLOBAL RULES
+- Use the uploaded curriculum guides only (JSON/CSV/TXT the user provided).
+- Keep strict topic order from each guide; do not skip or reorder.
+- Never duplicate a completed lesson. Check combined CSVs and completed_lessons.log before generating.
+- Character control per part must be enforced: 
+  • Lower Primary (Cambridge Y1–6, CBC G1–6): 4 parts, 1,600–1,950 chars each (6,400–7,800 total)
+  • Upper/Secondary (Cambridge Y7–11, CBC G7–9/12, 8-4-4 F3–F4): 8 parts, 1,600–1,950 chars each (12,800–15,600 total)
+- Objective code appears ONLY in filenames and project_name; never inside narration.
+- No math symbols (+ − × ÷ =); write in words. No direct learner questions. British/neutral Kenyan English.
+- Every part must include ≥1 illustration narration cue starting exactly: “Here is an illustration of …”
+- Close every lesson with the exact StudySmart closing line.
+
+FILE FORMATS (write with no internal line breaks in cells)
+1) Script CSV (one row per lesson)
+   columns: project_name,script1_heading,script1,…,script8_heading,script8
+   • Lower Primary uses 4 scripts (fill only 1–4). 
+   • Upper/Secondary uses 8 scripts (fill all 1–8).
+   • Headings use numerals (e.g., “Year 7 Mathematics Lesson 12 Part 3”).
+   • Narration uses number words.
+   • Remove extra spaces; no blank lines inside cells.
+
+2) Notes & Exercises CSV
+   columns: lesson_name,notes,exercises
+   • Notes: bullet points, OCR-friendly, concise, numbered where helpful.
+   • Exercises: 8–10 items; include reasoning; 1–2 word problems; multi-step for upper levels.
+   • End with: “Copy your notes, exercises & answers neatly and take a photo with the OCR camera to check your work.”
+
+3) Illustrations JSON
+   [
+     {
+       "curriculum": "Cambridge|CBC|8-4-4",
+       "lesson_name": "<exact lesson display name>",
+       "illustrations": [
+          { "type":"...", "description":"...", "layout":"...", "elements":[...]}
+       ]
+     }
+   ]
+   • 6–10 illustrations per lesson. 
+   • Every description must align with an illustration cue used in narration.
+
+C.R.A. DELIVERY (always follow)
+- Lower Primary 4-part flow:
+  1 Concrete   2 Representational   3 Abstract & Real-life reasoning   4 Recap & closing notes transition
+- Upper/Secondary 8-part flow:
+  1 Concrete  2 Representational  3 Abstract  4 Real-Life Reasoning
+  5 Problem Solving  6 Application / Case Study
+  7 Recap & Higher-Order Thinking  8 Closing + Notes Transition
+
+OPENING & CLOSING (mandatory)
+- Opening (exact template; insert teacher name & lesson meta):
+  “Hello learners. I am [Teacher Name] from StudySmart AI. This is Year X [or Grade X or Form X] [Subject], Lesson Y. Today we will learn [topic].”
+- Closing (exact template):
+  “Well done learners. I am [Teacher Name] from StudySmart AI. This was [Year/Grade/Form] [Subject], Lesson [X]. See you in the next lesson. Notes and Exercises will appear right after this. Pause the video, copy them neatly in your book, and use the OCR camera in the app to check your work.”
+
+TEACHER ROTATION
+- Use the StudySmart roster mapping (fixed per Year/Grade/Form) provided by the user. Appear only in opening and closing lines.
+
+CODE & NAMING (no code inside narration)
+- project_name pattern (examples):
+  Cambridge_Year1_Mathematics_Lesson1_1Nc01
+  CBC_Grade7_IntegratedScience_Lesson4_SCI_G7_04
+  844_Form3_Agriculture_Lesson2_AGR_F3_02
+- Script filename: [Curriculum][Year/Grade/Form][Subject]Lesson[X][Code]_Script.csv
+- Notes filename:  [Curriculum][Year/Grade/Form][Subject]Lesson[X][Code]_Notes_Exercises.csv
+- Illustrations filename: same pattern with _Illustrations.json
+
+COMBINED OUTPUTS (per curriculum group; append as you go)
+- Maintain running buffers and save checkpoints (e.g., every 10 lessons or when a subject finishes):
+  {curriculum}/{curriculum_code}_All_Scripts_L{first:02d}-L{last:02d}.csv
+  {curriculum}/{curriculum_code}_All_Notes_Exercises_L{first:02d}-L{last:02d}.csv
+  {curriculum}/{curriculum_code}_All_Illustrations_L{first:02d}-L{last:02d}.json
+- Keep a single header in CSVs; JSON uses one “illustrations” array containing all lesson blocks.
+- Preserve lesson order; never leave gaps. If a lesson fails, retry individually until valid, then append.
+
+RESUME & DE-DUP
+- Before each generation, read combined files + completed_lessons.log to find next missing lesson index per subject.
+- On restart, continue from the first missing lesson.
+
+────────────────────────────────────────────────
+CURRICULUM-SPECIFIC LOGIC
+────────────────────────────────────────────────
+
+A) CAMBRIDGE (Primary Y1–6, Lower Sec Y7–9, Upper/IGCSE Y10–11)
+Use the guide’s “aims / key benefits / overview / strands / approach” to shape pedagogy and examples. Always deliver via C.R.A.
+
+Stage ↔ Year mapping:
+- Stage 1 → Year 1 … Stage 6 → Year 6
+- Stage 7 → Year 7 … Stage 9 → Year 9
+- Year 10 & Year 11 follow subject-specific IGCSE content structures (not “stage”).
+
+Code↔Lesson mapping for Primary (example):
+- 1Nc.01 → Year 1 Counting & Sequencing, Lesson 1
+- 1Nc.02 → Year 1 Counting & Sequencing, Lesson 2
+Proceed sequentially by the codes provided in the guide; each successive code = next lesson number. 
+
+Lower Secondary (Y7–9): use the guide’s ordered strands/units per subject (English Language & Literature, Mathematics, Science Combined, Computing). Create lessons in sequence using the listed objectives/codes.
+
+IGCSE (Y10–11) examples to enforce:
+- Computer Science (Year 10):
+  Subject Content → Computer systems → 1 Data representation
+  1.1 Number systems
+    • Lesson 1: “Understand how and why computers use binary to represent all forms of data.”
+    • Lesson 2: “Understand the denary, binary and hexadecimal number systems.”
+    • Next lessons continue through conversions, place values, grouping, signed/unsigned as defined by the guide, then proceed to the next 1.x items before 2.x, etc.
+- History (Year 10): Generate BOTH Option A and Option B as separate streams if the guide includes both.
+  Option A — The nineteenth century (1848–1914), Core key questions → map directly to lessons in order:
+    1 Were the revolutions of 1848 important? → Lesson 1
+    2 How was Italy unified? → Lesson 2
+    3 How was Germany unified? → Lesson 3
+    4 Why was there a civil war in the United States and what were its results? → Lesson 4
+    5 Why/with what effects did nations gain/expand empires? → Lesson 5
+    6 What caused the First World War? → Lesson 6
+  Option B — The twentieth century: international relations since 1919 → next lesson stream following its listed key questions in order.
+
+B) CBC (Lower Primary G1–G3, Upper Primary G4–G6, Junior Secondary G7–G9)
+For every subject, the curriculum guide provides: Strands → Sub-strands → Specific Learning Outcomes (SLOs) → Suggested Learning Experiences → Key Inquiry Questions.
+*Each lesson = one SLO (or a clearly labelled sub-SLO if the guide groups them).* 
+Always surface the Strand/Sub-strand name in the script headings (not in narration body).
+Use the “General Learning Outcomes” at the front of each subject guide to steer tone and emphasis.
+
+Example enforcement — Grade 1 English:
+- Strand 1.0 Greetings
+- Sub-strand 1.1 Listening and Speaking → 1.1.1 Pronunciation and vocabulary
+  SLO mapping to lessons:
+    a) recognise letters/sounds a–h → Lesson 1
+    b) pronounce target sounds accurately → Lesson 2
+    c) use greeting vocabulary in conversations → Lesson 3
+    d) realise importance of greetings in diverse contexts → Lesson 4
+Include the suggested learning experiences (listen to oral texts, take turns pronouncing /aː/, /æ/, /ɜː/, /ɑː/, /ə/, consonant sounds, match sounds to letters, talk about greeting pictures, watch greeting videos, use non-verbal cues) as concrete/representational activities within Parts 1–2.
+
+General rule for CBC:
+- Always title the parts normally; inside narration show activities, but do not include SLO codes; keep codes only in filenames/project_name.
+- Use Kenyan/African contexts and school/home/market/farm settings for real-life reasoning.
+
+C) 8-4-4 (Form 3 & Form 4 only)
+Start each uploaded subject at the official entry points:
+
+Form 3 starting anchors:
+It should start from these topics
+- Mathematics: 2.14.0 Statistics I → (mean, median, mode, range, quartiles, variance, standard deviation) then 2.14.3 Probability, 2.15.0 Vectors.
+- Physics: 12.0.0 Cells & Simple Circuits → Magnetism → Turning Effect of a Force → Centre of Gravity → Reflection at Curved Surfaces.
+- Biology: 9.0.0 Respiration → Excretion & Homeostasis → Coordination → Genetics → Evolution.
+- Geography: 5.0.0 Minerals & Rocks → Internal → External → Weathering & Mass Wasting.
+- Computer Studies: 6.0.0 Data Representation → number systems, logic gates, data organization, etc.
+- Agriculture: 6.0.0 Livestock Production or Soil Fertility II (Inorganic Fertilizers) as per guide.
+  • Lesson 1 (example provided by user for F3 Agriculture): 6.2.1 Essential elements (macro: C, H, O; NPK; Ca, Mg; S; roles; deficiency symptoms) 
+  • Lesson 2: 6.2.2 Inorganic fertilizers (classification, identification, properties, application methods, rates)
+- Chemistry: 9.0.0 Acids, Bases & Salts → Mole Concept → Electrochemistry → Water Hardness.
+- History & Government: 6.0.0 European Invasion of Africa → Colonial Administration in Kenya → Nationalism → World Wars.
+- Business Studies: 6.0.0 The Office → communication, filing systems → marketing, insurance, finance.
+
+Example enforcment -form 3 mathematics 
+2.14.0 STATISTICS AND PROBABILITY
+2.14.1 STATISTICS (1)
+(i) Specific Objectives
+The learner should be able to:
+(a) define statistics;
+(b) collect and organise data;
+(c) draw a frequency distribution table;
+(d) group data into reasonable classes;
+(e) calculate measures of central tendency;
+(f) represent data in form of linegraphs, bargraphs, pie-charts, pictogram,
+histogram and frequency polygons;
+(g) interpret data from real life situations.
+(ii) Content
+(a) Definition of statistics-lesson 1
+(b) Collection and organization of data
+-lesson 2
+(c) Frequency distribution tables (for grouped and ungrouped data)-lesson 3
+
+LESSON COUNT POLICY
+- For every subject: 
+  • MIN = 20 if the guide has at least 20 topics/SLOs.
+  • TARGET = 40 if the guide permits (stop at 36 if only that many exist; otherwise continue to 40).
+  • MAX = 60; never exceed the number of topics/SLOs available.
+- If the guide has fewer items than the target, stop at the last valid item and log: NOTICE: SHORT COURSE.
+
+VALIDATION (must pass before saving)
+- Part lengths in range.
+- ≥1 illustration cue per part.
+- Opening line and closing line exact.
+- C.R.A. structure correct for the level.
+- No objective code inside narration.
+- Kenyan/African context included naturally.
+
+EXECUTION
+1) Detect each subject’s next missing lesson index from combined outputs and logs.
+2) Read the guide for that subject; pick the next topic/SLO exactly in order.
+3) Generate script CSV row, notes/exercises row, and illustrations JSON chunk.
+4) Append to combined files atomically; update completed_lessons.log.
+5) Repeat until subject meets its lesson count policy or the guide ends.
+
+BEGIN NOW.
+
+Also i want this Goal:
+Generate all thousands StudySmart AI lesson scripts using DeepSeek (via OpenRouter API) in 10 parallel threads.
+
+Each thread should handle a different curriculum group and subject bundle as shown below, creating both JSON and CSV outputs per lesson, saved inside /output/ with a progress log in /logs/progress.json.
+
+Use asyncio + aiohttp for concurrency and include retry logic (3 attempts, 2-second delay) and auto-resume on restart.
+
+Base prompt for each lesson should include StudySmart AI Master Directive v7.2 (from /directives/studysmart_master_directive.txt) plus each curriculum’s topic text from /curriculum/.
+
+Use MAX_PARALLEL = 10 threads.
+Parallel division:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 PURPOSE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+The AI supervisor manages full curriculum generation across
+Cambridge, CBC, and 8-4-4 using 10 parallel threads.
+
+Each thread:
+- Watches its assigned curriculum folder.
+- Generates lesson scripts, notes, and illustrations automatically.
+- Maintains character limits (1600–1950 per part; 13 000–15 000 total).
+- Saves combined CSV/JSON outputs in the correct directory.
+- Updates completed_lessons.log after every success.
+- Retries failed lessons up to 4 times.
+- Sleeps 90 s between scan cycles.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚙️ THREAD MAP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1️⃣ *Cambridge Primary Y1–Y2*
+   - Subjects: English (First Lang / Second Lang / Literacy), Mathematics  
+   - Folder: /curriculum/cambridge_y1_y2/  
+   - Scripts per lesson: 4  
+
+2️⃣ *Cambridge Primary Y3–Y4*
+   - Subjects: Science, Computing (ICT / Digital Literacy)  
+   - Folder: /curriculum/cambridge_y3_y4/  
+   - Scripts per lesson: 4  
+
+3️⃣ *Cambridge Primary Y5–Y6*
+   - Subjects: English, Mathematics, Science, Computing (all remaining primary subjects)  
+   - Folder: /curriculum/cambridge_y5_y6/  
+   - Scripts per lesson: 4  
+
+4️⃣ *Cambridge Lower Secondary Y7–Y8*
+   - Subjects: English Language & Literature, Mathematics  
+   - Folder: /curriculum/cambridge_y7_y8/  
+   - Scripts per lesson: 8  
+
+5️⃣ *Cambridge Lower Secondary Y9*
+   - Subjects: Science (Combined), Computing  
+   - Folder: /curriculum/cambridge_y9/  
+   - Scripts per lesson: 8  
+
+6️⃣ *Cambridge Upper Secondary / IGCSE Y10–Y11*
+   - Subjects: English Language, English Literature, Mathematics, Biology, Chemistry, Physics,  
+     History, Geography, Economics, Business Studies, Accounting, ICT  
+   - Folder: /curriculum/cambridge_y10_y11/  
+   - Scripts per lesson: 8  
+
+7️⃣ *CBC Lower Primary (G1–G3)*
+   - Subjects: English, Mathematics  
+   - Folder: /curriculum/cbc_g1_g3/  
+   - Scripts per lesson: 4  
+
+8️⃣ *CBC Upper Primary (G4–G6)*
+   - Subjects: English, Mathematics, Science & Technology, Social Studies, Agriculture  
+   - Folder: /curriculum/cbc_g4_g6/  
+   - Scripts per lesson: 4  
+
+9️⃣ *CBC Junior Secondary (G7–G9)*
+   - Subjects: English, Mathematics, Integrated Science, Social Studies, Agriculture, Business Studies, Computer Science  
+   - Folder: /curriculum/cbc_g7_g9/  
+   - Scripts per lesson: 8  
+
+🔟 *8-4-4 Secondary (Form 3–4)*
+   - Subjects: English, Mathematics, Biology, Physics, Chemistry, History and Government, Geography, Business Studies, Agriculture, Computer Studies  
+   - Folder: /curriculum/844_form3_4/  
+   - Scripts per lesson: 8  
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 OUTPUT RULES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+After completing lessons in each thread:
+- Append validated rows to collective buffers.  
+- Save 3 combined files per curriculum cluster:
+  - {curriculum}_All_Scripts.csv
+  - {curriculum}_All_Notes_Exercises.csv
+  - {curriculum}_All_Illustrations.json
+- Preserve order (lesson 1 → last).
+- Include single header row per CSV; one "illustrations": [] array in JSON.
+- After save, print summary of total lessons completed.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧩 CHARACTER ENFORCEMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Each lesson:
+- 4 or 8 parts depending on thread.
+- 1600 – 1950 characters per part.
+- 13 000 – 15 000 characters total.
+- If any part < 1600 chars, expand with concept reinforcement.
+- If any part > 1950 chars, summarize and trim.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ RUN MODE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- Start all 10 threads simultaneously.  
+- Continuous loop; auto-resume after batch.  
+- Detect new .txt/.json inputs automatically.  
+- Report status every 90 s: “No pending files → Sleeping.”  
+- Stop safely with Ctrl + C.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Notes structure aftr each lesson
+Excellent — you’re 100% right ✅
+
+Each subject has its own natural structure for notes because of the way it’s taught and examined.
+Below is the master subject-specific note structure guide you can use in your StudySmart AI app so every subject’s notes feel natural and exam-ready across CBC, Cambridge, and 8-4-4.
+
+
+---
+
+🧭 1. GEOGRAPHY / SOCIAL STUDIES
+
+Structure Pattern:
+
+Topic Title
+→ Definition / Meaning
+→ Causes / Factors
+→ Effects / Problems
+→ Solutions / Remedies
+→ Importance / Advantages
+→ Disadvantages / Challenges
+→ Case Study / Example
+→ Summary Table / Diagram
+→ Quick Check (3 Qs)
+
+Example:
+
+Topic: Deforestation in Kenya
+Definition: ...
+Causes: ...
+Effects: ...
+Solutions: ...
+Example: Mau Forest
+
+
+---
+
+🕰️ 2. HISTORY & GOVERNMENT
+
+Structure Pattern:
+
+Topic Title
+→ Introduction / Background
+→ Causes / Reasons
+→ Course / Development
+→ Results / Effects / Consequences
+→ Importance / Significance
+→ Problems / Challenges
+→ Revision Questions (3–5)
+
+
+---
+
+🧪 3. CHEMISTRY / PHYSICS / BIOLOGY / SCIENCE
+
+Structure Pattern:
+
+Topic Title
+→ Aim / Objective
+→ Apparatus / Materials
+→ Procedure / Method
+→ Observation / Data
+→ Discussion / Explanation
+→ Conclusion
+→ Key Definitions
+→ Diagram / Table
+→ Practice Questions
+
+For theory lessons:
+
+Concept → Definition → Formula / Law → Example → Application → Diagram → Quiz
+
+
+---
+
+📐 4. MATHEMATICS
+
+Structure Pattern:
+
+Topic Title
+→ Concept / Rule
+→ Step-by-step Method
+→ Worked Example 1
+→ Worked Example 2
+→ Practice Exercise
+→ Common Mistakes
+→ Summary Formula Box
+→ Real-life Link (optional)
+
+
+---
+
+🗣️ 5. ENGLISH / KISWAHILI / LANGUAGES
+
+Structure Pattern:
+
+Topic Title
+→ Definition / Concept
+→ Rules / Grammar Patterns
+→ Examples / Sentences
+→ Exceptions / Notes
+→ Vocabulary List
+→ Practice Activity (fill, rewrite, match)
+→ Reading / Composition Task
+→ Self-Assessment
+
+
+---
+
+🌿 6. AGRICULTURE
+
+Structure Pattern:
+
+Topic Title
+→ Definition / Meaning
+→ Importance / Uses
+→ Conditions / Requirements
+→ Practices / Procedures / Steps
+→ Advantages
+→ Disadvantages / Limitations
+→ Problems & Solutions
+→ Table / Illustration
+→ Revision Questions
+
+
+---
+
+💼 7. BUSINESS STUDIES
+
+Structure Pattern:
+
+Topic Title
+→ Meaning / Definition
+→ Objectives / Importance
+→ Types / Forms
+→ Advantages
+→ Disadvantages
+→ Procedures / Steps
+→ Examples / Case
+→ Summary Notes
+→ KCSE/Checkpoint Questions
+
+
+---
+
+🧬 8. COMPUTER STUDIES / ICT / DIGITAL LITERACY
+
+Structure Pattern:
+
+Topic Title
+→ Definition / Concept
+→ Components / Parts
+→ Functions / Uses
+→ Procedures / Steps (with screenshots or icons)
+→ Advantages / Disadvantages
+→ Safety / Ethics
+→ Practice Task (simulate / label)
+→ Summary / Key Terms
+
+
+---
+
+💡 9. CRE / IRE (Religious Studies)
+
+Structure Pattern:
+
+Topic Title
+→ Introduction / Meaning
+→ Biblical / Quranic Reference
+→ Teachings / Lessons
+→ Importance / Relevance
+→ Moral Application
+→ Summary
+→ Reflection Question
+
+
+---
+
+🧠 10. LIFE SKILLS / GUIDANCE
+
+Structure Pattern:
+
+Topic Title
+→ Meaning
+→ Importance / Benefits
+→ Steps / Skills
+→ Challenges / Risks
+→ Ways to Overcome
+→ Activity / Scenario
+→ Reflection
+
+
+---
+
+🧍‍♂️ 11. CIVICS / CITIZENSHIP / SOCIAL EDUCATION & ETHICS
+
+Structure Pattern:
+
+Topic Title
+→ Definition
+→ Rights / Responsibilities
+→ Importance
+→ Challenges / Issues
+→ Solutions
+→ Discussion Questions
+
+
+---
+
+🖌️ 12. ART / MUSIC / CREATIVE SUBJECTS
+
+Structure Pattern:
+
+Topic Title
+→ Meaning / Inspiration
+→ Materials / Tools
+→ Steps / Process
+→ Example / Demonstration
+→ Evaluation / Reflection
+
+
+---
+
+📊 13. ECONOMICS
+
+Structure Pattern:
+
+Topic Title
+→ Definition
+→ Principles / Laws
+→ Graphs / Data Table
+→ Analysis / Explanation
+→ Advantages / Disadvantages
+→ Evaluation
+→ Practice Questions
+
+
+---
+
+🧭 14. GENERAL CBC LEARNER NOTE TEMPLATE (Grades 1–3)
+
+Simple visual style:
+
+Topic Title
+→ Picture / Icon
+→ Key Words
+→ Short Explanation (1–2 lines)
+→ Try This (Activity)
+→ What I Learnt ✅
+
+
+---
+
+💾 JSON VERSION FOR YOUR APP
+
+Here’s how you can store this format per subject for automation:
+
+{
+  "subject_note_structure": {
+    "Geography": ["Definition", "Causes", "Effects", "Solutions", "Advantages", "Disadvantages", "Case Study"],
+    "History": ["Introduction", "Causes", "Events", "Effects", "Importance"],
+    "Mathematics": ["Rule", "Method", "Examples", "Practice", "Common Mistakes", "Summary"],
+    "Science": ["Aim", "Apparatus", "Procedure", "Observation", "Conclusion", "Key Terms"],
+    "English": ["Concept", "Rules", "Examples", "Practice", "Composition Task"],
+    "Agriculture": ["Definition", "Importance", "Steps", "Advantages", "Disadvantages", "Problems & Solutions"],
+    "Business": ["Definition", "Types", "Advantages", "Disadvantages", "Examples"],
+    "Computer": ["Definition", "Components", "Functions", "Steps", "Advantages", "Safety", "Practice Task"],
+    "CRE": ["Meaning", "Biblical Reference", "Lessons", "Application"],
+    "Life Skills": ["Meaning", "Importance", "Skills", "Challenges", "Solutions"],
+    "Art": ["Meaning", "Tools", "Steps", "Evaluation"],
+    "Economics": ["Definition", "Principles", "Graphs", "Advantages", "Evaluation"]
+  }
+}
+
+
+---
