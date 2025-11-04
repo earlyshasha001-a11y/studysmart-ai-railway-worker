@@ -73,8 +73,10 @@ class RailwayController:
         query = """
         mutation ProjectCreate($input: ProjectCreateInput!) {
             projectCreate(input: $input) {
-                id
-                name
+                project {
+                    id
+                    name
+                }
             }
         }
         """
@@ -87,7 +89,7 @@ class RailwayController:
         
         try:
             data = self._execute_query(query, variables)
-            project = data.get("projectCreate", {})
+            project = data.get("projectCreate", {}).get("project", {})
             
             if project and project.get("id"):
                 self.project_id = project["id"]
@@ -135,8 +137,10 @@ class RailwayController:
         query = """
         mutation ServiceCreate($input: ServiceCreateInput!) {
             serviceCreate(input: $input) {
-                id
-                name
+                service {
+                    id
+                    name
+                }
             }
         }
         """
@@ -150,7 +154,7 @@ class RailwayController:
         
         try:
             data = self._execute_query(query, variables)
-            service = data.get("serviceCreate", {})
+            service = data.get("serviceCreate", {}).get("service", {})
             
             if service and service.get("id"):
                 self.service_id = service["id"]
