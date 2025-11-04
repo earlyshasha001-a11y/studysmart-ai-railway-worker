@@ -69,40 +69,71 @@ This project is a lightweight orchestration controller that manages StudySmart A
 ## Current Status
 ✅ Railway API connection established  
 ✅ OpenRouter API integration complete  
-✅ DeepSeek V3.1 lesson generation ready  
+✅ DeepSeek V3.1 lesson generation **RUNNING**  
 ✅ Curriculum loading system operational  
 ✅ Output management configured  
+✅ **ALL 6,182 LESSONS** loaded and processing
 
-## How to Use
+**System is now actively generating lessons!** 🚀
 
-### 1. Upload Curriculum Files
-Place these files in the `curriculum/` directory:
-- `MASTER_DIRECTIVE_v7.2.json` (or similar) - Your master directive
-- `Cambridge_Year10_Math_mapping.json` (example) - Your lesson mappings
+### Curriculum Files Loaded (54 files)
+- ✅ MASTER_DIRECTIVE_v7.2.json
+- ✅ 54 lesson mapping JSON files covering:
+  - Cambridge Curriculum (Years 1-11)
+  - CBC Curriculum (Grades 1-12)
+  - 8-4-4 Curriculum (Form 3-4)
 
-### 2. Run the Controller
-The controller runs automatically via the "StudySmart AI Controller" workflow.
-It will:
-- Load curriculum files
-- Connect to Railway (verify access)
-- Generate lessons using DeepSeek V3.1 via OpenRouter
-- Save output to `output/YYYY-MM-DD/`
+### Subjects Covered
+- Mathematics, English, Science (all levels)
+- Agriculture & Nutrition, Geography, History
+- Physics, Chemistry, Biology
+- Business Studies, Economics, ICT
+- Literature, Digital Literacy
+- Social Studies (all grades)
+
+## How It Works
+
+### 1. Curriculum Files (✅ Complete)
+All curriculum files are in the `curriculum/` directory:
+- `MASTER_DIRECTIVE_v7.2.json` - Complete lesson generation guidelines
+- 54 lesson mapping JSON files with 6,182 total lessons
+
+### 2. Lesson Generation (🔄 In Progress)
+The controller is currently running and:
+- Loading curriculum files from `curriculum/`
+- Connecting to Railway project "luminous-expression"
+- Generating lessons using DeepSeek V3.1 via OpenRouter
+- Processing in batches of 100 lessons
+- Saving output to `output/2025-11-04/`
 
 ### 3. Monitor Progress
-The console shows:
-- Real-time progress for each lesson
+Check the workflow console to see:
+- Real-time progress for each lesson being generated
+- Batch processing status (100 lessons per batch)
 - Success/failure counts
 - Output file locations
 
 ### 4. Review Generated Lessons
-Check `output/YYYY-MM-DD/` for:
+Generated lessons are saved to `output/YYYY-MM-DD/`:
 - Individual lesson JSON files
 - Each contains: lesson data, generated script, metadata
+- Following Master Directive v7.2 specifications
+
+## Generated Lesson Specifications
+
+Each lesson follows Master Directive v7.2:
+- **Lower Primary** (Years 1-6, Grades 1-6): 4 parts, 6,400-7,800 characters
+- **Upper/Secondary** (Years 7-11, Grades 7-12, Form 3-4): 8 parts, 12,800-15,600 characters
+- Teacher rotation (unique AI teacher per grade/year/form)
+- C.R.A. methodology (Concrete → Representational → Abstract)
+- Illustration requirements (≥1 per part, 6-10 total)
+- OCR-friendly notes and exercises
+- British grammar with Kenyan/African context
 
 ## Next Steps
-1. ✅ Upload your MASTER_DIRECTIVE JSON to curriculum/
-2. ✅ Upload your lesson mapping JSON(s) to curriculum/
-3. ✅ Run the controller and watch lessons generate
-4. Future: Add Supabase storage integration
-5. Future: Add Railway worker deployment for heavy batches
+1. ✅ Curriculum files uploaded and loaded
+2. ✅ Controller running and generating lessons
+3. 🔄 Monitor lesson generation progress
+4. Future: Add Supabase storage integration for generated lessons
+5. Future: Scale to Railway worker deployment for massive batches
 6. Future: Add Cloudflare R2 for audio/video assets
