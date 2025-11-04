@@ -2,7 +2,10 @@ import os
 import sys
 import requests
 import time
-from typing import Optional, Dict, Any
+import json
+from datetime import datetime
+from pathlib import Path
+from typing import Optional, Dict, Any, List
 
 
 class RailwayController:
@@ -499,50 +502,251 @@ class RailwayController:
         return True
 
 
+class StudySmartOrchestrator:
+    """Orchestrates StudySmart AI lesson generation using DeepSeek V3.1 via OpenRouter"""
+    
+    def __init__(self, openrouter_key: str):
+        self.openrouter_key = openrouter_key
+        self.openrouter_url = "https://openrouter.ai/api/v1/chat/completions"
+        self.model = "deepseek/deepseek-chat"
+        self.curriculum_dir = Path("curriculum")
+        self.output_dir = Path("output")
+        self.master_directive = None
+        self.lesson_mappings = []
+        
+    def load_curriculum_files(self) -> bool:
+        """Load master directive and lesson mappings from curriculum directory"""
+        print("\n📂 Loading curriculum files...")
+        
+        if not self.curriculum_dir.exists():
+            print("✗ Curriculum directory not found")
+            return False
+        
+        json_files = list(self.curriculum_dir.glob("*.json"))
+        
+        if not json_files:
+            print("✗ No JSON files found in curriculum directory")
+            print("\n📝 Please upload:")
+            print("   1. MASTER_DIRECTIVE_v*.json")
+            print("   2. Your lesson mapping JSON files")
+            return False
+        
+        # Load master directive
+        for file_path in json_files:
+            if "MASTER_DIRECTIVE" in file_path.name.upper():
+                with open(file_path, 'r') as f:
+                    self.master_directive = json.load(f)
+                print(f"✓ Loaded master directive: {file_path.name}")
+            else:
+                with open(file_path, 'r') as f:
+                    mapping = json.load(f)
+                    self.lesson_mappings.append({
+                        "filename": file_path.name,
+                        "data": mapping
+                    })
+                print(f"✓ Loaded lesson mapping: {file_path.name}")
+        
+        if not self.master_directive:
+            print("⚠️  No master directive found (looking for MASTER_DIRECTIVE_*.json)")
+        
+        print(f"\n📊 Summary: {len(self.lesson_mappings)} lesson mapping(s) loaded")
+        return len(self.lesson_mappings) > 0
+    
+    def generate_lesson_script(self, lesson_data: Dict, directive: Optional[Dict] = None) -> Optional[str]:
+        """Generate a single lesson script using DeepSeek V3.1"""
+        headers = {
+            "Authorization": f"Bearer {self.openrouter_key}",
+            "Content-Type": "application/json",
+            "HTTP-Referer": "https://replit.com",
+            "X-Title": "StudySmart AI Controller"
+        }
+        
+        # Build prompt
+        prompt = "Generate a StudySmart AI lesson script following these requirements:\n\n"
+        
+        if directive or self.master_directive:
+            directive_text = json.dumps(directive or self.master_directive, indent=2)
+            prompt += f"MASTER DIRECTIVE:\n{directive_text}\n\n"
+        
+        prompt += f"LESSON DATA:\n{json.dumps(lesson_data, indent=2)}\n\n"
+        prompt += "Generate a complete lesson script (7,000-8,000 characters) following the StudySmart format."
+        
+        payload = {
+            "model": self.model,
+            "messages": [
+                {"role": "user", "content": prompt}
+            ],
+            "temperature": 0.7,
+            "max_tokens": 8192
+        }
+        
+        try:
+            response = requests.post(
+                self.openrouter_url,
+                headers=headers,
+                json=payload,
+                timeout=120
+            )
+            
+            if response.status_code != 200:
+                print(f"✗ OpenRouter API error: {response.status_code}")
+                return None
+            
+            result = response.json()
+            lesson_script = result['choices'][0]['message']['content']
+            return lesson_script
+            
+        except Exception as e:
+            print(f"✗ Lesson generation failed: {str(e)}")
+            return None
+    
+    def process_batch(self, mapping_file: Dict, max_lessons: int = 100) -> Dict[str, Any]:
+        """Process a batch of lessons from a mapping file"""
+        filename = mapping_file["filename"]
+        data = mapping_file["data"]
+        
+        print(f"\n{'='*60}")
+        print(f"Processing: {filename}")
+        print(f"{'='*60}")
+        
+        lessons = data.get("lessons", [])
+        total = min(len(lessons), max_lessons)
+        
+        print(f"📊 Batch size: {total} lessons")
+        
+        # Create output directory for this batch
+        today = datetime.now().strftime("%Y-%m-%d")
+        output_path = self.output_dir / today / filename.replace(".json", "")
+        output_path.mkdir(parents=True, exist_ok=True)
+        
+        results = {
+            "filename": filename,
+            "total": total,
+            "successful": 0,
+            "failed": 0,
+            "output_dir": str(output_path)
+        }
+        
+        for i, lesson in enumerate(lessons[:total], 1):
+            lesson_id = lesson.get("lesson_id", f"L{i:03d}")
+            print(f"\n[{i}/{total}] Generating lesson: {lesson_id}")
+            
+            script = self.generate_lesson_script(lesson)
+            
+            if script:
+                # Save lesson script
+                output_file = output_path / f"{lesson_id}.json"
+                lesson_output = {
+                    "lesson_id": lesson_id,
+                    "generated_at": datetime.now().isoformat(),
+                    "source_mapping": filename,
+                    "lesson_data": lesson,
+                    "script": script
+                }
+                
+                with open(output_file, 'w') as f:
+                    json.dump(lesson_output, f, indent=2)
+                
+                results["successful"] += 1
+                print(f"✓ Saved: {output_file}")
+            else:
+                results["failed"] += 1
+                print(f"✗ Failed to generate lesson {lesson_id}")
+            
+            # Progress update every lesson
+            print(f"Progress: {results['successful']}/{total} successful, {results['failed']} failed")
+            time.sleep(1)  # Rate limiting
+        
+        return results
+    
+    def run_generation(self, max_lessons_per_batch: int = 100) -> bool:
+        """Main lesson generation workflow"""
+        print("\n" + "="*60)
+        print("  StudySmart AI - DeepSeek V3.1 Lesson Generation")
+        print("="*60)
+        
+        if not self.load_curriculum_files():
+            return False
+        
+        all_results = []
+        
+        for mapping in self.lesson_mappings:
+            results = self.process_batch(mapping, max_lessons_per_batch)
+            all_results.append(results)
+            
+            print(f"\n✓ Batch complete: {results['successful']}/{results['total']} successful")
+        
+        # Final summary
+        print("\n" + "="*60)
+        print("  ✅ DeepSeek V3.1 Batch Complete")
+        print("="*60)
+        
+        total_successful = sum(r["successful"] for r in all_results)
+        total_failed = sum(r["failed"] for r in all_results)
+        
+        print(f"\n📊 Total lessons generated: {total_successful}")
+        print(f"⚠️  Failed: {total_failed}")
+        
+        for result in all_results:
+            print(f"\n  📁 {result['filename']}")
+            print(f"     Output: {result['output_dir']}")
+            print(f"     Success: {result['successful']}/{result['total']}")
+        
+        return True
+
+
 def main():
-    """Main entry point"""
-    # Check for project token first (preferred method)
+    """Main entry point - StudySmart AI Orchestration Controller"""
+    print("\n" + "="*60)
+    print("  StudySmart AI - Railway Orchestration Controller")
+    print("="*60 + "\n")
+    
+    # Check for Railway connection first
     project_token = os.getenv("RAILWAY_PROJECT_TOKEN")
     project_id = os.getenv("RAILWAY_PROJECT_ID")
     
     if project_token and project_id:
         print("✓ Using RAILWAY_PROJECT_TOKEN (project-specific token)")
         controller = RailwayController(project_token, project_id=project_id, use_project_token=True)
-    else:
-        # Fallback to account token
-        account_token = os.getenv("RAILWAY_API_KEY2") or os.getenv("RAILWAY_API_KEY")
         
-        if not account_token:
-            print("\n❌ ERROR: No Railway token found in environment")
-            print("\n📝 Option 1 - Project Token (Recommended):")
-            print("   1. Go to your Railway project settings")
-            print("   2. Go to 'Tokens' tab")
-            print("   3. Create a new project token")
-            print("   4. Add to Replit Secrets:")
-            print("      RAILWAY_PROJECT_TOKEN: (your token)")
-            print("      RAILWAY_PROJECT_ID: (your project ID)")
-            print("\n📝 Option 2 - Account Token:")
-            print("   1. Go to https://railway.app/account/tokens")
-            print("   2. Create a new account token")
-            print("   3. Add to Secrets as RAILWAY_API_KEY")
-            sys.exit(1)
-        
-        if os.getenv("RAILWAY_API_KEY2"):
-            print("✓ Using RAILWAY_API_KEY2")
+        # Test Railway connection
+        print("\n🔗 Testing Railway connection...")
+        if controller.test_connection():
+            print("✓ Railway connection verified")
         else:
-            print("✓ Using RAILWAY_API_KEY")
-        
-        controller = RailwayController(account_token, project_id=project_id)
-        
-        workspace_id = os.getenv("RAILWAY_WORKSPACE_ID")
-        if workspace_id:
-            controller.workspace_id = workspace_id
-            print(f"✓ Loaded workspace ID from secrets")
+            print("✗ Railway connection failed")
+            sys.exit(1)
+    else:
+        print("⚠️  Railway tokens not configured (optional for local generation)")
+        print("   Add RAILWAY_PROJECT_TOKEN and RAILWAY_PROJECT_ID to enable Railway deployment")
     
-    success = controller.run_deployment()
+    # Check for OpenRouter API key
+    openrouter_key = os.getenv("OPENROUTER_API_KEY")
+    
+    if not openrouter_key:
+        print("\n❌ ERROR: OPENROUTER_API_KEY not found")
+        print("\n📝 To enable StudySmart AI lesson generation:")
+        print("   1. Go to https://openrouter.ai/keys")
+        print("   2. Create an API key")
+        print("   3. Add to Replit Secrets:")
+        print("      Key: OPENROUTER_API_KEY")
+        print("      Value: (your OpenRouter API key)")
+        sys.exit(1)
+    
+    print("✓ OpenRouter API key found")
+    
+    # Initialize StudySmart Orchestrator
+    orchestrator = StudySmartOrchestrator(openrouter_key)
+    
+    # Run lesson generation
+    print("\n🚀 Starting StudySmart AI lesson generation...")
+    success = orchestrator.run_generation(max_lessons_per_batch=100)
     
     if not success:
+        print("\n❌ Lesson generation failed")
         sys.exit(1)
+    
+    print("\n✅ All operations completed successfully!")
 
 
 if __name__ == "__main__":

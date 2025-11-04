@@ -15,10 +15,10 @@ author = "agent"
 
 [[workflows.workflow.tasks]]
 task = "workflow.run"
-args = "Railway Controller"
+args = "StudySmart AI Controller"
 
 [[workflows.workflow]]
-name = "Railway Controller"
+name = "StudySmart AI Controller"
 author = "agent"
 
 [[workflows.workflow.tasks]]
