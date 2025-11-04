@@ -74,6 +74,16 @@ class StudySmartWorker:
     def call_deepseek(self, lesson_data: Dict, directive: Dict, num_parts: int, max_retries: int = 3) -> Optional[Dict]:
         """Call DeepSeek V3.1 with retry logic"""
         
+        # Extract relevant directive rules
+        lesson_structure = directive.get("lesson_structure", {})
+        if num_parts == 4:
+            structure_info = lesson_structure.get("lower_primary", {})
+        else:
+            structure_info = lesson_structure.get("upper_secondary", {})
+        
+        part_names = structure_info.get("flow", [])
+        teacher_rotation = directive.get("teacher_rotation", {}).get("assignments", {})
+        
         for attempt in range(1, max_retries + 1):
             if attempt > 1:
                 print(f"  🔄 Retry attempt {attempt}/{max_retries}...")
@@ -87,56 +97,64 @@ class StudySmartWorker:
                     "X-Title": "StudySmart AI Worker"
                 }
                 
-                prompt = f"""Generate a complete StudySmart AI lesson with FULL-LENGTH content.
+                # Get grade/year/form to determine teacher
+                grade_year_form = lesson_data.get("Grade", lesson_data.get("Year", lesson_data.get("Form", "")))
+                subject = lesson_data.get("Subject", "")
+                lesson_num = lesson_data.get("Lesson Number", "")
+                topic = lesson_data.get("LessonTopic", "")
+                
+                prompt = f"""TASK: Generate educational content for StudySmart AI
 
-🚨 ABSOLUTE REQUIREMENT - LENGTH VALIDATION 🚨
-MINIMUM: 1600 characters per part (approximately 250 words)
-MAXIMUM: 1950 characters per part (approximately 300 words)
-TARGET: 1750 characters per part (approximately 270 words)
+⚠️ CRITICAL LENGTH REQUIREMENT ⚠️
+Each script part MUST be 1600-1950 characters (250-300 words).
+Content below 1600 characters will be REJECTED automatically.
 
-YOU MUST COUNT: Each script part needs ~250-300 WORDS of actual educational content.
+📐 HOW TO WRITE 1750 CHARACTERS (Target Length):
+Write approximately 12-15 full sentences covering:
+- Opening greeting (1-2 sentences)
+- Topic introduction with context (2-3 sentences)
+- Main explanation with examples (5-7 sentences)
+- Real-world application (2-3 sentences)
+- Reinforcement/summary (1-2 sentences)
 
-EXAMPLE OF PROPER LENGTH (1650 characters):
-"Welcome to our lesson on fractions! Today we will explore how to add fractions with different denominators. This is a fundamental skill in mathematics that you will use throughout your academic journey and in everyday life. Imagine you have half a pizza and your friend has a third of another pizza. How much pizza do you have together? To answer this question, we need to understand how fractions work. A fraction consists of two parts: the numerator, which is the top number, and the denominator, which is the bottom number. The denominator tells us how many equal parts something is divided into, while the numerator tells us how many of those parts we have. When we add fractions with the same denominator, like one-fifth plus two-fifths, we simply add the numerators and keep the denominator the same, giving us three-fifths. However, when the denominators are different, like one-half plus one-third, we must find a common denominator. A common denominator is a number that both denominators can divide into evenly. The easiest way to find a common denominator is to multiply the two denominators together. For example, two multiplied by three equals six, so six becomes our common denominator. Next, we convert each fraction to an equivalent fraction with the denominator of six. To convert one-half to sixths, we multiply both the numerator and denominator by three, giving us three-sixths. To convert one-third to sixths, we multiply both the numerator and denominator by two, giving us two-sixths. Now that both fractions have the same denominator, we can add the numerators: three plus two equals five. Our answer is five-sixths. Let us practice this method with another example to ensure you understand the process completely and can apply it confidently."
+EXAMPLE - Notice the LENGTH (1650 chars):
+"Hello learners. I am Sarah Johnson from StudySmart AI. This is Grade one Mathematics, Lesson three. Today we will learn about counting to ten. In our previous lesson, we learned about recognizing numbers from one to five. Now we will extend our knowledge to count all the way to ten, which is an important skill you will use every single day of your life. Let us begin our journey with numbers. When we count, we say the number names in order: one, two, three, four, five, six, seven, eight, nine, and ten. Each number represents a specific quantity. For example, if I show you one pencil, you say 'one'. If I show you two pencils, you say 'two'. Here is an illustration of ten colorful pencils arranged in a row from left to right. Notice how each pencil is different, but we can count them all. We start from the left and point to each pencil as we count: one, two, three, four, five, six, seven, eight, nine, ten. Let me give you another example using something you see every day. Imagine you have fingers on your hands. If you hold up all your fingers, you have ten fingers total! Five on your left hand and five on your right hand. When you add five plus five together, you get ten. This is why ten is such a special number. You can use your fingers to help you count whenever you need to. Now let us practice counting different objects. Here is an illustration of ten bright red apples on a table. Can you imagine counting them one by one? You would say: one apple, two apples, three apples, four apples, five apples, six apples, seven apples, eight apples, nine apples, ten apples. Well done!"
 
-WRITING INSTRUCTIONS - EXPAND EVERYTHING:
-1. Start with a welcoming introduction (3-4 sentences)
-2. Explain the core concept thoroughly with context (5-6 sentences)
-3. Provide detailed step-by-step examples (6-8 sentences)
-4. Include real-world applications and scenarios (3-4 sentences)
-5. Add reinforcement and practice guidance (2-3 sentences)
-6. Use transitional phrases to connect ideas smoothly
-7. Write in complete, well-developed paragraphs
-8. DO NOT abbreviate or summarize - EXPAND and ELABORATE
+LESSON INFORMATION:
+Subject: {subject}
+Level: {grade_year_form}
+Lesson {lesson_num}: {topic}
+Learning Objective: {lesson_data.get('LessonObjective', '')}
 
-LESSON DATA:
-{json.dumps(lesson_data, indent=2)}
+STRUCTURE - You must create {num_parts} parts following this sequence:
+{chr(10).join(f"{i+1}. {part_names[i] if i < len(part_names) else f'Part {i+1}'}" for i in range(num_parts))}
 
-MASTER DIRECTIVE RULES:
-{json.dumps(directive, indent=2)}
+CONTENT GUIDELINES:
+- Use natural spoken English (British/Kenyan style)
+- Write numbers as words (one, two, ten) NOT numerals (1, 2, 10)
+- No mathematical symbols (write "plus" not "+", "equals" not "=")
+- Each part needs 1600-1950 characters minimum
+- Include 6-10 illustrations total (at least 1 per part)
+- Notes & exercises: 1600-1950 characters (bulleted notes + 8-10 exercises)
 
-STRUCTURE REQUIREMENTS:
-- EXACTLY {num_parts} script parts (each 1600-1950 characters)
-- EXACTLY 1 notes_exercises field (1600-1950 characters)
-- At least {num_parts} illustrations
-
-OUTPUT AS JSON:
+OUTPUT FORMAT (JSON only):
 {{
   "script_parts": [
-    {{"heading": "Part 1", "content": "WRITE 250-300 WORDS OF DETAILED EDUCATIONAL CONTENT HERE"}},
-    {{"heading": "Part 2", "content": "WRITE 250-300 WORDS OF DETAILED EDUCATIONAL CONTENT HERE"}},
-    ... (continue for all {num_parts} parts)
+    {{"heading": "{part_names[0] if len(part_names) > 0 else 'Part 1'}", "content": "1600-1950 character detailed narration"}},
+    {{"heading": "{part_names[1] if len(part_names) > 1 else 'Part 2'}", "content": "1600-1950 character detailed narration"}},
+    {"..." if num_parts > 2 else ""}
+    {{"heading": "{part_names[num_parts-1] if len(part_names) >= num_parts else f'Part {num_parts}'}", "content": "1600-1950 character detailed narration"}}
   ],
-  "notes_exercises": "WRITE 250-300 WORDS of comprehensive notes and exercises",
+  "notes_exercises": "1600-1950 characters with bulleted notes and 8-10 practice exercises",
   "illustrations": [
-    {{"illustration_number": 1, "scene_description": "detailed description", "elements": ["element1", "element2"], "part_association": 1}},
-    ... (minimum {num_parts} illustrations)
+    {{"illustration_number": 1, "scene_description": "Clear description of visual", "elements": ["object1", "object2"], "part_association": 1}},
+    ... (6-10 total illustrations)
   ]
 }}
 
-⚠️  VALIDATION WILL REJECT CONTENT SHORTER THAN 1600 CHARACTERS PER PART ⚠️
+⚠️ WRITE LONG, DETAILED CONTENT - Each part needs ~270 words (1750 chars target). Short content FAILS validation.
 
-Write LONG, THOROUGH, COMPREHENSIVE content. Return ONLY the JSON."""
+Return ONLY the JSON object."""
                 
                 system_message = """You are an expert educational content writer. You MUST generate LONG, DETAILED content that meets EXACT length requirements. 
 

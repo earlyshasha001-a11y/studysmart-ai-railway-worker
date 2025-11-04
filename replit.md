@@ -21,11 +21,14 @@ This project is a **lightweight orchestration controller** on Replit that manage
 - Auto-shutdown Railway workers after completion
 
 ## Recent Changes
-- **2025-11-04**: StudySmart AI Orchestration System - PROMPT OPTIMIZED
-  - ✅ Added system message with strict length requirements
-  - ✅ Enhanced prompt with word count guidance (250-300 words)
-  - ✅ Increased temperature to 0.8 for more expansive responses
-  - ✅ Added detailed writing instructions (expand, elaborate, don't abbreviate)
+- **2025-11-04**: StudySmart AI Orchestration System - DIRECTIVE-AWARE PROMPT
+  - ✅ Intelligent directive extraction (part names, structure, teacher rotation)
+  - ✅ Realistic StudySmart AI example (1650 chars) instead of generic content
+  - ✅ Clear formula: 12-15 sentences = 1750 characters (target length)
+  - ✅ Removed overwhelming JSON dump - focused, streamlined prompt
+  - ✅ Uses actual lesson data (subject, grade, topic) for context
+  - ✅ System message + enhanced user prompt
+  - ✅ Temperature: 0.8 for expansive responses
   - ✅ Railway HTTP API integration complete
   - ✅ DeepSeek V3.1 integration via OpenRouter
   - ✅ Curriculum file loading system (54 mapping files, 6,180 lessons)
