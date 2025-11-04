@@ -422,15 +422,16 @@ class RailwayController:
         if self.use_project_token:
             print(f"\n✓ Using existing project: {self.project_id}")
             print("\n📋 Project Details:")
-            project_info = self.get_project_info(self.project_id)
-            if project_info:
-                print(f"  Name: {project_info.get('name')}")
-                environments = project_info.get('environments', {}).get('edges', [])
-                if environments:
-                    print(f"  Environments:")
-                    for env_edge in environments:
-                        env = env_edge.get('node', {})
-                        print(f"    - {env.get('name')} (ID: {env.get('id')})")
+            if self.project_id:
+                project_info = self.get_project_info(self.project_id)
+                if project_info:
+                    print(f"  Name: {project_info.get('name')}")
+                    environments = project_info.get('environments', {}).get('edges', [])
+                    if environments:
+                        print(f"  Environments:")
+                        for env_edge in environments:
+                            env = env_edge.get('node', {})
+                            print(f"    - {env.get('name')} (ID: {env.get('id')})")
             return True
         
         self.list_workspaces()
