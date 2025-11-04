@@ -11,6 +11,11 @@ class ReplitController:
     
     def __init__(self):
         self.railway_worker_url = os.getenv("RAILWAY_WORKER_URL", "")
+        
+        # Add https:// if missing
+        if self.railway_worker_url and not self.railway_worker_url.startswith(("http://", "https://")):
+            self.railway_worker_url = f"https://{self.railway_worker_url}"
+        
         if not self.railway_worker_url:
             print("⚠️  RAILWAY_WORKER_URL not set - manual configuration required")
     
@@ -203,8 +208,28 @@ if __name__ == "__main__":
     max_lessons = 100
     
     if len(sys.argv) > 1:
-        max_mappings = int(sys.argv[1])
-    if len(sys.argv) > 2:
-        max_lessons = int(sys.argv[2])
+        # Handle test mode
+        if sys.argv[1].lower() in ["test", "demo", "trial"]:
+            print("🧪 Running in TEST MODE")
+            print("   Processing: 1 mapping, 10 lessons\n")
+            max_mappings = 1
+            max_lessons = 10
+        else:
+            try:
+                max_mappings = int(sys.argv[1])
+            except ValueError:
+                print(f"❌ Invalid argument: '{sys.argv[1]}'")
+                print("\nUsage:")
+                print("  python replit_controller.py                    # Full run (54 mappings, 100 lessons each)")
+                print("  python replit_controller.py test               # Test mode (1 mapping, 10 lessons)")
+                print("  python replit_controller.py <mappings> <lessons>  # Custom (e.g., 5 50)")
+                sys.exit(1)
+    
+    if len(sys.argv) > 2 and sys.argv[1].lower() not in ["test", "demo", "trial"]:
+        try:
+            max_lessons = int(sys.argv[2])
+        except ValueError:
+            print(f"❌ Invalid lessons argument: '{sys.argv[2]}'")
+            sys.exit(1)
     
     controller.run(max_mappings=max_mappings, max_lessons_per_mapping=max_lessons)
