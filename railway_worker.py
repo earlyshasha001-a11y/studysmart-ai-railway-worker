@@ -89,9 +89,20 @@ class StudySmartWorker:
                 
                 prompt = f"""Generate StudySmart AI lesson following Master Directive v7.2.
 
-MANDATORY STRUCTURE:
-• EXACTLY {num_parts} script parts - EACH 1600-1950 chars
-• EXACTLY ONE notes_exercises field - 1600-1950 chars TOTAL
+⚠️  CRITICAL: CHARACTER COUNT REQUIREMENT ⚠️
+Each script part MUST be 1600-1950 characters long.
+Notes_exercises MUST be 1600-1950 characters long.
+
+WHAT 1650 CHARACTERS LOOKS LIKE (EXAMPLE):
+"Welcome to our lesson on fractions! Today we will explore how to add fractions with different denominators. This is a fundamental skill in mathematics that you will use throughout your academic journey and in everyday life. Imagine you have half a pizza and your friend has a third of another pizza. How much pizza do you have together? To answer this question, we need to understand how fractions work. A fraction consists of two parts: the numerator, which is the top number, and the denominator, which is the bottom number. The denominator tells us how many equal parts something is divided into, while the numerator tells us how many of those parts we have. When we add fractions with the same denominator, like one-fifth plus two-fifths, we simply add the numerators and keep the denominator the same, giving us three-fifths. However, when the denominators are different, like one-half plus one-third, we must find a common denominator. A common denominator is a number that both denominators can divide into evenly. The easiest way to find a common denominator is to multiply the two denominators together. For example, two multiplied by three equals six, so six becomes our common denominator. Next, we convert each fraction to an equivalent fraction with the denominator of six. To convert one-half to sixths, we multiply both the numerator and denominator by three, giving us three-sixths. To convert one-third to sixths, we multiply both the numerator and denominator by two, giving us two-sixths. Now that both fractions have the same denominator, we can add the numerators: three plus two equals five. Our answer is five-sixths. Let us practice this method with another example to ensure you understand the process completely and can apply it confidently." [This example is approximately 1650 characters - YOUR CONTENT MUST BE THIS LONG OR LONGER]
+
+MANDATORY REQUIREMENTS:
+• Write DETAILED, COMPREHENSIVE content - NOT brief summaries
+• Each script part: 1600-1950 characters (like the example above)
+• Notes_exercises: 1600-1950 characters TOTAL
+• DO NOT write short content - it will be REJECTED
+• Include thorough explanations, examples, and context
+• EXACTLY {num_parts} script parts
 • At least {num_parts} illustrations
 
 MASTER DIRECTIVE:
@@ -103,15 +114,18 @@ LESSON DATA:
 OUTPUT FORMAT (JSON only):
 {{
   "script_parts": [
-    {{"heading": "Part 1", "content": "1600-1950 char content..."}},
-    ... ({num_parts} parts total)
+    {{"heading": "Part 1", "content": "LONG DETAILED CONTENT HERE - 1600-1950 characters"}},
+    {{"heading": "Part 2", "content": "LONG DETAILED CONTENT HERE - 1600-1950 characters"}},
+    ... ({num_parts} parts total - each 1600-1950 chars)
   ],
-  "notes_exercises": "Single 1600-1950 char text with notes and exercises",
+  "notes_exercises": "COMPREHENSIVE notes and exercises - 1600-1950 characters TOTAL",
   "illustrations": [
     {{"illustration_number": 1, "scene_description": "...", "elements": [...], "part_association": 1}},
     ... ({num_parts}+ illustrations)
   ]
 }}
+
+⚠️  REMEMBER: Each script part MUST be 1600-1950 chars (as shown in example). Short content will FAIL validation.
 
 Return ONLY JSON."""
                 
