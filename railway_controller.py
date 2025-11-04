@@ -8,16 +8,26 @@ from typing import Optional, Dict, Any
 class RailwayController:
     """Simple Railway API automation controller"""
     
-    def __init__(self, api_key: str):
+    def __init__(self, api_key: str, project_id: Optional[str] = None, use_project_token: bool = False):
         self.api_key = api_key
-        self.base_url = "https://backboard.railway.app/graphql/v2"
-        self.headers = {
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json"
-        }
+        self.base_url = "https://backboard.railway.com/graphql/v2"
+        
+        # Support both account tokens and project tokens
+        if use_project_token:
+            self.headers = {
+                "Project-Access-Token": api_key,
+                "Content-Type": "application/json"
+            }
+        else:
+            self.headers = {
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json"
+            }
+        
         self.workspace_id: Optional[str] = None
-        self.project_id: Optional[str] = None
+        self.project_id: Optional[str] = project_id
         self.service_id: Optional[str] = None
+        self.use_project_token = use_project_token
     
     def _execute_query(self, query: str, variables: Optional[Dict] = None) -> Dict[Any, Any]:
         """Execute GraphQL query against Railway API"""
@@ -165,41 +175,66 @@ class RailwayController:
     
     def test_connection(self) -> bool:
         """Test Railway API connection"""
-        query = """
-        query {
-            me {
-                id
-                name
-                email
-            }
-        }
-        """
-        
-        try:
-            data = self._execute_query(query)
-            user = data.get("me", {})
-            
-            if user:
-                print(f"✓ Successfully connected to Railway API")
-                print(f"  User: {user.get('name', 'N/A')} ({user.get('email', 'N/A')})")
-                return True
-            else:
-                print("✗ Failed to authenticate with Railway API")
+        if self.use_project_token:
+            # For project tokens, test by querying the project
+            if not self.project_id:
+                print("✗ Project ID required for project token")
                 return False
-        except Exception as e:
-            error_str = str(e)
-            print(f"✗ Connection test failed: {error_str}")
             
-            if "Not Authorized" in error_str:
-                print("\n⚠️  Token Authorization Issue:")
-                print("   Your token might be a Team or Project token.")
-                print("   Please create an Account token:")
-                print("   1. Go to: https://railway.app/account/tokens")
-                print("   2. Click 'Create New Token'")
-                print("   3. Leave 'Team' dropdown EMPTY")
-                print("   4. Copy the token and update RAILWAY_API_KEY in Secrets")
+            query = """
+            query GetProject($projectId: String!) {
+                project(id: $projectId) {
+                    id
+                    name
+                }
+            }
+            """
             
-            return False
+            try:
+                data = self._execute_query(query, {"projectId": self.project_id})
+                project = data.get("project", {})
+                
+                if project and project.get("id"):
+                    print(f"✓ Successfully connected to Railway API")
+                    print(f"  Project: {project.get('name')} (ID: {project.get('id')})")
+                    return True
+                else:
+                    print("✗ Failed to access project with this token")
+                    return False
+            except Exception as e:
+                print(f"✗ Connection test failed: {str(e)}")
+                return False
+        else:
+            # For account tokens, query user info
+            query = """
+            query {
+                me {
+                    id
+                    name
+                    email
+                }
+            }
+            """
+            
+            try:
+                data = self._execute_query(query)
+                user = data.get("me", {})
+                
+                if user:
+                    print(f"✓ Successfully connected to Railway API")
+                    print(f"  User: {user.get('name', 'N/A')} ({user.get('email', 'N/A')})")
+                    return True
+                else:
+                    print("✗ Failed to authenticate with Railway API")
+                    return False
+            except Exception as e:
+                error_str = str(e)
+                print(f"✗ Connection test failed: {error_str}")
+                
+                if "Not Authorized" in error_str:
+                    print("\n⚠️  Token Authorization Issue - please verify your token")
+                
+                return False
     
     def create_project(self, project_name: str = "StudySmart-AI-Worker") -> Optional[str]:
         """Create a new Railway project"""
@@ -304,6 +339,14 @@ class RailwayController:
                 id
                 name
                 createdAt
+                environments {
+                    edges {
+                        node {
+                            id
+                            name
+                        }
+                    }
+                }
                 services {
                     edges {
                         node {
@@ -365,8 +408,30 @@ class RailwayController:
         print("Step 1: Testing Railway API connection...")
         if not self.test_connection():
             print("\n❌ Cannot proceed without valid Railway connection")
-            print("   Please check your RAILWAY_API_KEY in Secrets")
+            if self.use_project_token:
+                print("   Please verify RAILWAY_PROJECT_TOKEN and RAILWAY_PROJECT_ID in Secrets")
+                print("\n📝 To get your project ID:")
+                print("   1. Go to your project in Railway dashboard")
+                print("   2. The URL will be: https://railway.app/project/PROJECT_ID")
+                print("   3. Copy the PROJECT_ID and update RAILWAY_PROJECT_ID in Secrets")
+            else:
+                print("   Please check your RAILWAY_API_KEY in Secrets")
             return False
+        
+        # Skip workspace/project listing if using project token (already have project)
+        if self.use_project_token:
+            print(f"\n✓ Using existing project: {self.project_id}")
+            print("\n📋 Project Details:")
+            project_info = self.get_project_info(self.project_id)
+            if project_info:
+                print(f"  Name: {project_info.get('name')}")
+                environments = project_info.get('environments', {}).get('edges', [])
+                if environments:
+                    print(f"  Environments:")
+                    for env_edge in environments:
+                        env = env_edge.get('node', {})
+                        print(f"    - {env.get('name')} (ID: {env.get('id')})")
+            return True
         
         self.list_workspaces()
         
@@ -385,9 +450,9 @@ class RailwayController:
         
         if not studysmart_project:
             print("\nStep 3: Creating new project 'StudySmart-AI-Worker'...")
-            project_id = self.create_project("StudySmart-AI-Worker")
+            created_id = self.create_project("StudySmart-AI-Worker")
             
-            if not project_id:
+            if not created_id:
                 print("\n⚠️  API-based project creation failed")
                 print("\n📋 Manual Setup Required:")
                 print("   1. Go to https://railway.app/new")
@@ -398,16 +463,20 @@ class RailwayController:
                 print("   6. Re-run this controller")
                 return False
         
+        if not self.project_id:
+            print("\n❌ Project ID not set")
+            return False
+        
         print("\nStep 4: Creating worker service...")
-        service_id = self.create_service(project_id, "lesson-worker")
+        service_id = self.create_service(self.project_id, "lesson-worker")
         
         if not service_id:
             print("\n⚠️  Project created but service creation failed")
-            print(f"   You can manually add a service to project: {project_id}")
+            print(f"   You can manually add a service to project: {self.project_id}")
             return False
         
         print("\nStep 5: Verifying deployment...")
-        project_info = self.get_project_info(project_id)
+        project_info = self.get_project_info(self.project_id)
         
         if project_info:
             print(f"✓ Project verified: {project_info.get('name')}")
@@ -417,9 +486,9 @@ class RailwayController:
         print("\n" + "="*60)
         print("  ✅ Railway Connection Established Successfully!")
         print("="*60)
-        print(f"\n📍 Project ID: {project_id}")
+        print(f"\n📍 Project ID: {self.project_id}")
         print(f"📍 Service ID: {service_id}")
-        print(f"\n🔗 Dashboard: https://railway.app/project/{project_id}")
+        print(f"\n🔗 Dashboard: https://railway.app/project/{self.project_id}")
         print("\n💡 Next steps:")
         print("   1. Add your StudySmart AI lesson directives")
         print("   2. Upload curriculum JSON files")
@@ -431,31 +500,43 @@ class RailwayController:
 
 def main():
     """Main entry point"""
-    # Try RAILWAY_API_KEY2 first (workspace token), fallback to RAILWAY_API_KEY
-    api_key = os.getenv("RAILWAY_API_KEY2") or os.getenv("RAILWAY_API_KEY")
-    workspace_id = os.getenv("RAILWAY_WORKSPACE_ID")
+    # Check for project token first (preferred method)
+    project_token = os.getenv("RAILWAY_PROJECT_TOKEN")
+    project_id = os.getenv("RAILWAY_PROJECT_ID")
     
-    if not api_key:
-        print("\n❌ ERROR: RAILWAY_API_KEY or RAILWAY_API_KEY2 not found in environment")
-        print("\n📝 Please add your Railway API key to Replit Secrets:")
-        print("   1. Go to https://railway.app/account/tokens")
-        print("   2. Click 'Create New Token'")
-        print("   3. Select your workplace/team if needed")
-        print("   4. Give it a name like 'Replit Controller'")
-        print("   5. Copy the generated token")
-        print("   6. In Replit: Tools → Secrets → Add:")
-        print("      Key: RAILWAY_API_KEY2")
-        print("      Value: (paste your token)")
-        sys.exit(1)
-    
-    if os.getenv("RAILWAY_API_KEY2"):
-        print("✓ Using RAILWAY_API_KEY2 (workspace token)")
-    
-    controller = RailwayController(api_key)
-    
-    if workspace_id:
-        controller.workspace_id = workspace_id
-        print(f"✓ Loaded workspace ID from secrets")
+    if project_token and project_id:
+        print("✓ Using RAILWAY_PROJECT_TOKEN (project-specific token)")
+        controller = RailwayController(project_token, project_id=project_id, use_project_token=True)
+    else:
+        # Fallback to account token
+        account_token = os.getenv("RAILWAY_API_KEY2") or os.getenv("RAILWAY_API_KEY")
+        
+        if not account_token:
+            print("\n❌ ERROR: No Railway token found in environment")
+            print("\n📝 Option 1 - Project Token (Recommended):")
+            print("   1. Go to your Railway project settings")
+            print("   2. Go to 'Tokens' tab")
+            print("   3. Create a new project token")
+            print("   4. Add to Replit Secrets:")
+            print("      RAILWAY_PROJECT_TOKEN: (your token)")
+            print("      RAILWAY_PROJECT_ID: (your project ID)")
+            print("\n📝 Option 2 - Account Token:")
+            print("   1. Go to https://railway.app/account/tokens")
+            print("   2. Create a new account token")
+            print("   3. Add to Secrets as RAILWAY_API_KEY")
+            sys.exit(1)
+        
+        if os.getenv("RAILWAY_API_KEY2"):
+            print("✓ Using RAILWAY_API_KEY2")
+        else:
+            print("✓ Using RAILWAY_API_KEY")
+        
+        controller = RailwayController(account_token, project_id=project_id)
+        
+        workspace_id = os.getenv("RAILWAY_WORKSPACE_ID")
+        if workspace_id:
+            controller.workspace_id = workspace_id
+            print(f"✓ Loaded workspace ID from secrets")
     
     success = controller.run_deployment()
     
