@@ -565,6 +565,28 @@ class StudySmartOrchestrator:
         text = text.replace('"', '""')
         return text
     
+    def _reload_current_files(self, current_mapping_filename: str) -> None:
+        """Reload master directive and current lesson mapping from disk for accuracy"""
+        try:
+            master_directive_files = list(self.curriculum_dir.glob("MASTER_DIRECTIVE*.json"))
+            if master_directive_files:
+                with open(master_directive_files[0], 'r') as f:
+                    self.master_directive = json.load(f)
+                print(f"  ✓ Reloaded: {master_directive_files[0].name}")
+            
+            current_mapping_file = self.curriculum_dir / current_mapping_filename
+            if current_mapping_file.exists():
+                with open(current_mapping_file, 'r') as f:
+                    mapping_data = json.load(f)
+                
+                for idx, mapping in enumerate(self.lesson_mappings):
+                    if mapping["filename"] == current_mapping_filename:
+                        self.lesson_mappings[idx]["data"] = mapping_data
+                        print(f"  ✓ Reloaded: {current_mapping_filename}")
+                        break
+        except Exception as e:
+            print(f"  ⚠️  Reload warning: {str(e)}")
+    
     def generate_lesson_content(self, lesson_data: Dict, directive: Optional[Dict] = None, max_retries: int = 3) -> Optional[Dict]:
         """Generate complete lesson content (Script, Notes & Exercises, Illustrations) using DeepSeek V3.1 with retry logic"""
         
@@ -815,6 +837,9 @@ Return ONLY the JSON, no additional text."""
                 lesson_id = f"L{lesson_id}"
             
             print(f"\n[{i}/{total}] Generating lesson: {lesson_id}")
+            
+            print("🔄 Reloading master directive and lesson mapping for accuracy...")
+            self._reload_current_files(filename)
             
             lesson_content = self.generate_lesson_content(lesson)
             

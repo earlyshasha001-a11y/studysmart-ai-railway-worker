@@ -20,6 +20,7 @@ This project is a lightweight orchestration controller that manages StudySmart A
   - ✅ Character count enforcement (1600-1950 per part) with retry logic (3 attempts)
   - ✅ Part count validation (4 parts lower primary, 8 parts upper/secondary)
   - ✅ Proper JSON illustration structure with arrays
+  - ✅ **Auto-reload directives after each lesson** (ensures accuracy by refreshing Master Directive and mapping from disk)
   - ✅ Automatic output management with date-stamped directories
   - ✅ Progress tracking and error handling
   - Connected to Railway project: luminous-expression (cedc37d7-79dd-48f2-b880-6333d9d3760c)
