@@ -16,8 +16,7 @@ class StudySmartWorker:
     def __init__(self):
         self.openrouter_key = os.getenv("OPENROUTER_API_KEY")
         self.openrouter_url = "https://openrouter.ai/api/v1/chat/completions"
-        # Claude 3.5 Sonnet has excellent instruction-following for length requirements
-        self.model = "anthropic/claude-3.5-sonnet"
+        self.model = "deepseek/deepseek-chat"
         self.output_dir = Path("/tmp/output")
         self.curriculum_dir = Path("curriculum")
         self.start_time = time.time()
@@ -88,52 +87,78 @@ class StudySmartWorker:
                     "X-Title": "StudySmart AI Worker"
                 }
                 
-                prompt = f"""Generate StudySmart AI lesson following Master Directive v7.2.
+                prompt = f"""Generate a complete StudySmart AI lesson with FULL-LENGTH content.
 
-⚠️  CRITICAL: CHARACTER COUNT REQUIREMENT ⚠️
-Each script part MUST be 1600-1950 characters long.
-Notes_exercises MUST be 1600-1950 characters long.
+🚨 ABSOLUTE REQUIREMENT - LENGTH VALIDATION 🚨
+MINIMUM: 1600 characters per part (approximately 250 words)
+MAXIMUM: 1950 characters per part (approximately 300 words)
+TARGET: 1750 characters per part (approximately 270 words)
 
-WHAT 1650 CHARACTERS LOOKS LIKE (EXAMPLE):
-"Welcome to our lesson on fractions! Today we will explore how to add fractions with different denominators. This is a fundamental skill in mathematics that you will use throughout your academic journey and in everyday life. Imagine you have half a pizza and your friend has a third of another pizza. How much pizza do you have together? To answer this question, we need to understand how fractions work. A fraction consists of two parts: the numerator, which is the top number, and the denominator, which is the bottom number. The denominator tells us how many equal parts something is divided into, while the numerator tells us how many of those parts we have. When we add fractions with the same denominator, like one-fifth plus two-fifths, we simply add the numerators and keep the denominator the same, giving us three-fifths. However, when the denominators are different, like one-half plus one-third, we must find a common denominator. A common denominator is a number that both denominators can divide into evenly. The easiest way to find a common denominator is to multiply the two denominators together. For example, two multiplied by three equals six, so six becomes our common denominator. Next, we convert each fraction to an equivalent fraction with the denominator of six. To convert one-half to sixths, we multiply both the numerator and denominator by three, giving us three-sixths. To convert one-third to sixths, we multiply both the numerator and denominator by two, giving us two-sixths. Now that both fractions have the same denominator, we can add the numerators: three plus two equals five. Our answer is five-sixths. Let us practice this method with another example to ensure you understand the process completely and can apply it confidently." [This example is approximately 1650 characters - YOUR CONTENT MUST BE THIS LONG OR LONGER]
+YOU MUST COUNT: Each script part needs ~250-300 WORDS of actual educational content.
 
-MANDATORY REQUIREMENTS:
-• Write DETAILED, COMPREHENSIVE content - NOT brief summaries
-• Each script part: 1600-1950 characters (like the example above)
-• Notes_exercises: 1600-1950 characters TOTAL
-• DO NOT write short content - it will be REJECTED
-• Include thorough explanations, examples, and context
-• EXACTLY {num_parts} script parts
-• At least {num_parts} illustrations
+EXAMPLE OF PROPER LENGTH (1650 characters):
+"Welcome to our lesson on fractions! Today we will explore how to add fractions with different denominators. This is a fundamental skill in mathematics that you will use throughout your academic journey and in everyday life. Imagine you have half a pizza and your friend has a third of another pizza. How much pizza do you have together? To answer this question, we need to understand how fractions work. A fraction consists of two parts: the numerator, which is the top number, and the denominator, which is the bottom number. The denominator tells us how many equal parts something is divided into, while the numerator tells us how many of those parts we have. When we add fractions with the same denominator, like one-fifth plus two-fifths, we simply add the numerators and keep the denominator the same, giving us three-fifths. However, when the denominators are different, like one-half plus one-third, we must find a common denominator. A common denominator is a number that both denominators can divide into evenly. The easiest way to find a common denominator is to multiply the two denominators together. For example, two multiplied by three equals six, so six becomes our common denominator. Next, we convert each fraction to an equivalent fraction with the denominator of six. To convert one-half to sixths, we multiply both the numerator and denominator by three, giving us three-sixths. To convert one-third to sixths, we multiply both the numerator and denominator by two, giving us two-sixths. Now that both fractions have the same denominator, we can add the numerators: three plus two equals five. Our answer is five-sixths. Let us practice this method with another example to ensure you understand the process completely and can apply it confidently."
 
-MASTER DIRECTIVE:
-{json.dumps(directive, indent=2)}
+WRITING INSTRUCTIONS - EXPAND EVERYTHING:
+1. Start with a welcoming introduction (3-4 sentences)
+2. Explain the core concept thoroughly with context (5-6 sentences)
+3. Provide detailed step-by-step examples (6-8 sentences)
+4. Include real-world applications and scenarios (3-4 sentences)
+5. Add reinforcement and practice guidance (2-3 sentences)
+6. Use transitional phrases to connect ideas smoothly
+7. Write in complete, well-developed paragraphs
+8. DO NOT abbreviate or summarize - EXPAND and ELABORATE
 
 LESSON DATA:
 {json.dumps(lesson_data, indent=2)}
 
-OUTPUT FORMAT (JSON only):
+MASTER DIRECTIVE RULES:
+{json.dumps(directive, indent=2)}
+
+STRUCTURE REQUIREMENTS:
+- EXACTLY {num_parts} script parts (each 1600-1950 characters)
+- EXACTLY 1 notes_exercises field (1600-1950 characters)
+- At least {num_parts} illustrations
+
+OUTPUT AS JSON:
 {{
   "script_parts": [
-    {{"heading": "Part 1", "content": "LONG DETAILED CONTENT HERE - 1600-1950 characters"}},
-    {{"heading": "Part 2", "content": "LONG DETAILED CONTENT HERE - 1600-1950 characters"}},
-    ... ({num_parts} parts total - each 1600-1950 chars)
+    {{"heading": "Part 1", "content": "WRITE 250-300 WORDS OF DETAILED EDUCATIONAL CONTENT HERE"}},
+    {{"heading": "Part 2", "content": "WRITE 250-300 WORDS OF DETAILED EDUCATIONAL CONTENT HERE"}},
+    ... (continue for all {num_parts} parts)
   ],
-  "notes_exercises": "COMPREHENSIVE notes and exercises - 1600-1950 characters TOTAL",
+  "notes_exercises": "WRITE 250-300 WORDS of comprehensive notes and exercises",
   "illustrations": [
-    {{"illustration_number": 1, "scene_description": "...", "elements": [...], "part_association": 1}},
-    ... ({num_parts}+ illustrations)
+    {{"illustration_number": 1, "scene_description": "detailed description", "elements": ["element1", "element2"], "part_association": 1}},
+    ... (minimum {num_parts} illustrations)
   ]
 }}
 
-⚠️  REMEMBER: Each script part MUST be 1600-1950 chars (as shown in example). Short content will FAIL validation.
+⚠️  VALIDATION WILL REJECT CONTENT SHORTER THAN 1600 CHARACTERS PER PART ⚠️
 
-Return ONLY JSON."""
+Write LONG, THOROUGH, COMPREHENSIVE content. Return ONLY the JSON."""
                 
+                system_message = """You are an expert educational content writer. You MUST generate LONG, DETAILED content that meets EXACT length requirements. 
+
+CRITICAL RULE: Each script part must be EXACTLY 1600-1950 characters (approximately 250-300 words).
+This is NOT optional - content shorter than 1600 characters will be REJECTED.
+
+Write comprehensive, thorough explanations with:
+- Detailed introductions and context
+- Multiple examples and illustrations
+- Step-by-step explanations
+- Real-world applications
+- Summary and reinforcement
+
+DO NOT write brief, concise, or summarized content. EXPAND everything fully."""
+
                 payload = {
                     "model": self.model,
-                    "messages": [{"role": "user", "content": prompt}],
-                    "temperature": 0.7,
+                    "messages": [
+                        {"role": "system", "content": system_message},
+                        {"role": "user", "content": prompt}
+                    ],
+                    "temperature": 0.8,
                     "max_tokens": 16384
                 }
                 

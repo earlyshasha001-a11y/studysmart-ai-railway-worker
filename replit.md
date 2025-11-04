@@ -1,17 +1,17 @@
-# StudySmart AI - Claude 3.5 Sonnet Orchestration Controller
+# StudySmart AI - DeepSeek V3.1 Orchestration Controller
 
 ## Overview
-This project is a **lightweight orchestration controller** on Replit that manages StudySmart AI lesson generation. Heavy computation (Claude 3.5 Sonnet AI processing) runs on Railway workers, while Replit acts only as a controller for triggering, monitoring, and receiving results.
+This project is a **lightweight orchestration controller** on Replit that manages StudySmart AI lesson generation. Heavy computation (DeepSeek V3.1 processing) runs on Railway workers, while Replit acts only as a controller for triggering, monitoring, and receiving results.
 
 ## Architecture
 - **Replit**: Lightweight controller (API triggers, logging, monitoring)
-- **Railway**: Heavy executor (Claude 3.5 Sonnet generation, validation, file saving)
+- **Railway**: Heavy executor (DeepSeek V3.1 generation, validation, file saving)
 
 ## AI Model
-- **Claude 3.5 Sonnet** (via OpenRouter API)
-  - Superior instruction-following for character count requirements
-  - Excellent educational content quality
-  - Replaced DeepSeek Chat (which was optimized for brevity and failed length validation)
+- **DeepSeek V3.1** (via OpenRouter API)
+- Enhanced with system message and aggressive length directives
+- Temperature increased to 0.8 for more expansive content
+- Word count guidance (250-300 words = 1600-1950 characters)
 
 ## Purpose
 - Deploy Railway workers for batch lesson generation
@@ -21,10 +21,13 @@ This project is a **lightweight orchestration controller** on Replit that manage
 - Auto-shutdown Railway workers after completion
 
 ## Recent Changes
-- **2025-11-04**: StudySmart AI Orchestration System - MODEL UPDATED
-  - ✅ Switched from DeepSeek Chat to **Claude 3.5 Sonnet** for better length compliance
+- **2025-11-04**: StudySmart AI Orchestration System - PROMPT OPTIMIZED
+  - ✅ Added system message with strict length requirements
+  - ✅ Enhanced prompt with word count guidance (250-300 words)
+  - ✅ Increased temperature to 0.8 for more expansive responses
+  - ✅ Added detailed writing instructions (expand, elaborate, don't abbreviate)
   - ✅ Railway HTTP API integration complete
-  - ✅ Claude 3.5 Sonnet integration via OpenRouter
+  - ✅ DeepSeek V3.1 integration via OpenRouter
   - ✅ Curriculum file loading system (54 mapping files, 6,180 lessons)
   - ✅ **3-file output system per lesson** (Script.csv, Notes_Exercises.csv, Illustrations.json)
   - ✅ CSV single-row format with no line breaks (Master Directive v7.2 compliant)
