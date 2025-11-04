@@ -182,11 +182,6 @@ class RailwayController:
             if user:
                 print(f"✓ Successfully connected to Railway API")
                 print(f"  User: {user.get('name', 'N/A')} ({user.get('email', 'N/A')})")
-                
-                workspace_id = self.get_workspace_id()
-                if workspace_id:
-                    self.workspace_id = workspace_id
-                
                 return True
             else:
                 print("✗ Failed to authenticate with Railway API")
@@ -209,33 +204,24 @@ class RailwayController:
     def create_project(self, project_name: str = "StudySmart-AI-Worker") -> Optional[str]:
         """Create a new Railway project"""
         query = """
-        mutation ProjectCreate($input: ProjectCreateInput!) {
-            projectCreate(input: $input) {
-                project {
-                    id
-                    name
-                }
+        mutation ProjectCreate {
+            projectCreate {
+                id
+                name
             }
         }
         """
         
-        input_data = {"name": project_name}
-        
-        if self.workspace_id:
-            input_data["workspaceId"] = self.workspace_id
-        
-        variables = {"input": input_data}
-        
         try:
-            data = self._execute_query(query, variables)
-            project = data.get("projectCreate", {}).get("project", {})
+            data = self._execute_query(query)
+            project = data.get("projectCreate", {})
             
             if project and project.get("id"):
                 self.project_id = project["id"]
                 print(f"✓ Created project: {project.get('name')} (ID: {self.project_id})")
                 return self.project_id
             else:
-                print("✗ Failed to create project")
+                print("✗ Failed to create project - empty response")
                 return None
         except Exception as e:
             print(f"✗ Project creation failed: {str(e)}")
@@ -347,21 +333,17 @@ class RailwayController:
             print("   Please check your RAILWAY_API_KEY in Secrets")
             return False
         
-        print("\nStep 2: Introspecting Railway schema...")
-        self.introspect_user_type()
-        self.introspect_project_input()
-        
-        print("\nStep 3: Listing existing projects...")
+        print("\nStep 2: Listing existing projects...")
         self.list_projects()
         
-        print("\nStep 4: Creating new project 'StudySmart-AI-Worker'...")
+        print("\nStep 3: Creating new project 'StudySmart-AI-Worker'...")
         project_id = self.create_project("StudySmart-AI-Worker")
         
         if not project_id:
             print("\n❌ Failed to create project")
             return False
         
-        print("\nStep 5: Creating worker service...")
+        print("\nStep 4: Creating worker service...")
         service_id = self.create_service(project_id, "lesson-worker")
         
         if not service_id:
@@ -369,7 +351,7 @@ class RailwayController:
             print(f"   You can manually add a service to project: {project_id}")
             return False
         
-        print("\nStep 6: Verifying deployment...")
+        print("\nStep 5: Verifying deployment...")
         project_info = self.get_project_info(project_id)
         
         if project_info:
