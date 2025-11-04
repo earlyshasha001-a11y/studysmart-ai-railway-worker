@@ -38,3 +38,11 @@ Thumbs.db
 
 # Logs
 *.log
+
+# StudySmart AI output
+output/*/
+!output/.gitkeep
+
+# Curriculum files (user-provided)
+curriculum/*.json
+!curriculum/README.md
