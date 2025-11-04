@@ -1,0 +1,846 @@
+{
+  "curriculum_name": "Maths grade 7 cbc",
+  "total_lessons": 105,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "a) use place value and total value of digits up to hundreds of millions in real life"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "b) read and write numbers in symbols up to hundreds of millions in real life situations"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "c) read and write numbers in words up to millions for fluency"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "d) round off numbers up to the nearest hundreds of millions in real life situations"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "e) classify natural numbers as even; odd and prime in different situations"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "f) apply operations of whole numbers in real life situations"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "g) identify number sequence in different situations"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "h) create number sequence for playing number games"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "i) appreciate use of whole numbers in real life situations"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Factors",
+      "Learning Objective": "a) test divisibility of numbers by 2; 3; 4; 5; 6; 8; 9;10 and 11 in different situations"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Factors",
+      "Learning Objective": "b) express composite numbers as a product of prime factors in different situations"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Factors",
+      "Learning Objective": "c) work out the Greatest Common Divisor (GCD) and the Least Common Multiples (LCM) of numbers by factor method in different situations"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Factors",
+      "Learning Objective": "d) apply the Greatest Common Divisor (GCD) and the Least Common Multiples (LCM) in real life situations"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Factors",
+      "Learning Objective": "e) reflect on use of factors in real life situations"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Fractions",
+      "Learning Objective": "a) compare fractions in different situations"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Fractions",
+      "Learning Objective": "b) add fractions in different situations"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Fractions",
+      "Learning Objective": "c) subtract fractions in different situations"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Fractions",
+      "Learning Objective": "d) multiply fractions by a whole number; fraction and a mixed number in real life situations"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Fractions",
+      "Learning Objective": "e) identify the reciprocals of fractions in different situations"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Fractions",
+      "Learning Objective": "f) divide fractions by a whole number; fraction and a mixed fraction in real life situations"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Fractions",
+      "Learning Objective": "g) divide a whole number by fractions in different situations"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Fractions",
+      "Learning Objective": "h) identify number sequence involving fractions in different situations"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Fractions",
+      "Learning Objective": "i) create number sequence involving fractions for playing number games"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Fractions",
+      "Learning Objective": "j) recognise use of fractions in real life situations"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Decimals",
+      "Learning Objective": "a) identify the place value and the total value of digits in decimals in real life"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Decimals",
+      "Learning Objective": "b) multiply decimals by a whole number and by a decimal in real life situations"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Decimals",
+      "Learning Objective": "c) divide decimals by a whole number and by a decimal in real life situations"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Decimals",
+      "Learning Objective": "d) recognise use of decimals in real life situations"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Squares and Square Roots",
+      "Learning Objective": "a) determine the squares of whole numbers; fractions and decimals by multiplication in different situations"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Squares and Square Roots",
+      "Learning Objective": "b) determine the square roots of whole numbers; fractions and decimals of perfect squares in different situations"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Squares and Square Roots",
+      "Learning Objective": "c) appreciate use of squares and square roots in real life situations"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.1 Algebraic Expressions",
+      "Learning Objective": "a) form algebraic expressions from real life situations"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.1 Algebraic Expressions",
+      "Learning Objective": "b) form algebraic expressions from simple algebraic statements in real life situations"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.1 Algebraic Expressions",
+      "Learning Objective": "c) simplify algebraic expressions in real life situations"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.1 Algebraic Expressions",
+      "Learning Objective": "d) appreciate use of algebraic expressions in real life"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Linear Equations",
+      "Learning Objective": "a) form linear equations in one unknown in different situations"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Linear Equations",
+      "Learning Objective": "b) solve linear equations in one unknown in different situations"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Linear Equations",
+      "Learning Objective": "c) apply linear equations in one unknown to real life situations"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Linear Equations",
+      "Learning Objective": "d) reflect on use of linear equations in real life situations"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.3 Linear Inequalities",
+      "Learning Objective": "a) apply inequality symbols to inequality statements in learning situations"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.3 Linear Inequalities",
+      "Learning Objective": "b) form simple linear inequalities in one unknown in different situations"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.3 Linear Inequalities",
+      "Learning Objective": "c) illustrate simple inequalities on a number line"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.3 Linear Inequalities",
+      "Learning Objective": "d) form compound inequality statements in one unknown in different situations"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.3 Linear Inequalities",
+      "Learning Objective": "e) illustrate compound inequalities in one unknown on a number line"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.3 Linear Inequalities",
+      "Learning Objective": "f) appreciate use of linear inequalities in real life"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.1 Pythagorean Relationship",
+      "Learning Objective": "a) recognize the sides of a right-angled triangle in different situations"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.1 Pythagorean Relationship",
+      "Learning Objective": "b) identify Pythagorean relationship in different situations"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.1 Pythagorean Relationship",
+      "Learning Objective": "c) apply Pythagorean relationship to real life situations"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.1 Pythagorean Relationship",
+      "Learning Objective": "d) promote use of Pythagoras Theorem in real life situations"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Length",
+      "Learning Objective": "a) convert units of length from one form to another involving cm; dm; m; Dm; Hm in learning situations"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Length",
+      "Learning Objective": "b) perform operations involving units of length in different situations"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Length",
+      "Learning Objective": "c) work out the perimeter of plane figures in different situations"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Length",
+      "Learning Objective": "d) work out the circumference of circles in different situations"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Length",
+      "Learning Objective": "e) promote use of length in real life situations"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Area",
+      "Learning Objective": "a) identify square metre (m2); acres and hectares as units of measuring area"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Area",
+      "Learning Objective": "b) work out the area of rectangle; parallelogram; rhombus and trapezium in different situations"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Area",
+      "Learning Objective": "c) work out the area of circles in different situations"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Area",
+      "Learning Objective": "d) calculate the area of borders and combined shapes in real life situations"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Area",
+      "Learning Objective": "e) recognise use of area in real life situations"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.4 Volume and Capacity",
+      "Learning Objective": "a) identify metre cube (m3 ) as a unit of volume in measurements"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.4 Volume and Capacity",
+      "Learning Objective": "b) convert metre cube (m3) into centimeter cube (cm3) and vice versa in different situations"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.4 Volume and Capacity",
+      "Learning Objective": "c) work out the volume of cubes; cuboids and cylinder in different situations"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.4 Volume and Capacity",
+      "Learning Objective": "d) identify the relationship between cm3; m3 and litres in real life situations"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.4 Volume and Capacity",
+      "Learning Objective": "e) relate volume to capacity in real life situations"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.4 Volume and Capacity",
+      "Learning Objective": "f) work out the capacity of containers in real life situations"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.4 Volume and Capacity",
+      "Learning Objective": "g) promote use of volume and capacity in real life situations"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.5 Time; Distance and Speed",
+      "Learning Objective": "a) identify units of measuring time in real life situations"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.5 Time; Distance and Speed",
+      "Learning Objective": "b) convert units of time from one form to another in learning situations"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.5 Time; Distance and Speed",
+      "Learning Objective": "c) convert units of measuring distance in learning situations"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.5 Time; Distance and Speed",
+      "Learning Objective": "d) identify speed as distance covered per unit time in different situations"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.5 Time; Distance and Speed",
+      "Learning Objective": "e) work out speed in km/h and m/s in real life situations"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.5 Time; Distance and Speed",
+      "Learning Objective": "f) convert units of speed from kilometers per hour (Km/h) to meters per second (m/s) and vice versa in real life situations"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.5 Time; Distance and Speed",
+      "Learning Objective": "g) reflect on use of time; distance and speed in real life situations"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.6 Temperature",
+      "Learning Objective": "a) describe the temperature conditions of the immediate environment as either warm; hot or cold"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.6 Temperature",
+      "Learning Objective": "b) compare temperature using hotter; warmer; colder and same as in different situations"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.6 Temperature",
+      "Learning Objective": "c) identify units of measuring temperature as degree Celsius and Kelvin in different situations"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.6 Temperature",
+      "Learning Objective": "d) convert units of measuring temperature from degree Celsius to Kelvin and vice-versa"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.6 Temperature",
+      "Learning Objective": "e) work out temperature in degree Celsius and Kelvin in real life situations"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.6 Temperature",
+      "Learning Objective": "f) use IT devices or other resources to read temperature conditions of different places"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.6 Temperature",
+      "Learning Objective": "g) recognise temperature changes in the environment"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.7 Money",
+      "Learning Objective": "a) work out profit and loss in real life situations"
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.7 Money",
+      "Learning Objective": "b) calculate the percentage profit and loss in different situations"
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.7 Money",
+      "Learning Objective": "c) calculate discount and percentage discount of different goods and services"
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.7 Money",
+      "Learning Objective": "d) calculate commission and percentage commission in real life situations"
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.7 Money",
+      "Learning Objective": "e) interpret bills at home"
+    },
+    {
+      "Lesson Number": "86",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.7 Money",
+      "Learning Objective": "f) prepare bills in real life situations"
+    },
+    {
+      "Lesson Number": "87",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.7 Money",
+      "Learning Objective": "g) work out postal charges in real life situations"
+    },
+    {
+      "Lesson Number": "88",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.7 Money",
+      "Learning Objective": "h) identify mobile money services for different transactions"
+    },
+    {
+      "Lesson Number": "89",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.7 Money",
+      "Learning Objective": "i) work out mobile money transactions in real life situations"
+    },
+    {
+      "Lesson Number": "90",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.7 Money",
+      "Learning Objective": "j) use IT devices to learn more on money transactions"
+    },
+    {
+      "Lesson Number": "91",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.7 Money",
+      "Learning Objective": "k) recognise use of money in day to day activities"
+    },
+    {
+      "Lesson Number": "92",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Angles",
+      "Learning Objective": "a) relate different types of angles on a straight line in real life situations"
+    },
+    {
+      "Lesson Number": "93",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Angles",
+      "Learning Objective": "b) solve angles at a point in learning situations"
+    },
+    {
+      "Lesson Number": "94",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Angles",
+      "Learning Objective": "c) relate angles on a transversal in different situations"
+    },
+    {
+      "Lesson Number": "95",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Angles",
+      "Learning Objective": "d) solve angles in a parallelogram in different situations"
+    },
+    {
+      "Lesson Number": "96",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Angles",
+      "Learning Objective": "e) identify angle properties of polygons up to hexagon in different situations"
+    },
+    {
+      "Lesson Number": "97",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Angles",
+      "Learning Objective": "f) relate interior angles; exterior angles and the number of sides of a polygon up to hexagon in different situations"
+    },
+    {
+      "Lesson Number": "98",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Angles",
+      "Learning Objective": "g) solve angles and sides of polygons up to hexagon in learning situations"
+    },
+    {
+      "Lesson Number": "99",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Angles",
+      "Learning Objective": "h) reflect on use of angles in objects within the environment"
+    },
+    {
+      "Lesson Number": "100",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Geometrical Constructions",
+      "Learning Objective": "a) measure different angles in learning situations"
+    },
+    {
+      "Lesson Number": "101",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Geometrical Constructions",
+      "Learning Objective": "b) bisect angles using a ruler and a pair of compasses only in learning situations"
+    },
+    {
+      "Lesson Number": "102",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Geometrical Constructions",
+      "Learning Objective": "c) construct 900; 450 600; 300 and other angles that are multiples of 7.50 using a ruler and a pair of compasses only in learning situations"
+    },
+    {
+      "Lesson Number": "103",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Geometrical Constructions",
+      "Learning Objective": "d) construct different triangles using a ruler and a pair of compasses only in different situations"
+    },
+    {
+      "Lesson Number": "104",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Geometrical Constructions",
+      "Learning Objective": "e) construct circles using a ruler and a pair of compasses only in different situations"
+    },
+    {
+      "Lesson Number": "105",
+      "Subject": "Mathematics",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Geometrical Constructions",
+      "Learning Objective": "f) recognise use of geometric constructions of different shapes in objects"
+    }
+  ]
+}

@@ -1,0 +1,662 @@
+{
+  "curriculum_name": "social studies grade 9 cbc",
+  "total_lessons": 82,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Social Studies and Career Development",
+      "Sub-strand": "1.1 Pathway Choices",
+      "Learning Objective": "a) identify factors to consider in the selection of a pathway"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Social Studies and Career Development",
+      "Sub-strand": "1.1 Pathway Choices",
+      "Learning Objective": "b) examine requirements for Social sciences pathway at senior school"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Social Studies and Career Development",
+      "Sub-strand": "1.1 Pathway Choices",
+      "Learning Objective": "c) choose a possible track within a pathway at senior school"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Social Studies and Career Development",
+      "Sub-strand": "1.1 Pathway Choices",
+      "Learning Objective": "d) appreciate the need for choosing a pathway in senior school"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Social Studies and Career Development",
+      "Sub-strand": "1.2 Pre-career Support Systems",
+      "Learning Objective": "a) explore the importance of different support systems for holistic development in a school community"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Social Studies and Career Development",
+      "Sub-strand": "1.2 Pre-career Support Systems",
+      "Learning Objective": "b) explain the significance of pre-career mapping for individual growth"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Social Studies and Career Development",
+      "Sub-strand": "1.2 Pre-career Support Systems",
+      "Learning Objective": "c) use support systems for pre-career development in the school community"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Social Studies and Career Development",
+      "Sub-strand": "1.2 Pre-career Support Systems",
+      "Learning Objective": "d) design solutions to challenges arising from use of support systems"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Social Studies and Career Development",
+      "Sub-strand": "1.2 Pre-career Support Systems",
+      "Learning Objective": "e) appreciate the value of support systems in career development"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Community Service-Learning",
+      "Sub-strand": "2.1 Community Service-Learning Project",
+      "Learning Objective": "a) identify a problem in the community"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Community Service-Learning",
+      "Sub-strand": "2.1 Community Service-Learning Project",
+      "Learning Objective": "b) design a solution to the identified problem"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Community Service-Learning",
+      "Sub-strand": "2.1 Community Service-Learning Project",
+      "Learning Objective": "c) plan to solve the identified problem in the community"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Community Service-Learning",
+      "Sub-strand": "2.1 Community Service-Learning Project",
+      "Learning Objective": "d) implement the plan to solve the problem"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Community Service-Learning",
+      "Sub-strand": "2.1 Community Service-Learning Project",
+      "Learning Objective": "e) write a report on the concluded project"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Community Service-Learning",
+      "Sub-strand": "2.1 Community Service-Learning Project",
+      "Learning Objective": "f) appreciate teamwork in addressing community problems"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.1 Socio-Economic Practices of Early Humans",
+      "Learning Objective": "a) describe the socio-economic practices of early humans in Africa during the Stone Age period"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.1 Socio-Economic Practices of Early Humans",
+      "Learning Objective": "b) examine different types of tools used by early humans during the Stone Age period"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.1 Socio-Economic Practices of Early Humans",
+      "Learning Objective": "c) illustrate the tools used by early humans during the Stone Age period"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.1 Socio-Economic Practices of Early Humans",
+      "Learning Objective": "d) recognise socio-economic practices of the early humans"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.2 Indigenous Knowledge Systems in African Societies",
+      "Learning Objective": "a) identify types of indigenous knowledge systems in African societies for self-identity"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.2 Indigenous Knowledge Systems in African Societies",
+      "Learning Objective": "b) explain how the indigenous knowledge systems were used for sustainability of life"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.2 Indigenous Knowledge Systems in African Societies",
+      "Learning Objective": "c) use indigenous to modern knowledge systems for effective decision making in life"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.2 Indigenous Knowledge Systems in African Societies",
+      "Learning Objective": "d) appreciate the indigenous knowledge systems in the society"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.3 Poverty Reduction",
+      "Learning Objective": "a) explain causes of poverty in Africa"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.3 Poverty Reduction",
+      "Learning Objective": "b) examine the effects of overexploitation of natural resources in Africa"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.3 Poverty Reduction",
+      "Learning Objective": "c) apply creative thinking skills to reduce poverty in the society"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.3 Poverty Reduction",
+      "Learning Objective": "d) recognize the contribution of poverty reduction strategies in society"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.4 Population Structure",
+      "Learning Objective": "a) identify sources of population data in a country"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.4 Population Structure",
+      "Learning Objective": "b) explain factors determining population structure in Kenya and Germany"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.4 Population Structure",
+      "Learning Objective": "c) construct age-sex population pyramids of developed and developing countries"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.4 Population Structure",
+      "Learning Objective": "d) determine the significance of population structure in distribution of national resources in a society"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.4 Population Structure",
+      "Learning Objective": "e) appreciate the differences in population structure between developed and developing countries"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.5 Peaceful Conflict Resolution",
+      "Learning Objective": "a) explain forms of peace in a society"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.5 Peaceful Conflict Resolution",
+      "Learning Objective": "b) nurture the forms of peace for a happy and safe society"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.5 Peaceful Conflict Resolution",
+      "Learning Objective": "c) design ways of promoting fairness in the community"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.5 Peaceful Conflict Resolution",
+      "Learning Objective": "d) apply emotional intelligence in promotion of integrity in the society"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.5 Peaceful Conflict Resolution",
+      "Learning Objective": "e) embrace peace initiatives at the community level for harmonious living"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.6 Healthy relationships",
+      "Learning Objective": "a) explain ways of sustaining healthy relationships in the community"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.6 Healthy relationships",
+      "Learning Objective": "b) explore barriers to harmonious relationships"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.6 Healthy relationships",
+      "Learning Objective": "c) design strategies to overcome barriers to healthy relationships"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "3.0 People and Relationships",
+      "Sub-strand": "3.6 Healthy relationships",
+      "Learning Objective": "d) appreciate the need for healthy relationships in the community"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.1 Topographical maps",
+      "Learning Objective": "a) describe human activities on topographical maps"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.1 Topographical maps",
+      "Learning Objective": "b) use creative thinking skills to enlarge and reduce parts of topographical maps"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.1 Topographical maps",
+      "Learning Objective": "c) illustrate cross-sections from topographical maps"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.1 Topographical maps",
+      "Learning Objective": "d) appreciate representation of human activities on topographical maps"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.2 Internal Land Forming Processes",
+      "Learning Objective": "a) explore the types and causes of earth movements in the environment"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.2 Internal Land Forming Processes",
+      "Learning Objective": "b) explain the theories of continental drift and plate tectonics in the formation of continents"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.2 Internal Land Forming Processes",
+      "Learning Objective": "c) illustrate the formation of selected features due to faulting in the environment"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.2 Internal Land Forming Processes",
+      "Learning Objective": "d) explain the effects of faulting to human activities"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.2 Internal Land Forming Processes",
+      "Learning Objective": "e) recognise internal land forming processes in shaping the landscape and their influence on human activities"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.3 Multi-purpose River Projects in Africa",
+      "Learning Objective": "a) identify selected multi-purpose river projects on a map of Africa"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.3 Multi-purpose River Projects in Africa",
+      "Learning Objective": "b) outline the conditions that led to the establishment of multi-purpose river projects along river Tana"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.3 Multi-purpose River Projects in Africa",
+      "Learning Objective": "c) examine the economic importance of multi-purpose river projects in Africa"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.3 Multi-purpose River Projects in Africa",
+      "Learning Objective": "d) assess challenges facing multi-purpose river projects in Africa"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.3 Multi-purpose River Projects in Africa",
+      "Learning Objective": "e) design solutions to challenges facing multi-purpose river projects in Africa"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.3 Multi-purpose River Projects in Africa",
+      "Learning Objective": "f) recognise the importance of multipurpose river projects in the society"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.4 Management and Conservation of the Environment",
+      "Learning Objective": "a) explore factors that lead to degradation of the environment in the community"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.4 Management and Conservation of the Environment",
+      "Learning Objective": "b) describe the effects of environmental degradation in society"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.4 Management and Conservation of the Environment",
+      "Learning Objective": "c) design measures to manage and conserve the environment for sustainability"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.4 Management and Conservation of the Environment",
+      "Learning Objective": "d) apply creative thinking skills in managing and conserving the immediate environment"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.4 Management and Conservation of the Environment",
+      "Learning Objective": "e) acknowledge the importance of managing and conserving the environment"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.5 World Heritage Sites in Africa",
+      "Learning Objective": "a) identify the selected world heritage sites in Africa"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.5 World Heritage Sites in Africa",
+      "Learning Objective": "b) examine importance of the selected world sites in promoting cultural heritage"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.5 World Heritage Sites in Africa",
+      "Learning Objective": "c) design measures to conserve the selected world heritage sites"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.5 World Heritage Sites in Africa",
+      "Learning Objective": "d) apply critical thinking skills in conserving heritage sites within the locality"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Natural and Historic Built Environments",
+      "Sub-strand": "4.5 World Heritage Sites in Africa",
+      "Learning Objective": "e) value heritage sites in the community"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Political Developments and Governance",
+      "Sub-strand": "5.1 The Constitution of Kenya",
+      "Learning Objective": "a) explain the historical background of the Constitution of Kenya"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Political Developments and Governance",
+      "Sub-strand": "5.1 The Constitution of Kenya",
+      "Learning Objective": "b) analyze the structure and contents of the Constitution of Kenya"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Political Developments and Governance",
+      "Sub-strand": "5.1 The Constitution of Kenya",
+      "Learning Objective": "c) examine the importance of the Constitution of Kenya in governance"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Political Developments and Governance",
+      "Sub-strand": "5.1 The Constitution of Kenya",
+      "Learning Objective": "d) demonstrate respect for the Constitution of Kenya"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Political Developments and Governance",
+      "Sub-strand": "5.2 Civic Engagement in Governance",
+      "Learning Objective": "a) explain the concept of civic engagement in governance"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Political Developments and Governance",
+      "Sub-strand": "5.2 Civic Engagement in Governance",
+      "Learning Objective": "b) examine forms of civic engagement in governance"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Political Developments and Governance",
+      "Sub-strand": "5.2 Civic Engagement in Governance",
+      "Learning Objective": "c) demonstrate civic engagement in school governance"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Political Developments and Governance",
+      "Sub-strand": "5.2 Civic Engagement in Governance",
+      "Learning Objective": "d) appreciate the role of civic engagement in good governance"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Political Developments and Governance",
+      "Sub-strand": "5.3 Kenya's Bill of Rights",
+      "Learning Objective": "a) identify the rights and fundamental freedoms in the Bill of Rights"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Political Developments and Governance",
+      "Sub-strand": "5.3 Kenya's Bill of Rights",
+      "Learning Objective": "b) explain the importance of the Bill of Rights in Kenyan society"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Political Developments and Governance",
+      "Sub-strand": "5.3 Kenya's Bill of Rights",
+      "Learning Objective": "c) demonstrate respect for the rights of others in society"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Political Developments and Governance",
+      "Sub-strand": "5.3 Kenya's Bill of Rights",
+      "Learning Objective": "d) advocate for protection of human rights in the community"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Political Developments and Governance",
+      "Sub-strand": "5.4 Cultural Globalisation",
+      "Learning Objective": "a) explain the concept of cultural globalisation"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Political Developments and Governance",
+      "Sub-strand": "5.4 Cultural Globalisation",
+      "Learning Objective": "b) analyze the effects of cultural globalisation on Kenyan society"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Political Developments and Governance",
+      "Sub-strand": "5.4 Cultural Globalisation",
+      "Learning Objective": "c) propose strategies for preserving cultural identity in the face of globalisation"
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "Social Studies",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Political Developments and Governance",
+      "Sub-strand": "5.4 Cultural Globalisation",
+      "Learning Objective": "d) appreciate Kenyan culture while embracing positive aspects of globalisation"
+    }
+  ]
+}

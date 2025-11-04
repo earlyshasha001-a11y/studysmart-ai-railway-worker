@@ -1,0 +1,781 @@
+{
+  "curriculum_name": "Agriculture & nutrition grade 9 cbc",
+  "total_lessons": 106,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.1 Conserving Animal Feed: Hay",
+      "Learning Objective": "a) describe methods of conserving forage in coping with drought"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.1 Conserving Animal Feed: Hay",
+      "Learning Objective": "b) conserve forage to cope with drought"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.1 Conserving Animal Feed: Hay",
+      "Learning Objective": "c) adopt conservation of forage in coping with drought"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.2 Conserving Leftover Food",
+      "Learning Objective": "a) explain the importance of conserving leftover food at home"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.2 Conserving Leftover Food",
+      "Learning Objective": "b) prepare leftover food to avoid wastage"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.2 Conserving Leftover Food",
+      "Learning Objective": "c) embrace the use of leftover food to avoid food wastage"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.3 Integrated Farming",
+      "Learning Objective": "a) describe components of integrated farming in conserving resources"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.3 Integrated Farming",
+      "Learning Objective": "b) make a model of integrated farming for the conservation of resources"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.3 Integrated Farming",
+      "Learning Objective": "c) appreciate the importance of integrated farming in the conservation of resources"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.1 Organic Gardening",
+      "Learning Objective": "a) explain organic gardening practises in crop production"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.1 Organic Gardening",
+      "Learning Objective": "b) grow a crop using organic gardening practises"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.1 Organic Gardening",
+      "Learning Objective": "c) appreciate the importance of organic gardening in the production of healthy foods"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.2 Storage of Crop Produce",
+      "Learning Objective": "a) explain ways of preparing storage structures before storing crop produce"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.2 Storage of Crop Produce",
+      "Learning Objective": "b) prepare an existing storage structure in readiness for storing crop produce"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.2 Storage of Crop Produce",
+      "Learning Objective": "c) manage stored crop produce to reduce spoilage"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.2 Storage of Crop Produce",
+      "Learning Objective": "d) show responsibility in managing stored crop produce to reduce spoilage"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.3 Cooking: Using Flour Mixtures",
+      "Learning Objective": "a) identify types of flour mixtures used in food production"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.3 Cooking: Using Flour Mixtures",
+      "Learning Objective": "b) prepare flour mixtures for food production"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.3 Cooking: Using Flour Mixtures",
+      "Learning Objective": "c) make products from various flour mixtures"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.3 Cooking: Using Flour Mixtures",
+      "Learning Objective": "d) appreciate products made from various flour mixtures"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Hygiene Practises",
+      "Sub-strand": "3.1 Cleaning Waste Disposal Facilities",
+      "Learning Objective": "a) explain the importance of cleaning waste disposal facilities"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Hygiene Practises",
+      "Sub-strand": "3.1 Cleaning Waste Disposal Facilities",
+      "Learning Objective": "b) clean waste disposal facilities at the household level"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Hygiene Practises",
+      "Sub-strand": "3.1 Cleaning Waste Disposal Facilities",
+      "Learning Objective": "c) adopt the use of clean waste disposal facilities at the household level"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Hygiene Practises",
+      "Sub-strand": "3.2 Disinfecting Clothing and Household Articles",
+      "Learning Objective": "a) describe methods of disinfecting clothing and household articles"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Hygiene Practises",
+      "Sub-strand": "3.2 Disinfecting Clothing and Household Articles",
+      "Learning Objective": "b) carry out disinfection of clothing and household articles"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Hygiene Practises",
+      "Sub-strand": "3.2 Disinfecting Clothing and Household Articles",
+      "Learning Objective": "c) appreciate the importance of disinfecting clothing and household articles"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Grafting in Plants",
+      "Learning Objective": "a) describe grafting as a method of plant propagation"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Grafting in Plants",
+      "Learning Objective": "b) carry out grafting for various purposes"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Grafting in Plants",
+      "Learning Objective": "c) take care of the grafted plant to ensure successful union"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Grafting in Plants",
+      "Learning Objective": "d) appraise grafting for aesthetics; repair; improvement and rejuvenation purposes"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.2 Homemade Sun Dryer",
+      "Learning Objective": "a) describe how to make a homemade sun dryer for vegetables"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.2 Homemade Sun Dryer",
+      "Learning Objective": "b) construct a homemade sun dryer to preserve vegetables"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.2 Homemade Sun Dryer",
+      "Learning Objective": "c) adopt the use of a homemade sun dryer in the preservation of vegetables"
+    },
+    {
+      "Lesson Number": "1",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.1 Agricultural Land",
+      "Learning Objective": "Describe ways of accessing land for agricultural use including leasing; inheriting; buying and donation"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.1 Agricultural Land",
+      "Learning Objective": "Evaluate utility of land for agricultural and discuss the possible utilities of the different land"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.1 Agricultural Land",
+      "Learning Objective": "Analyse natural factors that determine productivity of land such as climate; altitude; soil factors; topography and biotic factors"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.1 Agricultural Land",
+      "Learning Objective": "Appreciate importance of land in agricultural production"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.2 Properties of soil",
+      "Learning Objective": "Describe physical; chemical and biological properties of soil for crop production"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.2 Properties of soil",
+      "Learning Objective": "Investigate properties of soil for crop production"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.2 Properties of soil",
+      "Learning Objective": "Relate importance of soil profile to crop production"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.2 Properties of soil",
+      "Learning Objective": "Acknowledge importance of soil properties in crop production"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.3 Land Preparation",
+      "Learning Objective": "Describe activities of fallow land preparation to appropriate seedbed (land clearing; primary cultivation; secondary cultivation; tertiary operations)"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.3 Land Preparation",
+      "Learning Objective": "Carry out land preparation operations for selected crop"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.3 Land Preparation",
+      "Learning Objective": "Apply conservation tillage in crop production"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.3 Land Preparation",
+      "Learning Objective": "Appreciate importance land preparation in crop production"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.4 Field Management Practices",
+      "Learning Objective": "Describe management practices of selected vegetable and perennial crops that require cutting back; single stem and multiple stem pruning"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.4 Field Management Practices",
+      "Learning Objective": "Carry out selected management practices in crop production"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.4 Field Management Practices",
+      "Learning Objective": "Appreciate importance of selected management practices in crop production"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.5 Growing Selected Crop",
+      "Learning Objective": "Determine crops that are established through the nursery"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.5 Growing Selected Crop",
+      "Learning Objective": "Grow a selected crop applying appropriate management practices"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.5 Growing Selected Crop",
+      "Learning Objective": "Justify management practice for selected crop"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.6 Crop Protection",
+      "Learning Objective": "Identify weeds in a crop field"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.6 Crop Protection",
+      "Learning Objective": "Classify weeds based on morphology and life cycle"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.6 Crop Protection",
+      "Learning Objective": "Describe methods of weed control (physical; cultural; biological; chemical; legislative methods)"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.6 Crop Protection",
+      "Learning Objective": "Carry out weed control in a crop field using appropriate method (physical; cultural; biological; chemical; integrated methods)"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.6 Crop Protection",
+      "Learning Objective": "Appreciate economic importance of weeds in a farming household"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.7 General Crop Harvesting",
+      "Learning Objective": "Explain factors that determine harvesting of produce (timing; stage of growth; purpose)"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.7 General Crop Harvesting",
+      "Learning Objective": "Carry out the harvesting process for selected crop produce (pre-harvest practices; harvesting and post-harvest practices)"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.7 General Crop Harvesting",
+      "Learning Objective": "Acknowledge the importance of harvesting process in crop production"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.1 Breeds of Livestock",
+      "Learning Objective": "Describe breeds of cattle; pigs; rabbits; sheep and goats based on their uses"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.1 Breeds of Livestock",
+      "Learning Objective": "Distinguish common breed livestock based on their observable characteristics"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.1 Breeds of Livestock",
+      "Learning Objective": "Appreciate diversity of productivity from different livestock breeds"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.2 Animal handling and safety",
+      "Learning Objective": "Examine forms of animal handling in the community"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.2 Animal handling and safety",
+      "Learning Objective": "Describe the structures used to ensure safety in handling domestic animals"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.2 Animal handling and safety",
+      "Learning Objective": "Use tools and equipment to ensure safety in handling domestic animals"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.2 Animal handling and safety",
+      "Learning Objective": "Explain ways of ensuring safety of persons handling domestic animals"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.2 Animal handling and safety",
+      "Learning Objective": "Participate in promoting safety of domestic animal in the community"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.3 General Animal Health",
+      "Learning Objective": "Explain the benefits of keeping animals healthy in livestock production"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.3 General Animal Health",
+      "Learning Objective": "Identify signs of ill health in livestock production"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.3 General Animal Health",
+      "Learning Objective": "Propose general control measures of ill health in livestock production"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.3 General Animal Health",
+      "Learning Objective": "Adopt practices that maintain animal health in livestock production"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.4 Bee Keeping",
+      "Learning Objective": "Explain the factors to consider in siting an apiary"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.4 Bee Keeping",
+      "Learning Objective": "Describe the process of stocking a hive"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.4 Bee Keeping",
+      "Learning Objective": "Carry out safe apiary management practices"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.4 Bee Keeping",
+      "Learning Objective": "Demonstrate honey harvesting process"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5 Animal Rearing Project",
+      "Learning Objective": "Develop a project plan on rearing a selected animal (mammals; birds; insects)"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5 Animal Rearing Project",
+      "Learning Objective": "Prepare a budget for the animal rearing project"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5 Animal Rearing Project",
+      "Learning Objective": "Implement the plan for the animal rearing project"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5 Animal Rearing Project",
+      "Learning Objective": "Carry out routine management practices on the animal rearing project"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5 Animal Rearing Project",
+      "Learning Objective": "Evaluate the animal rearing practices carried out in the project"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1 Tools and Equipment",
+      "Learning Objective": "Identify tools and equipment used for various agricultural tasks (gardening tasks; livestock production tasks; assembling and dissembling tasks)"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1 Tools and Equipment",
+      "Learning Objective": "Carry out various agricultural tasks using appropriate tools and equipment"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1 Tools and Equipment",
+      "Learning Objective": "Carry out appropriate maintenance practices on selected tools and equipment"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1 Tools and Equipment",
+      "Learning Objective": "Apply safety measures in the use of tools and equipment"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1 Tools and Equipment",
+      "Learning Objective": "Acknowledge importance of maintaining tools and equipment for efficient working"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2 Product Processing and Value Addition",
+      "Learning Objective": "Suggest methods of value addition for selected agricultural produce"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2 Product Processing and Value Addition",
+      "Learning Objective": "Carry out processing of agricultural produce of plant origin such as vegetables; nuts; fruits; cereals; tubers and pulses into Jam; butter; marmalade; ketchup; juices; flour; puree/concentrate of semi-solid fruit extracts; crisps among others"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2 Product Processing and Value Addition",
+      "Learning Objective": "Carry out processing of agricultural produce of animal origin such as honey; milk; hides and skins; meat or fish"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2 Product Processing and Value Addition",
+      "Learning Objective": "Carry out home-based packaging and branding of processed agricultural products"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2 Product Processing and Value Addition",
+      "Learning Objective": "Design innovative value addition equipment for agricultural produce"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2 Product Processing and Value Addition",
+      "Learning Objective": "Appraise ethical issues in the processing and value addition processes"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.3 Establishing Agricultural Enterprise",
+      "Learning Objective": "Explain factors of production in an agricultural enterprise (land/space; labour; entrepreneurship; capital)"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.3 Establishing Agricultural Enterprise",
+      "Learning Objective": "Propose ways of acquiring capital to establish an agricultural enterprise such as borrowing; savings; disposing-off assets; grants and donations"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.3 Establishing Agricultural Enterprise",
+      "Learning Objective": "Examine factors to consider in selecting an agricultural enterprise"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.3 Establishing Agricultural Enterprise",
+      "Learning Objective": "Evaluate sources of support services for agricultural enterprise"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.3 Establishing Agricultural Enterprise",
+      "Learning Objective": "Appreciate role of various factors of production in establishing an agricultural enterprise"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.4 Marketing agricultural produce",
+      "Learning Objective": "Describe ways of preparing agricultural produce for marketing such as weighing; sorting; grading; packaging; branding and labeling"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.4 Marketing agricultural produce",
+      "Learning Objective": "Prepare agricultural produce for marketing"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.4 Marketing agricultural produce",
+      "Learning Objective": "Discuss market outlets for agricultural produce (digital platforms and physical market outlets)"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.4 Marketing agricultural produce",
+      "Learning Objective": "Evaluate expenses incurred in marketing agricultural produce such as transportation costs; advertisement costs; market authority charges and taxes"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.4 Marketing agricultural produce",
+      "Learning Objective": "Appreciate the importance of preparing agricultural produce for marketing"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.5 Composting Techniques",
+      "Learning Objective": "Describe composting methods (conventional methods; innovative methods) and appropriate materials for composting at farm level"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.5 Composting Techniques",
+      "Learning Objective": "Examine factors that influence quality of compost (materials; process of composting; storage)"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.5 Composting Techniques",
+      "Learning Objective": "Carry out conventional composting methods for production of organic manure through pit and heap methods"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.5 Composting Techniques",
+      "Learning Objective": "Carry out innovative composting such as vermi-composting and containerized composting for production of organic manure"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "Agriculture",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.5 Composting Techniques",
+      "Learning Objective": "Appreciate role of composting in soil improvement"
+    }
+  ]
+}

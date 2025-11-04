@@ -1,0 +1,990 @@
+{
+  "curriculum_name": "Maths grade 1 cbc",
+  "total_lessons": 123,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Pre-Number Activities",
+      "Learning Objective": "a) sort objects according to similar attributes in different situations"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Pre-Number Activities",
+      "Learning Objective": "b) match objects with similar attributes in the environment"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Pre-Number Activities",
+      "Learning Objective": "c) order objects according to given criteria in different situations"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Pre-Number Activities",
+      "Learning Objective": "d) create patterns of different sizes and shapes using real objects"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Whole Numbers",
+      "Learning Objective": "a) count numbers forward up to 50"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Whole Numbers",
+      "Learning Objective": "b) count numbers backwards from 30"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Whole Numbers",
+      "Learning Objective": "c) represent numbers 1 to 30 using concrete objects"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Whole Numbers",
+      "Learning Objective": "d) read and write numbers 1 to 50 in symbols"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Whole Numbers",
+      "Learning Objective": "e) read and write numbers 1 to 10 in words"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Whole Numbers",
+      "Learning Objective": "f) identify missing numbers in number patterns up to 20"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Whole Numbers",
+      "Learning Objective": "g) appreciate number patterns by creating and extending patterns during play activities"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Addition",
+      "Learning Objective": "a) model addition as putting objects together"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Addition",
+      "Learning Objective": "b) use ' +' and ' =' signs in writing addition statements"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Addition",
+      "Learning Objective": "c) add 2 single digit numbers in different situations"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Addition",
+      "Learning Objective": "d) add 3 single digit numbers in different contexts"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Addition",
+      "Learning Objective": "e) add a 2 digit number to a 1 digit number without regrouping with sum not exceeding 50"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Addition",
+      "Learning Objective": "f) work out missing numbers in patterns involving addition of whole numbers up to 50"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Addition",
+      "Learning Objective": "g) play games involving addition using digital devices or other resources"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Subtraction",
+      "Learning Objective": "a) model subtraction as 'taking away' using concrete objects"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Subtraction",
+      "Learning Objective": "b) use the ' - ' and '=' signs in writing subtraction sentences"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Subtraction",
+      "Learning Objective": "c) subtract single digit numbers"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Subtraction",
+      "Learning Objective": "d) subtract a 1 digit number from a 2 digit number without regrouping"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Subtraction",
+      "Learning Objective": "e) work out missing numbers in patterns involving subtraction of whole numbers up to 50"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Subtraction",
+      "Learning Objective": "f) play games involving subtraction using digital devices and other resources"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "a) collect objects of different lengths from the immediate environment"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "b) compare length of objects using longer than; shorter than and same as"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "c) measure length using arbitrary units"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "d) appreciate measuring length using arbitrary units"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.2 Mass",
+      "Learning Objective": "a) collect objects with different mass from the immediate environment"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.2 Mass",
+      "Learning Objective": "b) compare mass of two objects using heavier than; lighter than or same as"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.2 Mass",
+      "Learning Objective": "c) measure mass using arbitrary units"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.2 Mass",
+      "Learning Objective": "d) appreciate measuring mass using arbitrary units in the environment"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Capacity",
+      "Learning Objective": "a) collect containers of different capacities from the immediate environment"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Capacity",
+      "Learning Objective": "b) compare capacity of two containers using more than; less than and same as"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Capacity",
+      "Learning Objective": "c) measure capacity using arbitrary units"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Capacity",
+      "Learning Objective": "d) re-use empty containers of different capacities to keep items"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Time",
+      "Learning Objective": "a) identify days of the week"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Time",
+      "Learning Objective": "b) relate days of the week to various activities"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Time",
+      "Learning Objective": "c) identify months of the year"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Time",
+      "Learning Objective": "d) appreciate activities that are done on different days of the week"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Money",
+      "Learning Objective": "a) identify Kenyan currency coins"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Money",
+      "Learning Objective": "b) identify Kenyan currency note up to sh.50"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Money",
+      "Learning Objective": "c) count Kenyan currency coins one at a time"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Money",
+      "Learning Objective": "d) use money in buying items without balance"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Money",
+      "Learning Objective": "e) appreciate the use of money in buying items from shops"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "a) identify straight lines in different situations"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "b) draw straight lines on different surfaces"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "c) identify curved lines in different situations"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "d) draw curved lines on different surfaces"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "e) recognise straight and curved lines from real objects in the environment"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Shapes",
+      "Learning Objective": "a) identify rectangles; triangles and circles in objects from the environment"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Shapes",
+      "Learning Objective": "b) make patterns involving rectangles; triangles; and circles"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Mathematics",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Shapes",
+      "Learning Objective": "c) appreciate the beauty of patterns in different fabrics"
+    },
+    {
+      "Lesson Number": "1",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Number Concept",
+      "Learning Objective": "a) identify numbers 1 to 100 in symbols in different situations"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Number Concept",
+      "Learning Objective": "b) represent numbers 1 to 100 using concrete objects from the environment"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Number Concept",
+      "Learning Objective": "c) play number games using number cards or digital devices"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Number Concept",
+      "Learning Objective": "d) appreciate the use of numbers in real life situations"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Whole Numbers",
+      "Learning Objective": "a) count numbers forward up to 100 in different situations"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Whole Numbers",
+      "Learning Objective": "b) count numbers backward from number 50"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Whole Numbers",
+      "Learning Objective": "c) read and write numbers 1 to 100 in symbols in different situations"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Whole Numbers",
+      "Learning Objective": "d) identify the place value of numbers in ones and tens"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Whole Numbers",
+      "Learning Objective": "e) read and write numbers 1 to 20 in words"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Whole Numbers",
+      "Learning Objective": "f) work out missing numbers in number patterns up to 100"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Whole Numbers",
+      "Learning Objective": "g) appreciate number patterns in playing number games"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Addition",
+      "Learning Objective": "a) add a 2 digit number to a 1 digit number without and with regrouping with sum not exceeding 100"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Addition",
+      "Learning Objective": "b) add a 2 digit number to a 2 digit number without and with regrouping; with sum not exceeding 100"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Addition",
+      "Learning Objective": "c) add two multiples of 10 whose sum does not exceed 100"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Addition",
+      "Learning Objective": "d) work out missing numbers in patterns involving addition of whole numbers up to 100"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Addition",
+      "Learning Objective": "e) appreciate the addition of numbers in real life situations"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Subtraction",
+      "Learning Objective": "a) subtract a 1 digit number from a 2 digit number without regrouping"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Subtraction",
+      "Learning Objective": "b) subtract a 2 digit number from a 2 digit number without and with regrouping"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Subtraction",
+      "Learning Objective": "c) subtract a lower multiple of 10 from a higher multiple of 10"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Subtraction",
+      "Learning Objective": "d) work out missing numbers in patterns involving subtraction up to 100"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Subtraction",
+      "Learning Objective": "e) appreciate subtraction of numbers in real life situations"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Multiplication",
+      "Learning Objective": "a) represent multiplication as repeated addition using numbers 1; 2; 3; by 2 and 3"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Multiplication",
+      "Learning Objective": "b) write repeated addition sentences as multiplication using ‘×’ sign"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Multiplication",
+      "Learning Objective": "c) multiply 1 digit numbers by 1; 2; 3; 4 and 5"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Multiplication",
+      "Learning Objective": "d) multiply 1 digit numbers by 10"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Multiplication",
+      "Learning Objective": "e) appreciate arranging objects in groups of 3’s; 4’s; 5’s and 10’s in real life situations"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Division",
+      "Learning Objective": "a) represent division as equal sharing up to number 20 by 2"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Division",
+      "Learning Objective": "b) represent division as equal grouping of numbers up to 25 by 3"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Division",
+      "Learning Objective": "c) use '÷' sign in writing division statements"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Division",
+      "Learning Objective": "d) divide numbers up to 25 by 4 and 5 without a remainder"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Division",
+      "Learning Objective": "e) appreciate the application of division of numbers in real life situations"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.7 Fractions",
+      "Learning Objective": "a) identify a ½ as part of a whole in different situations"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.7 Fractions",
+      "Learning Objective": "b) identify a ¼ as part of a whole in different situations"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.7 Fractions",
+      "Learning Objective": "c) use fractions in day-to-day activities"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.7 Fractions",
+      "Learning Objective": "d) appreciate the application of fractions in daily life activities"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "a) measure length using fixed units"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "b) identify the metre as a unit of measuring length"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "c) measure length in metres"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "d) appreciate measuring length using fixed units in real life situations"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.2 Mass",
+      "Learning Objective": "a) measure mass using fixed units"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.2 Mass",
+      "Learning Objective": "b) identify the kilogram as a unit of measuring mass"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.2 Mass",
+      "Learning Objective": "c) measure mass of different objects in kilograms"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.2 Mass",
+      "Learning Objective": "d) appreciate measuring mass using fixed units in real life situations"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Capacity",
+      "Learning Objective": "a) measure capacity using fixed units"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Capacity",
+      "Learning Objective": "b) identify the litre as a unit of measuring capacity"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Capacity",
+      "Learning Objective": "c) measure capacity in litres"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Capacity",
+      "Learning Objective": "d) appreciate measuring capacity in litres using improvised containers in real life situations"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Time",
+      "Learning Objective": "a) relate the months of the year to special occasions"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Time",
+      "Learning Objective": "b) recite the number of days in each month of the year"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Time",
+      "Learning Objective": "c) read the calendar in terms of day and date"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Time",
+      "Learning Objective": "d) measure time using arbitrary units"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Time",
+      "Learning Objective": "e) identify the minute and hour hand in clock face"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Time",
+      "Learning Objective": "f) read time by the hour from the clock face"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Time",
+      "Learning Objective": "g) write time by the hour shown by an analogue and digital clock"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Time",
+      "Learning Objective": "h) appreciate keeping time in day-to-day activities"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Money",
+      "Learning Objective": "a) identify Kenyan currency coins and notes up to sh.100"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Money",
+      "Learning Objective": "b) count the number of sh.10 and sh.20 coins in different situations"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Money",
+      "Learning Objective": "c) count the number of sh.50 and sh.100 notes in different situations"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Money",
+      "Learning Objective": "d) add two denominations of money with a sum not exceeding sh.100"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Money",
+      "Learning Objective": "e) use money to buy up to 3 items without balance"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Money",
+      "Learning Objective": "f) appreciate the use of money in buying items"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "a) model straight lines in different ways"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "b) draw straight lines in different ways"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "c) model curved lines in different ways"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "d) draw curved lines in different situations"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "e) appreciate the use of lines in real life situations"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Shapes",
+      "Learning Objective": "a) identify different shapes in the environment"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Shapes",
+      "Learning Objective": "b) draw shapes in different ways"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Shapes",
+      "Learning Objective": "c) draw patterns involving different shapes"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Mathematics",
+      "Grade": "Grade 2",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Shapes",
+      "Learning Objective": "d) appreciate the use of shapes in forming patterns in fabrics"
+    }
+  ]
+}

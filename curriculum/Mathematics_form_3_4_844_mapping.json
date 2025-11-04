@@ -1,0 +1,230 @@
+{
+  "curriculum_name": "Mathematics form 3-4 844",
+  "total_lessons": 32,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.0 Statistics I",
+      "Learning Objective": "Define statistics"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.0 Statistics I",
+      "Learning Objective": "Collect and organise data"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.0 Statistics I",
+      "Learning Objective": "Draw a frequency distribution table"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.0 Statistics I",
+      "Learning Objective": "Group data into reasonable classes"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.0 Statistics I",
+      "Learning Objective": "Calculate measures of central tendency"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.0 Statistics I",
+      "Learning Objective": "Represent data in form of line graphs"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.0 Statistics I",
+      "Learning Objective": "Represent data in form of bar graphs"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.0 Statistics I",
+      "Learning Objective": "Represent data in form of pie charts"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.0 Statistics I",
+      "Learning Objective": "Represent data in form of pictograms"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.0 Statistics I",
+      "Learning Objective": "Represent data in form of histograms"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.0 Statistics I",
+      "Learning Objective": "Represent data in form of frequency polygons"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.0 Statistics I",
+      "Learning Objective": "Interpret data from real life situations"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.1 Statistics (1)",
+      "Learning Objective": "State the measures of central tendency"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.1 Statistics (1)",
+      "Learning Objective": "Calculate the mean using the assumed mean method"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.1 Statistics (1)",
+      "Learning Objective": "Make cumulative frequency table"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.1 Statistics (1)",
+      "Learning Objective": "Estimate the median and the quartiles by calculation"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.1 Statistics (1)",
+      "Learning Objective": "Estimate the median and the quartiles using ogive"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.1 Statistics (1)",
+      "Learning Objective": "Define and calculate the measures of dispersion: range"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.1 Statistics (1)",
+      "Learning Objective": "Define and calculate the measures of dispersion: quartiles"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.1 Statistics (1)",
+      "Learning Objective": "Define and calculate the measures of dispersion: interquartile range"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.1 Statistics (1)",
+      "Learning Objective": "Define and calculate the measures of dispersion: quartile deviation"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.1 Statistics (1)",
+      "Learning Objective": "Define and calculate the measures of dispersion: variance"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.1 Statistics (1)",
+      "Learning Objective": "Define and calculate the measures of dispersion: standard deviation"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.1 Statistics (1)",
+      "Learning Objective": "Interpret measures of dispersion"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.2 Statistics (2)",
+      "Learning Objective": "Define probability"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.2 Statistics (2)",
+      "Learning Objective": "Determine probability from experiments and real life situations"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.2 Statistics (2)",
+      "Learning Objective": "Construct a probability space"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.2 Statistics (2)",
+      "Learning Objective": "Determine theoretical probability"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.2 Statistics (2)",
+      "Learning Objective": "Differentiate between discrete and continuous probability"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.2 Statistics (2)",
+      "Learning Objective": "Differentiate mutually exclusive and independent events"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.2 Statistics (2)",
+      "Learning Objective": "State and apply laws of probability"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Mathematics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.14.2 Statistics (2)",
+      "Learning Objective": "Use a tree diagram to determine probabilities"
+    }
+  ]
+}

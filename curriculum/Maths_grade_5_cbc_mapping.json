@@ -1,0 +1,982 @@
+{
+  "curriculum_name": "Maths grade 5 cbc",
+  "total_lessons": 122,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "a) use place value and total value of digits up to hundreds of thousands in real life"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "b) use numbers up to hundreds of thousands in symbols in real life"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "c) read; write and relate numbers up to tens of thousands in words in real life"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "d) order numbers up to tens of thousands in real life"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "e) round off numbers up to tens of thousands to the nearest hundred and thousand in different situations"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "f) apply divisibility tests of 2; 5 and 10 in real life"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "g) apply highest Common Factor (HCF) and Greatest Common Divisor (GCD) in different situations"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "h) use Least Common Multiple (LCM) in real life situations"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "i) appreciate use of whole numbers in real life situations"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Addition",
+      "Learning Objective": "a) add up to three 6-digit numbers without regrouping up to a sum of 1;000 000 in different situations"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Addition",
+      "Learning Objective": "b) add up to two 6-digit numbers with double regrouping up to a sum of 1;000 000"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Addition",
+      "Learning Objective": "c) estimate sum by rounding off the addends to the nearest hundred and thousand in different situations"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Addition",
+      "Learning Objective": "d) create patterns involving addition of numbers up to a sum of 1;000 000 in real life situations"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Addition",
+      "Learning Objective": "e) appreciate use of addition of whole numbers in real life situations"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Subtraction",
+      "Learning Objective": "a) subtract up to 6-digit numbers without regrouping in real life situations"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Subtraction",
+      "Learning Objective": "b) subtract of up to 6-digit numbers with regrouping in different situations"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Subtraction",
+      "Learning Objective": "c) estimate difference by rounding off the minuend and subtrahend to the nearest hundred and thousand in different situations"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Subtraction",
+      "Learning Objective": "d) perform combined operations involving addition and subtraction in different situations"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Subtraction",
+      "Learning Objective": "e) create patterns involving subtraction from up to 1;000 000 in different situations"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Subtraction",
+      "Learning Objective": "f) appreciate subtraction of numbers in real life situations"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Multiplication",
+      "Learning Objective": "a) multiply up to a 3-digit number by up to a 2-digit number in real life situations"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Multiplication",
+      "Learning Objective": "b) estimate product by rounding off numbers to the nearest ten in different situations"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Multiplication",
+      "Learning Objective": "c) make patterns involving multiplication of numbers with product not exceeding 100 in different situations"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Multiplication",
+      "Learning Objective": "d) appreciate use of multiplication in real life"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Division",
+      "Learning Objective": "a) divide up to a 3-digit number by up to a 2-digit number where the dividend is greater than the divisor in real life"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Division",
+      "Learning Objective": "b) apply the relationship between multiplication and division in different situations"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Division",
+      "Learning Objective": "c) estimate quotients by rounding off the dividend and divisor to the nearest ten in real life situations"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Division",
+      "Learning Objective": "d) perform combined operations involving addition; subtraction; multiplication and division of whole numbers in different situations"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Division",
+      "Learning Objective": "e) appreciate use of division of whole numbers in real life situations"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Fractions",
+      "Learning Objective": "a) simplify fractions in different situations"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Fractions",
+      "Learning Objective": "b) compare fractions in order to make decisions in real life"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Fractions",
+      "Learning Objective": "c) order fractions with denominators not exceeding 12 in different situations"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Fractions",
+      "Learning Objective": "d) add fractions with same denominator in different situations"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Fractions",
+      "Learning Objective": "e) subtract fractions with same denominator in different situations"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Fractions",
+      "Learning Objective": "f) add fractions with one renaming in different situations"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Fractions",
+      "Learning Objective": "g) subtract fractions with one renaming in different situations"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Fractions",
+      "Learning Objective": "h) appreciate the use of fractions in real life"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.7 Decimals",
+      "Learning Objective": "a) identify place value of decimals up to thousandths in different situations"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.7 Decimals",
+      "Learning Objective": "b) order decimals up to thousandths in different situations"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.7 Decimals",
+      "Learning Objective": "c) add decimals up to thousandths in real life situations"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.7 Decimals",
+      "Learning Objective": "d) subtract decimals up to thousandths in real life situations"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.7 Decimals",
+      "Learning Objective": "e) appreciate use of decimals in real life situations"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.8 Simple Equations",
+      "Learning Objective": "a) form simple equations with one unknown involving real life situations"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.8 Simple Equations",
+      "Learning Objective": "b) solve simple equations with one unknown involving real life situations"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.8 Simple Equations",
+      "Learning Objective": "c) appreciate use of equations in solving problems in real life"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "a) identify the kilometre (km) as a unit of measuring length in real life"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "b) estimate distance in kilometres in real life situations"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "c) identify the relationship between the kilometre (km) and the metre (m) in different situations"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "d) convert kilometres to metres and metres to kilometres in real life situations"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "e) add metres and kilometres in real life situations"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "f) subtract metres and kilometres in real life situations"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "g) multiply metres and kilometres by whole numbers in real life situations"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "h) divide metres and kilometres by whole numbers in real life situations"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "i) appreciate the use of kilometres and metres in measuring length in real life"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.2 Area",
+      "Learning Objective": "a) use the square centimetre (cm2) as a unit of measuring area in real life"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.2 Area",
+      "Learning Objective": "b) work out area of rectangles and squares in square centimetres (cm2) in different situations"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.2 Area",
+      "Learning Objective": "c) appreciate the use of cm2 in working out area in real life"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Volume",
+      "Learning Objective": "a) identify the cubic centimetre (cm3) as a unit of measuring volume in different situations"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Volume",
+      "Learning Objective": "b) derive the formula for the volume of cuboid as v= l x w x h practically"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Volume",
+      "Learning Objective": "c) work out volume of cuboids in cubic centimetres (cm3) using the formula"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Volume",
+      "Learning Objective": "d) derive the formula for the volume of cube as v= s x s x s practically"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Volume",
+      "Learning Objective": "e) work out volume of cubes in cubic centimetres (cm3) using the formula"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Volume",
+      "Learning Objective": "f) appreciate use of cubic centimetres in measuring volume in real life"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Capacity",
+      "Learning Objective": "a) identify the millilitre as a unit of measuring capacity in real life"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Capacity",
+      "Learning Objective": "b) measure capacity in millilitres in real life situations"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Capacity",
+      "Learning Objective": "c) estimate and measure capacity in multiples of 5 millilitres in different situations"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Capacity",
+      "Learning Objective": "d) identify the relationship between litres and millilitres in real life"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Capacity",
+      "Learning Objective": "e) convert litres to millilitres and millilitres to litres in real life situations"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Capacity",
+      "Learning Objective": "f) add litres and millilitres in real life situations"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Capacity",
+      "Learning Objective": "g) subtract litres and millilitres in real life situations"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Capacity",
+      "Learning Objective": "h) multiply litres and millilitres by whole numbers in real life situations"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Capacity",
+      "Learning Objective": "i) divide litres and millilitres by whole numbers in different situations"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Capacity",
+      "Learning Objective": "j) appreciate use of millilitres in measuring capacity in real life"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Mass",
+      "Learning Objective": "a) identify the gram as a unit of measuring mass in real life"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Mass",
+      "Learning Objective": "b) measure mass in grams in different situations"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Mass",
+      "Learning Objective": "c) estimate and measure mass in grams in different situations"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Mass",
+      "Learning Objective": "d) identify the relationship between the kilogram and the gram in real life situations"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Mass",
+      "Learning Objective": "e) convert kilograms to grams and grams to kilograms in real life situations"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Mass",
+      "Learning Objective": "f) add grams and kilograms in real life situations"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Mass",
+      "Learning Objective": "g) subtract grams and kilograms in real life situations"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Mass",
+      "Learning Objective": "h) multiply grams and kilogram by whole numbers in real life situations"
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Mass",
+      "Learning Objective": "i) divide grams and kilograms by whole numbers in real life situations"
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Mass",
+      "Learning Objective": "j) appreciate use of kilograms and grams in measuring mass in real life"
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.6 Time",
+      "Learning Objective": "a) identify the second as a unit of measuring time through second hand"
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.6 Time",
+      "Learning Objective": "b) identify the relationship between the minute and the second in real life situations"
+    },
+    {
+      "Lesson Number": "86",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.6 Time",
+      "Learning Objective": "c) convert minutes to seconds and seconds to minutes in real life"
+    },
+    {
+      "Lesson Number": "87",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.6 Time",
+      "Learning Objective": "d) add minutes and seconds with conversion in real life situations"
+    },
+    {
+      "Lesson Number": "88",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.6 Time",
+      "Learning Objective": "e) subtract minutes and seconds with conversion in real life situations"
+    },
+    {
+      "Lesson Number": "89",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.6 Time",
+      "Learning Objective": "f) multiply minutes and seconds by whole numbers in real life situations"
+    },
+    {
+      "Lesson Number": "90",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.6 Time",
+      "Learning Objective": "g) divide minutes and seconds by whole numbers in real life situations"
+    },
+    {
+      "Lesson Number": "91",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.6 Time",
+      "Learning Objective": "h) use digital devices and other resources to read time in seconds from a clock"
+    },
+    {
+      "Lesson Number": "92",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.6 Time",
+      "Learning Objective": "i) appreciate use of minutes and seconds as units of measuring time in real life situations"
+    },
+    {
+      "Lesson Number": "93",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.7 Money",
+      "Learning Objective": "a) explain the term budget in real life situations"
+    },
+    {
+      "Lesson Number": "94",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.7 Money",
+      "Learning Objective": "b) identify the importance of a budget in real life"
+    },
+    {
+      "Lesson Number": "95",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.7 Money",
+      "Learning Objective": "c) explain meaning of tax in real life"
+    },
+    {
+      "Lesson Number": "96",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.7 Money",
+      "Learning Objective": "d) identify importance of tax to the governments"
+    },
+    {
+      "Lesson Number": "97",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.7 Money",
+      "Learning Objective": "e) identify services provided by banks in real life situations"
+    },
+    {
+      "Lesson Number": "98",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.7 Money",
+      "Learning Objective": "f) identify factors to consider in order to save wisely"
+    },
+    {
+      "Lesson Number": "99",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.7 Money",
+      "Learning Objective": "g) appreciate use of budgeting; bank services and payment of taxes in real life"
+    },
+    {
+      "Lesson Number": "100",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "a) identify horizontal and vertical lines in different situations"
+    },
+    {
+      "Lesson Number": "101",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "b) draw horizontal and vertical lines in different salutations"
+    },
+    {
+      "Lesson Number": "102",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "c) identify perpendicular lines in different situations"
+    },
+    {
+      "Lesson Number": "103",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "d) draw perpendicular lines different salutations"
+    },
+    {
+      "Lesson Number": "104",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "e) identify parallel lines different situations"
+    },
+    {
+      "Lesson Number": "105",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "f) draw parallel lines in different salutations"
+    },
+    {
+      "Lesson Number": "106",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Lines",
+      "Learning Objective": "g) appreciate use of various types of lines in real life"
+    },
+    {
+      "Lesson Number": "107",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Angles",
+      "Learning Objective": "a) relate a turn to angles in real life"
+    },
+    {
+      "Lesson Number": "108",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Angles",
+      "Learning Objective": "b) read a protractor as a tool for measuring angles"
+    },
+    {
+      "Lesson Number": "109",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Angles",
+      "Learning Objective": "c) use protractor to angles in different situations"
+    },
+    {
+      "Lesson Number": "110",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Angles",
+      "Learning Objective": "d) identify the degree as a unit of measuring angle"
+    },
+    {
+      "Lesson Number": "111",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Angles",
+      "Learning Objective": "e) measure angles in degrees in different situations"
+    },
+    {
+      "Lesson Number": "112",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Angles",
+      "Learning Objective": "f) identify the use of angles in the environment"
+    },
+    {
+      "Lesson Number": "113",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Angles",
+      "Learning Objective": "g) appreciate the use of angles in our day-to-day life"
+    },
+    {
+      "Lesson Number": "114",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.3 3-D Objects",
+      "Learning Objective": "a) describe 3-D objects in the environment"
+    },
+    {
+      "Lesson Number": "115",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.3 3-D Objects",
+      "Learning Objective": "b) describe 2-D shapes in 3-D objects in the environment"
+    },
+    {
+      "Lesson Number": "116",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.3 3-D Objects",
+      "Learning Objective": "c) appreciate the use of 3-D objects in the environment"
+    },
+    {
+      "Lesson Number": "117",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Data Handling",
+      "Sub-strand": "4.1 Data Representation",
+      "Learning Objective": "a) collect data of about 30 items relating to real experiences"
+    },
+    {
+      "Lesson Number": "118",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Data Handling",
+      "Sub-strand": "4.1 Data Representation",
+      "Learning Objective": "b) draw a table to record data from real life"
+    },
+    {
+      "Lesson Number": "119",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Data Handling",
+      "Sub-strand": "4.1 Data Representation",
+      "Learning Objective": "c) draw tally marks of the collected and any data"
+    },
+    {
+      "Lesson Number": "120",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Data Handling",
+      "Sub-strand": "4.1 Data Representation",
+      "Learning Objective": "d) prepare a frequency table to represent data"
+    },
+    {
+      "Lesson Number": "121",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Data Handling",
+      "Sub-strand": "4.1 Data Representation",
+      "Learning Objective": "e) interpret data represented by frequency tables"
+    },
+    {
+      "Lesson Number": "122",
+      "Subject": "Mathematics",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Data Handling",
+      "Sub-strand": "4.1 Data Representation",
+      "Learning Objective": "f) appreciate use frequency tables in real life"
+    }
+  ]
+}

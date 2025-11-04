@@ -1,0 +1,502 @@
+{
+  "curriculum_name": "Geography grade 10 cbc",
+  "total_lessons": 62,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.1 Introduction to Geography",
+      "Learning Objective": "a) analyse the branches of Geography for in-depth understanding of the subject"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.1 Introduction to Geography",
+      "Learning Objective": "b) examine the importance of studying Geography for sustainable development"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.1 Introduction to Geography",
+      "Learning Objective": "c) explore the relationship between Geography and other disciplines for identification of career pathways"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.1 Introduction to Geography",
+      "Learning Objective": "d) select possible careers from branches of Geography in the society"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.1 Introduction to Geography",
+      "Learning Objective": "e) appreciate the significance of Geography in day-to-today life"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.2 Map Reading and Interpretation",
+      "Learning Objective": "a) illustrate the various methods of representing relief on topographical maps"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.2 Map Reading and Interpretation",
+      "Learning Objective": "b) interpret relief; drainage and vegetation on topographical maps for resource mapping"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.2 Map Reading and Interpretation",
+      "Learning Objective": "c) draw sketch sections from topographical maps for interpreting relief"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.2 Map Reading and Interpretation",
+      "Learning Objective": "d) appreciate the use of map reading and interpretation skills for national development"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.3 Statistical Methods",
+      "Learning Objective": "a) analyse the importance of statistics in Geography"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.3 Statistical Methods",
+      "Learning Objective": "b) explore the limitations of statistics in explaining geographical facts"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.3 Statistical Methods",
+      "Learning Objective": "c) examine the methods of data collection; analysis and presentation in geographical studies"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.3 Statistical Methods",
+      "Learning Objective": "d) collect; analyse; interpret and present statistical data on a Geographical phenomenon"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.3 Statistical Methods",
+      "Learning Objective": "e) appreciate the importance of statistics in day-to-day life"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.4 Geographic Information System (GIS)",
+      "Learning Objective": "a) explain Geographic Information Systems (GIS); Global Positioning System (GPS) and Remote Sensing (RS) as geospatial technologies"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.4 Geographic Information System (GIS)",
+      "Learning Objective": "b) describe components of GIS as used in geo-referencing information"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.4 Geographic Information System (GIS)",
+      "Learning Objective": "c) examine the importance of GIS in geographical studies"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.4 Geographic Information System (GIS)",
+      "Learning Objective": "d) apply GIS in locating key features in the locality"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "1.0 Practical Geography",
+      "Sub-strand": "1.4 Geographic Information System (GIS)",
+      "Learning Objective": "e) acknowledge the importance of GIS in day-to-day life"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.1 Rocks",
+      "Learning Objective": "a) examine the classification of rocks according to the mode of formation and age"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.1 Rocks",
+      "Learning Objective": "b) describe the distribution of rocks in Kenya"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.1 Rocks",
+      "Learning Objective": "c) analyse the significance of rocks in Kenya"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.1 Rocks",
+      "Learning Objective": "d) sample rock types in your locality"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.1 Rocks",
+      "Learning Objective": "e) appreciate the significance of rocks in Kenya"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.2 Folding",
+      "Learning Objective": "a) distinguish the types of folds resulting from tectonic forces"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.2 Folding",
+      "Learning Objective": "b) describe the resultant features of folding on the Earth's surface"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.2 Folding",
+      "Learning Objective": "c) analyse the significance of folding and the resultant features"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.2 Folding",
+      "Learning Objective": "d) illustrate the distribution of fold mountains in the world"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.2 Folding",
+      "Learning Objective": "e) appreciate the influence of folding and the resultant features on human activities"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.3 Vulcanicity",
+      "Learning Objective": "a) investigate the causes of vulcanicity in the Earth"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.3 Vulcanicity",
+      "Learning Objective": "b) describe features resulting from vulcanic activities in the world"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.3 Vulcanicity",
+      "Learning Objective": "c) illustrate the global distribution of features due to vulcanicity"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.3 Vulcanicity",
+      "Learning Objective": "d) examine the significance of vulcanicity on human activities"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.3 Vulcanicity",
+      "Learning Objective": "e) acknowledge the effects of vulcanicity on the environment"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.4 Earthquakes",
+      "Learning Objective": "a) examine causes of earthquakes on Earth"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.4 Earthquakes",
+      "Learning Objective": "b) illustrate the distribution of earthquake zones in the world"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.4 Earthquakes",
+      "Learning Objective": "c) investigate the effects of earthquakes on the environment"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.4 Earthquakes",
+      "Learning Objective": "d) design disaster preparedness and management strategies for coping with effects of earthquakes"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "2.0 Natural Systems and Processes",
+      "Sub-strand": "2.4 Earthquakes",
+      "Learning Objective": "e) appreciate the understanding of earthquakes for disaster preparedness and management"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.1 Agriculture",
+      "Learning Objective": "a) explore types of agriculture in the world"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.1 Agriculture",
+      "Learning Objective": "b) explain the importance of agriculture in the society"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.1 Agriculture",
+      "Learning Objective": "c) analyse the trends in agriculture in Africa"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.1 Agriculture",
+      "Learning Objective": "d) examine challenges facing agriculture in Kenya"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.1 Agriculture",
+      "Learning Objective": "e) design strategies towards enhancing agricultural productivity in Kenya"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.1 Agriculture",
+      "Learning Objective": "f) appreciate the role of agriculture towards food security in Kenya"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.2 Mining",
+      "Learning Objective": "a) examine the factors influencing occurrence and exploitation of minerals"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.2 Mining",
+      "Learning Objective": "b) describe the methods used in extraction of minerals in the world"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.2 Mining",
+      "Learning Objective": "c) explore the mining of limestone in Kenya; diamond in Botswana and iron ore in Australia"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.2 Mining",
+      "Learning Objective": "d) analyse the effects of mining on the environment and possible solutions"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.2 Mining",
+      "Learning Objective": "e) apply statistical skills to establish trends in mineral production in East Africa"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.2 Mining",
+      "Learning Objective": "f) recognize the significance of minerals to the economy of Kenya"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.3 Energy",
+      "Learning Objective": "a) examine the types and sources of energy for domestic and industrial use"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.3 Energy",
+      "Learning Objective": "b) analyse the development of renewable energy in Kenya and the selected countries"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.3 Energy",
+      "Learning Objective": "c) explore the significance of renewable energy on socio-economic development"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.3 Energy",
+      "Learning Objective": "d) manage and conserve energy in the community"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.3 Energy",
+      "Learning Objective": "e) appreciate sustainable use of energy for socio-economic development"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.4 Industry",
+      "Learning Objective": "a) explore the types of industries in the world"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.4 Industry",
+      "Learning Objective": "b) establish the factors influencing location and development of industries in the world"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.4 Industry",
+      "Learning Objective": "c) analyse the development of industries in Kenya and the selected countries"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.4 Industry",
+      "Learning Objective": "d) examine the challenges facing industries and possible solutions in Kenya"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.4 Industry",
+      "Learning Objective": "e) model a cottage industry in the school"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Geography",
+      "Grade": "Grade 10",
+      "Strand": "3.0 Human and Economic Activities",
+      "Sub-strand": "3.4 Industry",
+      "Learning Objective": "f) acknowledge the significance of industries in the society"
+    }
+  ]
+}

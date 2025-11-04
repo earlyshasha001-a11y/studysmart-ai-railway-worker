@@ -1,0 +1,318 @@
+{
+  "curriculum_name": "Agriculture nutrition grade 4 cbc",
+  "total_lessons": 39,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.1 Soil Conservation",
+      "Learning Objective": "a) identify suitable materials for making compost manure"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.1 Soil Conservation",
+      "Learning Objective": "b) prepare compost manure for farming"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.1 Soil Conservation",
+      "Learning Objective": "c) appreciate importance of compost manure in farming"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.2 Water Conservation",
+      "Learning Objective": "a) describe drip irrigation as a way of conserving water"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.2 Water Conservation",
+      "Learning Objective": "b) carry out drip irrigation to conserve water"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.2 Water Conservation",
+      "Learning Objective": "c) appreciate use of drip irrigation to conserve water in farming"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.3 Fuel Conservation",
+      "Learning Objective": "a) identify types of fuels used at home"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.3 Fuel Conservation",
+      "Learning Objective": "b) conserve fuels during cooking"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.3 Fuel Conservation",
+      "Learning Objective": "c) appreciate the importance of conserving fuel to minimise wastage of resources"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.4 Conserving Wild Animals",
+      "Learning Objective": "a) identify small wild animals that destroy crops"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.4 Conserving Wild Animals",
+      "Learning Objective": "b) construct and use a scarecrow to scare off small wild animals from crops"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.4 Conserving Wild Animals",
+      "Learning Objective": "c) appreciate the importance of living better with small wild animals"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.1 Direct Sowing of Tiny Seeds",
+      "Learning Objective": "a) identify crops established through direct sowing of tiny seeds"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.1 Direct Sowing of Tiny Seeds",
+      "Learning Objective": "b) sow tiny seeds in a finely prepared seedbed"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.1 Direct Sowing of Tiny Seeds",
+      "Learning Objective": "c) adopt direct sowing in establishment of food crops"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.2 Growing Fruits",
+      "Learning Objective": "a) identify fruits that can grow the locality"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.2 Growing Fruits",
+      "Learning Objective": "b) grow a fruit crop suited in the locality"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.2 Growing Fruits",
+      "Learning Objective": "c) appreciate the importance of consuming fruits for nutrition"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.3 Uses of Domestic Animals",
+      "Learning Objective": "a) identify types of domestic animals in the community"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.3 Uses of Domestic Animals",
+      "Learning Objective": "b) relate various domestic animals to their uses"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.3 Uses of Domestic Animals",
+      "Learning Objective": "c) appreciate the importance of domestic animals for food production"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.4 Balanced Meal",
+      "Learning Objective": "a) explain importance of eating a balanced meal"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.4 Balanced Meal",
+      "Learning Objective": "b) select food from different food groups to make a balanced meal"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.4 Balanced Meal",
+      "Learning Objective": "c) appreciate the importance of eating a balanced meal"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.5 Cooking Food",
+      "Learning Objective": "a) describe methods of cooking food"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.5 Cooking Food",
+      "Learning Objective": "b) cook food using different methods"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.5 Cooking Food",
+      "Learning Objective": "c) embrace boiling and shallow frying in food production"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.1 Personal Hygiene",
+      "Learning Objective": "a) identify healthy practices that promote personal hygiene"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.1 Personal Hygiene",
+      "Learning Objective": "b) apply healthy practices that promote personal hygiene"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.1 Personal Hygiene",
+      "Learning Objective": "c) embrace healthy practices to promote personal hygiene in daily life"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.2 Domestic Hygiene",
+      "Learning Objective": "a) describe the various methods used for cleaning home environment"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.2 Domestic Hygiene",
+      "Learning Objective": "b) use appropriate methods to clean home environment"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.2 Domestic Hygiene",
+      "Learning Objective": "c) appreciate a clean environment in promoting domestic hygiene"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.3 Cleaning Personal Protective Equipment",
+      "Learning Objective": "a) identify personal protective equipment in day to day life"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.3 Cleaning Personal Protective Equipment",
+      "Learning Objective": "b) clean personal protective equipment for hygiene purposes"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.3 Cleaning Personal Protective Equipment",
+      "Learning Objective": "c) appreciate clean personal protective equipment in promoting hygiene"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Making Tacking Stitches",
+      "Learning Objective": "a) identify the types of tacking stitches in sewing"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Making Tacking Stitches",
+      "Learning Objective": "b) make an item using tacking stitches"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Making Tacking Stitches",
+      "Learning Objective": "c) appreciate the importance of tacking stitches"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "curriculum_name": "intergrated science grade 7 cbc",
+  "total_lessons": 38,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Scientific Investigation",
+      "Sub-strand": "1.1 Introduction to Integrated Science",
+      "Learning Objective": "a) outline the components of Integrated Science as a field of study"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Scientific Investigation",
+      "Sub-strand": "1.1 Introduction to Integrated Science",
+      "Learning Objective": "b) explain the importance of science in daily life"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Scientific Investigation",
+      "Sub-strand": "1.1 Introduction to Integrated Science",
+      "Learning Objective": "c) show interest in learning Integrated Science at junior school"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Scientific Investigation",
+      "Sub-strand": "1.2 Laboratory Safety",
+      "Learning Objective": "a) identify common hazards and their symbols in the laboratory"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Scientific Investigation",
+      "Sub-strand": "1.2 Laboratory Safety",
+      "Learning Objective": "b) explain causes of common accidents in the laboratory"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Scientific Investigation",
+      "Sub-strand": "1.2 Laboratory Safety",
+      "Learning Objective": "c) demonstrate First Aid measures for common laboratory accidents"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Scientific Investigation",
+      "Sub-strand": "1.2 Laboratory Safety",
+      "Learning Objective": "d) appreciate the importance of safety in the laboratory and access to a healthy working environment"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Scientific Investigation",
+      "Sub-strand": "1.3 Laboratory apparatus and instruments",
+      "Learning Objective": "a) describe the basic skills in science"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Scientific Investigation",
+      "Sub-strand": "1.3 Laboratory apparatus and instruments",
+      "Learning Objective": "b) use and care for apparatus and instruments in the laboratory"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Scientific Investigation",
+      "Sub-strand": "1.3 Laboratory apparatus and instruments",
+      "Learning Objective": "c) use the SI units for basic and derived quantities in science"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Scientific Investigation",
+      "Sub-strand": "1.3 Laboratory apparatus and instruments",
+      "Learning Objective": "d) appreciate consumer protection when handling different apparatus; instruments and other materials in day to day life"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "2.1 Mixtures",
+      "Learning Objective": "a) separate homogeneous mixtures using appropriate methods"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "2.1 Mixtures",
+      "Learning Objective": "b) outline applications of separating homogeneous mixtures in day to day life"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "2.1 Mixtures",
+      "Learning Objective": "c) appreciate the use of different methods of separating mixtures in day-to-day life"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "2.2 Acids; bases and indicators",
+      "Learning Objective": "a) identify acids and bases using a litmus paper"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "2.2 Acids; bases and indicators",
+      "Learning Objective": "b) prepare an acid-base indicator from plant extracts"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "2.2 Acids; bases and indicators",
+      "Learning Objective": "c) describe the physical properties of acids and bases"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "2.2 Acids; bases and indicators",
+      "Learning Objective": "d) outline applications of acids; bases and indicators in real life"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "2.2 Acids; bases and indicators",
+      "Learning Objective": "e) appreciate the uses of acids and bases in real life"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Living things and the Environment",
+      "Sub-strand": "3.1 Human reproductive system",
+      "Learning Objective": "a) identify parts of the human male and female reproductive systems"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Living things and the Environment",
+      "Sub-strand": "3.1 Human reproductive system",
+      "Learning Objective": "b) describe functions of parts of the male and female reproductive system"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Living things and the Environment",
+      "Sub-strand": "3.1 Human reproductive system",
+      "Learning Objective": "c) describe the physical changes that take place in boys and girls during adolescence"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Living things and the Environment",
+      "Sub-strand": "3.1 Human reproductive system",
+      "Learning Objective": "d) develop a plan to manage developmental challenges during adolescence"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Living things and the Environment",
+      "Sub-strand": "3.1 Human reproductive system",
+      "Learning Objective": "e) appreciate that physical changes in boys and girls during adolescence have social and reproductive implications"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Living things and the Environment",
+      "Sub-strand": "3.2 Human Excretory System",
+      "Learning Objective": "a) identify parts of human skin and their functions"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Living things and the Environment",
+      "Sub-strand": "3.2 Human Excretory System",
+      "Learning Objective": "b) identify parts of the urinary system and their functions"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Living things and the Environment",
+      "Sub-strand": "3.2 Human Excretory System",
+      "Learning Objective": "c) describe causes of kidney disorders"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Living things and the Environment",
+      "Sub-strand": "3.2 Human Excretory System",
+      "Learning Objective": "d) develop and maintain a daily log on activities that promote skin and kidney health"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Living things and the Environment",
+      "Sub-strand": "3.2 Human Excretory System",
+      "Learning Objective": "e) appreciate the need for a healthy lifestyle to promote kidney and skin health"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Force and Energy",
+      "Sub-strand": "4.1 Electrical Energy",
+      "Learning Objective": "a) identify sources of electricity in the environment"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Force and Energy",
+      "Sub-strand": "4.1 Electrical Energy",
+      "Learning Objective": "b) demonstrate flow of electric current using simple electric circuits"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Force and Energy",
+      "Sub-strand": "4.1 Electrical Energy",
+      "Learning Objective": "c) identify common electrical appliances used in day to day life"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Force and Energy",
+      "Sub-strand": "4.1 Electrical Energy",
+      "Learning Objective": "d) identify safety measures observed when handling electrical appliances"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Force and Energy",
+      "Sub-strand": "4.1 Electrical Energy",
+      "Learning Objective": "e) appreciate the use of electricity in day to day life"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Force and Energy",
+      "Sub-strand": "4.2 Magnetism",
+      "Learning Objective": "a) demonstrate the properties of a magnet"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Force and Energy",
+      "Sub-strand": "4.2 Magnetism",
+      "Learning Objective": "b) classify materials as magnetic or non-magnetic"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Force and Energy",
+      "Sub-strand": "4.2 Magnetism",
+      "Learning Objective": "c) identify the uses of magnets in day-to-day life"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Force and Energy",
+      "Sub-strand": "4.2 Magnetism",
+      "Learning Objective": "d) appreciate the applications of magnets in day-to-day life"
+    }
+  ]
+}

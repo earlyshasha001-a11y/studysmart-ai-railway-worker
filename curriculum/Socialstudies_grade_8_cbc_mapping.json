@@ -1,0 +1,558 @@
+{
+  "curriculum_name": "Socialstudies grade 8 cbc",
+  "total_lessons": 69,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.1 Scientific Theory about Human Origin",
+      "Learning Objective": "a) explore the scientific theory about human origin"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.1 Scientific Theory about Human Origin",
+      "Learning Objective": "b) illustrate changes that took place in humans as a result of evolution"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.1 Scientific Theory about Human Origin",
+      "Learning Objective": "c) draw conclusions on common understanding of origin of humanity based on the scientific theory"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.1 Scientific Theory about Human Origin",
+      "Learning Objective": "d) develop a sense of humanity based on common origin"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.2 Early Civilisation",
+      "Learning Objective": "a) describe the Swahili civilisation along the East African coast"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.2 Early Civilisation",
+      "Learning Objective": "b) show how the best practices from early civilisations have contributed to the modern world"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.2 Early Civilisation",
+      "Learning Objective": "c) appreciate the best practices of early civilization to the development of the modern world"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.3 Trans Saharan Slave Trade",
+      "Learning Objective": "a) identify factors that led to development of Trans-Saharan slave trade in Africa"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.3 Trans Saharan Slave Trade",
+      "Learning Objective": "b) describe the organization of Trans-Saharan slave trade in Africa"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.3 Trans Saharan Slave Trade",
+      "Learning Objective": "c) outline the effects of Trans-Saharan slave trade in Africa"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.3 Trans Saharan Slave Trade",
+      "Learning Objective": "d) participate in promotion of social justice in the society"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.3 Trans Saharan Slave Trade",
+      "Learning Objective": "e) desire to promote social justice in a society"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.4 Population Growth in Africa",
+      "Learning Objective": "a) explore causes and effects of population growth in Africa"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.4 Population Growth in Africa",
+      "Learning Objective": "b) examine types and effects of migration in Africa"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.4 Population Growth in Africa",
+      "Learning Objective": "c) illustrate demographic trends in Kenya"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.4 Population Growth in Africa",
+      "Learning Objective": "d) create awareness on the effects of population growth in the community"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.4 Population Growth in Africa",
+      "Learning Objective": "e) appreciate the impact of migration on population growth in Africa"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.5 Diversity; inclusion and interpersonal skills",
+      "Learning Objective": "a) explore social cultural diversities in Kenya"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.5 Diversity; inclusion and interpersonal skills",
+      "Learning Objective": "b) explain ways of building a healthy self-esteem in social cultural diversity and inclusion"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.5 Diversity; inclusion and interpersonal skills",
+      "Learning Objective": "c) describe the impact of emotions on self and others"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.5 Diversity; inclusion and interpersonal skills",
+      "Learning Objective": "d) managing peer pressure in a culturally diverse environment"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.5 Diversity; inclusion and interpersonal skills",
+      "Learning Objective": "e) Appreciate social cultural diversities in Kenya"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.6 Peace and Non- violent Conflict Resolution in the Family",
+      "Learning Objective": "a) identify situations that lead to conflicts in the family"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.6 Peace and Non- violent Conflict Resolution in the Family",
+      "Learning Objective": "b) apply peaceful ways of resolving conflicts in the family"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.6 Peace and Non- violent Conflict Resolution in the Family",
+      "Learning Objective": "c) design strategies for effective communication in resolving conflicts"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.6 Peace and Non- violent Conflict Resolution in the Family",
+      "Learning Objective": "d) build healthy relationships to promote peace in the family"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.6 Peace and Non- violent Conflict Resolution in the Family",
+      "Learning Objective": "e) show empathy with survivors of conflicts in the family"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "1.0 People; Population and Relationships",
+      "Sub-strand": "1.6 Peace and Non- violent Conflict Resolution in the Family",
+      "Learning Objective": "f) appreciate the culture of peace in a society"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Community Service Learning Project",
+      "Sub-strand": "2.1 Community Service Learning Project",
+      "Learning Objective": "a) identify a problem/gap in the community"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Community Service Learning Project",
+      "Sub-strand": "2.1 Community Service Learning Project",
+      "Learning Objective": "b) design a solution(s) to the identified problem"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Community Service Learning Project",
+      "Sub-strand": "2.1 Community Service Learning Project",
+      "Learning Objective": "c) plan to implement the solution to the identified problem"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Community Service Learning Project",
+      "Sub-strand": "2.1 Community Service Learning Project",
+      "Learning Objective": "d) implement the plan for solving the identified problem"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Community Service Learning Project",
+      "Sub-strand": "2.1 Community Service Learning Project",
+      "Learning Objective": "e) report/account on the concluded project"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Community Service Learning Project",
+      "Sub-strand": "2.1 Community Service Learning Project",
+      "Learning Objective": "f) appreciate the need to be part of the solution to the gaps/challenges in the community"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.1 Map Reading and Interpretation",
+      "Learning Objective": "a) interpret maps using marginal information"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.1 Map Reading and Interpretation",
+      "Learning Objective": "b) calculate areas of places on a map using scales"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.1 Map Reading and Interpretation",
+      "Learning Objective": "c) describe the different methods of representing physical features on topographical maps"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.1 Map Reading and Interpretation",
+      "Learning Objective": "d) apply critical thinking skills in map reading and interpretation"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.1 Map Reading and Interpretation",
+      "Learning Objective": "e) appreciate the use of marginal information to interpret maps"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.2 Weather and Climate",
+      "Learning Objective": "a) examine the factors influencing weather and climate in Africa"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.2 Weather and Climate",
+      "Learning Objective": "b) illustrate the distribution and characteristics of major climatic regions of Africa"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.2 Weather and Climate",
+      "Learning Objective": "c) explore positive ways of managing stress during disasters caused by climate change"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.2 Weather and Climate",
+      "Learning Objective": "d) apply problem solving skills in addressing the effects of climate change on the environment"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.2 Weather and Climate",
+      "Learning Objective": "e) recognise the effects of weather and climate on human activities"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.3 Vegetation in Africa",
+      "Learning Objective": "a) explain factors influencing vegetation distribution in Africa"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.3 Vegetation in Africa",
+      "Learning Objective": "b) describe the characteristics of major vegetation regions of Africa on the map"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.3 Vegetation in Africa",
+      "Learning Objective": "c) locate the major vegetation regions of Africa"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.3 Vegetation in Africa",
+      "Learning Objective": "d) apply methods of conserving vegetation in the community"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.3 Vegetation in Africa",
+      "Learning Objective": "e) explore personality interest on conservation of vegetation for career choice"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.3 Vegetation in Africa",
+      "Learning Objective": "f) appreciate vegetation conservation within the environment"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.4 Historical Sites and Monuments in Africa",
+      "Learning Objective": "a) locate selected historical sites and monuments in Africa"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.4 Historical Sites and Monuments in Africa",
+      "Learning Objective": "b) examine the importance of historical sites and monuments for the preservation of cultural heritage"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.4 Historical Sites and Monuments in Africa",
+      "Learning Objective": "c) explore ways of conserving historical sites and monuments in Africa"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.4 Historical Sites and Monuments in Africa",
+      "Learning Objective": "d) apply strategies of overcoming challenges to creative thinking in conserving cultural heritage"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Natural and Historic Built Environments",
+      "Sub-strand": "3.4 Historical Sites and Monuments in Africa",
+      "Learning Objective": "e) value conservation of historical sites and monuments in the locality in promoting cultural heritage"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Political Developments and Governance",
+      "Sub-strand": "4.1 The Constitution of Kenya",
+      "Learning Objective": "a) explore the components of the Constitution of Kenya"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Political Developments and Governance",
+      "Sub-strand": "4.1 The Constitution of Kenya",
+      "Learning Objective": "b) illustrate the roles of the three arms of government of Kenya in reference to the relevant chapters in the Constitution"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Political Developments and Governance",
+      "Sub-strand": "4.1 The Constitution of Kenya",
+      "Learning Objective": "c) examine the guiding principles of leadership and integrity in the Constitution of Kenya"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Political Developments and Governance",
+      "Sub-strand": "4.1 The Constitution of Kenya",
+      "Learning Objective": "d) apply assertiveness in the principles of leadership and integrity in daily interactions"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Political Developments and Governance",
+      "Sub-strand": "4.1 The Constitution of Kenya",
+      "Learning Objective": "e) exhibit good leadership intended in chapter six of the Constitution of Kenya"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Political Developments and Governance",
+      "Sub-strand": "4.2 Human Rights",
+      "Learning Objective": "a) explore how human rights can be respected and protected in the community"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Political Developments and Governance",
+      "Sub-strand": "4.2 Human Rights",
+      "Learning Objective": "b) describe the process of effective communication on human rights issues"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Political Developments and Governance",
+      "Sub-strand": "4.2 Human Rights",
+      "Learning Objective": "c) outline the Children’s Rights in Kenya"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Political Developments and Governance",
+      "Sub-strand": "4.2 Human Rights",
+      "Learning Objective": "d) demonstrate ways in which children are protected against violation of their Rights in Kenya"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Political Developments and Governance",
+      "Sub-strand": "4.2 Human Rights",
+      "Learning Objective": "e) recognise the responsibility of the society in protecting human rights"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Political Developments and Governance",
+      "Sub-strand": "4.3 Citizenship",
+      "Learning Objective": "a) describe qualities of a global citizen in the world today"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Political Developments and Governance",
+      "Sub-strand": "4.3 Citizenship",
+      "Learning Objective": "b) explore ways in which Nobel Prize nominees responded to injustice situations in the society"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Political Developments and Governance",
+      "Sub-strand": "4.3 Citizenship",
+      "Learning Objective": "c) exhibit social entrepreneurship and active participation for personal and social well-being"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Social Studies",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Political Developments and Governance",
+      "Sub-strand": "4.3 Citizenship",
+      "Learning Objective": "d) Show empathy to personalities who volunteer for addressing injustices in the society"
+    }
+  ]
+}

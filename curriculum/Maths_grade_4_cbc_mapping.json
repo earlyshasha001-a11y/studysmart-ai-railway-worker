@@ -1,0 +1,710 @@
+{
+  "curriculum_name": "Maths grade 4 cbc",
+  "total_lessons": 88,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "a) use place value and total value of digits up to tens of thousands in daily life situations"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "b) read and write numbers up to 10,000 in symbols in real life situations"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "c) read and write numbers up to 1,000 in words in day to day activities"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "d) order numbers up to 1,000 in different situations"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "e) round off numbers up to 1,000 to the nearest ten in different situations"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "f) identify factors of numbers up to 50 in different contexts"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "g) identify multiples of numbers up to 100 in different situations"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "h) use even and odd numbers up to 100 in different situations"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "i) make patterns involving even and odd numbers in real life situations"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Whole Numbers",
+      "Learning Objective": "j) represent Hindu Arabic numerals using Roman numerals up to 'X' in different situations"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Addition",
+      "Learning Objective": "a) add up to two 4-digit numbers with single regrouping up to a sum of 10,000 in different situations"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Addition",
+      "Learning Objective": "b) add up to two 4-digit numbers with double regrouping up to a sum of 10,000 in real life situations"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Addition",
+      "Learning Objective": "c) estimate sum by rounding off numbers to the nearest ten in different situations"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Addition",
+      "Learning Objective": "d) create patterns involving addition up to a sum of 10,000 in real life situations"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Subtraction",
+      "Learning Objective": "a) subtract up to 4-digit numbers without regrouping in real life situations"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Subtraction",
+      "Learning Objective": "b) subtract up to 4-digit numbers with regrouping in real life situations"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Subtraction",
+      "Learning Objective": "c) estimate difference by rounding off numbers to the nearest ten in different contexts"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Subtraction",
+      "Learning Objective": "d) create patterns involving subtraction from up to 10,000"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Multiplication",
+      "Learning Objective": "a) multiply up to a two-digit number by multiples of 10 in different situations"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Multiplication",
+      "Learning Objective": "b) multiply up to a two-digit number by two-digit number with and without regrouping"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Multiplication",
+      "Learning Objective": "c) estimate products by rounding off numbers to the nearest 10 with product not exceeding 1,000"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Multiplication",
+      "Learning Objective": "d) create patterns involving multiplication with product not exceeding 100"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Division",
+      "Learning Objective": "a) divide up to a two-digit number by a one-digit number with and without remainder"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Division",
+      "Learning Objective": "b) relate multiplication of numbers to division of same numbers in different situations"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Division",
+      "Learning Objective": "c) use digital resources to learn division of numbers"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Fractions",
+      "Learning Objective": "a) identify the numerator and denominator in a fraction in different situations"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Fractions",
+      "Learning Objective": "b) represent a fraction with denominators not exceeding 12 as part of a whole and as part of a group"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Fractions",
+      "Learning Objective": "c) identify different types of fractions in real life situations"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Fractions",
+      "Learning Objective": "d) convert improper fractions to mixed fractions in different situations"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Fractions",
+      "Learning Objective": "e) convert mixed fractions to improper fractions in different contexts"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.6 Fractions",
+      "Learning Objective": "f) use digital devices and other resources for learning more on fractions"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.7 Decimals",
+      "Learning Objective": "a) identify a tenth and a hundredth in real life situations"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.7 Decimals",
+      "Learning Objective": "b) represent decimals using decimal notation in given situations"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.7 Decimals",
+      "Learning Objective": "c) identify place value of decimals up to hundredths in real life"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.7 Decimals",
+      "Learning Objective": "d) order decimals up to hundredths in different contexts"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.7 Decimals",
+      "Learning Objective": "e) use digital devices or other resources for learning about decimals in different situations"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.8 Use of letters",
+      "Learning Objective": "a) represent information using letters in real life situations"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.8 Use of letters",
+      "Learning Objective": "b) form simple expressions to represent real life situations"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.8 Use of letters",
+      "Learning Objective": "c) simplify expressions representing real life situations"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "a) identify the centimetre as a unit of measuring length in real life situations"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "b) measure length in centimetres in real life situations"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "c) establish the relationship between metres and centimetres practically"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "d) convert metres to centimetres and centimetres to metres in real life situation"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "e) work out perimeter of plane figures in different contexts"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "f) work out addition involving length in metres and centimetres in real life situations"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "g) work out subtraction involving length in metres and centimetres in real life situations"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "h) carryout multiplication involving metres and centimetres in real life situations"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.1 Length",
+      "Learning Objective": "i) carryout division involving metres and centimetres in real life situations"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.2 Area",
+      "Learning Objective": "a) compare the area of given surfaces by direct manipulation"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.2 Area",
+      "Learning Objective": "b) calculate area of squares and rectangles by counting unit squares"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.2 Area",
+      "Learning Objective": "c) calculate area of squares and rectangles as a product of number of rows and columns"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Volume",
+      "Learning Objective": "a) pile objects into stacks of cubes and cuboids in real life situations"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Volume",
+      "Learning Objective": "b) work out volume of cuboids by piling blocks to form a cuboid"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.3 Volume",
+      "Learning Objective": "c) calculate the volume of cubes by piling blocks to form a cubes"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Capacity",
+      "Learning Objective": "a) measure capacity in litres in real life situations"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Capacity",
+      "Learning Objective": "b) measure capacity in ½ litres and ¼ litres in real life situations"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.4 Capacity",
+      "Learning Objective": "c) work out addition and subtraction of capacity in litres in real life situations"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Mass",
+      "Learning Objective": "a) use a kilogram mass to measure masses of different objects practically"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Mass",
+      "Learning Objective": "b) use ½ kg and ¼ kg masses to measure masses of different objects practically"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Mass",
+      "Learning Objective": "c) add mass involving kilograms in real life situations"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.5 Mass",
+      "Learning Objective": "d) subtract mass involving kilograms in real life situations"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.6 Time",
+      "Learning Objective": "a) read and tell time in a.m. and p.m. in real life situations"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.6 Time",
+      "Learning Objective": "b) estimate time using a.m. and p.m. in real life situations"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.6 Time",
+      "Learning Objective": "c) convert units of time in real life situations"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.6 Time",
+      "Learning Objective": "d) record time durations in hours and minutes in real life situations"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.6 Time",
+      "Learning Objective": "e) work out time duration in real life situations"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.6 Time",
+      "Learning Objective": "f) use digital clock to tell and record time of different activities"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.7 Money",
+      "Learning Objective": "a) convert shillings into cents and cents into shillings in different contexts"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.7 Money",
+      "Learning Objective": "b) prepare a shopping list of three items in real life situation"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Measurement",
+      "Sub-strand": "2.7 Money",
+      "Learning Objective": "c) work out total cost of items in the shopping list for value not more ten thousand shillings"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Position and Direction",
+      "Learning Objective": "a) identify a clockwise and an anti-clockwise turn in the environment"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Position and Direction",
+      "Learning Objective": "b) demonstrate a clockwise and an anti-clockwise turn in the environment"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Position and Direction",
+      "Learning Objective": "c) identify quarter; half and full turns direction in the environment"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.1 Position and Direction",
+      "Learning Objective": "d) demonstrate a quarter turn; half turn and full turn direction in the environment"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Angles",
+      "Learning Objective": "a) identify an angle at a point in lines"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Angles",
+      "Learning Objective": "b) identify angles from the objects in the environment"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.2 Angles",
+      "Learning Objective": "c) relate a turn to angles in real life situations"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.3 Plane Figures",
+      "Learning Objective": "a) identify rectangles; squares; triangles; circles and ovals from objects in the environment"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.3 Plane Figures",
+      "Learning Objective": "b) draw the shapes of rectangles; squares; triangles; circles and ovals from objects in the environment"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.3 Plane Figures",
+      "Learning Objective": "c) identify lines of symmetry of different shapes"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.3 Plane Figures",
+      "Learning Objective": "d) make patterns using squares; rectangles and triangles"
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Geometry",
+      "Sub-strand": "3.3 Plane Figures",
+      "Learning Objective": "e) identify properties of plane figures in different situations"
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Data Handling",
+      "Sub-strand": "4.1 Data",
+      "Learning Objective": "a) identify materials for data collection and recording in real life situations"
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Data Handling",
+      "Sub-strand": "4.1 Data",
+      "Learning Objective": "b) collect data of at most 10 items within the school environment"
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Data Handling",
+      "Sub-strand": "4.1 Data",
+      "Learning Objective": "c) draw a table for recording data"
+    },
+    {
+      "Lesson Number": "86",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Data Handling",
+      "Sub-strand": "4.1 Data",
+      "Learning Objective": "d) record data in the table"
+    },
+    {
+      "Lesson Number": "87",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Data Handling",
+      "Sub-strand": "4.1 Data",
+      "Learning Objective": "e) interpret the raw data from the table"
+    },
+    {
+      "Lesson Number": "88",
+      "Subject": "Mathematics",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Data Handling",
+      "Sub-strand": "4.1 Data",
+      "Learning Objective": "f) appreciate use of tables in representing data in real life situations"
+    }
+  ]
+}

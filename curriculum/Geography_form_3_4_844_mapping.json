@@ -1,0 +1,195 @@
+{
+  "curriculum_name": "Geography form 3-4 844",
+  "total_lessons": 27,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "5.0.0 Minerals and Rocks",
+      "Learning Objective": "Definition of minerals"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "5.0.0 Minerals and Rocks",
+      "Learning Objective": "Definition of rocks"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "5.0.0 Minerals and Rocks",
+      "Learning Objective": "Characteristics of minerals"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "5.0.0 Minerals and Rocks",
+      "Learning Objective": "Classification of rocks according to mode of formation"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "5.0.0 Minerals and Rocks",
+      "Learning Objective": "Characteristics of rocks"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "5.0.0 Minerals and Rocks",
+      "Learning Objective": "Distribution of major types of rocks in Kenya"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "5.0.0 Minerals and Rocks",
+      "Learning Objective": "Significance of rocks"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "5.0.0 Minerals and Rocks",
+      "Learning Objective": "Field work - Identification of major types of rocks and their uses within the local environment"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "Definition of earth movements"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "Types of earth movements - horizontal and vertical movements"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "Causes of earth movements"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "Theories of the origins of Continental drift"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "Theories of the origins of Plate tectonics"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "Definition and processes of folding"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "Types of folds"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "Features resulting from folding"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "World distribution of fold mountain systems"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "Significance of folding to human activities"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "Definition and processes of faulting"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "Types of faults"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "Features resulting from faulting"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "A study of the Great Rift Valley"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "World distribution of features formed through faulting"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "Significance of faulting to human activities"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "Definition of vulcanicity"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "Types of vulcanicity and the resultant features"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Geography",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Internal Land Forming Processes",
+      "Learning Objective": "World"
+    }
+  ]
+}

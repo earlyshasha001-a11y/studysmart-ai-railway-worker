@@ -1,0 +1,582 @@
+{
+  "curriculum_name": "Social studies grade 7 cbc",
+  "total_lessons": 72,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Personal Development",
+      "Sub-strand": "1.1 Self Exploration",
+      "Learning Objective": "a) explore personal abilities and interests for self-improvement"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Personal Development",
+      "Sub-strand": "1.1 Self Exploration",
+      "Learning Objective": "b) set goals for decision making in career choices"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Personal Development",
+      "Sub-strand": "1.1 Self Exploration",
+      "Learning Objective": "c) examine career opportunities related to Social Studies"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Personal Development",
+      "Sub-strand": "1.1 Self Exploration",
+      "Learning Objective": "d) appreciate personal abilities and interests in career choices"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Personal Development",
+      "Sub-strand": "1.2 Entrepreneurial Opportunities in Social Studies",
+      "Learning Objective": "a) examine entrepreneurial opportunities for Social Studies in society"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Personal Development",
+      "Sub-strand": "1.2 Entrepreneurial Opportunities in Social Studies",
+      "Learning Objective": "b) use appropriate strategies for addressing gender stereotypes associated with entrepreneurial opportunities in Social Studies"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Personal Development",
+      "Sub-strand": "1.2 Entrepreneurial Opportunities in Social Studies",
+      "Learning Objective": "c) apply personal talents and abilities for self-fulfillment in entrepreneurial opportunities"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Personal Development",
+      "Sub-strand": "1.2 Entrepreneurial Opportunities in Social Studies",
+      "Learning Objective": "d) appreciate one's gender identity in pursuit of entrepreneurial opportunities"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.1 Human Origin",
+      "Learning Objective": "a) explore traditional stories of human origin from African communities"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.1 Human Origin",
+      "Learning Objective": "b) explain the religious stories about the origin of humankind"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.1 Human Origin",
+      "Learning Objective": "c) formulate common aspects from traditional and religious stories of human origin for self- identity"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.1 Human Origin",
+      "Learning Objective": "d) acknowledge the various stories of human origin for self-identity"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.2 Early Civilization",
+      "Learning Objective": "a) explore factors that led to the growth of the selected ancient Kingdoms in Africa"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.2 Early Civilization",
+      "Learning Objective": "b) locate the selected ancient kingdoms on a map of Africa"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.2 Early Civilization",
+      "Learning Objective": "c) assess the contribution of early African civilization to the modern world"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.2 Early Civilization",
+      "Learning Objective": "d) recognize the contribution of early civilization to the development of the modern world"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.3 Slavery and Servitude",
+      "Learning Objective": "a) identify the various forms of slavery and servitude in traditional African society"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.3 Slavery and Servitude",
+      "Learning Objective": "b) sketch the geographical extent of the regions covered by Indian Ocean slave trade in Africa"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.3 Slavery and Servitude",
+      "Learning Objective": "c) exhibit empathy for various social injustices committed on the Africans during the Indian Ocean slave trade in 15th Century slave trade"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.3 Slavery and Servitude",
+      "Learning Objective": "d) desire to promote human dignity for a just and peaceful world"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.4 Socio-economic organisation of selected African Communities up to 1900",
+      "Learning Objective": "a) locate on a map of Africa the areas settled by the selected African communities"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.4 Socio-economic organisation of selected African Communities up to 1900",
+      "Learning Objective": "b) describe the socio-economic organisation of selected African communities up to 1900"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.4 Socio-economic organisation of selected African Communities up to 1900",
+      "Learning Objective": "c) compare the socio-economic organisations of the selected African communities up to 1900"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.4 Socio-economic organisation of selected African Communities up to 1900",
+      "Learning Objective": "d) desire to apply effective communication to promote positive social interactions among various communities"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.5 Origin of Money",
+      "Learning Objective": "a) explain the transformation brought by introduction of money in Africa"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.5 Origin of Money",
+      "Learning Objective": "b) apply prudent use of money for sustainability"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.5 Origin of Money",
+      "Learning Objective": "c) compare barter trade and the use of currency trade in Africa"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.5 Origin of Money",
+      "Learning Objective": "d) appreciate prudent use of money for sustainability"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.6 Human Diversity and interpersonal relationships",
+      "Learning Objective": "a) identify factors that determine individual differences among members of the society"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.6 Human Diversity and interpersonal relationships",
+      "Learning Objective": "b) categorise desirable and undesirable personality attributes"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.6 Human Diversity and interpersonal relationships",
+      "Learning Objective": "c) analyse life skills that would promote healthy relationships regardless of human diversity in a multicultural society"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.6 Human Diversity and interpersonal relationships",
+      "Learning Objective": "d) apply interpersonal skills that enhance healthy interactions in a multicultural society"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.6 Human Diversity and interpersonal relationships",
+      "Learning Objective": "e) appreciate the importance of building healthy relationships in multicultural society"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.7 Peaceful Conflict Resolution",
+      "Learning Objective": "a) explore characteristics of peaceful wellbeing"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.7 Peaceful Conflict Resolution",
+      "Learning Objective": "b) examine causes of conflict in society"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.7 Peaceful Conflict Resolution",
+      "Learning Objective": "c) apply steps in peaceful conflict resolution process in day-to-day life"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.7 Peaceful Conflict Resolution",
+      "Learning Objective": "d) manage stress to promote inner peace"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "2.0 People; Population and Relationships",
+      "Sub-strand": "2.7 Peaceful Conflict Resolution",
+      "Learning Objective": "e) value the significance of enhancing peace at a personal level"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Community Service Learning",
+      "Sub-strand": "Community Service Learning Project",
+      "Learning Objective": "a) explain the meaning of key terms in community service learning (CSL) and CSL projects"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Community Service Learning",
+      "Sub-strand": "Community Service Learning Project",
+      "Learning Objective": "b) explain steps of a CSL project/activity"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Community Service Learning",
+      "Sub-strand": "Community Service Learning Project",
+      "Learning Objective": "c) accomplish a CSL project"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Community Service Learning",
+      "Sub-strand": "Community Service Learning Project",
+      "Learning Objective": "d) explain the importance of CSL in the community"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.1 Historical information",
+      "Learning Objective": "a) identify various sources of historical information in the society"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.1 Historical information",
+      "Learning Objective": "b) distinguish between primary and secondary sources of historical information"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.1 Historical information",
+      "Learning Objective": "c) explore how various sources of historical information have been preserved over the years"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.1 Historical information",
+      "Learning Objective": "d) examine possible careers in Natural and Historic Built Environments in Africa"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.1 Historical information",
+      "Learning Objective": "e) appreciate the significance of various sources of historical information in providing evidence of past human accounts"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.2 Historical Development of Agriculture",
+      "Learning Objective": "a) locate areas where early agriculture was practised in selected geographical regions in Africa"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.2 Historical Development of Agriculture",
+      "Learning Objective": "b) explore crops grown and animals kept in selected regions during early agriculture"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.2 Historical Development of Agriculture",
+      "Learning Objective": "c) illustrate methods of irrigation used in ancient Egypt"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.2 Historical Development of Agriculture",
+      "Learning Objective": "d) assess the contribution of the Nile valley agriculture to world civilization"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.2 Historical Development of Agriculture",
+      "Learning Objective": "e) explore possible careers in Agriculture"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.2 Historical Development of Agriculture",
+      "Learning Objective": "f) value the importance of domestication of plant and animals in Africa"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.3 Maps and map work",
+      "Learning Objective": "a) describe the position; shape and size of Africa"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.3 Maps and map work",
+      "Learning Objective": "b) locate places and features on a map using latitudes and longitudes"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.3 Maps and map work",
+      "Learning Objective": "c) develop critical thinking skills while calculating the time of different places in the world"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.3 Maps and map work",
+      "Learning Objective": "d) appreciate the three types of maps in social Studies"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.3 Maps and map work",
+      "Learning Objective": "e) appreciate the need to identify with the key unique features of his/her continent"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.4 Earth and the Solar System",
+      "Learning Objective": "a) describe the origin of the earth"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.4 Earth and the Solar System",
+      "Learning Objective": "b) explore the size; shape and position of the earth in the solar system"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.4 Earth and the Solar System",
+      "Learning Objective": "c) examine the effects of rotation and revolution of the earth on human activities"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.4 Earth and the Solar System",
+      "Learning Objective": "d) illustrate the internal structure of the earth in the solar system"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.4 Earth and the Solar System",
+      "Learning Objective": "e) appreciate the effects of rotation and revolution of the earth on human activities"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.5 Weather",
+      "Learning Objective": "a) describe the elements of weather in the environment"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.5 Weather",
+      "Learning Objective": "b) site a weather station in the school compound"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.5 Weather",
+      "Learning Objective": "c) construct selected instruments for measuring elements of weather"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.5 Weather",
+      "Learning Objective": "d) examine the significance of weather to human environment"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.5 Weather",
+      "Learning Objective": "e) respond appropriately to different weather conditions in the environment"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.6 Fieldwork",
+      "Learning Objective": "a) examine methods of data analysis and presentation in field work"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.6 Fieldwork",
+      "Learning Objective": "b) explore challenges and solutions in carrying out field work"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.6 Fieldwork",
+      "Learning Objective": "c) develop self-esteem as they apply procedures of carrying out field work"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Social Studies",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Natural and Historic Built Environments in Africa",
+      "Sub-strand": "4.6 Fieldwork",
+      "Learning Objective": "d) value effective communication skills as they carry out field work in investigating phenomena"
+    }
+  ]
+}

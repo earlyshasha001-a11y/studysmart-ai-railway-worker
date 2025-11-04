@@ -1,0 +1,909 @@
+{
+  "curriculum_name": "Digital literacy stages 1-6 Cambridge primary",
+  "total_lessons": 129,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 1",
+      "Topic": "1TC.01",
+      "Learning Objective": "Know how to switch on and log onto a computer using their own password."
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 1",
+      "Topic": "1TC.02",
+      "Learning Objective": "Know how to save and open documents."
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 1",
+      "Topic": "1TC.03",
+      "Learning Objective": "Know how to interact with onscreen items through clicking; tapping; dragging; dropping; scrolling; and swiping."
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 1",
+      "Topic": "1TC.04",
+      "Learning Objective": "Enter familiar words; using a physical or digital keyboard; into a word processor."
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 1",
+      "Topic": "1TC.05",
+      "Learning Objective": "Identify; locate and use modifier keys on a physical or digital keyboard; for example by using Shift and Caps Lock."
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 1",
+      "Topic": "1SW.01",
+      "Learning Objective": "Know what a password is and describe why passwords are useful."
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 1",
+      "Topic": "1SW.02",
+      "Learning Objective": "Know how to report digital content; or activity; that makes them feel unsafe or uncomfortable."
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 1",
+      "Topic": "1DW.01",
+      "Learning Objective": "Understand that online content is presented on interconnected websites and pages."
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 1",
+      "Topic": "1DW.02",
+      "Learning Objective": "Know there are a range of devices that are all computers; including; personal computers; laptops; tablets and mobile telephones."
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 1",
+      "Topic": "1DW.03",
+      "Learning Objective": "Identify the visible components of computing systems; including; computer; keyboard; mouse; screen; touch pad; headphones; speaker; camera and microphone."
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 1",
+      "Topic": "1DW.04",
+      "Learning Objective": "Identify the tasks that devices are used for at home."
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 2",
+      "Topic": "2TC.01",
+      "Learning Objective": "Use devices to take or record digitised media; including photography; audio and video."
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 2",
+      "Topic": "2TC.02",
+      "Learning Objective": "Find; open; save and delete documents within a folder structure."
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 2",
+      "Topic": "2TC.03",
+      "Learning Objective": "Recognise onscreen navigation symbols; including ←; →."
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 2",
+      "Topic": "2TC.04",
+      "Learning Objective": "Begin to use menus to find and use the cut; copy and paste functions; and to open dropdowns."
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 2",
+      "Topic": "2TC.05",
+      "Learning Objective": "Enter familiar words; using a physical or digital keyboard; into a word processor."
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 2",
+      "Topic": "2TC.06",
+      "Learning Objective": "Change the appearance of text by exploring the available tools; for example by changing the colour; size and font type."
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 2",
+      "Topic": "2TC.07",
+      "Learning Objective": "Know a hyperlink connects websites and pages and can be linked to an icon; text or image."
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 2",
+      "Topic": "2SW.01",
+      "Learning Objective": "Understand that users can have many accounts and can choose what information to put into each one."
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 2",
+      "Topic": "2SW.02",
+      "Learning Objective": "Understand that there is a risk people online are not who they say they are."
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 2",
+      "Topic": "2DW.01",
+      "Learning Objective": "Know that digital technology can give access to a wide variety of information."
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 2",
+      "Topic": "2DW.02",
+      "Learning Objective": "Understand that the internet is a network and that it has physical parts."
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 2",
+      "Topic": "2DW.03",
+      "Learning Objective": "Understand that technology can be used to communicate locally and globally."
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 2",
+      "Topic": "2DW.04",
+      "Learning Objective": "Describe the difference between hardware and software."
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 3",
+      "Topic": "3TC.01",
+      "Learning Objective": "Develop fluency and accuracy when typing in increasing quantity."
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 3",
+      "Topic": "3TC.02",
+      "Learning Objective": "Know what shortcuts are and be able to use shortcuts for cut; copy; paste; save; undo and re-do."
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 3",
+      "Topic": "3TC.03",
+      "Learning Objective": "Identify and use spell-checking and proof-reading tools."
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 3",
+      "Topic": "3TC.04",
+      "Learning Objective": "Identify common features of onscreen layouts and icons across a range of applications."
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 3",
+      "Topic": "3TC.05",
+      "Learning Objective": "Add images to a document."
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 3",
+      "Topic": "3TC.06",
+      "Learning Objective": "Compose; read; respond to and share online messages with specific individuals and with groups."
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 3",
+      "Topic": "3TC.07",
+      "Learning Objective": "Use keywords to search for information in a search tool."
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 3",
+      "Topic": "3TC.08",
+      "Learning Objective": "Navigate storage hierarchy appropriate to the device."
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 3",
+      "Topic": "3SW.01",
+      "Learning Objective": "Know that their information is personal and identify the risks of sharing that information online."
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 3",
+      "Topic": "3SW.02",
+      "Learning Objective": "Safely engage in online spaces; including in group chats; being aware that personal information and identifying photographs and/or videos should not be shared."
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 3",
+      "Topic": "3SW.03",
+      "Learning Objective": "Know that device use can be monitored."
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 3",
+      "Topic": "3SW.04",
+      "Learning Objective": "Understand that people can be upset by things said to; or about; them."
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 3",
+      "Topic": "3DW.01",
+      "Learning Objective": "Understand that people create online content for a purpose; including advertising; expressing their opinions and sharing information."
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 3",
+      "Topic": "3DW.02",
+      "Learning Objective": "Know that computers and their use has changed over time."
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 4",
+      "Topic": "4TC.01",
+      "Learning Objective": "Develop fluency and accuracy when typing in increasing quantity."
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 4",
+      "Topic": "4TC.02",
+      "Learning Objective": "Know what shortcuts are and be able use shortcuts for cut; copy; paste; save; undo; re-do and help."
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 4",
+      "Topic": "4TC.03",
+      "Learning Objective": "Use devices to create increasingly sophisticated digital artefacts; including the use of sound; video; text and other multimedia."
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 4",
+      "Topic": "4TC.04",
+      "Learning Objective": "Understand how to create a folder structure and how to name folders and documents."
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 4",
+      "Topic": "4TC.05",
+      "Learning Objective": "Insert and complete a table within a text document."
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 4",
+      "Topic": "4TC.06",
+      "Learning Objective": "Edit; and organise; the layout of a document."
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 4",
+      "Topic": "4TC.07",
+      "Learning Objective": "Know that web pages have addresses known as URLs; and know how to bookmark these."
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 4",
+      "Topic": "4SW.01",
+      "Learning Objective": "Know how to set secure and memorable passwords and understand why this is necessary."
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 4",
+      "Topic": "4SW.02",
+      "Learning Objective": "Understand that online content is stored and is hard to remove."
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 4",
+      "Topic": "4SW.03",
+      "Learning Objective": "Treat others respectfully online and know that they should also be treated with respect."
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 4",
+      "Topic": "4SW.04",
+      "Learning Objective": "Know that any images; videos; information or opinion shared online can be kept and shared further."
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 4",
+      "Topic": "4SW.05",
+      "Learning Objective": "Know the benefits and risks of online anonymity."
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 4",
+      "Topic": "4DW.01",
+      "Learning Objective": "Recognise that online content may provide false information with the intent to deceive."
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 4",
+      "Topic": "4DW.02",
+      "Learning Objective": "Know that digital communication enables online communities to exist."
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 4",
+      "Topic": "4DW.03",
+      "Learning Objective": "Understand that online communication has changed the way people interact."
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 4",
+      "Topic": "4DW.04",
+      "Learning Objective": "Know that software requires specific hardware to operate."
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 5",
+      "Topic": "5TC.01",
+      "Learning Objective": "Develop fluency and accuracy when typing in increasing quantity."
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 5",
+      "Topic": "5TC.02",
+      "Learning Objective": "Use devices to create increasingly sophisticated digital artefacts; including the use of sound; video; text and other multimedia."
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 5",
+      "Topic": "5TC.03",
+      "Learning Objective": "Know ways to transfer files across devices."
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 5",
+      "Topic": "5TC.04",
+      "Learning Objective": "Locate and use standard tools on a device; e.g. the calculator and calendar."
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 5",
+      "Topic": "5TC.05",
+      "Learning Objective": "Edit images by changing colour; size and by cropping."
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 5",
+      "Topic": "5TC.06",
+      "Learning Objective": "Use search functions within applications to find information."
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 5",
+      "Topic": "5SW.01",
+      "Learning Objective": "Understand the need to set security and privacy settings to ensure that only content they want people to access is seen."
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 5",
+      "Topic": "5SW.02",
+      "Learning Objective": "Understand that what a user does online can have positive and negative consequences for themselves and for others; both online and offline."
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 5",
+      "Topic": "5SW.03",
+      "Learning Objective": "Understand the risks of engaging with people online that they do not know."
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 5",
+      "Topic": "5SW.04",
+      "Learning Objective": "Know that online content can be published and accessed instantly."
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 5",
+      "Topic": "5SW.05",
+      "Learning Objective": "Recognise that cyberbullying takes place online and can take many forms."
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 5",
+      "Topic": "5SW.06",
+      "Learning Objective": "Recognise the implications of overusing devices."
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 5",
+      "Topic": "5DW.01",
+      "Learning Objective": "Describe the benefits and risks of instant online communication."
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 5",
+      "Topic": "5DW.02",
+      "Learning Objective": "Describe key benefits of computer use to society and individuals."
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 5",
+      "Topic": "5DW.03",
+      "Learning Objective": "Understand that some hardware and software can be incompatible with other hardware and software."
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 6",
+      "Topic": "6TC.01",
+      "Learning Objective": "Develop fluency and accuracy when typing in increasing quantity."
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 6",
+      "Topic": "6TC.02",
+      "Learning Objective": "Use devices to create increasingly sophisticated digital artefacts; including the use of sound; video; text and other multimedia."
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 6",
+      "Topic": "6TC.03",
+      "Learning Objective": "Identify and use online and offline sources of help for using one or more applications."
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 6",
+      "Topic": "6TC.04",
+      "Learning Objective": "Insert hyperlinks into a document."
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 6",
+      "Topic": "6TC.05",
+      "Learning Objective": "Create and edit a text document to meet a brief."
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 6",
+      "Topic": "6TC.06",
+      "Learning Objective": "Understand the importance of using a variety of different search strategies."
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 6",
+      "Topic": "6SW.01",
+      "Learning Objective": "Understand that any device connected to the internet is vulnerable to attack from malware."
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 6",
+      "Topic": "6SW.02",
+      "Learning Objective": "Recognise that opinions expressed online can be misinterpreted by others."
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 6",
+      "Topic": "6SW.03",
+      "Learning Objective": "Understand that a digital footprint is a record of online activity; including the sharing of images; videos; information or opinions."
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 6",
+      "Topic": "6SW.04",
+      "Learning Objective": "Understand that any content shared online can be copied to other locations and used by other people."
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 6",
+      "Topic": "6SW.05",
+      "Learning Objective": "Understand that offensive and illegal online behaviour; which includes cyberbullying; should be reported and that there are formal procedures for this."
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 6",
+      "Topic": "6SW.06",
+      "Learning Objective": "Describe ways to protect their safety and wellbeing before; during and after digital activity."
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 6",
+      "Topic": "6DW.01",
+      "Learning Objective": "Understand that restrictions apply to the copying of online content."
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 6",
+      "Topic": "6DW.02",
+      "Learning Objective": "Describe how the internet has changed the way in which people shop."
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 6",
+      "Topic": "6DW.03",
+      "Learning Objective": "Describe how online streaming has changed how people access media and entertainment."
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 6",
+      "Topic": "6DW.04",
+      "Learning Objective": "Understand how digital technology can be disruptive."
+    },
+    {
+      "Lesson Number": "1",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TC.01",
+      "Learning Objective": "Develop fluency and accuracy when typing in increasing quantity."
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TC.02",
+      "Learning Objective": "Use devices to create increasingly sophisticated digital artefacts; including the use of sound; video; text and other multimedia."
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TC.03",
+      "Learning Objective": "Know that files can be stored remotely on other computers; networks or in the cloud."
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TC.04",
+      "Learning Objective": "Select and use online and offline tools that aid personal organisation and collaboration."
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TC.05",
+      "Learning Objective": "Use track changes and comments when editing documents."
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TC.06",
+      "Learning Objective": "Use advanced search techniques to refine search results."
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 7",
+      "Topic": "7SW.01",
+      "Learning Objective": "Know some people purposefully antagonise other online users and understand the risks of engaging with that behaviour."
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 7",
+      "Topic": "7SW.02",
+      "Learning Objective": "Understand that they have personal responsibility for their digital activity; safety and wellbeing."
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 7",
+      "Topic": "7SW.03",
+      "Learning Objective": "Understand that all online activity can be collated and added to a user’s digital footprint; which can have positive and negative consequences."
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 7",
+      "Topic": "7DW.01",
+      "Learning Objective": "Describe the positives and negatives of online live coverage of news and events."
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 7",
+      "Topic": "7DW.02",
+      "Learning Objective": "Understand the benefits and risks of online communities."
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 7",
+      "Topic": "7DW.03",
+      "Learning Objective": "Understand plagiarism; crediting; citation and fair use."
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 7",
+      "Topic": "7DW.04",
+      "Learning Objective": "Understand that the storage capacity of a device is limited."
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 7",
+      "Topic": "7DW.05",
+      "Learning Objective": "Discuss and make predictions about future technologies."
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TC.01",
+      "Learning Objective": "Develop fluency and accuracy when typing in increasing quantity."
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TC.02",
+      "Learning Objective": "Use devices to create increasingly sophisticated digital artefacts; including the use of sound; video; text and other multimedia."
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TC.03",
+      "Learning Objective": "Create templates and master documents and understand the benefit of these."
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TC.04",
+      "Learning Objective": "Understand when it is appropriate to use informal ways to convey emotion or meaning in an electronic message; for example emojis; gifs and memes."
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TC.05",
+      "Learning Objective": "Use advanced search techniques to refine search results."
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 8",
+      "Topic": "8SW.01",
+      "Learning Objective": "Know that permissions can be set on files or within a network to protect them from unauthorised access."
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 8",
+      "Topic": "8SW.02",
+      "Learning Objective": "Understand personal identity can be protected by having a username which is not personally identifiable."
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 8",
+      "Topic": "8SW.03",
+      "Learning Objective": "Assess the suitability and security of websites and hyperlinks through reading the URL."
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 8",
+      "Topic": "8SW.04",
+      "Learning Objective": "Know that metadata can provide a detailed description of an online user and that each online action increases the detail of that description."
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 8",
+      "Topic": "8SW.05",
+      "Learning Objective": "Understand that metadata can be sold as a product."
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 8",
+      "Topic": "8SW.06",
+      "Learning Objective": "Understand that they have personal responsibility for their digital activity; safety and wellbeing."
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 8",
+      "Topic": "8DW.01",
+      "Learning Objective": "Make effective judgments about the validity of the source and accuracy of information found online."
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 8",
+      "Topic": "8DW.02",
+      "Learning Objective": "Understand the benefits and limitations of different methods of online communication; including video; audio and text."
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 8",
+      "Topic": "8DW.03",
+      "Learning Objective": "Describe how digital technology is changing the workplace."
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 8",
+      "Topic": "8DW.04",
+      "Learning Objective": "Describe the benefits and risks of the Internet of Things."
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TC.01",
+      "Learning Objective": "Develop fluency and accuracy when typing in increasing quantity."
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TC.02",
+      "Learning Objective": "Use devices to create increasingly sophisticated digital artefacts; including the use of sound; video; text and other multimedia."
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TC.03",
+      "Learning Objective": "Create a portfolio of documents for a common purpose."
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TC.04",
+      "Learning Objective": "Use advanced search techniques to refine search results."
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 9",
+      "Topic": "9SW.01",
+      "Learning Objective": "Understand the risks of downloading software and streaming from unauthorised sources."
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 9",
+      "Topic": "9SW.02",
+      "Learning Objective": "Explain how search engines provide personalised search results based on metadata; including targeted advertising."
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 9",
+      "Topic": "9SW.03",
+      "Learning Objective": "Understand the payment models that exist in the gaming and app industries; and identify the advantages and disadvantages of these models."
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 9",
+      "Topic": "9SW.04",
+      "Learning Objective": "Identify the benefits and risks of online gaming and eSports."
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 9",
+      "Topic": "9SW.05",
+      "Learning Objective": "Understand that they have personal responsibility for their digital activity; safety and wellbeing."
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 9",
+      "Topic": "9DW.01",
+      "Learning Objective": "Make effective judgments about the validity of the source and accuracy of information found online."
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 9",
+      "Topic": "9DW.02",
+      "Learning Objective": "Understand that obtaining unauthorised access to digital media is a form of theft."
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 9",
+      "Topic": "9DW.03",
+      "Learning Objective": "Describe the potential for online communication to bring together and maintain communities in the real world."
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 9",
+      "Topic": "9DW.04",
+      "Learning Objective": "Understand what is meant by the digital divide and how this affects different areas of society both locally and globally."
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 9",
+      "Topic": "9DW.05",
+      "Learning Objective": "Describe the impact of digital technology on the creative disciplines."
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Digital Literacy",
+      "Year/Grade": "Stage 9",
+      "Topic": "9DW.06",
+      "Learning Objective": "Describe the benefits and risks of AI."
+    }
+  ]
+}

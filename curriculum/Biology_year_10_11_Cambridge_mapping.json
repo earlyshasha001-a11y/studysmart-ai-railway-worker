@@ -1,0 +1,153 @@
+{
+  "curriculum_name": "Biology year 10-11 Cambridge",
+  "total_lessons": 21,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Characteristics of living organisms",
+      "Learning Objective": "describe movement as an action by an organism or part of an organism causing a change of position or place"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Characteristics of living organisms",
+      "Learning Objective": "describe respiration as the chemical reactions in cells that break down nutrient molecules and release energy for metabolism"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Characteristics of living organisms",
+      "Learning Objective": "describe sensitivity as the ability to detect and respond to changes in the internal or external environment"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Characteristics of living organisms",
+      "Learning Objective": "describe growth as a permanent increase in size and dry mass"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Characteristics of living organisms",
+      "Learning Objective": "describe reproduction as the processes that make more of the same kind of organism"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Characteristics of living organisms",
+      "Learning Objective": "describe excretion as the removal of the waste products of metabolism and substances in excess of requirements"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Characteristics of living organisms",
+      "Learning Objective": "describe nutrition as the taking in of materials for energy; growth and development"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Concept and uses of classification systems",
+      "Learning Objective": "state that organisms can be classified into groups by the features that they share"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Concept and uses of classification systems",
+      "Learning Objective": "describe a species as a group of organisms that can reproduce to produce fertile offspring"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Concept and uses of classification systems",
+      "Learning Objective": "describe the binomial system of naming species as an internationally agreed system in which the scientific name of an organism is made up of two parts showing the genus and species"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Concept and uses of classification systems",
+      "Learning Objective": "construct and use dichotomous keys based on identifiable features"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Concept and uses of classification systems",
+      "Learning Objective": "explain that classification systems aim to reflect evolutionary relationships"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Concept and uses of classification systems",
+      "Learning Objective": "explain that the sequences of bases in DNA are used as a means of classification"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Concept and uses of classification systems",
+      "Learning Objective": "explain that groups of organisms which share a more recent ancestor (are more closely related) have base sequences in DNA that are more similar than those that share only a distant ancestor"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Features of organisms",
+      "Learning Objective": "state the main features used to place animals and plants into the appropriate kingdoms"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Features of organisms",
+      "Learning Objective": "state the main features used to place organisms into groups within the animal kingdom; limited to: the main groups of vertebrates: mammals; birds; reptiles; amphibians; fish and the main groups of arthropods: myriapods; insects; arachnids; crustaceans"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Features of organisms",
+      "Learning Objective": "classify organisms using the features identified in 1.3.1 and 1.3.2"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Features of organisms",
+      "Learning Objective": "state the main features used to place all organisms into one of the five kingdoms: animal; plant; fungus; prokaryote; protoctist"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Features of organisms",
+      "Learning Objective": "state the main features used to place organisms into groups within the plant kingdom; limited to ferns and flowering plants (dicotyledons and monocotyledons)"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Features of organisms",
+      "Learning Objective": "classify organisms using the features identified in 1.3.4 and 1.3.5"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Biology",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Features of organisms",
+      "Learning Objective": "state the features of viruses; limited to a protein coat and genetic material"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "curriculum_name": "English grade 6 cbc",
+  "total_lessons": 30,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Child Labour",
+      "Sub-strand": "1.1 Pronunciation and Listening Comprehension",
+      "Learning Objective": "a) select words with the target sound from an oral narrative"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Child Labour",
+      "Sub-strand": "1.1 Pronunciation and Listening Comprehension",
+      "Learning Objective": "b) use vocabulary related to the theme in sentences correctly"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Child Labour",
+      "Sub-strand": "1.1 Pronunciation and Listening Comprehension",
+      "Learning Objective": "c) use proverbs; fixed phrases; idioms; and metaphors with straightforward meanings in oral communication"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Child Labour",
+      "Sub-strand": "1.1 Pronunciation and Listening Comprehension",
+      "Learning Objective": "d) Listen for the main idea and specific details from an oral text"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Child Labour",
+      "Sub-strand": "1.1 Pronunciation and Listening Comprehension",
+      "Learning Objective": "e) Value the importance of listening attentively"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Child Labour",
+      "Sub-strand": "1.2 Extensive Reading",
+      "Learning Objective": "a) select appropriate reading materials in collaboration with peers"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Child Labour",
+      "Sub-strand": "1.2 Extensive Reading",
+      "Learning Objective": "b) read a variety of materials independently for information and pleasure"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Child Labour",
+      "Sub-strand": "1.2 Extensive Reading",
+      "Learning Objective": "c) use reference materials to find the required information"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Child Labour",
+      "Sub-strand": "1.3 Word Classes: Determiners",
+      "Learning Objective": "a) identify determiners in sentences correctly"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Child Labour",
+      "Sub-strand": "1.3 Word Classes: Determiners",
+      "Learning Objective": "b) use determiners in sentences correctly"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Child Labour",
+      "Sub-strand": "1.3 Word Classes: Determiners",
+      "Learning Objective": "c) collaborate with peers to judge the correct use of determiners in sentences"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Child Labour",
+      "Sub-strand": "1.4 Guided Writing",
+      "Learning Objective": "a) record specific details on forms to convey information"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Child Labour",
+      "Sub-strand": "1.4 Guided Writing",
+      "Learning Objective": "b) design a form to provide the required information"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Child Labour",
+      "Sub-strand": "1.4 Guided Writing",
+      "Learning Objective": "c) advocate the importance of filling forms correctly"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Cultural and Religious Celebrations",
+      "Sub-strand": "2.1 Pronunciation and Listening Comprehension",
+      "Learning Objective": "a) identify proverbs from a text for effective communication"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Cultural and Religious Celebrations",
+      "Sub-strand": "2.1 Pronunciation and Listening Comprehension",
+      "Learning Objective": "b) listen for the main idea and specific details from a text"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Cultural and Religious Celebrations",
+      "Sub-strand": "2.1 Pronunciation and Listening Comprehension",
+      "Learning Objective": "c) use words and expressions such as similes; metaphors and proverbs containing selected sounds correctly"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Cultural and Religious Celebrations",
+      "Sub-strand": "2.1 Pronunciation and Listening Comprehension",
+      "Learning Objective": "d) value the importance of attentive listening in communication"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Cultural and Religious Celebrations",
+      "Sub-strand": "2.2 Intensive Reading",
+      "Learning Objective": "a) identify characters and events in a text for comprehension"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Cultural and Religious Celebrations",
+      "Sub-strand": "2.2 Intensive Reading",
+      "Learning Objective": "b) predict events in a text accurately"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Cultural and Religious Celebrations",
+      "Sub-strand": "2.2 Intensive Reading",
+      "Learning Objective": "c) answer factual and inferential questions correctly for comprehension"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Cultural and Religious Celebrations",
+      "Sub-strand": "2.2 Intensive Reading",
+      "Learning Objective": "d) create mental images from the events in poems and stories"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Cultural and Religious Celebrations",
+      "Sub-strand": "2.2 Intensive Reading",
+      "Learning Objective": "e) judge the characters or events in a story in collaboration with peers"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Cultural and Religious Celebrations",
+      "Sub-strand": "2.3 Word Classes: Nouns",
+      "Learning Objective": "a) identify concrete and abstract nouns from a text"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Cultural and Religious Celebrations",
+      "Sub-strand": "2.3 Word Classes: Nouns",
+      "Learning Objective": "b) use concrete and abstract nouns correctly in a variety of contexts"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Cultural and Religious Celebrations",
+      "Sub-strand": "2.3 Word Classes: Nouns",
+      "Learning Objective": "c) appreciate the role of concrete and abstract nouns in communication"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Cultural and Religious Celebrations",
+      "Sub-strand": "2.4 Narrative Compositions",
+      "Learning Objective": "a) identify topics and possible ideas for open-ended compositions"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Cultural and Religious Celebrations",
+      "Sub-strand": "2.4 Narrative Compositions",
+      "Learning Objective": "b) organise ideas in a paragraph logically"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Cultural and Religious Celebrations",
+      "Sub-strand": "2.4 Narrative Compositions",
+      "Learning Objective": "c) create an open-ended composition on a variety of themes"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "English",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Cultural and Religious Celebrations",
+      "Sub-strand": "2.4 Narrative Compositions",
+      "Learning Objective": "d) judge a narrative composition for correctness of language and relevance of topic"
+    }
+  ]
+}

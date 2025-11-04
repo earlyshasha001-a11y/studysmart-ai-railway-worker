@@ -1,0 +1,2330 @@
+{
+  "curriculum_name": "Physics year 10-11 Cambridge",
+  "total_lessons": 318,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Physical quantities and measurement techniques",
+      "Learning Objective": "Describe the use of rulers and measuring cylinders to find a length or a volume"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Physical quantities and measurement techniques",
+      "Learning Objective": "Describe how to measure a variety of time intervals using clocks and digital timers"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Physical quantities and measurement techniques",
+      "Learning Objective": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum)"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Physical quantities and measurement techniques",
+      "Learning Objective": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Physical quantities and measurement techniques",
+      "Learning Objective": "Know that the following quantities are scalars: distance; speed; time; mass; energy and temperature"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Physical quantities and measurement techniques",
+      "Learning Objective": "Know that the following quantities are vectors: force; weight; velocity; acceleration; momentum; electric field strength and gravitational field strength"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Physical quantities and measurement techniques",
+      "Learning Objective": "Determine; by calculation or graphically; the resultant of two vectors at right angles; limited to forces or velocities only"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Motion",
+      "Learning Objective": "Define speed as distance travelled per unit time; recall and use the equation v = s/t"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Motion",
+      "Learning Objective": "Define velocity as speed in a given direction"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Motion",
+      "Learning Objective": "Recall and use the equation average speed = total distance travelled/total time taken"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Motion",
+      "Learning Objective": "Sketch; plot and interpret distance–time and speed–time graphs"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Motion",
+      "Learning Objective": "Determine; qualitatively; from given data or the shape of a distance–time graph or speed–time graph when an object is: (a) at rest (b) moving with constant speed (c) accelerating (d) decelerating"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Motion",
+      "Learning Objective": "Calculate speed from the gradient of a straight-line section of a distance–time graph"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Motion",
+      "Learning Objective": "Calculate the area under a speed–time graph to determine the distance travelled for motion with constant speed or constant acceleration"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Motion",
+      "Learning Objective": "State that the acceleration of free fall g for an object near to the surface of the Earth is approximately constant and is approximately 9.8 m/s2"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Motion",
+      "Learning Objective": "Define acceleration as change in velocity per unit time; recall and use the equation a = Δv/Δt"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Motion",
+      "Learning Objective": "Determine from given data or the shape of a speed–time graph when an object is moving with: (a) constant acceleration (b) changing acceleration"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Motion",
+      "Learning Objective": "Calculate acceleration from the gradient of a speed–time graph"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Motion",
+      "Learning Objective": "Know that a deceleration is a negative acceleration and use this in calculations"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Physics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Motion",
+      "Learning Objective": "Describe the motion of objects falling in a uniform gravitational field with and without air/liquid resistance (including reference to terminal velocity)"
+    },
+    {
+      "Lesson Number": "1",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Living things and their environment",
+      "Sub-strand": "1.1 Plants",
+      "Learning Objective": "a) identify characteristics of plants as living things"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Living things and their environment",
+      "Sub-strand": "1.1 Plants",
+      "Learning Objective": "b) describe functions of external parts of plants"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Living things and their environment",
+      "Sub-strand": "1.1 Plants",
+      "Learning Objective": "c) appreciate the need to care for plants"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Living things and their environment",
+      "Sub-strand": "1.2 Animals",
+      "Learning Objective": "a) identify the characteristics of animals as living things"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Living things and their environment",
+      "Sub-strand": "1.2 Animals",
+      "Learning Objective": "b) distinguish vertebrates from invertebrates in the environment"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Living things and their environment",
+      "Sub-strand": "1.2 Animals",
+      "Learning Objective": "c) Appreciate the need to care for animals"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Living things and their environment",
+      "Sub-strand": "1.3 Human digestive system",
+      "Learning Objective": "a) identify parts of the human digestive system"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Living things and their environment",
+      "Sub-strand": "1.3 Human digestive system",
+      "Learning Objective": "b) develop a plan of maintaining a healthy human digestive system"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Living things and their environment",
+      "Sub-strand": "1.3 Human digestive system",
+      "Learning Objective": "c) appreciate the importance of a healthy human digestive system"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.1 Properties of matter",
+      "Learning Objective": "a) categorise substances in the environment into the three states of matter"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.1 Properties of matter",
+      "Learning Objective": "b) describe the properties of the three states of matter"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.1 Properties of matter",
+      "Learning Objective": "c) appreciate the importance of the different states of matter in day to day life"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.2 Management of solid waste",
+      "Learning Objective": "a) classify solid wastes into decomposable and non-decomposable"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.2 Management of solid waste",
+      "Learning Objective": "b) describe the dangers of solid waste to the environment"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.2 Management of solid waste",
+      "Learning Objective": "c) apply appropriate methods to manage solid waste in the environment"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.2 Management of solid waste",
+      "Learning Objective": "d) appreciate the need for proper management of solid waste in the environment"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.3 Water conservation",
+      "Learning Objective": "a) explain the meaning of water conservation in the environment"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.3 Water conservation",
+      "Learning Objective": "b) describe methods of conserving water at home and school"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.3 Water conservation",
+      "Learning Objective": "c) outline the importance of conserving water at home and school"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.3 Water conservation",
+      "Learning Objective": "d) develop interest in conserving water at home and school"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Force and its effect",
+      "Learning Objective": "a) describe types of forces in nature"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Force and its effect",
+      "Learning Objective": "b) demonstrate the effects of force on objects in nature"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Force and its effect",
+      "Learning Objective": "c) describe the uses of force in daily life"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Force and its effect",
+      "Learning Objective": "d) appreciate the importance of force in day-to-day life"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.2 Light",
+      "Learning Objective": "a) identify the sources of light in nature"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.2 Light",
+      "Learning Objective": "b) describe ways of lighting a house"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.2 Light",
+      "Learning Objective": "c) explain the uses of light in day to day life"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.2 Light",
+      "Learning Objective": "d) appreciate the applications of light in day-to-day life"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.3 Heat",
+      "Learning Objective": "a) identify sources of heat in nature"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.3 Heat",
+      "Learning Objective": "b) demonstrate uses of heat in day-to-day life"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.3 Heat",
+      "Learning Objective": "c) describe safety measures to observe when using heat"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.3 Heat",
+      "Learning Objective": "d) appreciate the importance of heat in day-to-day life"
+    },
+    {
+      "Lesson Number": "1",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Living Things and their Environment",
+      "Sub-strand": "1.1 Classification of plants",
+      "Learning Objective": "a) classify plants into flowering and non-flowering"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Living Things and their Environment",
+      "Sub-strand": "1.1 Classification of plants",
+      "Learning Objective": "b) describe functions of parts of a flower"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Living Things and their Environment",
+      "Sub-strand": "1.1 Classification of plants",
+      "Learning Objective": "c) outline the importance of flowers in nature"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Living Things and their Environment",
+      "Sub-strand": "1.1 Classification of plants",
+      "Learning Objective": "d) appreciate the importance of flowers in nature"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Living Things and their Environment",
+      "Sub-strand": "1.2 Vertebrates",
+      "Learning Objective": "a) describe general characteristics of vertebrates"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Living Things and their Environment",
+      "Sub-strand": "1.2 Vertebrates",
+      "Learning Objective": "b) classify vertebrates into their main groups"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Living Things and their Environment",
+      "Sub-strand": "1.2 Vertebrates",
+      "Learning Objective": "c) appreciate the importance of vertebrates in the environment"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Living Things and their Environment",
+      "Sub-strand": "1.3 The Human Breathing system",
+      "Learning Objective": "a) identify the main parts of the human breathing system"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Living Things and their Environment",
+      "Sub-strand": "1.3 The Human Breathing system",
+      "Learning Objective": "b) describe the functions of main parts of the human breathing system"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Living Things and their Environment",
+      "Sub-strand": "1.3 The Human Breathing system",
+      "Learning Objective": "c) outline the symptoms and prevention measures for common conditions and diseases of the breathing system"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Living Things and their Environment",
+      "Sub-strand": "1.3 The Human Breathing system",
+      "Learning Objective": "d) appreciate the need for maintaining a healthy breathing system"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.1 Mixtures",
+      "Learning Objective": "a) classify mixtures as homogeneous or heterogeneous"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.1 Mixtures",
+      "Learning Objective": "b) apply appropriate methods to separate heterogeneous mixtures"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.1 Mixtures",
+      "Learning Objective": "c) outline the applications of separating mixtures in day to day life"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.1 Mixtures",
+      "Learning Objective": "d) appreciate different methods of separating mixtures in day to day life"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.2 Water Pollution",
+      "Learning Objective": "a) identify water pollutants in the water sources"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.2 Water Pollution",
+      "Learning Objective": "b) outline the effects of water pollution in day-to-day life"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.2 Water Pollution",
+      "Learning Objective": "c) Identify methods of reducing water pollution in the water sources"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.2 Water Pollution",
+      "Learning Objective": "d) apply basic methods of water treatment"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.2 Water Pollution",
+      "Learning Objective": "e) advocate for safe water sources"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Floating and Sinking",
+      "Learning Objective": "a) demonstrate floating and sinking of objects using different materials"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Floating and Sinking",
+      "Learning Objective": "b) identify factors that affect floating and sinking of objects in water"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Floating and Sinking",
+      "Learning Objective": "c) explain applications of floating and sinking in day to day life"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Floating and Sinking",
+      "Learning Objective": "d) appreciate the use of floaters as life savers"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.2 Sound Energy",
+      "Learning Objective": "a) identify sources of sound in nature"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.2 Sound Energy",
+      "Learning Objective": "b) demonstrate the movement of sound in nature"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.2 Sound Energy",
+      "Learning Objective": "c) describe effects of loud sound in day to day life"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.2 Sound Energy",
+      "Learning Objective": "d) appreciate the role of sound in day to day life"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.3 Heat transfer",
+      "Learning Objective": "a) demonstrate the modes of heat transfer in nature"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.3 Heat transfer",
+      "Learning Objective": "b) classify conductors of heat into good or poor conductors"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.3 Heat transfer",
+      "Learning Objective": "c) explain the uses of heat transfer in day to day life"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.3 Heat transfer",
+      "Learning Objective": "d) acknowledge safety precautions when handling heat"
+    },
+    {
+      "Lesson Number": "1",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Living Things and Their Environment",
+      "Sub-strand": "1.1 Fungi",
+      "Learning Objective": "a) identify common fungi in the environment"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Living Things and Their Environment",
+      "Sub-strand": "1.1 Fungi",
+      "Learning Objective": "b) describe the importance of fungi in nature"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Living Things and Their Environment",
+      "Sub-strand": "1.1 Fungi",
+      "Learning Objective": "c) appreciate the importance of fungi in the economy"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Living Things and Their Environment",
+      "Sub-strand": "1.2 Invertebrates",
+      "Learning Objective": "a) identify common invertebrates in the environment"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Living Things and Their Environment",
+      "Sub-strand": "1.2 Invertebrates",
+      "Learning Objective": "b) practise precautions in handling invertebrates"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Living Things and Their Environment",
+      "Sub-strand": "1.2 Invertebrates",
+      "Learning Objective": "c) describe the general characteristics of invertebrates"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Living Things and Their Environment",
+      "Sub-strand": "1.2 Invertebrates",
+      "Learning Objective": "d) outline the economic importance of invertebrates"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Living Things and Their Environment",
+      "Sub-strand": "1.2 Invertebrates",
+      "Learning Objective": "e) appreciate the importance of invertebrates in nature"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Living Things and Their Environment",
+      "Sub-strand": "1.3 Human Circulatory System",
+      "Learning Objective": "a) identify main parts of the human circulatory system"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Living Things and Their Environment",
+      "Sub-strand": "1.3 Human Circulatory System",
+      "Learning Objective": "b) describe functions of main parts of the human circulatory system"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Living Things and Their Environment",
+      "Sub-strand": "1.3 Human Circulatory System",
+      "Learning Objective": "c) outline the symptoms and prevention of common health conditions of the human circulatory system"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Living Things and Their Environment",
+      "Sub-strand": "1.3 Human Circulatory System",
+      "Learning Objective": "d) develop a routine plan for maintaining a healthy circulatory system"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Living Things and Their Environment",
+      "Sub-strand": "1.3 Human Circulatory System",
+      "Learning Objective": "e) appreciate the importance of a healthy circulatory system"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.1 Change of State",
+      "Learning Objective": "a) identify the changes of state when substances are heated or cooled"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.1 Change of State",
+      "Learning Objective": "b) describe the applications of the change of state of matter in everyday life"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.1 Change of State",
+      "Learning Objective": "c) appreciate the applications of change of state in day to day life"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.2 Composition of Air",
+      "Learning Objective": "a) identify the components of air"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.2 Composition of Air",
+      "Learning Objective": "b) outline uses of the different components of air"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.2 Composition of Air",
+      "Learning Objective": "c) explain the effects of air pollution in the environment"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.2 Composition of Air",
+      "Learning Objective": "d) describe methods of reducing air pollution in the environment"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Matter",
+      "Sub-strand": "2.2 Composition of Air",
+      "Learning Objective": "e) appreciate the need for clean air in day to day life"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Light",
+      "Learning Objective": "a) demonstrate the movement of light through materials"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Light",
+      "Learning Objective": "b) draw ray diagrams of images formed on plane mirrors"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Light",
+      "Learning Objective": "c) illustrate the formation of shadows and eclipses in nature"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Light",
+      "Learning Objective": "d) describe the formation of rainbow in nature"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Light",
+      "Learning Objective": "e) appreciate the importance of movement of light in everyday life"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.2 Levers as Simple Machines",
+      "Learning Objective": "a) identify common levers used in day to day life"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.2 Levers as Simple Machines",
+      "Learning Objective": "b) describe parts of a lever as used in making work easier"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.2 Levers as Simple Machines",
+      "Learning Objective": "c) classify levers into the three classes"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.2 Levers as Simple Machines",
+      "Learning Objective": "d) demonstrate the use of levers in making work easier"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.2 Levers as Simple Machines",
+      "Learning Objective": "e) appreciate the use of levers in making work easier"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.3 Slopes as Simple Machines",
+      "Learning Objective": "a) identify types of slopes used as simple machines"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.3 Slopes as Simple Machines",
+      "Learning Objective": "b) demonstrate how a slope makes work easier in day to day life"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Science & Technology",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.3 Slopes as Simple Machines",
+      "Learning Objective": "c) appreciate the use of slopes in everyday life"
+    },
+    {
+      "Lesson Number": "1",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ep1",
+      "Learning Objective": "Try to answer questions by collecting evidence through observation"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ep2",
+      "Learning Objective": "Ask questions and contribute to discussions about how to seek answers"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ep3",
+      "Learning Objective": "Make predictions"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ep4",
+      "Learning Objective": "Decide what to do to try to answer a science question"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Eo1",
+      "Learning Objective": "Explore and observe in order to collect evidence (measurements and observations) to answer questions"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Eo2",
+      "Learning Objective": "Suggest ideas and follow instructions"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Eo3",
+      "Learning Objective": "Record stages in work"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Eo4",
+      "Learning Objective": "Make comparisons"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Eo5",
+      "Learning Objective": "Compare what happened with predictions"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Eo6",
+      "Learning Objective": "Model and communicate ideas in order to share; explain and develop them"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Bp1",
+      "Learning Objective": "Know that plants are living things"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Bp2",
+      "Learning Objective": "Know that there are living things and things that have never been alive"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Bp3",
+      "Learning Objective": "Explore ways that different animals and plants inhabit local environments"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Bp4",
+      "Learning Objective": "Name the major parts of a plant; looking at real plants and models"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Bp5",
+      "Learning Objective": "Know that plants need light and water to grow"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Bp6",
+      "Learning Objective": "Explore how seeds grow into flowering plants"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Bh1",
+      "Learning Objective": "Recognise the similarities and differences between each other"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Bh2",
+      "Learning Objective": "Recognise and name the main external parts of the body"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Bh3",
+      "Learning Objective": "Know about the need for a healthy diet; including the right types of food and water"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Bh4",
+      "Learning Objective": "Explore how senses enable humans and animals to be aware of the world around them"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Bh5",
+      "Learning Objective": "Know that humans and animals produce offspring which grow into adults"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Cp1",
+      "Learning Objective": "Use senses to explore and talk about different materials"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Cp2",
+      "Learning Objective": "Identify the characteristics of different materials"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Cp3",
+      "Learning Objective": "Recognise and name common materials"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Cp4",
+      "Learning Objective": "Sort objects into groups based on the properties of their materials"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Pf1",
+      "Learning Objective": "Explore; talk about and describe the movement of familiar things"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Pf2",
+      "Learning Objective": "Recognise that both pushes and pulls are forces"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Pf3",
+      "Learning Objective": "Recognise that when things speed up; slow down or change direction there is a cause"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ps1",
+      "Learning Objective": "Identify many sources of sound"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ps2",
+      "Learning Objective": "Know that we hear when sound enters our ear"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Science",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ps3",
+      "Learning Objective": "Recognise that as sound travels from a source it becomes fainter"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ep1",
+      "Learning Objective": "Collect evidence by making observations when trying to answer a science question"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ep2",
+      "Learning Objective": "Use first hand experience; e.g. observe melting ice"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ep3",
+      "Learning Objective": "Use simple information sources"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ep4",
+      "Learning Objective": "Ask questions and suggest ways to answer them"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ep5",
+      "Learning Objective": "Predict what will happen before deciding what to do"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ep6",
+      "Learning Objective": "Recognise that a test or comparison may be unfair"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Eo1",
+      "Learning Objective": "Make suggestions for collecting evidence"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Eo2",
+      "Learning Objective": "Talk about risks and how to avoid danger"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Eo3",
+      "Learning Objective": "Make and record observations"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Eo4",
+      "Learning Objective": "Take simple measurements"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Eo5",
+      "Learning Objective": "Use a variety of ways to tell others what happened"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Eo6",
+      "Learning Objective": "Make comparisons"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Eo7",
+      "Learning Objective": "Identify simple patterns and associations"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Eo8",
+      "Learning Objective": "Talk about predictions (orally and in text); the outcome and why this happened"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Eo9",
+      "Learning Objective": "Review and explain what happened"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Be1",
+      "Learning Objective": "Identify similarities and differences between local environments and know about some of the ways in which these affect the animals and plants that are found there"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Be2",
+      "Learning Objective": "Understand ways to care for the environment. Secondary sources can be used"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Be3",
+      "Learning Objective": "Observe and talk about their observation of the weather; recording reports of weather data"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Cp1",
+      "Learning Objective": "Recognise some types of rocks and the uses of different rocks"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Cp2",
+      "Learning Objective": "Know that some materials occur naturally and others are man-made"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Cc1",
+      "Learning Objective": "Know how the shapes of some materials can be changed by squashing; bending; twisting and/or stretching"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Cc2",
+      "Learning Objective": "Explore and describe the way some everyday materials change when they are heated or cooled"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Cc3",
+      "Learning Objective": "Recognise that some materials can dissolve in water"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Pl1",
+      "Learning Objective": "Identify different light sources including the sun"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Pl2",
+      "Learning Objective": "Know that darkness is the absence of light"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Pl3",
+      "Learning Objective": "Be able to identify shadows"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Pm1",
+      "Learning Objective": "Recognise the components of simple circuits involving cells (batteries)"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Pm2",
+      "Learning Objective": "Know how a switch can be used to break a circuit"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Pb1",
+      "Learning Objective": "Explore how the sun appears to move during the day and how shadows change"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Science",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Pb2",
+      "Learning Objective": "Model how the spin of the Earth leads to day and night; e.g. with different sized balls and a torch"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ep1",
+      "Learning Objective": "Collect evidence in a variety of contexts to answer questions or test ideas"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ep2",
+      "Learning Objective": "Suggest ideas; make predictions and communicate these"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ep3",
+      "Learning Objective": "With help; think about collecting evidence and planning fair tests"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Eo1",
+      "Learning Objective": "Observe and compare objects; living things and events"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Eo2",
+      "Learning Objective": "Measure using simple equipment and record observations in a variety of ways"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Eo3",
+      "Learning Objective": "Present results in drawings; bar charts and tables"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Eo4",
+      "Learning Objective": "Draw conclusions from results and begin to use scientific knowledge to suggest explanations"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Eo5",
+      "Learning Objective": "Make generalisations and begin to identify simple patterns in results"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Bp1",
+      "Learning Objective": "Know that plants have roots; leaves; stems and flowers"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Bp2",
+      "Learning Objective": "Explain observations that plants need water and light to grow"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Bp3",
+      "Learning Objective": "Know that water is taken in through the roots and transported through the stem"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Bp4",
+      "Learning Objective": "Know that plants need healthy roots; leaves and stems to grow well"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Bp5",
+      "Learning Objective": "Know that plant growth is affected by temperature"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Bh1",
+      "Learning Objective": "Know life processes common to humans and animals include nutrition (water and food); movement; growth and reproduction"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Bh2",
+      "Learning Objective": "Describe differences between living and non-living things using knowledge of life processes"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Bh3",
+      "Learning Objective": "Explore and research exercise and the adequate; varied diet needed to keep healthy"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Bh4",
+      "Learning Objective": "Know that some foods can be damaging to health; e.g. very sweet and fatty foods"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Bh5",
+      "Learning Objective": "Explore human senses and the ways we use them to learn about our world"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Bh6",
+      "Learning Objective": "Sort living things into groups; using simple features and describe rationale for groupings"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Cp1",
+      "Learning Objective": "Know that every material has specific properties; e.g. hard; soft; shiny"
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Cp2",
+      "Learning Objective": "Sort materials according to their properties"
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Cp3",
+      "Learning Objective": "Explore how some materials are magnetic but many are not"
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Cp4",
+      "Learning Objective": "Discuss why materials are chosen for specific purposes on the basis of their properties"
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Pf1",
+      "Learning Objective": "Know that pushes and pulls are examples of forces and that they can be measured with forcemeters"
+    },
+    {
+      "Lesson Number": "86",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Pf2",
+      "Learning Objective": "Explore how forces can make objects start or stop moving"
+    },
+    {
+      "Lesson Number": "87",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Pf3",
+      "Learning Objective": "Explore how forces can change the shape of objects"
+    },
+    {
+      "Lesson Number": "88",
+      "Subject": "Science",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Pf4",
+      "Learning Objective": "Explore how forces; including friction; can make objects move faster or slower or change direction"
+    },
+    {
+      "Lesson Number": "89",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ep1",
+      "Learning Objective": "Collect evidence in a variety of contexts"
+    },
+    {
+      "Lesson Number": "90",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ep2",
+      "Learning Objective": "Test an idea or prediction based on scientific knowledge and understanding"
+    },
+    {
+      "Lesson Number": "91",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ep3",
+      "Learning Objective": "Suggest questions that can be tested and make predictions; communicate these"
+    },
+    {
+      "Lesson Number": "92",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ep4",
+      "Learning Objective": "Design a fair test and plan how to collect sufficient evidence"
+    },
+    {
+      "Lesson Number": "93",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ep5",
+      "Learning Objective": "Choose apparatus and decide what to measure"
+    },
+    {
+      "Lesson Number": "94",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Eo1",
+      "Learning Objective": "Make relevant observations and comparisons in a variety of contexts"
+    },
+    {
+      "Lesson Number": "95",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Eo2",
+      "Learning Objective": "Measure temperature; time; force and length"
+    },
+    {
+      "Lesson Number": "96",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Eo3",
+      "Learning Objective": "Begin to think about the need for repeated measurements of; for example; length"
+    },
+    {
+      "Lesson Number": "97",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Eo4",
+      "Learning Objective": "Present results in drawings; bar charts and tables"
+    },
+    {
+      "Lesson Number": "98",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Eo5",
+      "Learning Objective": "Identify simple trends and patterns in results and suggest explanations for some of these"
+    },
+    {
+      "Lesson Number": "99",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Eo6",
+      "Learning Objective": "Explain what the evidence shows and whether it supports predictions. Communicate this clearly to others"
+    },
+    {
+      "Lesson Number": "100",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Eo7",
+      "Learning Objective": "Link evidence to scientific knowledge and understanding in some contexts"
+    },
+    {
+      "Lesson Number": "101",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Bh1",
+      "Learning Objective": "Know that humans (and some animals) have bony skeletons inside their bodies"
+    },
+    {
+      "Lesson Number": "102",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Bh2",
+      "Learning Objective": "Know how skeletons grow as humans grow; support and protect the body"
+    },
+    {
+      "Lesson Number": "103",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Bh3",
+      "Learning Objective": "Know that animals with skeletons have muscles attached to the bones"
+    },
+    {
+      "Lesson Number": "104",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Bh4",
+      "Learning Objective": "Know how a muscle has to contract (shorten) to make a bone move and muscles act in pairs"
+    },
+    {
+      "Lesson Number": "105",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Bh5",
+      "Learning Objective": "Explain the role of drugs as medicines"
+    },
+    {
+      "Lesson Number": "106",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Be1",
+      "Learning Objective": "Investigate how different animals are found in different habitats and are suited to the environment in which they are found"
+    },
+    {
+      "Lesson Number": "107",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Be2",
+      "Learning Objective": "Use simple identification keys"
+    },
+    {
+      "Lesson Number": "108",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Be3",
+      "Learning Objective": "Recognise ways that human activity affects the environment; e.g. river pollution; recycling waste"
+    },
+    {
+      "Lesson Number": "109",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Cs1",
+      "Learning Objective": "Know that matter can be solid; liquid or gas"
+    },
+    {
+      "Lesson Number": "110",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Cs2",
+      "Learning Objective": "Investigate how materials change when they are heated and cooled"
+    },
+    {
+      "Lesson Number": "111",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Cs3",
+      "Learning Objective": "Know that melting is when a solid turns into a liquid and is the reverse of freezing"
+    },
+    {
+      "Lesson Number": "112",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Cs4",
+      "Learning Objective": "Observe how water turns into steam when it is heated but on cooling the steam turns back into water"
+    },
+    {
+      "Lesson Number": "113",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ps1",
+      "Learning Objective": "Explore how sounds are made when objects; materials or air vibrate and learn to measure the volume of sound in decibels with a sound level meter"
+    },
+    {
+      "Lesson Number": "114",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ps2",
+      "Learning Objective": "Investigate how sound travels through different materials to the ear"
+    },
+    {
+      "Lesson Number": "115",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ps3",
+      "Learning Objective": "Investigate how some materials are effective in preventing sound from travelling through them"
+    },
+    {
+      "Lesson Number": "116",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ps4",
+      "Learning Objective": "Investigate the way pitch describes how high or low a sound is and that high and low sounds can be loud or soft. Secondary sources can be used"
+    },
+    {
+      "Lesson Number": "117",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ps5",
+      "Learning Objective": "Explore how pitch can be changed in musical instruments in a range of ways"
+    },
+    {
+      "Lesson Number": "118",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Pm1",
+      "Learning Objective": "Construct complete circuits using switch; cell (battery); wire and lamps"
+    },
+    {
+      "Lesson Number": "119",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Pm2",
+      "Learning Objective": "Explore how an electrical device will not work if there is a break in the circuit"
+    },
+    {
+      "Lesson Number": "120",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Pm3",
+      "Learning Objective": "Know that electrical current flows and that models can describe this flow; e.g. particles travelling around a circuit"
+    },
+    {
+      "Lesson Number": "121",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Pm4",
+      "Learning Objective": "Explore the forces between magnets and know that magnets can attract or repel each other"
+    },
+    {
+      "Lesson Number": "122",
+      "Subject": "Science",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Pm5",
+      "Learning Objective": "Know that magnets attract some metals but not others"
+    },
+    {
+      "Lesson Number": "123",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ep1",
+      "Learning Objective": "Know that scientists have combined evidence with creative thinking to suggest new ideas and explanations for phenomena"
+    },
+    {
+      "Lesson Number": "124",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ep2",
+      "Learning Objective": "Use observation and measurement to test predictions and make links"
+    },
+    {
+      "Lesson Number": "125",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ep3",
+      "Learning Objective": "Make predictions of what will happen based on scientific knowledge and understanding; and suggest and communicate how to test these"
+    },
+    {
+      "Lesson Number": "126",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ep4",
+      "Learning Objective": "Use knowledge and understanding to plan how to carry out a fair test"
+    },
+    {
+      "Lesson Number": "127",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ep5",
+      "Learning Objective": "Collect sufficient evidence to test an idea"
+    },
+    {
+      "Lesson Number": "128",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ep6",
+      "Learning Objective": "Identify factors that need to be taken into account in different contexts"
+    },
+    {
+      "Lesson Number": "129",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Eo1",
+      "Learning Objective": "Make relevant observations"
+    },
+    {
+      "Lesson Number": "130",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Eo2",
+      "Learning Objective": "Measure volume; temperature; time; length and force"
+    },
+    {
+      "Lesson Number": "131",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Eo3",
+      "Learning Objective": "Discuss the need for repeated observations and measurements"
+    },
+    {
+      "Lesson Number": "132",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Eo4",
+      "Learning Objective": "Present results in bar charts and line graphs"
+    },
+    {
+      "Lesson Number": "133",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Eo5",
+      "Learning Objective": "Decide whether results support predictions"
+    },
+    {
+      "Lesson Number": "134",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Eo6",
+      "Learning Objective": "Begin to evaluate repeated results"
+    },
+    {
+      "Lesson Number": "135",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Eo7",
+      "Learning Objective": "Recognise and make predictions from patterns in data and suggest explanations using scientific knowledge and understanding"
+    },
+    {
+      "Lesson Number": "136",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Eo8",
+      "Learning Objective": "Interpret data and think about whether it is sufficient to draw conclusions"
+    },
+    {
+      "Lesson Number": "137",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Bp1",
+      "Learning Objective": "Know that plants need energy from light for growth"
+    },
+    {
+      "Lesson Number": "138",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Bp2",
+      "Learning Objective": "Know that plants reproduce"
+    },
+    {
+      "Lesson Number": "139",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Bp3",
+      "Learning Objective": "Observe how seeds can be dispersed in a variety of ways"
+    },
+    {
+      "Lesson Number": "140",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Bp4",
+      "Learning Objective": "Investigate how seeds need water and warmth for germination; but not light"
+    },
+    {
+      "Lesson Number": "141",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Bp5",
+      "Learning Objective": "Know that insects pollinate some flowers"
+    },
+    {
+      "Lesson Number": "142",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Bp6",
+      "Learning Objective": "Observe that plants produce flowers which have male and female organs; seeds are formed when pollen from the male organ fertilises the ovum (female)"
+    },
+    {
+      "Lesson Number": "143",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Bp7",
+      "Learning Objective": "Recognise that flowering plants have a life cycle including pollination; fertilisation; seed production; seed dispersal and germination"
+    },
+    {
+      "Lesson Number": "144",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Cs1",
+      "Learning Objective": "Know that evaporation occurs when a liquid turns into a gas"
+    },
+    {
+      "Lesson Number": "145",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Cs2",
+      "Learning Objective": "Know that condensation occurs when a gas turns into a liquid and that it is the reverse of evaporation"
+    },
+    {
+      "Lesson Number": "146",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Cs3",
+      "Learning Objective": "Know that air contains water vapour and when this meets a cold surface it may condense"
+    },
+    {
+      "Lesson Number": "147",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Cs4",
+      "Learning Objective": "Know that the boiling point of water is 100 °C and the melting point of ice is 0 °C"
+    },
+    {
+      "Lesson Number": "148",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Cs5",
+      "Learning Objective": "Know that when a liquid evaporates from a solution the solid is left behind"
+    },
+    {
+      "Lesson Number": "149",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Pl1",
+      "Learning Objective": "Observe that shadows are formed when light travelling from a source is blocked"
+    },
+    {
+      "Lesson Number": "150",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Pl2",
+      "Learning Objective": "Investigate how the size of a shadow is affected by the position of the object"
+    },
+    {
+      "Lesson Number": "151",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Pl3",
+      "Learning Objective": "Observe that shadows change in length and position throughout the day"
+    },
+    {
+      "Lesson Number": "152",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Pl4",
+      "Learning Objective": "Know that light intensity can be measured"
+    },
+    {
+      "Lesson Number": "153",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Pl5",
+      "Learning Objective": "Explore how opaque materials do not let light through and transparent materials let a lot of light through"
+    },
+    {
+      "Lesson Number": "154",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Pl6",
+      "Learning Objective": "Know that we see light sources because light from the source enters our eyes"
+    },
+    {
+      "Lesson Number": "155",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Pl7",
+      "Learning Objective": "Know that beams/rays of light can be reflected by surfaces including mirrors; and when reflected light enters our eyes we see the object"
+    },
+    {
+      "Lesson Number": "156",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Pl8",
+      "Learning Objective": "Explore why a beam of light changes direction when it is reflected from a surface"
+    },
+    {
+      "Lesson Number": "157",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Pb1",
+      "Learning Objective": "Explore; through modeling; that the sun does not move; its apparent movement is caused by the Earth spinning on its axis"
+    },
+    {
+      "Lesson Number": "158",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Pb2",
+      "Learning Objective": "Know that the Earth spins on its axis once in every 24 hours"
+    },
+    {
+      "Lesson Number": "159",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Pb3",
+      "Learning Objective": "Know that the Earth takes a year to orbit the sun; spinning as it goes"
+    },
+    {
+      "Lesson Number": "160",
+      "Subject": "Science",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Pb4",
+      "Learning Objective": "Research the lives and discoveries of scientists who explored the solar system and stars"
+    },
+    {
+      "Lesson Number": "161",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ep1",
+      "Learning Objective": "Consider how scientists have combined evidence from observation and measurement with creative thinking to suggest new ideas and explanations for phenomena"
+    },
+    {
+      "Lesson Number": "162",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ep2",
+      "Learning Objective": "Collect evidence and data to test ideas including predictions"
+    },
+    {
+      "Lesson Number": "163",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ep3",
+      "Learning Objective": "Discuss how to turn ideas into a form that can be tested"
+    },
+    {
+      "Lesson Number": "164",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ep4",
+      "Learning Objective": "Make predictions using scientific knowledge and understanding"
+    },
+    {
+      "Lesson Number": "165",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ep5",
+      "Learning Objective": "Choose what evidence to collect to investigate a question; ensuring that the evidence is sufficient"
+    },
+    {
+      "Lesson Number": "166",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ep6",
+      "Learning Objective": "Identify factors that are relevant to a particular situation"
+    },
+    {
+      "Lesson Number": "167",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ep7",
+      "Learning Objective": "Choose which equipment to use"
+    },
+    {
+      "Lesson Number": "168",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Eo1",
+      "Learning Objective": "Make a variety of relevant observations and measurements using simple apparatus correctly"
+    },
+    {
+      "Lesson Number": "169",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Eo2",
+      "Learning Objective": "Decide when observations and measurements need to be checked by repeating to give more reliable data"
+    },
+    {
+      "Lesson Number": "170",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Eo3",
+      "Learning Objective": "Use tables; bar charts and line graphs to present results"
+    },
+    {
+      "Lesson Number": "171",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Eo4",
+      "Learning Objective": "Make comparisons"
+    },
+    {
+      "Lesson Number": "172",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Eo5",
+      "Learning Objective": "Evaluate repeated results"
+    },
+    {
+      "Lesson Number": "173",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Eo6",
+      "Learning Objective": "Identify patterns in results and results that do not appear to fit the pattern"
+    },
+    {
+      "Lesson Number": "174",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Eo7",
+      "Learning Objective": "Use results to draw conclusions and to make further predictions"
+    },
+    {
+      "Lesson Number": "175",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Eo8",
+      "Learning Objective": "Suggest and evaluate explanations for predictions using scientific knowledge and understanding and communicate these clearly to others"
+    },
+    {
+      "Lesson Number": "176",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Eo9",
+      "Learning Objective": "Say if and how evidence supports any prediction made"
+    },
+    {
+      "Lesson Number": "177",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Bh1",
+      "Learning Objective": "Use scientific names for some major organs of body systems"
+    },
+    {
+      "Lesson Number": "178",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Bh2",
+      "Learning Objective": "Identify the position of major organs in the body"
+    },
+    {
+      "Lesson Number": "179",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Bh3",
+      "Learning Objective": "Describe the main functions of the major organs of the body"
+    },
+    {
+      "Lesson Number": "180",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Bh4",
+      "Learning Objective": "Explain how the functions of the major organs are essential"
+    },
+    {
+      "Lesson Number": "181",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Be1",
+      "Learning Objective": "Explore how humans have positive and negative effects on the environment; e.g. loss of species; protection of habitats"
+    },
+    {
+      "Lesson Number": "182",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Be2",
+      "Learning Objective": "Explore a number of ways of caring for the environment; e.g. recycling; reducing waste; reducing energy consumption; not littering; encouraging others to care for the environment"
+    },
+    {
+      "Lesson Number": "183",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Be3",
+      "Learning Objective": "Know how food chains can be used to represent feeding relationships in a habitat and present these in text and diagrams"
+    },
+    {
+      "Lesson Number": "184",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Be4",
+      "Learning Objective": "Know that food chains begin with a plant (the producer); which uses energy from the sun"
+    },
+    {
+      "Lesson Number": "185",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Be5",
+      "Learning Objective": "Understand the terms producer; consumer; predator and prey"
+    },
+    {
+      "Lesson Number": "186",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Be6",
+      "Learning Objective": "Explore and construct food chains in a particular habitat"
+    },
+    {
+      "Lesson Number": "187",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Cc1",
+      "Learning Objective": "Distinguish between reversible and irreversible changes"
+    },
+    {
+      "Lesson Number": "188",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Cc2",
+      "Learning Objective": "Explore how solids can be mixed and how it is often possible to separate them again"
+    },
+    {
+      "Lesson Number": "189",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Cc3",
+      "Learning Objective": "Observe; describe; record and begin to explain changes that occur when some solids are added to water"
+    },
+    {
+      "Lesson Number": "190",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Cc4",
+      "Learning Objective": "Explore how; when solids do not dissolve or react with water; they can be separated by filtering; which is similar to sieving"
+    },
+    {
+      "Lesson Number": "191",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Cc5",
+      "Learning Objective": "Explore how some solids dissolve in water to form solutions and; although the solid cannot be seen; the substance is still present"
+    },
+    {
+      "Lesson Number": "192",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Pf1",
+      "Learning Objective": "Distinguish between mass measured in kilograms (kg) and weight measured in newtons; noting that kilograms are used in everyday life"
+    },
+    {
+      "Lesson Number": "193",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Pf2",
+      "Learning Objective": "Recognise and use units of force; mass and weight and identify the direction in which forces act"
+    },
+    {
+      "Lesson Number": "194",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Pf3",
+      "Learning Objective": "Understand the notion of energy in movement"
+    },
+    {
+      "Lesson Number": "195",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Pf4",
+      "Learning Objective": "Recognise friction (including air resistance) as a force which can affect the speed at which objects move and which sometimes stops things moving"
+    },
+    {
+      "Lesson Number": "196",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Pm1",
+      "Learning Objective": "Investigate how some materials are better conductors of electricity than others"
+    },
+    {
+      "Lesson Number": "197",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Pm2",
+      "Learning Objective": "Investigate how some metals are good conductors of electricity while most other materials are not"
+    },
+    {
+      "Lesson Number": "198",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Pm3",
+      "Learning Objective": "Know why metals are used for cables and wires and why plastics are used to cover wires and as covers for plugs and switches"
+    },
+    {
+      "Lesson Number": "199",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Pm4",
+      "Learning Objective": "Predict and test the effects of making changes to circuits; including length or thickness of wire and the number and type of components"
+    },
+    {
+      "Lesson Number": "200",
+      "Subject": "Science",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Pm5",
+      "Learning Objective": "Represent series circuits with drawings and conventional symbols"
+    }
+  ]
+}

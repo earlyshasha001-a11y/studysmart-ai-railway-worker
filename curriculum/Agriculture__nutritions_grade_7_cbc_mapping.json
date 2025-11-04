@@ -1,0 +1,342 @@
+{
+  "curriculum_name": "Agriculture & nutritions grade 7 cbc",
+  "total_lessons": 42,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.1 Controlling Soil Pollution",
+      "Learning Objective": "a) explain the causes of soil pollution in gardening"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.1 Controlling Soil Pollution",
+      "Learning Objective": "b) control soil pollution in the home environment"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.1 Controlling Soil Pollution",
+      "Learning Objective": "c) demonstrate responsibility in using safe farming practises to conserve the soil"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.2 Constructing Water Retention Structures",
+      "Learning Objective": "a) describe how surface run-off can be used in gardening"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.2 Constructing Water Retention Structures",
+      "Learning Objective": "b) construct water retention structures to conserve surface runoff"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.2 Constructing Water Retention Structures",
+      "Learning Objective": "c) adopt utilisation of surface run-off in gardening"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.3 Conserving Food Nutrients",
+      "Learning Objective": "a) identify ways of conserving vitamins and minerals in vegetables"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.3 Conserving Food Nutrients",
+      "Learning Objective": "b) conserve vitamins and minerals in vegetables"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.3 Conserving Food Nutrients",
+      "Learning Objective": "c) adopt conservation of vitamins and minerals in vegetables"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.4 Growing Trees",
+      "Learning Objective": "a) explain the importance of trees in conserving the environment"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.4 Growing Trees",
+      "Learning Objective": "b) plant trees to conserve the environment"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.4 Growing Trees",
+      "Learning Objective": "c) adopt tree planting as a way of conserving the environment"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.1 Crop Establishment",
+      "Learning Objective": "a) determine appropriate tilth for selected planting material"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.1 Crop Establishment",
+      "Learning Objective": "b) prepare a suitable tilth for establishing selected planting material"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.1 Crop Establishment",
+      "Learning Objective": "c) adopt appropriate tilth in establishing a selected planting material"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.2 Selected Crop Management Practises",
+      "Learning Objective": "a) explain management practises carried out on crops"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.2 Selected Crop Management Practises",
+      "Learning Objective": "b) carry out management practises in crop production"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.2 Selected Crop Management Practises",
+      "Learning Objective": "c) appreciate the importance of various management practises in crop production"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.3 Preparing Animal Products",
+      "Learning Objective": "a) explain how to prepare animal products for various purposes"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.3 Preparing Animal Products",
+      "Learning Objective": "b) prepare animal products for various purposes"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.3 Preparing Animal Products",
+      "Learning Objective": "c) embrace preparation of animal products for various purposes"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.4 Cooking Food",
+      "Learning Objective": "a) describe methods of cooking different types of foods"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.4 Cooking Food",
+      "Learning Objective": "b) cook food using various methods"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.4 Cooking Food",
+      "Learning Objective": "c) appreciate the use of varied methods of cooking food"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Hygiene Practises",
+      "Sub-strand": "3.1 Hygiene in Rearing Animals",
+      "Learning Objective": "a) describe hygiene practises in rearing domestic animals"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Hygiene Practises",
+      "Sub-strand": "3.1 Hygiene in Rearing Animals",
+      "Learning Objective": "b) carry out hygiene practises in rearing domestic animals"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Hygiene Practises",
+      "Sub-strand": "3.1 Hygiene in Rearing Animals",
+      "Learning Objective": "c) appreciate importance of hygiene practises in rearing domestic animals"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Hygiene Practises",
+      "Sub-strand": "3.2 Laundry: Loose-coloured Items",
+      "Learning Objective": "a) describe how to launder a loose-coloured article for hygiene purposes"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Hygiene Practises",
+      "Sub-strand": "3.2 Laundry: Loose-coloured Items",
+      "Learning Objective": "b) launder a loose-coloured article for hygiene purposes"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "3.0 Hygiene Practises",
+      "Sub-strand": "3.2 Laundry: Loose-coloured Items",
+      "Learning Objective": "c) embrace laundering of loose-coloured articles for hygiene purposes"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Knitting Skills",
+      "Learning Objective": "a) describe knitting stitches used in making household articles"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Knitting Skills",
+      "Learning Objective": "b) knit various articles for household use"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Knitting Skills",
+      "Learning Objective": "c) embrace knitting skills in making household articles"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.2 Constructing Framed Suspended Garden",
+      "Learning Objective": "a) describe a framed suspended garden for growing crops"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.2 Constructing Framed Suspended Garden",
+      "Learning Objective": "b) construct a framed structure for a suspended garden"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.2 Constructing Framed Suspended Garden",
+      "Learning Objective": "c) embrace the use of framed suspended gardens for growing crops"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.3 Adding Value to Crop Produce",
+      "Learning Objective": "a) explain ways of adding value on crop produce"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.3 Adding Value to Crop Produce",
+      "Learning Objective": "b) add value to a selected crop produce"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.3 Adding Value to Crop Produce",
+      "Learning Objective": "c) appreciate the importance of value addition on crop produce"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.4 Making Homemade Soap",
+      "Learning Objective": "a) identify the forms of soap used at the household level"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.4 Making Homemade Soap",
+      "Learning Objective": "b) make homemade soap using natural ingredients"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 7",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.4 Making Homemade Soap",
+      "Learning Objective": "c) embrace homemade soap for household use"
+    }
+  ]
+}

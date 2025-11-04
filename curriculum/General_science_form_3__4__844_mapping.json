@@ -1,0 +1,573 @@
+{
+  "curriculum_name": "General science form 3 & 4  844",
+  "total_lessons": 81,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.0 Introduction to General Science",
+      "Learning Objective": "Explain the meaning of General Science as a learning area"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.0 Introduction to General Science",
+      "Learning Objective": "Discuss the branches of General Science"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.0 Introduction to General Science",
+      "Learning Objective": "Outline the importance of General Science in life; environment and technology"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.0 Introduction to General Science",
+      "Learning Objective": "Identify career opportunities related to General Science"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.0 Introduction to General Science",
+      "Learning Objective": "Analyse the principle of inference in science education"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.0 Introduction to General Science",
+      "Learning Objective": "Appreciate the importance of General Science in day to day living"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.1 The Cell",
+      "Learning Objective": "Explain the differences between light and electron microscopes"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.1 The Cell",
+      "Learning Objective": "Describe the plant and animal cell under an electron microscope"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.1 The Cell",
+      "Learning Objective": "Compare plant and animal cell structures under light and electron microscope"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.1 The Cell",
+      "Learning Objective": "Explain the functions of the components of plant and animal cells"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.1 The Cell",
+      "Learning Objective": "Construct a concept map of the levels of cell organisation"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.1 The Cell",
+      "Learning Objective": "Appreciate the function of the cell as a basic unit of life"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.2 Nutrition in Animals",
+      "Learning Objective": "Describe digestion of different types of food in each region of the digestive system"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.2 Nutrition in Animals",
+      "Learning Objective": "Explain the adaptations of parts of the human digestive system"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.2 Nutrition in Animals",
+      "Learning Objective": "Perform experiments to determine presence of different nutrients in food"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.2 Nutrition in Animals",
+      "Learning Objective": "Appreciate the role of different parts of the digestive system"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.3 Transport in plants",
+      "Learning Objective": "Describe transport in plants"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.3 Transport in plants",
+      "Learning Objective": "Investigate factors affecting transpiration"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.3 Transport in plants",
+      "Learning Objective": "Describe the significance of transpiration in sustainability of plant life"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.3 Transport in plants",
+      "Learning Objective": "Appreciate the role of transport in plants"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.4 Respiration",
+      "Learning Objective": "Explain the meaning of respiration in living things"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.4 Respiration",
+      "Learning Objective": "Describe aerobic and anaerobic respiration in living things"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.4 Respiration",
+      "Learning Objective": "Relate the respiratory quotient to the type of substrate and respiration in living things"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.4 Respiration",
+      "Learning Objective": "Explain factors affecting respiration in living things"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.4 Respiration",
+      "Learning Objective": "Describe economic importance of anaerobic respiration"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.4 Respiration",
+      "Learning Objective": "Acknowledge the significance of respiration in living things"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5 Plant growth and development",
+      "Learning Objective": "Explain the meaning of growth and development in plants"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5 Plant growth and development",
+      "Learning Objective": "Describe the causes of seed dormancy"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5 Plant growth and development",
+      "Learning Objective": "Determine the conditions necessary for germination"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5 Plant growth and development",
+      "Learning Objective": "Differentiate between epigeal and hypogeal germination"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5 Plant growth and development",
+      "Learning Objective": "Distinguish between primary and secondary growth"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5 Plant growth and development",
+      "Learning Objective": "Describe the role of growth hormones"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5 Plant growth and development",
+      "Learning Objective": "Appreciate the concept of growth and development in plants"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.6 Microorganisms",
+      "Learning Objective": "Identify microorganisms that affect human beings"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.6 Microorganisms",
+      "Learning Objective": "Explain modes of transmission of microorganisms in human beings"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.6 Microorganisms",
+      "Learning Objective": "Identify types of infections caused by microorganisms in human beings"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.6 Microorganisms",
+      "Learning Objective": "Describe methods of control and prevention of infections caused by microorganisms"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.6 Microorganisms",
+      "Learning Objective": "Explain the economic importance of microorganisms"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.6 Microorganisms",
+      "Learning Objective": "Appreciate the effect of microorganisms in day to day life"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1 The periodic table",
+      "Learning Objective": "Examine electron arrangement of an atom of an element to identify the period and group the element belongs"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1 The periodic table",
+      "Learning Objective": "Classify elements into groups and periods of the periodic table"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1 The periodic table",
+      "Learning Objective": "Explain the stability and electron affinity of atoms of elements"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1 The periodic table",
+      "Learning Objective": "Describe ion formation for the first 20 elements of the periodic table"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1 The periodic table",
+      "Learning Objective": "Formulate chemical formula of compounds using valencies of elements and radicals"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1 The periodic table",
+      "Learning Objective": "Appreciate the importance of the structure of the atom in the development of the periodic table"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2 Chemical Families",
+      "Learning Objective": "Identify chemical families in the periodic table"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2 Chemical Families",
+      "Learning Objective": "Classify elements of the periodic table into their chemical families"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2 Chemical Families",
+      "Learning Objective": "Describe the physical and chemical properties of selected elements of the periodic table"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2 Chemical Families",
+      "Learning Objective": "Explain the unreactive nature of the noble gases"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2 Chemical Families",
+      "Learning Objective": "Outline the uses of elements of the periodic table"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2 Chemical Families",
+      "Learning Objective": "Acknowledge the uses of the elements of the periodic table in day to day life"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.3 Chemical bonding",
+      "Learning Objective": "Identify the types of bonds formed by elements"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.3 Chemical bonding",
+      "Learning Objective": "Illustrate chemical bonding in common compounds"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.3 Chemical bonding",
+      "Learning Objective": "Distinguish structures of elements and compounds formed by bonding"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.3 Chemical bonding",
+      "Learning Objective": "Describe the relationship between the bond types and the physical properties of elements and compounds"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.3 Chemical bonding",
+      "Learning Objective": "Select appropriate materials for use based on their bond type and structure"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.3 Chemical bonding",
+      "Learning Objective": "Reflect on the appropriateness of substances in day to day life based on their bond types and structures"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.4 Acids; Bases & Salts",
+      "Learning Objective": "Distinguish acids and bases using the universal indicator and pH chart"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.4 Acids; Bases & Salts",
+      "Learning Objective": "Explain the role of acids and bases in biological processes"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.4 Acids; Bases & Salts",
+      "Learning Objective": "Identify products of chemical reactions of acids and bases"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.4 Acids; Bases & Salts",
+      "Learning Objective": "Classify salts according to their behaviour when exposed to air"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.4 Acids; Bases & Salts",
+      "Learning Objective": "Outline applications of salts in real life situations"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.4 Acids; Bases & Salts",
+      "Learning Objective": "Advocate for proper usage of salts in day to day life"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.5 Rates of Reactions",
+      "Learning Objective": "Describe rate of chemical reactions"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.5 Rates of Reactions",
+      "Learning Objective": "Perform experiments involving the rate of chemical reactions"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.5 Rates of Reactions",
+      "Learning Objective": "Explain factors that influence the rate of reactions in both biological and chemical process"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.5 Rates of Reactions",
+      "Learning Objective": "Account for the efficiency of chemical reactions in industrial processes"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.5 Rates of Reactions",
+      "Learning Objective": "Appreciate the significance of manipulating factors affecting chemical reactions in nature"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.1 Turning effect of force",
+      "Learning Objective": "Determine moments of a force at a point"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.1 Turning effect of force",
+      "Learning Objective": "Calculate the moments of anti-parallel forces using a formula"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.1 Turning effect of force",
+      "Learning Objective": "Apply the turning effect of force in real life situations"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.1 Turning effect of force",
+      "Learning Objective": "Appreciate the importance of the turning effect of force in everyday life"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.2 Linear motion with constant acceleration",
+      "Learning Objective": "Explain terms used in linear motion"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.2 Linear motion with constant acceleration",
+      "Learning Objective": "Calculate variables of motion using equations of linear motion"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.2 Linear motion with constant acceleration",
+      "Learning Objective": "Carry out experiments on the effect of gravity on bodies under free fall"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.2 Linear motion with constant acceleration",
+      "Learning Objective": "Appreciate the significance of linear motion and free fall in real life"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.3 Waves",
+      "Learning Objective": "Explain the terms used in waves"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.3 Waves",
+      "Learning Objective": "Interpret the wave equation as used in science"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.3 Waves",
+      "Learning Objective": "Calculate the wave characteristics using the wave equation"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.3 Waves",
+      "Learning Objective": "Demonstrate the effects of properties of waves in real life"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "General Science",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.3 Waves",
+      "Learning Objective": "Appreciate the applications of properties of waves in real life"
+    }
+  ]
+}

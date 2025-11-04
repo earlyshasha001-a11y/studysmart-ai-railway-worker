@@ -1,0 +1,1406 @@
+{
+  "curriculum_name": "Chemistry year 10-11 Cambridge",
+  "total_lessons": 200,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Solids; liquids and gases",
+      "Learning Objective": "state the distinguishing properties of solids; liquids and gases"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Solids; liquids and gases",
+      "Learning Objective": "describe the structures of solids; liquids and gases in terms of particle separation; arrangement and motion"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Solids; liquids and gases",
+      "Learning Objective": "describe changes of state in terms of melting; boiling; evaporating; freezing and condensing"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Solids; liquids and gases",
+      "Learning Objective": "describe the effects of temperature and pressure on the volume of a gas"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Solids; liquids and gases",
+      "Learning Objective": "explain changes of state in terms of kinetic particle theory; including the interpretation of heating and cooling curves"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Solids; liquids and gases",
+      "Learning Objective": "explain; in terms of kinetic particle theory; the effects of temperature and pressure on the volume of a gas"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Diffusion",
+      "Learning Objective": "describe and explain diffusion in terms of kinetic particle theory"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Diffusion",
+      "Learning Objective": "describe and explain the effect of relative molecular mass on the rate of diffusion of gases"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Elements; compounds and mixtures",
+      "Learning Objective": "describe the differences between elements; compounds and mixtures"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Atomic structure and the Periodic Table",
+      "Learning Objective": "describe the structure of the atom as a central nucleus containing neutrons and protons surrounded by electrons in shells"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Atomic structure and the Periodic Table",
+      "Learning Objective": "state the relative charges and relative masses of a proton; a neutron and an electron"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Atomic structure and the Periodic Table",
+      "Learning Objective": "define proton number / atomic number as the number of protons in the nucleus of an atom"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Atomic structure and the Periodic Table",
+      "Learning Objective": "define mass number / nucleon number as the total number of protons and neutrons in the nucleus of an atom"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Atomic structure and the Periodic Table",
+      "Learning Objective": "determine the electronic configuration of elements and their ions with proton number 1 to 20; e.g. 2;8;3"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Atomic structure and the Periodic Table",
+      "Learning Objective": "state that: (a) Group VIII noble gases have a full outer shell (b) the number of outer shell electrons is equal to the group number in Groups I to VII (c) the number of occupied electron shells is equal to the period number"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Isotopes",
+      "Learning Objective": "define isotopes as different atoms of the same element that have the same number of protons but different numbers of neutrons"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Isotopes",
+      "Learning Objective": "interpret and use symbols for atoms; e.g. 12C; and ions; e.g. 35Cl –"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Isotopes",
+      "Learning Objective": "state that isotopes of the same element have the same chemical properties because they have the same number of electrons and therefore the same electronic configuration"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Isotopes",
+      "Learning Objective": "calculate the relative atomic mass of an element from the relative masses and abundances of its isotopes"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Ions and ionic bonds",
+      "Learning Objective": "describe the formation of positive ions; known as cations; and negative ions; known as anions"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Ions and ionic bonds",
+      "Learning Objective": "state that an ionic bond is a strong electrostatic attraction between oppositely charged ions"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Ions and ionic bonds",
+      "Learning Objective": "describe the formation of ionic bonds between elements from Group I and Group VII; including the use of dot-and-cross diagrams"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Ions and ionic bonds",
+      "Learning Objective": "describe the properties of ionic compounds: (a) high melting points and boiling points (b) good electrical conductivity when aqueous or molten and poor when solid"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Ions and ionic bonds",
+      "Learning Objective": "describe the giant lattice structure of ionic compounds as a regular arrangement of alternating positive and negative ions"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Ions and ionic bonds",
+      "Learning Objective": "describe the formation of ionic bonds between ions of metallic and non-metallic elements; including the use of dot-and-cross diagrams"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Ions and ionic bonds",
+      "Learning Objective": "explain in terms of structure and bonding the properties of ionic compounds: (a) high melting points and boiling points (b) good electrical conductivity when aqueous or molten and poor when solid"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.5 Simple molecules and covalent bonds",
+      "Learning Objective": "state that a covalent bond is formed when a pair of electrons is shared between two atoms leading to noble gas electronic configurations"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.5 Simple molecules and covalent bonds",
+      "Learning Objective": "describe the formation of covalent bonds in simple molecules; including H ; Cl ; H O; CH ; NH and HCl. Use dot-and-cross diagrams to show the electronic configurations in these and similar molecules"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.5 Simple molecules and covalent bonds",
+      "Learning Objective": "describe in terms of structure and bonding the properties of simple molecular compounds: (a) low melting points and boiling points (b) poor electrical conductivity"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.5 Simple molecules and covalent bonds",
+      "Learning Objective": "describe the formation of covalent bonds in simple molecules; including CH OH; C H ; O ; CO and N . Use dot-and-cross diagrams to show the electronic configurations in these and similar molecules"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.5 Simple molecules and covalent bonds",
+      "Learning Objective": "explain in terms of structure and bonding the properties of simple molecular compounds: (a) low melting points and boiling points in terms of weak intermolecular forces (specific types of intermolecular forces are not required) (b) poor electrical conductivity"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.6 Giant covalent structures",
+      "Learning Objective": "describe the giant covalent structures of graphite and diamond"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.6 Giant covalent structures",
+      "Learning Objective": "relate the structures and bonding of graphite and diamond to their uses; limited to: (a) graphite as a lubricant and as an electrode (b) diamond in cutting tools"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.6 Giant covalent structures",
+      "Learning Objective": "describe the giant covalent structure of silicon(IV) oxide; SiO"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.6 Giant covalent structures",
+      "Learning Objective": "describe the similarity in properties between diamond and silicon(IV) oxide; related to their structures"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.7 Metallic bonding",
+      "Learning Objective": "describe metallic bonding as the electrostatic attraction between the positive ions in a giant metallic lattice and a ‘sea’ of delocalised electrons"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.7 Metallic bonding",
+      "Learning Objective": "explain in terms of structure and bonding the properties of metals: (a) good electrical conductivity (b) malleability and ductility"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Formulae",
+      "Learning Objective": "state the formulae of the elements and compounds named in the subject content"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Formulae",
+      "Learning Objective": "define the molecular formula of a compound as the number and type of different atoms in one molecule"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Formulae",
+      "Learning Objective": "deduce the formula of a simple compound from the relative numbers of atoms present in a model or a diagrammatic representation"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Formulae",
+      "Learning Objective": "construct word equations and symbol equations to show how reactants form products; including state symbols"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Formulae",
+      "Learning Objective": "define the empirical formula of a compound as the simplest whole number ratio of the different atoms or ions in a compound"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Chemistry",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Formulae",
+      "Learning Objective": "deduce the formula of an ionic compound from the relative numbers of the ions present in a model or a diagrammatic representation or from the charges on the ions"
+    },
+    {
+      "Lesson Number": "1",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Number systems",
+      "Learning Objective": "understand how and why computers use binary to represent all forms of data"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Number systems",
+      "Learning Objective": "understand the denary; binary and hexadecimal number systems"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Number systems",
+      "Learning Objective": "convert between positive denary and positive binary"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Number systems",
+      "Learning Objective": "convert between positive denary and positive hexadecimal"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Number systems",
+      "Learning Objective": "convert between positive hexadecimal and positive binary"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Number systems",
+      "Learning Objective": "understand how and why hexadecimal is used as a beneficial method of data representation"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Number systems",
+      "Learning Objective": "add two positive 8-bit binary integers"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Number systems",
+      "Learning Objective": "understand the concept of overflow and why it occurs in binary addition"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Number systems",
+      "Learning Objective": "perform a logical binary shift on a positive 8-bit binary integer and understand the effect this has on the positive binary integer"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Number systems",
+      "Learning Objective": "use two’s complement to represent positive and negative 8-bit binary integers"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Text; sound and images",
+      "Learning Objective": "understand how and why a computer represents text and the use of character sets; including American standard code for information interchange (ASCII) and Unicode"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Text; sound and images",
+      "Learning Objective": "understand how and why a computer represents sound; including the effects of the sample rate and sample resolution"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Text; sound and images",
+      "Learning Objective": "understand how and why a computer represents an image; including the effects of the resolution and colour depth"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Data storage and compression",
+      "Learning Objective": "understand how data storage is measured"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Data storage and compression",
+      "Learning Objective": "calculate the file size of an image file and a sound file; using information given"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Data storage and compression",
+      "Learning Objective": "understand the purpose of and need for data compression"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Data storage and compression",
+      "Learning Objective": "understand how files are compressed using lossy and lossless compression methods"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Types and methods of data transmission",
+      "Learning Objective": "understand that data is broken down into packets to be transmitted"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Types and methods of data transmission",
+      "Learning Objective": "describe the structure of a packet"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Types and methods of data transmission",
+      "Learning Objective": "describe the process of packet switching"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Types and methods of data transmission",
+      "Learning Objective": "describe how data is transmitted from one device to another using different methods of data transmission"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Types and methods of data transmission",
+      "Learning Objective": "explain the suitability of each method of data transmission; for a given scenario"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Types and methods of data transmission",
+      "Learning Objective": "understand the universal serial bus (USB) interface and explain how it is used to transmit data"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Methods of error detection",
+      "Learning Objective": "understand the need to check for errors after data transmission and how these errors can occur"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Methods of error detection",
+      "Learning Objective": "describe the processes involved in each of the following error detection methods for detecting errors in data after transmission: parity check (odd and even); checksum and echo check"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Methods of error detection",
+      "Learning Objective": "describe how a check digit is used to detect errors in data entry and identify examples of when a check digit is used; including international standard book numbers (ISBN) and bar codes"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Methods of error detection",
+      "Learning Objective": "describe how an automatic repeat query (ARQ) can be used to establish that data is received without error"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Encryption",
+      "Learning Objective": "understand the need for and purpose of encryption when transmitting data"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Encryption",
+      "Learning Objective": "understand how data is encrypted using symmetric and asymmetric encryption"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Computer architecture",
+      "Learning Objective": "understand the role of the central processing unit (CPU) in a computer"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Computer architecture",
+      "Learning Objective": "understand what is meant by a microprocessor"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Computer architecture",
+      "Learning Objective": "understand the purpose of the components in a CPU; in a computer that has a Von Neumann architecture"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Computer architecture",
+      "Learning Objective": "describe the process of the fetch–decode–execute (FDE) cycle including the role of each component in the process"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Computer architecture",
+      "Learning Objective": "understand what is meant by a core; cache and clock in a CPU and explain how they can affect the performance of a CPU"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Computer architecture",
+      "Learning Objective": "understand the purpose and use of an instruction set for a CPU"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Computer architecture",
+      "Learning Objective": "describe the purpose and characteristics of an embedded system and identify devices in which they are commonly used"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.2 Input and output devices",
+      "Learning Objective": "understand what is meant by an input device and why it is required"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.2 Input and output devices",
+      "Learning Objective": "understand what is meant by an output device and why it is required"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.2 Input and output devices",
+      "Learning Objective": "understand what is meant by a sensor and the purposes of sensors"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.2 Input and output devices",
+      "Learning Objective": "identify the type of data captured by each sensor and understand when each sensor would be used; including selecting the most suitable sensor for a given context"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Data storage",
+      "Learning Objective": "understand what is meant by primary storage"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Data storage",
+      "Learning Objective": "understand what is meant by secondary storage"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Data storage",
+      "Learning Objective": "describe the operation of magnetic; optical and solid-state (flash memory) storage and give examples of each"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Data storage",
+      "Learning Objective": "describe what is meant by virtual memory; how it is created and used and why it is necessary"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Data storage",
+      "Learning Objective": "understand what is meant by cloud storage"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Data storage",
+      "Learning Objective": "explain the advantages and disadvantages of storing data on the cloud in comparison to storing it locally"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Network hardware",
+      "Learning Objective": "understand that a computer needs a network interface card (NIC) to access a network"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Network hardware",
+      "Learning Objective": "understand what is meant by and the purpose of a media access control (MAC) address; including its structure"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Network hardware",
+      "Learning Objective": "understand what is meant by and the purpose of an internet protocol (IP) address"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Network hardware",
+      "Learning Objective": "understand that there are different types of IP address"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Network hardware",
+      "Learning Objective": "describe the role of a router in a network"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 Types of software and interrupts",
+      "Learning Objective": "describe the difference between system software and application software and provide examples of each"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 Types of software and interrupts",
+      "Learning Objective": "describe the role and basic functions of an operating system"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 Types of software and interrupts",
+      "Learning Objective": "understand how hardware; firmware and an operating system are required to run applications software"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 Types of software and interrupts",
+      "Learning Objective": "describe the role and operation of interrupts"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 Types of programming language; translators and integrated development environments (IDEs)",
+      "Learning Objective": "explain what is meant by a high-level language and a low-level language; including the advantages and disadvantages of each"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 Types of programming language; translators and integrated development environments (IDEs)",
+      "Learning Objective": "understand that assembly language is a form of low-level language that uses mnemonics; and that an assembler is needed to translate an assembly language program into machine code"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 Types of programming language; translators and integrated development environments (IDEs)",
+      "Learning Objective": "describe the operation of a compiler and an interpreter; including how high-level language is translated by each and how errors are reported"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 Types of programming language; translators and integrated development environments (IDEs)",
+      "Learning Objective": "explain the advantages and disadvantages of a compiler and an interpreter"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 Types of programming language; translators and integrated development environments (IDEs)",
+      "Learning Objective": "explain the role of an IDE in writing program code and the common functions IDEs provide"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 The internet and the world wide web",
+      "Learning Objective": "understand the difference between the internet and the world wide web"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 The internet and the world wide web",
+      "Learning Objective": "understand what is meant by a uniform resource locator (URL)"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 The internet and the world wide web",
+      "Learning Objective": "describe the purpose and operation of hypertext transfer protocol (HTTP) and hypertext transfer protocol secure (HTTPS)"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 The internet and the world wide web",
+      "Learning Objective": "explain the purpose and functions of a web browser"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 The internet and the world wide web",
+      "Learning Objective": "describe how web pages are located; retrieved and displayed on a device when a user enters a URL"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 The internet and the world wide web",
+      "Learning Objective": "explain what is meant by cookies and how they are used; including session cookies and persistent cookies"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.2 Digital currency",
+      "Learning Objective": "understand the concept of a digital currency and how digital currencies are used"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.2 Digital currency",
+      "Learning Objective": "understand the process of blockchain and how it is used to track digital currency transactions"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.3 Cyber security",
+      "Learning Objective": "describe the processes involved in; and the aim of carrying out; a range of cyber security threats"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.3 Cyber security",
+      "Learning Objective": "explain how a range of solutions are used to help keep data safe from security threats"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.1 Automated systems",
+      "Learning Objective": "describe how sensors; microprocessors and actuators can be used in collaboration to create automated systems"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.1 Automated systems",
+      "Learning Objective": "describe the advantages and disadvantages of an automated system used for a given scenario"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 Robotics",
+      "Learning Objective": "understand what is meant by robotics"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 Robotics",
+      "Learning Objective": "describe the characteristics of a robot"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 Robotics",
+      "Learning Objective": "understand the roles that robots can perform and describe the advantages and disadvantages of their use"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 Artificial intelligence",
+      "Learning Objective": "understand what is meant by artificial intelligence (AI)"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 Artificial intelligence",
+      "Learning Objective": "describe the main characteristics of AI as the collection of data and the rules for using that data; the ability to reason; and can include the ability to learn and adapt"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 Artificial intelligence",
+      "Learning Objective": "explain the basic operation and components of AI systems to simulate intelligent behaviour"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7 Algorithm design and problem-solving",
+      "Learning Objective": "understand the program development life cycle; limited to: analysis; design; coding and testing"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7 Algorithm design and problem-solving",
+      "Learning Objective": "understand that every computer system is made up of sub-systems; which are made up of further sub-systems"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7 Algorithm design and problem-solving",
+      "Learning Objective": "understand how a problem can be decomposed into its component parts"
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7 Algorithm design and problem-solving",
+      "Learning Objective": "use different methods to design and construct a solution to a problem"
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7 Algorithm design and problem-solving",
+      "Learning Objective": "explain the purpose of a given algorithm"
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7 Algorithm design and problem-solving",
+      "Learning Objective": "understand standard methods of solution"
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7 Algorithm design and problem-solving",
+      "Learning Objective": "understand the need for validation checks to be made on input data and the different types of validation check"
+    },
+    {
+      "Lesson Number": "86",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7 Algorithm design and problem-solving",
+      "Learning Objective": "understand the need for verification checks to be made on input data and the different types of verification check"
+    },
+    {
+      "Lesson Number": "87",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7 Algorithm design and problem-solving",
+      "Learning Objective": "suggest and apply suitable test data"
+    },
+    {
+      "Lesson Number": "88",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7 Algorithm design and problem-solving",
+      "Learning Objective": "complete a trace table to document a dry-run of an algorithm"
+    },
+    {
+      "Lesson Number": "89",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7 Algorithm design and problem-solving",
+      "Learning Objective": "identify errors in given algorithms and suggest ways of correcting these errors"
+    },
+    {
+      "Lesson Number": "90",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7 Algorithm design and problem-solving",
+      "Learning Objective": "write and amend algorithms for given problems or scenarios; using: pseudocode; program code and flowcharts"
+    },
+    {
+      "Lesson Number": "91",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 Programming concepts",
+      "Learning Objective": "declare and use variables and constants"
+    },
+    {
+      "Lesson Number": "92",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 Programming concepts",
+      "Learning Objective": "understand and use the basic data types"
+    },
+    {
+      "Lesson Number": "93",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 Programming concepts",
+      "Learning Objective": "understand and use input and output"
+    },
+    {
+      "Lesson Number": "94",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 Programming concepts",
+      "Learning Objective": "understand and use the concept of sequence"
+    },
+    {
+      "Lesson Number": "95",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 Programming concepts",
+      "Learning Objective": "understand and use the concept of selection"
+    },
+    {
+      "Lesson Number": "96",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 Programming concepts",
+      "Learning Objective": "understand and use the concept of iteration"
+    },
+    {
+      "Lesson Number": "97",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 Programming concepts",
+      "Learning Objective": "understand and use the concepts of totalling and counting"
+    },
+    {
+      "Lesson Number": "98",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 Programming concepts",
+      "Learning Objective": "understand and use the concept of string handling"
+    },
+    {
+      "Lesson Number": "99",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 Programming concepts",
+      "Learning Objective": "understand and use arithmetic; logical and Boolean operators"
+    },
+    {
+      "Lesson Number": "100",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 Programming concepts",
+      "Learning Objective": "understand and use nested statements"
+    },
+    {
+      "Lesson Number": "101",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 Programming concepts",
+      "Learning Objective": "understand what is meant by procedures; functions and parameters"
+    },
+    {
+      "Lesson Number": "102",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 Programming concepts",
+      "Learning Objective": "define and use procedures and functions; with or without parameters"
+    },
+    {
+      "Lesson Number": "103",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 Programming concepts",
+      "Learning Objective": "understand and use local and global variables"
+    },
+    {
+      "Lesson Number": "104",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 Programming concepts",
+      "Learning Objective": "understand and use library routines"
+    },
+    {
+      "Lesson Number": "105",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 Programming concepts",
+      "Learning Objective": "understand how to create a maintainable program"
+    },
+    {
+      "Lesson Number": "106",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.2 Arrays",
+      "Learning Objective": "declare and use one-dimensional (1D) and two-dimensional (2D) arrays"
+    },
+    {
+      "Lesson Number": "107",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.2 Arrays",
+      "Learning Objective": "understand the use of arrays"
+    },
+    {
+      "Lesson Number": "108",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.2 Arrays",
+      "Learning Objective": "write values into and read values from an array using iteration"
+    },
+    {
+      "Lesson Number": "109",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 File handling",
+      "Learning Objective": "understand the purpose of storing data in a file to be used by a program"
+    },
+    {
+      "Lesson Number": "110",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 File handling",
+      "Learning Objective": "open; close and use a file for reading and writing"
+    },
+    {
+      "Lesson Number": "111",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "9 Databases",
+      "Learning Objective": "define a single-table database from given data storage requirements"
+    },
+    {
+      "Lesson Number": "112",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "9 Databases",
+      "Learning Objective": "suggest suitable basic data types"
+    },
+    {
+      "Lesson Number": "113",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "9 Databases",
+      "Learning Objective": "understand the purpose of a primary key and identify a suitable primary key for a given database table"
+    },
+    {
+      "Lesson Number": "114",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "9 Databases",
+      "Learning Objective": "read; understand and complete structured query language (SQL) scripts to query data stored in a single database table"
+    },
+    {
+      "Lesson Number": "115",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10 Boolean logic",
+      "Learning Objective": "identify and use the standard symbols for logic gates"
+    },
+    {
+      "Lesson Number": "116",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10 Boolean logic",
+      "Learning Objective": "define and understand the functions of the logic gates"
+    },
+    {
+      "Lesson Number": "117",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10 Boolean logic",
+      "Learning Objective": "use logic gates to create given logic circuits from a problem statement"
+    },
+    {
+      "Lesson Number": "118",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10 Boolean logic",
+      "Learning Objective": "use logic gates to create given logic circuits from a logic expression"
+    },
+    {
+      "Lesson Number": "119",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10 Boolean logic",
+      "Learning Objective": "use logic gates to create given logic circuits from a truth table"
+    },
+    {
+      "Lesson Number": "120",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10 Boolean logic",
+      "Learning Objective": "complete a truth table from a problem statement"
+    },
+    {
+      "Lesson Number": "121",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10 Boolean logic",
+      "Learning Objective": "complete a truth table from a logic expression"
+    },
+    {
+      "Lesson Number": "122",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10 Boolean logic",
+      "Learning Objective": "complete a truth table from a logic circuit"
+    },
+    {
+      "Lesson Number": "123",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10 Boolean logic",
+      "Learning Objective": "write a logic expression from a problem statement"
+    },
+    {
+      "Lesson Number": "124",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10 Boolean logic",
+      "Learning Objective": "write a logic expression from a logic circuit"
+    },
+    {
+      "Lesson Number": "125",
+      "Subject": "Computer Science",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10 Boolean logic",
+      "Learning Objective": "write a logic expression from a truth table"
+    },
+    {
+      "Lesson Number": "1",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Data Representation",
+      "Learning Objective": "Identify early computing devices and how they relate to evolution of electronic computers"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Data Representation",
+      "Learning Objective": "Describe principle technologies that defined development of computers"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Data Representation",
+      "Learning Objective": "Relate the principle technologies to respective computer generation"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.0.0 Data Representation",
+      "Learning Objective": "Appreciate technological advancement in the development of computers"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.1.0 Computer Organisation and Architecture",
+      "Learning Objective": "Describe the functional organisation and architecture of a von Neumann computer"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.1.0 Computer Organisation and Architecture",
+      "Learning Objective": "Analyse the relationships among functional elements of von Neumann computer"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.1.0 Computer Organisation and Architecture",
+      "Learning Objective": "Create a model of a computer architecture depicting the structural elements of a von Neumann computer"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.1.0 Computer Organisation and Architecture",
+      "Learning Objective": "Use binary; octal and hexadecimal number systems to represent data in a von Neumann’s digital computer"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.1.0 Computer Organisation and Architecture",
+      "Learning Objective": "Appreciate the importance of computer architecture in computing"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.2.0 Input/Output (I/O) Devices",
+      "Learning Objective": "Describe types of input and output devices used in computer systems"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.2.0 Input/Output (I/O) Devices",
+      "Learning Objective": "Examine criteria used in selecting input and output devices"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.2.0 Input/Output (I/O) Devices",
+      "Learning Objective": "Use input and output devices to perform tasks"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.2.0 Input/Output (I/O) Devices",
+      "Learning Objective": "Appreciate the advancement of input and output devices used in computer systems"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.3.0 Computer Storage",
+      "Learning Objective": "Identify types of storage used in computer systems"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.3.0 Computer Storage",
+      "Learning Objective": "Categorise types of storage used in computer systems"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.3.0 Computer Storage",
+      "Learning Objective": "Read data from a computer storage"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.3.0 Computer Storage",
+      "Learning Objective": "Write data to a computer storage"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.3.0 Computer Storage",
+      "Learning Objective": "Establish criteria used to select computer storage"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.3.0 Computer Storage",
+      "Learning Objective": "Acknowledge safety of data in computer storage media"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.4.0 Central Processing Unit (CPU)",
+      "Learning Objective": "Describe structural elements of the CPU of a computer system"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.4.0 Central Processing Unit (CPU)",
+      "Learning Objective": "Relate structural elements of the CPU to their functions"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.4.0 Central Processing Unit (CPU)",
+      "Learning Objective": "Examine types of CPUs in computing devices"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.4.0 Central Processing Unit (CPU)",
+      "Learning Objective": "Appreciate the role of CPU in computing"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.5.0 Operating System (OS)",
+      "Learning Objective": "Describe functions of an operating system"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.5.0 Operating System (OS)",
+      "Learning Objective": "Classify operating system according to different attributes"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.5.0 Operating System (OS)",
+      "Learning Objective": "Install an operating system in a computer"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.5.0 Operating System (OS)",
+      "Learning Objective": "Use an operating system to perform a task"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.5.0 Operating System (OS)",
+      "Learning Objective": "Acknowledge the importance of operating systems in computing"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.6.0 Computer Setup",
+      "Learning Objective": "Explain types of ports and cables used in computers"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.6.0 Computer Setup",
+      "Learning Objective": "Relate cables to their corresponding ports in a computer"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.6.0 Computer Setup",
+      "Learning Objective": "Set up a computer for use"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Computer Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "6.6.0 Computer Setup",
+      "Learning Objective": "Appreciate following the correct procedure when setting up a computer"
+    }
+  ]
+}

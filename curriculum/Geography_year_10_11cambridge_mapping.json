@@ -1,0 +1,468 @@
+{
+  "curriculum_name": "Geography year 10-11cambridge",
+  "total_lessons": 66,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Population dynamics",
+      "Learning Objective": "Describe and give reasons for the rapid increase in the world’s population"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Population dynamics",
+      "Learning Objective": "Show an understanding of over-population and under-population"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Population dynamics",
+      "Learning Objective": "Understand the main causes of a change in population size"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Population dynamics",
+      "Learning Objective": "Give reasons for contrasting rates of natural population change"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Population dynamics",
+      "Learning Objective": "Describe and evaluate population policies"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Migration",
+      "Learning Objective": "Explain and give reasons for population migration"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Migration",
+      "Learning Objective": "Demonstrate an understanding of the impacts of migration"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Population structure",
+      "Learning Objective": "Identify and give reasons for and implications of different types of population structure"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.4 Population density and distribution",
+      "Learning Objective": "Describe the factors influencing the density and distribution of population"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.5 Settlements (rural and urban) and service provision",
+      "Learning Objective": "Explain the patterns of settlement"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.5 Settlements (rural and urban) and service provision",
+      "Learning Objective": "Describe and explain the factors which may influence the sites; growth and functions of settlements"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.5 Settlements (rural and urban) and service provision",
+      "Learning Objective": "Give reasons for the hierarchy of settlements and services"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.6 Urban settlements",
+      "Learning Objective": "Describe and give reasons for the characteristics of; and changes in; land use in urban areas"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.6 Urban settlements",
+      "Learning Objective": "Explain the problems of urban areas; their causes and possible solutions"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.7 Urbanisation",
+      "Learning Objective": "Identify and suggest reasons for rapid urban growth"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.7 Urbanisation",
+      "Learning Objective": "Describe the impacts of urban growth on both rural and urban areas; along with possible solutions to reduce the negative impacts"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Earthquakes and volcanoes",
+      "Learning Objective": "Describe the main types and features of volcanoes and earthquakes"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Earthquakes and volcanoes",
+      "Learning Objective": "Describe and explain the distribution of earthquakes and volcanoes"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Earthquakes and volcanoes",
+      "Learning Objective": "Describe the causes of earthquakes and volcanic eruptions and their effects on people and the environment"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Earthquakes and volcanoes",
+      "Learning Objective": "Demonstrate an understanding that volcanoes present hazards and offer opportunities for people"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Earthquakes and volcanoes",
+      "Learning Objective": "Explain what can be done to reduce the impacts of earthquakes and volcanoes"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Rivers",
+      "Learning Objective": "Explain the main hydrological characteristics and processes which operate in rivers and drainage basins"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Rivers",
+      "Learning Objective": "Demonstrate an understanding of the work of a river in eroding; transporting and depositing"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Rivers",
+      "Learning Objective": "Describe and explain the formation of the landforms associated with these processes"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Rivers",
+      "Learning Objective": "Demonstrate an understanding that rivers present hazards and offer opportunities for people"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Rivers",
+      "Learning Objective": "Explain what can be done to manage the impacts of river flooding"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Coasts",
+      "Learning Objective": "Demonstrate an understanding of the work of the sea and wind in eroding; transporting and depositing"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Coasts",
+      "Learning Objective": "Describe and explain the formation of the landforms associated with these processes"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Coasts",
+      "Learning Objective": "Describe coral reefs and mangrove swamps and the conditions required for their development"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Coasts",
+      "Learning Objective": "Demonstrate an understanding that coasts present hazards and offer opportunities for people"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Coasts",
+      "Learning Objective": "Explain what can be done to manage the impacts of coastal erosion"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Weather",
+      "Learning Objective": "Describe how weather data are collected"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Weather",
+      "Learning Objective": "Make calculations using information from weather instruments"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Weather",
+      "Learning Objective": "Use and interpret graphs and other diagrams showing weather and climate data"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.5 Climate and natural vegetation",
+      "Learning Objective": "Describe and explain the characteristics of two climates: equatorial and hot desert"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.5 Climate and natural vegetation",
+      "Learning Objective": "Describe and explain the characteristics of tropical rainforest and hot desert ecosystems"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.5 Climate and natural vegetation",
+      "Learning Objective": "Describe the causes and effects of deforestation of tropical rainforest"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Development",
+      "Learning Objective": "Use a variety of indicators to assess the level of development of a country"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Development",
+      "Learning Objective": "Identify and explain inequalities between and within countries"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Development",
+      "Learning Objective": "Classify production into different sectors and give illustrations of each"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Development",
+      "Learning Objective": "Describe and explain how the proportions employed in each sector vary according to the level of development"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Development",
+      "Learning Objective": "Describe and explain the process of globalisation; and consider its impacts"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.2 Food production",
+      "Learning Objective": "Describe and explain the main features of an agricultural system: inputs; processes and outputs"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.2 Food production",
+      "Learning Objective": "Recognise the causes and effects of food shortages and describe possible solutions to this problem"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Industry",
+      "Learning Objective": "Demonstrate an understanding of an industrial system: inputs; processes and outputs (products and waste)"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Industry",
+      "Learning Objective": "Describe and explain the factors influencing the distribution and location of factories and industrial zones"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Tourism",
+      "Learning Objective": "Describe and explain the growth of tourism in relation to the main attractions of the physical and human landscape"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Tourism",
+      "Learning Objective": "Evaluate the benefits and disadvantages of tourism to receiving areas"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Tourism",
+      "Learning Objective": "Demonstrate an understanding that careful management of tourism is required in order for it to be sustainable"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.5 Energy",
+      "Learning Objective": "Describe the importance of non-renewable fossil fuels; renewable energy supplies; nuclear power and fuelwood; globally and in different countries at different levels of development"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.5 Energy",
+      "Learning Objective": "Evaluate the benefits and disadvantages of nuclear power and renewable energy sources"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.6 Water",
+      "Learning Objective": "Describe methods of water supply and the proportions of water used for agriculture; domestic and industrial purposes in countries at different levels of economic development"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.6 Water",
+      "Learning Objective": "Explain why there are water shortages in some areas and demonstrate that careful management is required to ensure future supplies"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.7 Environmental risks of economic development",
+      "Learning Objective": "Describe how economic activities may pose threats to the natural environment and people; locally and globally"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.7 Environmental risks of economic development",
+      "Learning Objective": "Demonstrate the need for sustainable development and management"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.7 Environmental risks of economic development",
+      "Learning Objective": "Understand the importance of resource conservation"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Using mathematical skills in geography",
+      "Learning Objective": "add; subtract; multiply and divide"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Using mathematical skills in geography",
+      "Learning Objective": "understand map scale and the use of the scale line and representative fractions"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Using mathematical skills in geography",
+      "Learning Objective": "understand the terms mean and range"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Using mathematical skills in geography",
+      "Learning Objective": "use averages; decimals; fractions; percentages and ratios"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Using mathematical skills in geography",
+      "Learning Objective": "use standard notation; including both positive and negative indices"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Using mathematical skills in geography",
+      "Learning Objective": "understand significant figures and use them appropriately"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Using mathematical skills in geography",
+      "Learning Objective": "recognise positive and negative relationships shown by scatter graphs"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Using mathematical skills in geography",
+      "Learning Objective": "draw and interpret graphs from given data for the types of graph listed in the syllabus"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Using mathematical skills in geography",
+      "Learning Objective": "select suitable scales and axes for graphs"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Geography",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Using mathematical skills in geography",
+      "Learning Objective": "use a ruler and protractor"
+    }
+  ]
+}

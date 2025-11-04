@@ -1,0 +1,766 @@
+{
+  "curriculum_name": "Enlish grade 9 cbc",
+  "total_lessons": 95,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.1 Listening and Speaking",
+      "Sub-strand": "1.1.1 Polite Language",
+      "Learning Objective": "a) outline words and phrases used to express euphemism"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.1 Listening and Speaking",
+      "Sub-strand": "1.1.1 Polite Language",
+      "Learning Objective": "b) use euphemism to show politeness in communication"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.1 Listening and Speaking",
+      "Sub-strand": "1.1.1 Polite Language",
+      "Learning Objective": "c) conduct a debate while adhering to conventions of polite language"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.1 Listening and Speaking",
+      "Sub-strand": "1.1.1 Polite Language",
+      "Learning Objective": "d) acknowledge the importance of politeness in communication"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.2 Reading",
+      "Sub-strand": "1.2.1 Independent Reading - Grade Appropriate Text",
+      "Learning Objective": "a) select reading materials from digital or non-digital sources"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.2 Reading",
+      "Sub-strand": "1.2.1 Independent Reading - Grade Appropriate Text",
+      "Learning Objective": "b) read grade appropriate materials for lifelong learning"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.2 Reading",
+      "Sub-strand": "1.2.1 Independent Reading - Grade Appropriate Text",
+      "Learning Objective": "c) create a reading log for monitoring reading activities"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.2 Reading",
+      "Sub-strand": "1.2.1 Independent Reading - Grade Appropriate Text",
+      "Learning Objective": "d) recommend to peers suitable fiction and non-fiction materials to read"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.3 Grammar in Use",
+      "Sub-strand": "1.3.1 Gender Neutral Language",
+      "Learning Objective": "a) identify gender biased words and phrases in oral and written texts"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.3 Grammar in Use",
+      "Sub-strand": "1.3.1 Gender Neutral Language",
+      "Learning Objective": "b) use gender neutral words and phrases in sentences"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.3 Grammar in Use",
+      "Sub-strand": "1.3.1 Gender Neutral Language",
+      "Learning Objective": "c) acknowledge the importance of gender sensitivity in communication"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.4 Intensive Reading: Play",
+      "Sub-strand": "1.4.1 Play: Structure and Setting",
+      "Learning Objective": "a) describe the structure and setting of a play"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.4 Intensive Reading: Play",
+      "Sub-strand": "1.4.1 Play: Structure and Setting",
+      "Learning Objective": "b) analyse the acts and scenes of a play for literary appreciation"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.4 Intensive Reading: Play",
+      "Sub-strand": "1.4.1 Play: Structure and Setting",
+      "Learning Objective": "c) recognise the role of literary appreciation in critical thinking"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.5 Writing",
+      "Sub-strand": "1.5.1 Legibility and Neatness",
+      "Learning Objective": "a) identify sections of a piece of writing that require breaking of words and indentation"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.5 Writing",
+      "Sub-strand": "1.5.1 Legibility and Neatness",
+      "Learning Objective": "b) indent paragraphs when writing a composition"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.5 Writing",
+      "Sub-strand": "1.5.1 Legibility and Neatness",
+      "Learning Objective": "c) create a neat and legible text"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "1.5 Writing",
+      "Sub-strand": "1.5.1 Legibility and Neatness",
+      "Learning Objective": "d) appreciate the importance of legibility and neatness in written communication"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "2.1 Listening and Speaking",
+      "Sub-strand": "2.1.1 Oral Literature: Short Forms",
+      "Learning Objective": "a) identify the characteristics of riddles; tongue twisters and proverbs"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "2.1 Listening and Speaking",
+      "Sub-strand": "2.1.1 Oral Literature: Short Forms",
+      "Learning Objective": "b) explain the functions of riddles; tongue twisters and proverbs"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "2.1 Listening and Speaking",
+      "Sub-strand": "2.1.1 Oral Literature: Short Forms",
+      "Learning Objective": "c) perform riddles; tongue twisters and proverbs"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "2.1 Listening and Speaking",
+      "Sub-strand": "2.1.1 Oral Literature: Short Forms",
+      "Learning Objective": "d) appreciate the importance of short forms in fostering fluency in communication"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "2.2 Reading",
+      "Sub-strand": "2.2.1 Intensive Reading: Simple Poems",
+      "Learning Objective": "a) identify basic aspects of style such as repetition and rhyme in a poem"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "2.2 Reading",
+      "Sub-strand": "2.2.1 Intensive Reading: Simple Poems",
+      "Learning Objective": "b) describe the functions of rhyme and repetition in a poem"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "2.2 Reading",
+      "Sub-strand": "2.2.1 Intensive Reading: Simple Poems",
+      "Learning Objective": "c) appreciate the role of repetition and rhyme in a poem"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "2.3 Grammar in Use",
+      "Sub-strand": "2.3.1 Nouns and Quantifiers",
+      "Learning Objective": "a) use quantifiers in sentence"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "2.3 Grammar in Use",
+      "Sub-strand": "2.3.1 Nouns and Quantifiers",
+      "Learning Objective": "b) categorise count and non-count nouns in oral and written texts"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "2.3 Grammar in Use",
+      "Sub-strand": "2.3.1 Nouns and Quantifiers",
+      "Learning Objective": "c) acknowledge the importance of quantifiers in oral and written communication"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "2.4 Reading",
+      "Sub-strand": "2.4.1 Intensive Reading: Plot",
+      "Learning Objective": "a) describe the sequence of events in a play"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "2.4 Reading",
+      "Sub-strand": "2.4.1 Intensive Reading: Plot",
+      "Learning Objective": "b) relate the events in a play to real life experiences"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "2.4 Reading",
+      "Sub-strand": "2.4.1 Intensive Reading: Plot",
+      "Learning Objective": "c) acknowledge the importance of a plot in a literary work"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "2.5 Writing",
+      "Sub-strand": "2.5.1 Mechanics of Writing: Punctuation",
+      "Learning Objective": "a) identify the double quotation marks and the bracket in a text"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "2.5 Writing",
+      "Sub-strand": "2.5.1 Mechanics of Writing: Punctuation",
+      "Learning Objective": "b) use the double quotation marks and the bracket in written texts"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "2.5 Writing",
+      "Sub-strand": "2.5.1 Mechanics of Writing: Punctuation",
+      "Learning Objective": "c) appreciate the role of the double quotation marks and the bracket in written texts"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "3.1 Listening and Speaking",
+      "Sub-strand": "3.1.1 Listening Comprehension (Grade Appropriate Texts)",
+      "Learning Objective": "a) identify the main idea and specific details from an argumentative text"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "3.1 Listening and Speaking",
+      "Sub-strand": "3.1.1 Listening Comprehension (Grade Appropriate Texts)",
+      "Learning Objective": "b) listen for the main idea and specific information (details) in an argumentative text"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "3.1 Listening and Speaking",
+      "Sub-strand": "3.1.1 Listening Comprehension (Grade Appropriate Texts)",
+      "Learning Objective": "c) acknowledge the need for comprehension in communication"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "3.2 Reading",
+      "Sub-strand": "3.2.1 Reading for Information and Meaning",
+      "Learning Objective": "a) infer the meaning of words; phrases and sentences from the context"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "3.2 Reading",
+      "Sub-strand": "3.2.1 Reading for Information and Meaning",
+      "Learning Objective": "b) make connections between events in a text and real life situations"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "3.2 Reading",
+      "Sub-strand": "3.2.1 Reading for Information and Meaning",
+      "Learning Objective": "c) value the need to comprehend the information in written texts"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "3.3 Grammar in Use",
+      "Sub-strand": "3.3.1 Modal Auxiliaries",
+      "Learning Objective": "a) identify modal auxiliaries in a passage"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "3.3 Grammar in Use",
+      "Sub-strand": "3.3.1 Modal Auxiliaries",
+      "Learning Objective": "b) use modal auxiliaries to express different moods"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "3.3 Grammar in Use",
+      "Sub-strand": "3.3.1 Modal Auxiliaries",
+      "Learning Objective": "c) value the importance of using modal auxiliaries in communication"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "3.4 Reading",
+      "Sub-strand": "3.4.1 Poems: Structure",
+      "Learning Objective": "a) describe the structure of a poem"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "3.4 Reading",
+      "Sub-strand": "3.4.1 Poems: Structure",
+      "Learning Objective": "b) analyse the use of personification in a poem"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "3.4 Reading",
+      "Sub-strand": "3.4.1 Poems: Structure",
+      "Learning Objective": "c) create a poem based on a topic of interest"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "3.4 Reading",
+      "Sub-strand": "3.4.1 Poems: Structure",
+      "Learning Objective": "d) appreciate the reading of poetry for enjoyment"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "3.5 Writing",
+      "Sub-strand": "3.5.1 Structure of a paragraph",
+      "Learning Objective": "a) outline the four characteristics of a well formed paragraph"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "3.5 Writing",
+      "Sub-strand": "3.5.1 Structure of a paragraph",
+      "Learning Objective": "b) create a paragraph that is well developed; coherent and unified"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "3.5 Writing",
+      "Sub-strand": "3.5.1 Structure of a paragraph",
+      "Learning Objective": "c) acknowledge the need for concise paragraphs in written communication"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.1 Listening and Speaking",
+      "Sub-strand": "4.1.1 Selective Listening",
+      "Learning Objective": "a) select required information from a listening text"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.1 Listening and Speaking",
+      "Sub-strand": "4.1.1 Selective Listening",
+      "Learning Objective": "b) make judgement on the message in the listening text"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.1 Listening and Speaking",
+      "Sub-strand": "4.1.1 Selective Listening",
+      "Learning Objective": "c) advocate the need for selective listening in various contexts"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.2 Reading",
+      "Sub-strand": "4.2.1 Intensive Reading",
+      "Learning Objective": "a) predict events in a reading text"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.2 Reading",
+      "Sub-strand": "4.2.1 Intensive Reading",
+      "Learning Objective": "b) outline the key events in a text"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.2 Reading",
+      "Sub-strand": "4.2.1 Intensive Reading",
+      "Learning Objective": "c) answer direct and inferential questions for comprehension"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.2 Reading",
+      "Sub-strand": "4.2.1 Intensive Reading",
+      "Learning Objective": "d) infer the meaning of new words and phrases using contextual clues"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.2 Reading",
+      "Sub-strand": "4.2.1 Intensive Reading",
+      "Learning Objective": "e) relate the characters; events and places in the text to real life"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.2 Reading",
+      "Sub-strand": "4.2.1 Intensive Reading",
+      "Learning Objective": "f) appreciate the importance of comprehension in lifelong learning"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.3 Grammar in Use",
+      "Sub-strand": "4.3.1 Present and Past Perfect Aspect",
+      "Learning Objective": "a) distinguish the present and past perfect aspect in sentences"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.3 Grammar in Use",
+      "Sub-strand": "4.3.1 Present and Past Perfect Aspect",
+      "Learning Objective": "b) use present and past perfect aspect in sentences"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.3 Grammar in Use",
+      "Sub-strand": "4.3.1 Present and Past Perfect Aspect",
+      "Learning Objective": "c) appreciate the importance of using tense in sentences"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.4 Intensive Reading",
+      "Sub-strand": "4.4.1 Play: Identification of Characters",
+      "Learning Objective": "a) identify the characters in a play"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.4 Intensive Reading",
+      "Sub-strand": "4.4.1 Play: Identification of Characters",
+      "Learning Objective": "b) use appropriate adjectives to describe the characters"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.4 Intensive Reading",
+      "Sub-strand": "4.4.1 Play: Identification of Characters",
+      "Learning Objective": "c) describe the actions of the characters using appropriate adverbs"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.4 Intensive Reading",
+      "Sub-strand": "4.4.1 Play: Identification of Characters",
+      "Learning Objective": "d) value the need to describe people and situations appropriately"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.5 Writing",
+      "Sub-strand": "4.5.1 Narrative and Descriptive Paragraphs",
+      "Learning Objective": "a) highlight the qualities of a well formed paragraph"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.5 Writing",
+      "Sub-strand": "4.5.1 Narrative and Descriptive Paragraphs",
+      "Learning Objective": "b) write narrative and descriptive paragraphs"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.5 Writing",
+      "Sub-strand": "4.5.1 Narrative and Descriptive Paragraphs",
+      "Learning Objective": "c) use the first person and second person in narrative and descriptive paragraphs"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "4.5 Writing",
+      "Sub-strand": "4.5.1 Narrative and Descriptive Paragraphs",
+      "Learning Objective": "d) value the need for well formed paragraphs in written communication"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "5.1 Listening and Speaking",
+      "Sub-strand": "5.1.1 Pronunciation",
+      "Learning Objective": "a) pronounce the semi vowels /j/ /w/ and the diphthongs /aɪ/ and /eɪ/ in words with clarity"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "5.1 Listening and Speaking",
+      "Sub-strand": "5.1.1 Pronunciation",
+      "Learning Objective": "b) apply stress on content and function words appropriately for speech clarity"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "5.1 Listening and Speaking",
+      "Sub-strand": "5.1.1 Pronunciation",
+      "Learning Objective": "c) appreciate the importance of correct pronunciation in communication"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "5.2 Reading",
+      "Sub-strand": "5.2.1 Reference Materials: Dictionary; Thesaurus; Encyclopaedia",
+      "Learning Objective": "a) outline various types of reference materials and their uses"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "5.2 Reading",
+      "Sub-strand": "5.2.1 Reference Materials: Dictionary; Thesaurus; Encyclopaedia",
+      "Learning Objective": "b) use the dictionary; thesaurus and subject specific encyclopaedia to check the meaning and usage of words"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "5.2 Reading",
+      "Sub-strand": "5.2.1 Reference Materials: Dictionary; Thesaurus; Encyclopaedia",
+      "Learning Objective": "c) conduct research on a topic of interest using the dictionary; thesaurus and encyclopaedia"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "5.2 Reading",
+      "Sub-strand": "5.2.1 Reference Materials: Dictionary; Thesaurus; Encyclopaedia",
+      "Learning Objective": "d) acknowledge the value of reference materials in research"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "5.3 Grammar in Use",
+      "Sub-strand": "5.3.1 Order of Adjectives",
+      "Learning Objective": "a) identify various types of adjectives in texts"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "5.3 Grammar in Use",
+      "Sub-strand": "5.3.1 Order of Adjectives",
+      "Learning Objective": "b) use the correct order of adjectives in oral and written texts"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "5.3 Grammar in Use",
+      "Sub-strand": "5.3.1 Order of Adjectives",
+      "Learning Objective": "c) appreciate the role of ordered adjectives in communication for clarity"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "5.4 Reading",
+      "Sub-strand": "5.4.1 Play: Style",
+      "Learning Objective": "a) identify the features of style used in a play with examples"
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "5.4 Reading",
+      "Sub-strand": "5.4.1 Play: Style",
+      "Learning Objective": "b) relate the stylistic features to the message in a play"
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "5.4 Reading",
+      "Sub-strand": "5.4.1 Play: Style",
+      "Learning Objective": "c) value the role of varied style in reinforcing the message in a play"
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "5.5 Writing",
+      "Sub-strand": "5.5.1 Letter of Application",
+      "Learning Objective": "a) identify the components of a letter of application"
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "5.5 Writing",
+      "Sub-strand": "5.5.1 Letter of Application",
+      "Learning Objective": "b) write a letter of application for placement at Senior Secondary School using all the components"
+    },
+    {
+      "Lesson Number": "86",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "5.5 Writing",
+      "Sub-strand": "5.5.1 Letter of Application",
+      "Learning Objective": "c) advocate the need to adhere to the format of formal letter writing"
+    },
+    {
+      "Lesson Number": "87",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "6.1 Listening and Speaking",
+      "Sub-strand": "6.1.1 Conversational skills: Negotiation skills",
+      "Learning Objective": "a) identify words and phrases used during negotiations"
+    },
+    {
+      "Lesson Number": "88",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "6.1 Listening and Speaking",
+      "Sub-strand": "6.1.1 Conversational skills: Negotiation skills",
+      "Learning Objective": "b) use verbal and non-verbal cues during negotiations"
+    },
+    {
+      "Lesson Number": "89",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "6.1 Listening and Speaking",
+      "Sub-strand": "6.1.1 Conversational skills: Negotiation skills",
+      "Learning Objective": "c) acknowledge the importance of negotiation skills in communication"
+    },
+    {
+      "Lesson Number": "90",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "6.2 Reading",
+      "Sub-strand": "6.2.1 Reading Fluency",
+      "Learning Objective": "a) outline ways of enhancing fluency in reading"
+    },
+    {
+      "Lesson Number": "91",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "6.2 Reading",
+      "Sub-strand": "6.2.1 Reading Fluency",
+      "Learning Objective": "b) read a text at the right speed; accurately and with expression for effective communication"
+    },
+    {
+      "Lesson Number": "92",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "6.2 Reading",
+      "Sub-strand": "6.2.1 Reading Fluency",
+      "Learning Objective": "c) acknowledge the role of reading fluently in extensive reading"
+    },
+    {
+      "Lesson Number": "93",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "6.3 Grammar in Use",
+      "Sub-strand": "6.3.1 Comparison of Adverbs",
+      "Learning Objective": "a) identify the degrees of comparison in adverbs"
+    },
+    {
+      "Lesson Number": "94",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "6.3 Grammar in Use",
+      "Sub-strand": "6.3.1 Comparison of Adverbs",
+      "Learning Objective": "b) use positive; comparative and superlative degrees of adverbs in sentences"
+    },
+    {
+      "Lesson Number": "95",
+      "Subject": "English",
+      "Grade": "Grade 9",
+      "Strand": "6.3 Grammar in Use",
+      "Sub-strand": "6.3.1 Comparison of Adverbs",
+      "Learning Objective": "c) appreciate the importance of the correct usage of adverbs"
+    }
+  ]
+}

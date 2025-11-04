@@ -39,10 +39,25 @@ Thumbs.db
 # Logs
 *.log
 
-# StudySmart AI output
-output/*/
-!output/.gitkeep
+# StudySmart AI output (generated lessons - keep local only)
+output/
 
-# Curriculum files (user-provided)
-curriculum/*.json
-!curriculum/README.md
+# Replit-specific files (not needed on Railway)
+.replit
+.config/
+.cache/
+.pythonlibs/
+.upm/
+uv.lock
+pyproject.toml
+
+# Temporary/test files
+/tmp/
+*.tar.gz
+package_for_railway.sh
+railway_deployment/
+
+# Replit controller (runs only on Replit, not Railway)
+replit_controller.py
+RAILWAY_SETUP.md
+replit.md

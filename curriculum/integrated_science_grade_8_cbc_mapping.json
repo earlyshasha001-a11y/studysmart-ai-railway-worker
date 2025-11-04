@@ -1,0 +1,302 @@
+{
+  "curriculum_name": "integrated science grade 8 cbc",
+  "total_lessons": 37,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "1.1 Elements and Compounds",
+      "Learning Objective": "a) explain the relationship between an atom; an element; a molecule and a compound"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "1.1 Elements and Compounds",
+      "Learning Objective": "b) assign symbols to selected elements"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "1.1 Elements and Compounds",
+      "Learning Objective": "c) write word equations to represent reactions of selected elements to form compounds"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "1.1 Elements and Compounds",
+      "Learning Objective": "d) outline the applications of common elements in the society"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "1.1 Elements and Compounds",
+      "Learning Objective": "e) appreciate the information on packaging labels of commonly consumed substances"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "1.2 Physical and chemical changes",
+      "Learning Objective": "a) describe the characteristics of particles in the three states of matter"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "1.2 Physical and chemical changes",
+      "Learning Objective": "b) explain the effects of impurities on boiling point and melting point of a substance"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "1.2 Physical and chemical changes",
+      "Learning Objective": "c) distinguish between physical and chemical changes in substances"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "1.2 Physical and chemical changes",
+      "Learning Objective": "d) outline applications of change of state of matter in day-to-day life"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "1.2 Physical and chemical changes",
+      "Learning Objective": "e) appreciate the applications of change of state of matter in day-to-day life"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "1.3 Classes of fire",
+      "Learning Objective": "a) identify causes of fire in nature"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "1.3 Classes of fire",
+      "Learning Objective": "b) explain the role of the components of fire triangle in the spread of fire"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "1.3 Classes of fire",
+      "Learning Objective": "c) describe ways of controlling different classes of fires"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Mixtures; Elements and Compounds",
+      "Sub-strand": "1.3 Classes of fire",
+      "Learning Objective": "d) acknowledge the dangers of fires in nature"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Living Things and their Environment",
+      "Sub-strand": "2.1 The Cell",
+      "Learning Objective": "a) describe the structure of plant and animal cells as observed under a light microscope"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Living Things and their Environment",
+      "Sub-strand": "2.1 The Cell",
+      "Learning Objective": "b) describe the functions of components of cells seen under the light microscope"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Living Things and their Environment",
+      "Sub-strand": "2.1 The Cell",
+      "Learning Objective": "c) compare plant and animal cells as observed under a light microscope"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Living Things and their Environment",
+      "Sub-strand": "2.1 The Cell",
+      "Learning Objective": "d) determine the magnification of cells under the light microscope"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Living Things and their Environment",
+      "Sub-strand": "2.1 The Cell",
+      "Learning Objective": "e) appreciate the role of cells in living things"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Living Things and their Environment",
+      "Sub-strand": "2.2 Movement of materials in and out of the cell",
+      "Learning Objective": "a) outline the process of diffusion and osmosis in cells"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Living Things and their Environment",
+      "Sub-strand": "2.2 Movement of materials in and out of the cell",
+      "Learning Objective": "b) demonstrate diffusion and osmosis in living things"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Living Things and their Environment",
+      "Sub-strand": "2.2 Movement of materials in and out of the cell",
+      "Learning Objective": "c) explain the role of diffusion and osmosis in living things"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Living Things and their Environment",
+      "Sub-strand": "2.2 Movement of materials in and out of the cell",
+      "Learning Objective": "d) appreciate the importance of diffusion and osmosis in living things"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Living Things and their Environment",
+      "Sub-strand": "2.3 Reproduction in human beings",
+      "Learning Objective": "a) outline the menstrual cycle and its related challenges in human beings"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Living Things and their Environment",
+      "Sub-strand": "2.3 Reproduction in human beings",
+      "Learning Objective": "b) develop a plan to manage challenges related to menstrual cycle in human beings"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Living Things and their Environment",
+      "Sub-strand": "2.3 Reproduction in human beings",
+      "Learning Objective": "c) describe fertilisation and implantation in human beings"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Living Things and their Environment",
+      "Sub-strand": "2.3 Reproduction in human beings",
+      "Learning Objective": "d) outline symptoms of STIs in human beings"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Living Things and their Environment",
+      "Sub-strand": "2.3 Reproduction in human beings",
+      "Learning Objective": "e) explain prevention measures for common STIs in human beings"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Living Things and their Environment",
+      "Sub-strand": "2.3 Reproduction in human beings",
+      "Learning Objective": "f) appreciate the need for a healthy reproductive system"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Transformation of Energy",
+      "Learning Objective": "a) identify forms of energy in nature"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Transformation of Energy",
+      "Learning Objective": "b) classify energy sources into renewable or non-renewable"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Transformation of Energy",
+      "Learning Objective": "c) demonstrate simple energy transformations in nature"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Transformation of Energy",
+      "Learning Objective": "d) describe safety measures associated with energy transformation"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.1 Transformation of Energy",
+      "Learning Objective": "e) appreciate the applications of energy transformation in day-to-day life"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.2 Pressure",
+      "Learning Objective": "a) demonstrate pressure in solids and liquids"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.2 Pressure",
+      "Learning Objective": "b) identify applications of pressure in solids and liquids"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Integrated Science",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Force and Energy",
+      "Sub-strand": "3.2 Pressure",
+      "Learning Objective": "c) appreciate the applications of pressure in solids and liquids"
+    }
+  ]
+}

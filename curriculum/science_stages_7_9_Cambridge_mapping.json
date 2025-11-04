@@ -1,0 +1,2634 @@
+{
+  "curriculum_name": "science stages 7-9 Cambridge",
+  "total_lessons": 355,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSm.01",
+      "Learning Objective": "Describe the strengths and limitations of a model."
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSm.02",
+      "Learning Objective": "Use symbols and formulae to represent scientific ideas."
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSp.01",
+      "Learning Objective": "Identify whether a given hypothesis is testable."
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSp.02",
+      "Learning Objective": "Describe how scientific hypotheses can be supported or contradicted by evidence from an enquiry."
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSp.03",
+      "Learning Objective": "Make predictions of likely outcomes for a scientific enquiry based on scientific knowledge and understanding."
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSp.04",
+      "Learning Objective": "Plan a range of investigations of different types; while considering variables appropriately; and recognise that not all investigations can be fair tests."
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSp.05",
+      "Learning Objective": "Know the meaning of hazard symbols; and consider them when planning practical work."
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSc.01",
+      "Learning Objective": "Sort; group and classify phenomena; objects; materials and organisms through testing; observation; using secondary information; and making and using keys."
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSc.02",
+      "Learning Objective": "Decide what equipment is required to carry out an investigation or experiment and use it appropriately."
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSc.03",
+      "Learning Objective": "Evaluate whether measurements and observations have been repeated sufficiently to be reliable."
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSc.04",
+      "Learning Objective": "Take appropriately accurate and precise measurements; explaining why accuracy and precision are important."
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSc.05",
+      "Learning Objective": "Carry out practical work safely."
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSc.06",
+      "Learning Objective": "Evaluate a range of secondary information sources for their relevance and know that some sources may be biased."
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSc.07",
+      "Learning Objective": "Collect and record sufficient observations and/or measurements in an appropriate form."
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSa.01",
+      "Learning Objective": "Describe the accuracy of predictions; based on results; and suggest why they were or were not accurate."
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSa.02",
+      "Learning Objective": "Describe trends and patterns in results; including identifying any anomalous results."
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSa.03",
+      "Learning Objective": "Make conclusions by interpreting results and explain the limitations of the conclusions."
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TWSa.04",
+      "Learning Objective": "Evaluate experiments and investigations; and suggest improvements; explaining any proposed changes."
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7TSWa.05",
+      "Learning Objective": "Present and interpret observations and measurements appropriately."
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Bs.01",
+      "Learning Objective": "Understand that all organisms are made of cells and microorganisms are typically single celled."
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Bs.02",
+      "Learning Objective": "Identify and describe the functions of cell structures (limited to cell membrane; cytoplasm; nucleus; cell wall; chloroplast; mitochondria and sap vacuole)."
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Bs.03",
+      "Learning Objective": "Explain how the structures of some specialised cells are related to their functions (including red blood cells; neurones; ciliated cells; root hair cells and palisade cells)."
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Bs.04",
+      "Learning Objective": "Describe the similarities and differences between the structures of plant and animal cells."
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Bs.05",
+      "Learning Objective": "Understand that cells can be grouped together to form tissues; organs and organ systems."
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Bp.01",
+      "Learning Objective": "Describe the seven characteristics of living organisms."
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Bp.02",
+      "Learning Objective": "Discuss reasons for classifying viruses as living or non-living."
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Bp.03",
+      "Learning Objective": "Describe a species as a group of organisms that can reproduce to produce fertile offspring."
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Bp.04",
+      "Learning Objective": "Use and construct dichotomous keys to classify species and groups of related organisms."
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Be.01",
+      "Learning Objective": "Know and describe the ecological role some microorganisms have as decomposers."
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Be.02",
+      "Learning Objective": "Construct and interpret food chains and webs which include microorganisms as decomposers."
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cm.01",
+      "Learning Objective": "Understand that all matter is made of atoms; with each different type of atom being a different element."
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cm.02",
+      "Learning Objective": "Know that the Periodic Table presents the known elements in an order."
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cm.03",
+      "Learning Objective": "Know metals and non-metals as the two main groupings of elements."
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cm.04",
+      "Learning Objective": "Describe the differences between elements; compounds and mixtures; including alloys as an example of a mixture."
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cm.05",
+      "Learning Objective": "Describe a vacuum as a space devoid of matter."
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cm.06",
+      "Learning Objective": "Describe the three states of matter as solid; liquid and gas in terms of the arrangement; separation and motion of particles."
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cm.07",
+      "Learning Objective": "Use the particle model to represent elements; compounds and mixtures."
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cp.01",
+      "Learning Objective": "Understand that all substances have chemical properties and physical properties."
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cp.02",
+      "Learning Objective": "Understand that the acidity or alkalinity of a substance is a chemical property and is measured by pH."
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cp.03",
+      "Learning Objective": "Use indicators (including Universal Indicator and litmus) to distinguish between acidic; alkaline and neutral solutions."
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cp.04",
+      "Learning Objective": "Use tests to identify hydrogen; carbon dioxide and oxygen gases."
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cp.05",
+      "Learning Objective": "Describe common differences between metals and non-metals; referring to their physical properties."
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cp.06",
+      "Learning Objective": "Understand that alloys are mixtures that have different chemical and physical properties from the constituent substances."
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cp.07",
+      "Learning Objective": "Use the particle model to explain the difference in hardness between pure metals and their alloys."
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cc.01",
+      "Learning Objective": "Identify whether a chemical reaction has taken place through observations of the loss of reactants and/or the formation of products which have different properties to the reactants (including evolving a gas; formation of a precipitate or change of colour)."
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cc.02",
+      "Learning Objective": "Explain why a precipitate forms; in terms of a chemical reaction between soluble reactants forming at least one insoluble product."
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cc.03",
+      "Learning Objective": "Use the particle model to describe chemical reactions."
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Cc.04",
+      "Learning Objective": "Describe neutralisation reactions in terms of change of pH."
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Pf.01",
+      "Learning Objective": "Describe changes in energy that are a result of an event or process."
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Pf.02",
+      "Learning Objective": "Know that energy tends to dissipate and in doing so it becomes less useful."
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Pf.03",
+      "Learning Objective": "Describe gravity as a force of attraction between any two objects and describe how the size of the force is related to the masses of the objects."
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Pf.04",
+      "Learning Objective": "Understand that there is no air resistance to oppose movement in a vacuum."
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Ps.01",
+      "Learning Objective": "Describe the vibration of particles in a sound wave and explain why sound does not travel in a vacuum."
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Ps.02",
+      "Learning Objective": "Explain echoes in terms of the reflection of sound waves."
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Pe.01",
+      "Learning Objective": "Use a simple model to describe electricity as a flow of electrons around a circuit."
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Pe.02",
+      "Learning Objective": "Describe electrical conductors as substances that allow electron flow and electrical insulators as substances that inhibit electron flow."
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Pe.03",
+      "Learning Objective": "Know how to measure the current in series circuits."
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Pe.04",
+      "Learning Objective": "Describe how adding components into a series circuit can affect the current (limited to addition of cells and lamps)."
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7Pe.05",
+      "Learning Objective": "Use diagrams and conventional symbols to represent; make and compare circuits that include cells; switches; lamps; buzzers and ammeters."
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7ESp.01",
+      "Learning Objective": "Describe the model of plate tectonics; in which a solid outer layer (made up of the crust and uppermost mantle) moves because of flow lower in the mantle."
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7ESp.02",
+      "Learning Objective": "Describe how earthquakes; volcanoes and fold mountains occur near the boundaries of tectonic plates."
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7ESp.03",
+      "Learning Objective": "Know that clean; dry air contains 78% nitrogen; 21% oxygen and small amounts of carbon dioxide and other gases; and this composition can change because of pollution and natural emissions."
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7ESc.01",
+      "Learning Objective": "Describe the water cycle (limited to evaporation; condensation; precipitation; water run-off; open water and groundwater)."
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7ESs.01",
+      "Learning Objective": "Describe how planets form from dust and gas; which are pulled together by gravity."
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7ESs.02",
+      "Learning Objective": "Know that gravity is the force that holds components of the Solar System in orbit around the Sun."
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7ESs.03",
+      "Learning Objective": "Describe tidal forces on Earth as a consequence of the gravitational attraction between the Earth; Moon and Sun."
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7ESs.04",
+      "Learning Objective": "Explain how solar and lunar eclipses happen."
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7SIC.01",
+      "Learning Objective": "Discuss how scientific knowledge is developed through collective understanding and scrutiny over time."
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7SIC.02",
+      "Learning Objective": "Describe how science is applied across societies and industries; and in research."
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7SIC.03",
+      "Learning Objective": "Evaluate issues which involve and/or require scientific understanding."
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7SIC.04",
+      "Learning Objective": "Describe how people develop and use scientific understanding; as individuals and through collaboration; e.g. through peer-review."
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Science",
+      "Year/Grade": "Stage 7",
+      "Topic": "7SIC.05",
+      "Learning Objective": "Discuss how the uses of science can have a global environmental impact."
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSm.01",
+      "Learning Objective": "Describe what an analogy is and how it can be used as a model."
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSm.02",
+      "Learning Objective": "Use an existing analogy for a purpose."
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSm.03",
+      "Learning Objective": "Use symbols and formulae to represent scientific ideas."
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSp.01",
+      "Learning Objective": "Identify whether a given hypothesis is testable."
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSp.02",
+      "Learning Objective": "Describe how scientific hypotheses can be supported or contradicted by evidence from an enquiry."
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSp.03",
+      "Learning Objective": "Make predictions of likely outcomes for a scientific enquiry based on scientific knowledge and understanding."
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSp.04",
+      "Learning Objective": "Plan a range of investigations of different types; while considering variables appropriately; and recognise that not all investigations can be fair tests."
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSp.05",
+      "Learning Objective": "Make risk assessments for practical work to identify and control risks."
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSc.01",
+      "Learning Objective": "Sort; group and classify phenomena; objects; materials and organisms through testing; observation; using secondary information; and making and using keys."
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSc.02",
+      "Learning Objective": "Decide what equipment is required to carry out an investigation or experiment and use it appropriately."
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSc.03",
+      "Learning Objective": "Evaluate whether measurements and observations have been repeated sufficiently to be reliable."
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSc.04",
+      "Learning Objective": "Take appropriately accurate and precise measurements; explaining why accuracy and precision are important."
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSc.05",
+      "Learning Objective": "Carry out practical work safely; supported by risk assessments where appropriate."
+    },
+    {
+      "Lesson Number": "86",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSc.06",
+      "Learning Objective": "Evaluate a range of secondary information sources for their relevance and know that some sources may be biased."
+    },
+    {
+      "Lesson Number": "87",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSc.07",
+      "Learning Objective": "Collect and record sufficient observations and/or measurements in an appropriate form."
+    },
+    {
+      "Lesson Number": "88",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSa.01",
+      "Learning Objective": "Describe the accuracy of predictions; based on results; and suggest why they were or were not accurate."
+    },
+    {
+      "Lesson Number": "89",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSa.02",
+      "Learning Objective": "Describe trends and patterns in results; including identifying any anomalous results."
+    },
+    {
+      "Lesson Number": "90",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSa.03",
+      "Learning Objective": "Make conclusions by interpreting results and explain the limitations of the conclusions."
+    },
+    {
+      "Lesson Number": "91",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TWSa.04",
+      "Learning Objective": "Evaluate experiments and investigations; and suggest improvements; explaining any proposed changes."
+    },
+    {
+      "Lesson Number": "92",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8TSWa.05",
+      "Learning Objective": "Present and interpret observations and measurements appropriately."
+    },
+    {
+      "Lesson Number": "93",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Bs.01",
+      "Learning Objective": "Identify ball-and-socket and hinge joints; and explain how antagonistic muscles move the bones at a hinge joint."
+    },
+    {
+      "Lesson Number": "94",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Bs.02",
+      "Learning Objective": "Describe the components of blood and their functions (limited to red blood cells transporting oxygen; white blood cells protecting against pathogens and plasma transporting blood cells; nutrients and carbon dioxide)."
+    },
+    {
+      "Lesson Number": "95",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Bs.03",
+      "Learning Objective": "Describe how the structure of the human respiratory system is related to its function of gas exchange (in terms of lung structure and the action of the diaphragm and intercostal muscles) and understand the difference between breathing and respiration."
+    },
+    {
+      "Lesson Number": "96",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Bs.04",
+      "Learning Objective": "Describe the diffusion of oxygen and carbon dioxide between blood and the air in the lungs."
+    },
+    {
+      "Lesson Number": "97",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Bp.01",
+      "Learning Objective": "Identify the constituents of a balanced diet for humans as including protein; carbohydrates; fats and oils; water; minerals (limited to calcium and iron) and vitamins (limited to A; C and D); and describe the functions of these nutrients."
+    },
+    {
+      "Lesson Number": "98",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Bp.02",
+      "Learning Objective": "Understand that carbohydrates and fats can be used as a store of energy in animals; and animals consume food to obtain energy and nutrients."
+    },
+    {
+      "Lesson Number": "99",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Bp.03",
+      "Learning Objective": "Discuss how human growth; development and health can be affected by lifestyle; including diet and smoking."
+    },
+    {
+      "Lesson Number": "100",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Bp.04",
+      "Learning Objective": "Know that aerobic respiration occurs in the mitochondria of plant and animal cells; and gives a controlled release of energy."
+    },
+    {
+      "Lesson Number": "101",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Bp.05",
+      "Learning Objective": "Know and use the summary word equation for aerobic respiration (glucose + oxygen -> carbon dioxide + water)."
+    },
+    {
+      "Lesson Number": "102",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Be.01",
+      "Learning Objective": "Identify different ecosystems on the Earth; recognising the variety of habitats that exist within an ecosystem."
+    },
+    {
+      "Lesson Number": "103",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Be.02",
+      "Learning Objective": "Describe the impact of the bioaccumulation of toxic substances on an ecosystem."
+    },
+    {
+      "Lesson Number": "104",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Be.03",
+      "Learning Objective": "Describe how a new and/or invasive species can affect other organisms and an ecosystem."
+    },
+    {
+      "Lesson Number": "105",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Cm.01",
+      "Learning Objective": "Describe the Rutherford model of the structure of an atom."
+    },
+    {
+      "Lesson Number": "106",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Cm.02",
+      "Learning Objective": "Know that electrons have negative charge; protons have positive charge and neutrons have no charge."
+    },
+    {
+      "Lesson Number": "107",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Cm.03",
+      "Learning Objective": "Know that the electrostatic attraction between positive and negative charge is what holds together individual atoms."
+    },
+    {
+      "Lesson Number": "108",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Cm.04",
+      "Learning Objective": "Know that purity is a way to describe how much of a specific chemical is in a mixture."
+    },
+    {
+      "Lesson Number": "109",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Cp.01",
+      "Learning Objective": "Understand that the concentration of a solution relates to how many particles of the solute are present in a volume of the solvent."
+    },
+    {
+      "Lesson Number": "110",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Cp.02",
+      "Learning Objective": "Describe how paper chromatography can be used to separate and identify substances in a sample."
+    },
+    {
+      "Lesson Number": "111",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Cc.01",
+      "Learning Objective": "Use word equations to describe reactions."
+    },
+    {
+      "Lesson Number": "112",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Cc.02",
+      "Learning Objective": "Know that some processes and reactions are endothermic or exothermic; and this can be identified by temperature change."
+    },
+    {
+      "Lesson Number": "113",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Cc.03",
+      "Learning Objective": "Describe the reactivity of metals (limited to sodium; potassium; calcium; magnesium; zinc; iron; copper; gold and silver) with oxygen; water and dilute acids."
+    },
+    {
+      "Lesson Number": "114",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Cc.04",
+      "Learning Objective": "Know that reactions do not always lead to a single pure product and that sometimes a reaction will produce an impure mixture of products."
+    },
+    {
+      "Lesson Number": "115",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Cc.05",
+      "Learning Objective": "Describe how the solubility of different salts varies with temperature."
+    },
+    {
+      "Lesson Number": "116",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Cc.06",
+      "Learning Objective": "Understand that some substances are generally unreactive and can be described as inert."
+    },
+    {
+      "Lesson Number": "117",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Pf.01",
+      "Learning Objective": "Calculate speed (speed = distance / time)."
+    },
+    {
+      "Lesson Number": "118",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Pf.02",
+      "Learning Objective": "Interpret and draw simple distance / time graphs."
+    },
+    {
+      "Lesson Number": "119",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Pf.03",
+      "Learning Objective": "Describe the effects of balanced and unbalanced forces on motion."
+    },
+    {
+      "Lesson Number": "120",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Pf.04",
+      "Learning Objective": "Identify and calculate turning forces (moment = force x distance)."
+    },
+    {
+      "Lesson Number": "121",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Pf.05",
+      "Learning Objective": "Explain that pressure is caused by the action of a force; exerted by a substance; on an area (pressure = force / area)."
+    },
+    {
+      "Lesson Number": "122",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Pf.06",
+      "Learning Objective": "Use particle theory to explain pressures in gases and liquids (qualitative only)."
+    },
+    {
+      "Lesson Number": "123",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Pf.07",
+      "Learning Objective": "Describe the diffusion of gases and liquids as the intermingling of substances by the movement of particles."
+    },
+    {
+      "Lesson Number": "124",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Ps.01",
+      "Learning Objective": "Describe reflection at a plane surface and use the law of reflection."
+    },
+    {
+      "Lesson Number": "125",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Ps.02",
+      "Learning Objective": "Describe refraction of light at the boundary between air and glass or air and water in terms of change of speed."
+    },
+    {
+      "Lesson Number": "126",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Ps.03",
+      "Learning Objective": "Know that white light is made of many colours and this can be shown through the dispersion of white light; using a prism."
+    },
+    {
+      "Lesson Number": "127",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Ps.04",
+      "Learning Objective": "Describe how colours of light can be added; subtracted; absorbed and reflected."
+    },
+    {
+      "Lesson Number": "128",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Pe.01",
+      "Learning Objective": "Describe a magnetic field; and understand that it surrounds a magnet and exerts a force on other magnetic fields."
+    },
+    {
+      "Lesson Number": "129",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Pe.02",
+      "Learning Objective": "Describe how to make an electromagnet and know that electromagnets have many applications."
+    },
+    {
+      "Lesson Number": "130",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8Pe.03",
+      "Learning Objective": "Investigate factors that change the strength of an electromagnet."
+    },
+    {
+      "Lesson Number": "131",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8ESp.01",
+      "Learning Objective": "Know that the reason the Earth has a magnetic field is that the core acts as a magnet."
+    },
+    {
+      "Lesson Number": "132",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8ESp.02",
+      "Learning Objective": "Identify renewable resources (including wind; tidal and solar power; and bioplastics) and non-renewable resources (including fossil fuels); and describe how humans use them."
+    },
+    {
+      "Lesson Number": "133",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8ESc.01",
+      "Learning Objective": "Understand that there is evidence that the Earth's climate exists in a cycle between warm periods and ice ages; and the cycle takes place over long time periods."
+    },
+    {
+      "Lesson Number": "134",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8ESc.02",
+      "Learning Objective": "Understand that the Earth's climate can change due to atmospheric change."
+    },
+    {
+      "Lesson Number": "135",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8ESc.03",
+      "Learning Objective": "Describe the difference between climate and weather."
+    },
+    {
+      "Lesson Number": "136",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8ESs.01",
+      "Learning Objective": "Describe a galaxy in terms of stellar dust and gas; stars and planetary systems."
+    },
+    {
+      "Lesson Number": "137",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8ESs.02",
+      "Learning Objective": "Describe asteroids as rocks; smaller than planets; and describe their formation from rocks left over from the formation of a planetary system."
+    },
+    {
+      "Lesson Number": "138",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8SIC.01",
+      "Learning Objective": "Discuss how scientific knowledge is developed through collective understanding and scrutiny over time."
+    },
+    {
+      "Lesson Number": "139",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8SIC.02",
+      "Learning Objective": "Describe how science is applied across societies and industries; and in research."
+    },
+    {
+      "Lesson Number": "140",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8SIC.03",
+      "Learning Objective": "Evaluate issues which involve and/or require scientific understanding."
+    },
+    {
+      "Lesson Number": "141",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8SIC.04",
+      "Learning Objective": "Describe how people develop and use scientific understanding as individuals and through collaboration; e.g. through peer-review."
+    },
+    {
+      "Lesson Number": "142",
+      "Subject": "Science",
+      "Year/Grade": "Stage 8",
+      "Topic": "8SIC.05",
+      "Learning Objective": "Discuss how the uses of science can have a global environmental impact."
+    },
+    {
+      "Lesson Number": "143",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSm.01",
+      "Learning Objective": "Understand that models and analogies reflect current scientific evidence and understanding and can change."
+    },
+    {
+      "Lesson Number": "144",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSm.02",
+      "Learning Objective": "Describe some important models; including analogies; and discuss their strengths and limitations."
+    },
+    {
+      "Lesson Number": "145",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSm.03",
+      "Learning Objective": "Use symbols and formulae to represent scientific ideas."
+    },
+    {
+      "Lesson Number": "146",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSp.01",
+      "Learning Objective": "Suggest a testable hypothesis based on scientific understanding."
+    },
+    {
+      "Lesson Number": "147",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSp.02",
+      "Learning Objective": "Describe examples where scientists' unexpected results from enquiries have led to improved scientific understanding."
+    },
+    {
+      "Lesson Number": "148",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSp.03",
+      "Learning Objective": "Make predictions of likely outcomes for a scientific enquiry based on scientific knowledge and understanding."
+    },
+    {
+      "Lesson Number": "149",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSp.04",
+      "Learning Objective": "Plan a range of investigations of different types to obtain appropriate evidence when testing hypotheses."
+    },
+    {
+      "Lesson Number": "150",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSp.05",
+      "Learning Objective": "Make risk assessments for practical work to identify and control risks."
+    },
+    {
+      "Lesson Number": "151",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSc.01",
+      "Learning Objective": "Sort; group and classify phenomena; objects; materials and organisms through testing; observation; using secondary information; and making and using keys."
+    },
+    {
+      "Lesson Number": "152",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSc.02",
+      "Learning Objective": "Decide what equipment is required to carry out an investigation or experiment and use it appropriately."
+    },
+    {
+      "Lesson Number": "153",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSc.03",
+      "Learning Objective": "Decide when to increase the range of observations and measurements; and increase the extent of repetition; to give sufficiently reliable data."
+    },
+    {
+      "Lesson Number": "154",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSc.04",
+      "Learning Objective": "Take appropriately accurate and precise measurements; explaining why accuracy and precision are important."
+    },
+    {
+      "Lesson Number": "155",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSc.05",
+      "Learning Objective": "Carry out practical work safely; supported by risk assessments where appropriate."
+    },
+    {
+      "Lesson Number": "156",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSc.06",
+      "Learning Objective": "Make an informed decision whether to use evidence from first-hand experience or secondary sources."
+    },
+    {
+      "Lesson Number": "157",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSc.07",
+      "Learning Objective": "Collect; record and summarise sufficient observations and measurements; in an appropriate form."
+    },
+    {
+      "Lesson Number": "158",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSa.01",
+      "Learning Objective": "Evaluate the strength of the evidence collected and how it supports; or refutes; the prediction."
+    },
+    {
+      "Lesson Number": "159",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSa.02",
+      "Learning Objective": "Describe trends and patterns in results; identifying any anomalous results and suggesting why results are anomalous."
+    },
+    {
+      "Lesson Number": "160",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSa.03",
+      "Learning Objective": "Make conclusions by interpreting results; explain the limitations of the conclusions and describe how the conclusions can be further investigated."
+    },
+    {
+      "Lesson Number": "161",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSa.04",
+      "Learning Objective": "Evaluate experiments and investigations; including those by others; and suggest improvements; explaining any proposed changes."
+    },
+    {
+      "Lesson Number": "162",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9TWSa.05",
+      "Learning Objective": "Present and interpret results; and predict results between the data points collected."
+    },
+    {
+      "Lesson Number": "163",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Bs.01",
+      "Learning Objective": "Describe the pathway of water and mineral salts from the roots to the leaves in flowering plants; including absorption in root hair cells; transport through xylem and transpiration from the surface of leaves."
+    },
+    {
+      "Lesson Number": "164",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Bs.02",
+      "Learning Objective": "Describe the structure of the human excretory (renal) system and its function (limited to kidneys filtering blood to remove urea; which is excreted in urine)."
+    },
+    {
+      "Lesson Number": "165",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Bs.03",
+      "Learning Objective": "Know that chromosomes contain genes; made of DNA; and that genes contribute to the determination of an organism's characteristics."
+    },
+    {
+      "Lesson Number": "166",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Bp.01",
+      "Learning Objective": "Describe the fusion of gametes to produce a fertilised egg with a new combination of DNA."
+    },
+    {
+      "Lesson Number": "167",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Bp.02",
+      "Learning Objective": "Describe the inheritance of sex in humans in terms of XX and XY chromosomes."
+    },
+    {
+      "Lesson Number": "168",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Bp.03",
+      "Learning Objective": "Describe variation within a species and relate this to genetic differences between individuals."
+    },
+    {
+      "Lesson Number": "169",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Bp.04",
+      "Learning Objective": "Describe the scientific theory of natural selection and how it relates to genetic changes over time."
+    },
+    {
+      "Lesson Number": "170",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Bp.05",
+      "Learning Objective": "Know that plants require minerals to maintain healthy growth and life processes (limited to magnesium to make chlorophyll and nitrates to make protein)."
+    },
+    {
+      "Lesson Number": "171",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Bp.06",
+      "Learning Objective": "Know that photosynthesis occurs in chloroplasts and is the process by which plants make carbohydrates; using the energy from light."
+    },
+    {
+      "Lesson Number": "172",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Bp.07",
+      "Learning Objective": "Know and use the summary word equation for photosynthesis (carbon dioxide + water -> glucose + oxygen; in the presence of light and chlorophyll)."
+    },
+    {
+      "Lesson Number": "173",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Bp.08",
+      "Learning Objective": "Discuss how fetal development is affected by the health of the mother; including the effect of diet; smoking and drugs."
+    },
+    {
+      "Lesson Number": "174",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Be.01",
+      "Learning Objective": "Describe what could happen to the population of a species; including extinction; when there is an environmental change."
+    },
+    {
+      "Lesson Number": "175",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Cm.01",
+      "Learning Objective": "Understand that the structure of the Periodic Table is related to the atomic structure of the elements and the Periodic Table can be used to predict an element’s structure and properties."
+    },
+    {
+      "Lesson Number": "176",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Cm.02",
+      "Learning Objective": "Understand that a molecule is formed when two or more atoms join together chemically; through a covalent bond."
+    },
+    {
+      "Lesson Number": "177",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Cm.03",
+      "Learning Objective": "Describe a covalent bond as a bond made when a pair of electrons is shared by two atoms (limited to single bonds)."
+    },
+    {
+      "Lesson Number": "178",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Cm.04",
+      "Learning Objective": "Describe an ion as an atom which has gained at least one electron to be negatively charged or lost at least one electron to be positively charged."
+    },
+    {
+      "Lesson Number": "179",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Cm.05",
+      "Learning Objective": "Describe an ionic bond as an attraction between a positively charged ion and a negatively charged ion."
+    },
+    {
+      "Lesson Number": "180",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Cp.01",
+      "Learning Objective": "Understand that the groups within the Periodic Table have trends in physical and chemical properties; using group 1 as an example."
+    },
+    {
+      "Lesson Number": "181",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Cp.02",
+      "Learning Objective": "Describe how the density of a substance relates to its mass in a defined volume."
+    },
+    {
+      "Lesson Number": "182",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Cp.03",
+      "Learning Objective": "Calculate and compare densities of solids; liquids and gases."
+    },
+    {
+      "Lesson Number": "183",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Cp.04",
+      "Learning Objective": "Know that elements and compounds exist in structures (simple or giant); and this influences their physical properties."
+    },
+    {
+      "Lesson Number": "184",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Cc.01",
+      "Learning Objective": "Use word equations and symbol equations to describe reactions (balancing symbol equations is not required)."
+    },
+    {
+      "Lesson Number": "185",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Cc.02",
+      "Learning Objective": "Identify examples of displacement reactions and predict products (limited to reactions involving calcium; magnesium; zinc; iron; copper; gold and silver salts)."
+    },
+    {
+      "Lesson Number": "186",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Cc.03",
+      "Learning Objective": "Describe how to prepare some common salts by the reactions of metals with acids; and metal carbonates with acids; and purify them; using filtration; evaporation and crystallisation."
+    },
+    {
+      "Lesson Number": "187",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Cc.04",
+      "Learning Objective": "Describe the effects of concentration; surface area and temperature on the rate of reaction; and explain them using the particle model."
+    },
+    {
+      "Lesson Number": "188",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Cc.05",
+      "Learning Objective": "Understand that in chemical reactions mass and energy are conserved."
+    },
+    {
+      "Lesson Number": "189",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Pf.01",
+      "Learning Objective": "Use density to explain why objects float or sink in water."
+    },
+    {
+      "Lesson Number": "190",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Pf.02",
+      "Learning Objective": "Describe the difference between heat and temperature."
+    },
+    {
+      "Lesson Number": "191",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Pf.03",
+      "Learning Objective": "Know that energy is conserved; meaning it cannot be created or destroyed."
+    },
+    {
+      "Lesson Number": "192",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Pf.04",
+      "Learning Objective": "Know that thermal energy will always transfer from hotter regions or objects to colder ones; and this is known as heat dissipation."
+    },
+    {
+      "Lesson Number": "193",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Pf.05",
+      "Learning Objective": "Describe thermal transfer by the processes of conduction; convection and radiation."
+    },
+    {
+      "Lesson Number": "194",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Pf.06",
+      "Learning Objective": "Explain cooling by evaporation."
+    },
+    {
+      "Lesson Number": "195",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Ps.01",
+      "Learning Objective": "Draw and interpret waveforms; and recognise the link between loudness and amplitude; pitch and frequency."
+    },
+    {
+      "Lesson Number": "196",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Ps.02",
+      "Learning Objective": "Use waveforms to show how sound waves interact to reinforce or cancel each other."
+    },
+    {
+      "Lesson Number": "197",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Pe.01",
+      "Learning Objective": "Describe how current divides in parallel circuits."
+    },
+    {
+      "Lesson Number": "198",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Pe.02",
+      "Learning Objective": "Know how to measure current and voltage in series and parallel circuits; and describe the effect of adding cells and lamps."
+    },
+    {
+      "Lesson Number": "199",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Pe.03",
+      "Learning Objective": "Calculate resistance (resistance = voltage / current) and describe how resistance affects current."
+    },
+    {
+      "Lesson Number": "200",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9Pe.04",
+      "Learning Objective": "Use diagrams and conventional symbols to represent; make and compare circuits that include cells; switches; resistors (fixed and variable); ammeters; voltmeters; lamps and buzzers."
+    },
+    {
+      "Lesson Number": "201",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9ESp.01",
+      "Learning Objective": "Explain the movement of tectonic plates in terms of convection currents."
+    },
+    {
+      "Lesson Number": "202",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9ESp.02",
+      "Learning Objective": "Explain why the jigsaw appearance of continental coasts; location of volcanoes and earthquakes; fossil record and alignment of magnetic materials in the Earth's crust are all evidence for tectonic plates."
+    },
+    {
+      "Lesson Number": "203",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9ESc.01",
+      "Learning Objective": "Describe the carbon cycle (limited to photosynthesis; respiration; feeding; decomposition and combustion)."
+    },
+    {
+      "Lesson Number": "204",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9ESc.02",
+      "Learning Objective": "Describe the historical and predicted future impacts of climate change; including sea level change; flooding; drought and extreme weather events."
+    },
+    {
+      "Lesson Number": "205",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9ESs.01",
+      "Learning Objective": "Describe the consequences of asteroid collision with the Earth; including climate change and mass extinctions."
+    },
+    {
+      "Lesson Number": "206",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9ESs.02",
+      "Learning Objective": "Describe the evidence for the collision theory for the formation of the Moon."
+    },
+    {
+      "Lesson Number": "207",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9ESs.03",
+      "Learning Objective": "Know that nebulae are clouds of dust and gas; and can act as stellar nurseries."
+    },
+    {
+      "Lesson Number": "208",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9SIC.01",
+      "Learning Objective": "Discuss how scientific knowledge is developed through collective understanding and scrutiny over time."
+    },
+    {
+      "Lesson Number": "209",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9SIC.02",
+      "Learning Objective": "Describe how science is applied across societies and industries; and in research."
+    },
+    {
+      "Lesson Number": "210",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9SIC.03",
+      "Learning Objective": "Evaluate issues which involve and/or require scientific understanding."
+    },
+    {
+      "Lesson Number": "211",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9SIC.04",
+      "Learning Objective": "Describe how people develop and use scientific understanding as individuals and through collaboration; e.g. through peer-review."
+    },
+    {
+      "Lesson Number": "212",
+      "Subject": "Science",
+      "Year/Grade": "Stage 9",
+      "Topic": "9SIC.05",
+      "Learning Objective": "Discuss how the uses of science can have a global environmental impact."
+    },
+    {
+      "Lesson Number": "1",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.1 Compass Direction",
+      "Learning Objective": "a) identify the four cardinal points of a compass"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.1 Compass Direction",
+      "Learning Objective": "b) use the four cardinal points to give directions on a map"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.1 Compass Direction",
+      "Learning Objective": "c) appreciate the use of four cardinal points in everyday life"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.2 Location and size of the County",
+      "Learning Objective": "a) identify sub-counties in the county"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.2 Location and size of the County",
+      "Learning Objective": "b) locate the county in relation to neighbouring counties"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.2 Location and size of the County",
+      "Learning Objective": "c) estimate the size of the county in relation to neighbouring counties"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.2 Location and size of the County",
+      "Learning Objective": "d) acknowledge the location and size of the county"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.3 Physical features in the County",
+      "Learning Objective": "a) identify the main physical features in the county"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.3 Physical features in the County",
+      "Learning Objective": "b) state the importance of the main physical features in the county"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.3 Physical features in the County",
+      "Learning Objective": "c) illustrate the main physical features in the county"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.3 Physical features in the County",
+      "Learning Objective": "d) appreciate the main physical features in the county"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.4 Seasons in the County",
+      "Learning Objective": "a) identify the four seasons experienced in the county"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.4 Seasons in the County",
+      "Learning Objective": "b) explain how the four seasons influence human activities in the county"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.4 Seasons in the County",
+      "Learning Objective": "c) explore how rainy weather affects road safety in the county"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.4 Seasons in the County",
+      "Learning Objective": "d) model weather charts of seasons in the county"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.4 Seasons in the County",
+      "Learning Objective": "e) appreciate the different seasons experienced in the county"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.5 Historic Built Environments in the County",
+      "Learning Objective": "a) identify the main historic built environments in the county"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.5 Historic Built Environments in the County",
+      "Learning Objective": "b) explain the importance of the main historic built environments in the county"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.5 Historic Built Environments in the County",
+      "Learning Objective": "c) participate in conservation activities of the historic built environments within the county"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "1.0 Natural and Built Environments",
+      "Sub-strand": "1.5 Historic Built Environments in the County",
+      "Learning Objective": "d) appreciate historic built environments in the county"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "2.0 People and Population",
+      "Sub-strand": "2.1 Interdependence of people",
+      "Learning Objective": "a) identify ways in which people depend on each other in the county"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "2.0 People and Population",
+      "Sub-strand": "2.1 Interdependence of people",
+      "Learning Objective": "b) explain the benefits of interdependence of people in the county"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "2.0 People and Population",
+      "Sub-strand": "2.1 Interdependence of people",
+      "Learning Objective": "c) use chart to illustrate the benefits of interdependence people"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "2.0 People and Population",
+      "Sub-strand": "2.1 Interdependence of people",
+      "Learning Objective": "d) appreciate the interdependence of people in the County"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "2.0 People and Population",
+      "Sub-strand": "2.2 Population Distribution",
+      "Learning Objective": "a) describe patterns of population distribution in the county"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "2.0 People and Population",
+      "Sub-strand": "2.2 Population Distribution",
+      "Learning Objective": "b) illustrate the patterns of population distribution in the county"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "2.0 People and Population",
+      "Sub-strand": "2.2 Population Distribution",
+      "Learning Objective": "c) appreciate population distribution in the county"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Social Organisations",
+      "Sub-strand": "3.1 Aspects of Traditional Culture in the County",
+      "Learning Objective": "a) identify aspects of traditional culture in the county"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Social Organisations",
+      "Sub-strand": "3.1 Aspects of Traditional Culture in the County",
+      "Learning Objective": "b) illustrate aspects of traditional culture practised in the county"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Social Organisations",
+      "Sub-strand": "3.1 Aspects of Traditional Culture in the County",
+      "Learning Objective": "c) appreciate the importance of traditional culture in the county"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Social Organisations",
+      "Sub-strand": "3.2 The school",
+      "Learning Objective": "a) narrate the history of the school"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Social Organisations",
+      "Sub-strand": "3.2 The school",
+      "Learning Objective": "b) explain the values of the school"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Social Organisations",
+      "Sub-strand": "3.2 The school",
+      "Learning Objective": "c) recite the school motto"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "3.0 Social Organisations",
+      "Sub-strand": "3.2 The school",
+      "Learning Objective": "d) desire to obey the school rules"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Resources and Economic Activities",
+      "Sub-strand": "4.1 Economic activities in the County",
+      "Learning Objective": "a) Explore the main resources found in the county"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Resources and Economic Activities",
+      "Sub-strand": "4.1 Economic activities in the County",
+      "Learning Objective": "b) identify the main economic activities carried out in the county"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Resources and Economic Activities",
+      "Sub-strand": "4.1 Economic activities in the County",
+      "Learning Objective": "c) explain the importance of economic activities carried out in the county"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Resources and Economic Activities",
+      "Sub-strand": "4.1 Economic activities in the County",
+      "Learning Objective": "d) participate in economic activities in the locality"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Resources and Economic Activities",
+      "Sub-strand": "4.1 Economic activities in the County",
+      "Learning Objective": "e) appreciate the economic activities in the county"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Resources and Economic Activities",
+      "Sub-strand": "4.2 Industries in the County",
+      "Learning Objective": "a) identify industries in the county"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Resources and Economic Activities",
+      "Sub-strand": "4.2 Industries in the County",
+      "Learning Objective": "b) explain the benefits of industries in the county"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Resources and Economic Activities",
+      "Sub-strand": "4.2 Industries in the County",
+      "Learning Objective": "c) locate industries in the county"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Resources and Economic Activities",
+      "Sub-strand": "4.2 Industries in the County",
+      "Learning Objective": "d) recognise the role of industries in the county"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Resources and Economic Activities",
+      "Sub-strand": "4.3 Enterprise Project at school",
+      "Learning Objective": "a) identify the projects that can be initiated at school"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Resources and Economic Activities",
+      "Sub-strand": "4.3 Enterprise Project at school",
+      "Learning Objective": "b) participate in initiating an enterprise project at school"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "4.0 Resources and Economic Activities",
+      "Sub-strand": "4.3 Enterprise Project at school",
+      "Learning Objective": "c) uphold ethics and collective efforts in managing enterprise projects at school"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.1 Good Citizenship in School",
+      "Learning Objective": "a) identify qualities of a good citizen in school"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.1 Good Citizenship in School",
+      "Learning Objective": "b) develop qualities of good citizenship in school"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.1 Good Citizenship in School",
+      "Learning Objective": "c) appreciate qualities of good citizenship in school"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.2 Peace",
+      "Learning Objective": "a) identify factors that promote peace in school"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.2 Peace",
+      "Learning Objective": "b) develop strategies of living in peace with others in school"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.2 Peace",
+      "Learning Objective": "c) desire to uphold peace in school"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.3 Child Rights",
+      "Learning Objective": "a) outline forms of child abuse in the community"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.3 Child Rights",
+      "Learning Objective": "b) explain the causes of child abuse in the community"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.3 Child Rights",
+      "Learning Objective": "c) explain effects of child abuse in the community"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.3 Child Rights",
+      "Learning Objective": "d) desire to promote child rights and responsibilities in the school"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.4 Democracy in school",
+      "Learning Objective": "a) identify democratic processes in the school"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.4 Democracy in school",
+      "Learning Objective": "b) explain the benefits of democracy in school"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.4 Democracy in school",
+      "Learning Objective": "c) practise democratic elements in school"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.4 Democracy in school",
+      "Learning Objective": "d) appreciate democratic practices in school"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.5 Children’s Government in school",
+      "Learning Objective": "a) explain the composition of Children’s Government in school"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.5 Children’s Government in school",
+      "Learning Objective": "b) describe the functions of the Children’s Government in school"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.5 Children’s Government in school",
+      "Learning Objective": "c) participate in Children’s Government in school"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.5 Children’s Government in school",
+      "Learning Objective": "d) respect Children’s Government in school"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.6 Community Leadership",
+      "Learning Objective": "a) identify leaders in the community"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.6 Community Leadership",
+      "Learning Objective": "b) explain the duties of leaders in the community"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.6 Community Leadership",
+      "Learning Objective": "c) demonstrate qualities of good leadership in the community"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.6 Community Leadership",
+      "Learning Objective": "d) appreciate good leadership in the community"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.7 The County Governments in Kenya",
+      "Learning Objective": "a) identify the structure of county government"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.7 The County Governments in Kenya",
+      "Learning Objective": "b) explain the duties of County Governor in Kenya"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.7 The County Governments in Kenya",
+      "Learning Objective": "c) explain the roles of a member of county assembly"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Social Studies",
+      "Grade": "Grade 4",
+      "Strand": "5.0 Citizenship and Governance in Kenya",
+      "Sub-strand": "5.7 The County Governments in Kenya",
+      "Learning Objective": "d) appreciate the County Government in Kenya"
+    },
+    {
+      "Lesson Number": "1",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.1 Elements of a Map",
+      "Learning Objective": "a) identify the key elements of a map"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.1 Elements of a Map",
+      "Learning Objective": "b) illustrate the key elements of a map on a sketch"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.1 Elements of a Map",
+      "Learning Objective": "c) interpret features in a map using the key elements"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.1 Elements of a Map",
+      "Learning Objective": "d) appreciate the use of maps in daily life"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.2 Location; position and size of Kenya",
+      "Learning Objective": "a) identify the countries that neighbour Kenya"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.2 Location; position and size of Kenya",
+      "Learning Objective": "b) locate the position of Kenya in relation to her neighbours using a compass direction"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.2 Location; position and size of Kenya",
+      "Learning Objective": "c) value good relations between Kenya and her neighbours"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.3 Main physical features in Kenya",
+      "Learning Objective": "a) identify the main physical features in Kenya"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.3 Main physical features in Kenya",
+      "Learning Objective": "b) show the main physical features in Kenya on a map"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.3 Main physical features in Kenya",
+      "Learning Objective": "c) value the physical features found in Kenya"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.4 Weather and Climate",
+      "Learning Objective": "a) identify elements of weather in the environment"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.4 Weather and Climate",
+      "Learning Objective": "b) show the main climatic regions in Kenya on a map"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.4 Weather and Climate",
+      "Learning Objective": "c) describe characteristics of the main climatic regions in Kenya"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.4 Weather and Climate",
+      "Learning Objective": "d) acknowledge the different climatic conditions in Kenya"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.5 The Built Environments",
+      "Learning Objective": "a) identify the main historic built environments in Kenya"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.5 The Built Environments",
+      "Learning Objective": "b) show the main historic built environments in Kenya on a map"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.5 The Built Environments",
+      "Learning Objective": "c) apply strategies to conserve historic built environments for preservation of cultural heritage"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Natural and Historic Built Environments",
+      "Sub-strand": "1.5 The Built Environments",
+      "Learning Objective": "d) appreciate the need for conserving historic built environments in Kenya"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.1 Language Groups in Kenya",
+      "Learning Objective": "a) identify the main language groups in Kenya"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.1 Language Groups in Kenya",
+      "Learning Objective": "b) explain benefits of interdependence of language groups in Kenya"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.1 Language Groups in Kenya",
+      "Learning Objective": "c) show the interdependence of language groups in Kenya"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.1 Language Groups in Kenya",
+      "Learning Objective": "d) appreciate the interdependence of language groups"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.2 Population distribution in Kenya",
+      "Learning Objective": "a) show areas of high and low population density in Kenya on a map"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.2 Population distribution in Kenya",
+      "Learning Objective": "b) acknowledge the impact of population distribution in Kenya"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.3 Culture and Social Organization of the African traditional education",
+      "Learning Objective": "a) identify methods of instruction used in African traditional education"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.3 Culture and Social Organization of the African traditional education",
+      "Learning Objective": "b) explain the importance of African traditional education in promoting values"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.3 Culture and Social Organization of the African traditional education",
+      "Learning Objective": "c) apply African traditional education in promoting values"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.3 Culture and Social Organization of the African traditional education",
+      "Learning Objective": "d) appreciate the role of African traditional education in promoting values"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.4 School administration",
+      "Learning Objective": "a) identify the administrative leaders in a school"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.4 School administration",
+      "Learning Objective": "b) state duties of administrative leaders in a school"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.4 School administration",
+      "Learning Objective": "c) illustrate the administrative structure of the school"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.4 School administration",
+      "Learning Objective": "d) appreciate the work done by administrative leaders in school"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.1 Resources in Kenya",
+      "Learning Objective": "a) identify resources found in Kenya"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.1 Resources in Kenya",
+      "Learning Objective": "b) use available resources prudently for conservation"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.1 Resources in Kenya",
+      "Learning Objective": "c) Appreciate resources available in society"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.2 Mining in Kenya",
+      "Learning Objective": "a) identify major minerals found in Kenya"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.2 Mining in Kenya",
+      "Learning Objective": "b) locate the major minerals in the map of Kenya"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.2 Mining in Kenya",
+      "Learning Objective": "c) examine importance of minerals in Kenya"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.2 Mining in Kenya",
+      "Learning Objective": "d) acknowledge the contribution of mining to the economy of Kenya"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.3 Fishing in Kenya",
+      "Learning Objective": "a) identify the main inland fishing grounds in Kenya"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.3 Fishing in Kenya",
+      "Learning Objective": "b) locate the main inland fishing grounds in Kenya"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.3 Fishing in Kenya",
+      "Learning Objective": "c) explain the contribution of fishing to the economy of Kenya"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.3 Fishing in Kenya",
+      "Learning Objective": "d) recognize fishing as an economic activity"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.4 Wildlife and Tourism in Kenya",
+      "Learning Objective": "a) identify the main tourist attractions in Kenya"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.4 Wildlife and Tourism in Kenya",
+      "Learning Objective": "b) locate the main game reserves and national parks in Kenya"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.4 Wildlife and Tourism in Kenya",
+      "Learning Objective": "c) explain contributions of wildlife and tourism to the economy"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.4 Wildlife and Tourism in Kenya",
+      "Learning Objective": "d) acknowledge the contribution of wildlife and tourism to the economy of Kenya"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.5 Development of Transport",
+      "Learning Objective": "a) outline the main forms of early transport to facilitate movement of goods and services"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.5 Development of Transport",
+      "Learning Objective": "b) identify modern forms of transport in Kenya"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.5 Development of Transport",
+      "Learning Objective": "c) explore ways of maintaining road safety in society"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.5 Development of Transport",
+      "Learning Objective": "d) apply safety precautions in using means of transport"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.5 Development of Transport",
+      "Learning Objective": "e) appreciate the role of modern forms of transport in national development"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.6 Development of Communication",
+      "Learning Objective": "a) outline the main early forms of communication to facilitate social interactions"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.6 Development of Communication",
+      "Learning Objective": "b) explore modern means of communication in Kenya"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.6 Development of Communication",
+      "Learning Objective": "c) illustrate the modern means of communication used in their community"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Resources and Economic Activities",
+      "Sub-strand": "3.6 Development of Communication",
+      "Learning Objective": "d) recognize the role of modern means of communication in Kenya"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.1 Traditional Leaders in Kenya",
+      "Learning Objective": "a) outline the leadership qualities of the selected traditional leaders in Kenya"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.1 Traditional Leaders in Kenya",
+      "Learning Objective": "b) illustrate the contributions of selected traditional leaders in Kenya"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.1 Traditional Leaders in Kenya",
+      "Learning Objective": "c) recognize the role of traditional leaders in the community"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.2 Early forms of Government in Kenya",
+      "Learning Objective": "a) describe early forms of government among selected communities in Kenya"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.2 Early forms of Government in Kenya",
+      "Learning Objective": "b) compare early forms of government of the Maasai and Ameru"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.2 Early forms of Government in Kenya",
+      "Learning Objective": "c) apply best practices from the early forms of government among selected communities in Kenya to modern governance"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.2 Early forms of Government in Kenya",
+      "Learning Objective": "d) appreciate the importance of early forms of governance in Kenya"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.3 Citizenship in Kenya",
+      "Learning Objective": "a) state how one becomes a citizen in Kenya"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.3 Citizenship in Kenya",
+      "Learning Objective": "b) explain the requirements for dual citizenship in Kenya"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.3 Citizenship in Kenya",
+      "Learning Objective": "c) demonstrate good citizenship for personal and social well being"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.3 Citizenship in Kenya",
+      "Learning Objective": "d) appreciate being a good citizen in the community"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.4 National Unity",
+      "Learning Objective": "a) explain the meaning of national unity"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.4 National Unity",
+      "Learning Objective": "b) explore ways of promoting national unity in Kenya"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.4 National Unity",
+      "Learning Objective": "c) recognize the importance of national unity"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Social Studies",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.4 National Unity",
+      "Learning Objective": "d) appreciate the significance of national unity in society"
+    }
+  ]
+}

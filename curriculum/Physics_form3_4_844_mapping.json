@@ -1,0 +1,356 @@
+{
+  "curriculum_name": "Physics form3-4 844",
+  "total_lessons": 50,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "12.2.1 Cells and Simple Circuits",
+      "Learning Objective": "Simple electric circuits: cell; ammeter; voltmeter; variable resistor; connecting wires; bulb and switches"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "12.2.1 Cells and Simple Circuits",
+      "Learning Objective": "Circuit symbols"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "12.2.1 Cells and Simple Circuits",
+      "Learning Objective": "Electric current and its units"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "12.2.1 Cells and Simple Circuits",
+      "Learning Objective": "Primary and secondary cells (simple cell; dry Leclanche' cell; Lead acid cell)"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "12.2.1 Cells and Simple Circuits",
+      "Learning Objective": "Care and maintenance of secondary cells"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "13.2.1 Magnetism",
+      "Learning Objective": "Magnets: properties and uses"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "13.2.1 Magnetism",
+      "Learning Objective": "Magnetic and non-magnetic materials"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "13.2.1 Magnetism",
+      "Learning Objective": "Basic law of magnetism"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "13.2.1 Magnetism",
+      "Learning Objective": "Magnetic field patterns"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "13.2.1 Magnetism",
+      "Learning Objective": "Magnetisation and demagnetisation"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "13.2.1 Magnetism",
+      "Learning Objective": "Domain theory of magnetism"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "13.2.1 Magnetism",
+      "Learning Objective": "Care of magnets"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "13.2.1 Magnetism",
+      "Learning Objective": "Construction of a simple magnetic compass"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "14.2.1 Turning Effect of a Force",
+      "Learning Objective": "Moment of a force; SI unit of moment of a force"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "14.2.1 Turning Effect of a Force",
+      "Learning Objective": "Principle of moments"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "14.2.1 Turning Effect of a Force",
+      "Learning Objective": "Problems on principle of moments (consider single pivot only)"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "15.2.1 Equilibrium and Centre of Gravity",
+      "Learning Objective": "Centre of gravity (Experimental treatment required)"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "15.2.1 Equilibrium and Centre of Gravity",
+      "Learning Objective": "States of equilibrium"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "15.2.1 Equilibrium and Centre of Gravity",
+      "Learning Objective": "Factors affecting stability"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "15.2.1 Equilibrium and Centre of Gravity",
+      "Learning Objective": "Problems on centre of gravity and moments of a force(consider single pivot only)"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "16.2.1 Reflection at Curved Surfaces",
+      "Learning Objective": "Concave; convex and parabolic reflectors"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "16.2.1 Reflection at Curved Surfaces",
+      "Learning Objective": "Principal axis; principal focus; centre of curvature and related terms"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "16.2.1 Reflection at Curved Surfaces",
+      "Learning Objective": "Location of Images formed by curved mirrors by ray diagram method"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "16.2.1 Reflection at Curved Surfaces",
+      "Learning Objective": "Magnification formula"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "16.2.1 Reflection at Curved Surfaces",
+      "Learning Objective": "Applications of curved reflectors"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "17.2.1 Magnetic Effect of Electric Current",
+      "Learning Objective": "Magnetic field due to a current"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "17.2.1 Magnetic Effect of Electric Current",
+      "Learning Objective": "Oersted's experiment"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "17.2.1 Magnetic Effect of Electric Current",
+      "Learning Objective": "Magnetic field patterns on straight conductors and solenoid (right hand grip rule)"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "17.2.1 Magnetic Effect of Electric Current",
+      "Learning Objective": "Simple electromagnets"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "17.2.1 Magnetic Effect of Electric Current",
+      "Learning Objective": "Factors affecting strength of an electromagnet"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "17.2.1 Magnetic Effect of Electric Current",
+      "Learning Objective": "Motor effect (Flemings left hand rule)"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "17.2.1 Magnetic Effect of Electric Current",
+      "Learning Objective": "Factors affecting force on a current carrying conductor in a magnetic field"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "17.2.1 Magnetic Effect of Electric Current",
+      "Learning Objective": "Applications - Electric bell; Simple electric motor"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "18.2.1 Hooke's Law",
+      "Learning Objective": "Hooke's law"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "18.2.1 Hooke's Law",
+      "Learning Objective": "Spring constant"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "18.2.1 Hooke's Law",
+      "Learning Objective": "Spring balance"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "18.2.1 Hooke's Law",
+      "Learning Objective": "Problems on Hooke's Law"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "19.2.1 Waves I",
+      "Learning Objective": "Pulses and waves"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "19.2.1 Waves I",
+      "Learning Objective": "Transverse and longitudinal waves"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "19.2.1 Waves I",
+      "Learning Objective": "Amplitude (a) Wavelength (X) Frequency(f); periodic time (T)"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "19.2.1 Waves I",
+      "Learning Objective": "Relation v = f X"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "19.2.1 Waves I",
+      "Learning Objective": "Problems involving v = f X"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "20.2.1 Waves II",
+      "Learning Objective": "Properties of waves including sound waves; reflection; refraction; diffraction and interference"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "20.2.1 Waves II",
+      "Learning Objective": "Constructive interference and destructive interference (qualitative treatment only)"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "20.2.1 Waves II",
+      "Learning Objective": "Stationary waves (qualitative and experimental treatment required)"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "21.2.1 Sound",
+      "Learning Objective": "Sound: nature and sources (experimental treatment required)"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "21.2.1 Sound",
+      "Learning Objective": "Propagation of sound: compressions and rarefactions"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "21.2.1 Sound",
+      "Learning Objective": "Speed of sound by echo method"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "21.2.1 Sound",
+      "Learning Objective": "Factors affecting speed of sound"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Physics",
+      "Year/Grade": "Form 3-4",
+      "Topic": "21.2.1 Sound",
+      "Learning Objective": "Problems involving speed of sound"
+    }
+  ]
+}

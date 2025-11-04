@@ -1,0 +1,839 @@
+{
+  "curriculum_name": "History year 10-11 igcse",
+  "total_lessons": 119,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1 Were the revolutions of 1848 important?",
+      "Learning Objective": "understand and explain the nature of revolutions in 1848 and the influence of liberalism and nationalism"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1 Were the revolutions of 1848 important?",
+      "Learning Objective": "describe the causes; events and results of revolutions in France; Italy; Germany; and the Austrian Empire"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1 Were the revolutions of 1848 important?",
+      "Learning Objective": "explain the reasons for the failure of the revolutions"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2 How was Italy unified?",
+      "Learning Objective": "describe Austrian influence over Italy and the role of Italian nationalism"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2 How was Italy unified?",
+      "Learning Objective": "explain the events of 1848–49 and the role of Mazzini"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2 How was Italy unified?",
+      "Learning Objective": "describe the agreement of Plombières and the war with Austria in 1859"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2 How was Italy unified?",
+      "Learning Objective": "explain Garibaldi’s invasion of Sicily and Naples"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2 How was Italy unified?",
+      "Learning Objective": "describe the creation of the Kingdom of Italy and the completion of unification by 1870"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3 How was Germany unified?",
+      "Learning Objective": "explain German nationalism and the role of the Zollverein"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3 How was Germany unified?",
+      "Learning Objective": "describe the 1848 revolution in Prussia and the Frankfurt Parliament"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3 How was Germany unified?",
+      "Learning Objective": "explain the re-establishment of Austrian influence in Germany by 1850"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3 How was Germany unified?",
+      "Learning Objective": "describe Bismarck’s role as Prussian Minister–President"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3 How was Germany unified?",
+      "Learning Objective": "explain Bismarck’s foreign policy to 1871; including Schleswig-Holstein; the Austro–Prussian War; relations with France; the Spanish Succession; the Franco–Prussian War; and the creation of the German empire"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4 Why was there a civil war in the United States and what were its results?",
+      "Learning Objective": "describe the differences between North and South and the issue of slavery"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4 Why was there a civil war in the United States and what were its results?",
+      "Learning Objective": "explain the 1860 election and the secession of the Southern states"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4 Why was there a civil war in the United States and what were its results?",
+      "Learning Objective": "describe the reasons for the North’s victory and the South’s defeat"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4 Why was there a civil war in the United States and what were its results?",
+      "Learning Objective": "explain the role of Lincoln and the process of reconstruction"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5 Why; and with what effects; did nations gain and expand their overseas empires in the nineteenth century?",
+      "Learning Objective": "describe the motives behind European and US imperialism; including economic; military; geopolitical; religious and cultural reasons"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5 Why; and with what effects; did nations gain and expand their overseas empires in the nineteenth century?",
+      "Learning Objective": "explain the impacts of French; British and Belgian imperialism in Africa"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5 Why; and with what effects; did nations gain and expand their overseas empires in the nineteenth century?",
+      "Learning Objective": "describe the British rule in India and the events of 1857"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5 Why; and with what effects; did nations gain and expand their overseas empires in the nineteenth century?",
+      "Learning Objective": "explain the Spanish–American War; the Treaty of Paris; and American intervention in Cuba to 1906"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6 What caused the First World War?",
+      "Learning Objective": "describe the Alliance System and the European diplomatic system"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6 What caused the First World War?",
+      "Learning Objective": "explain the arms race and colonial rivalries"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6 What caused the First World War?",
+      "Learning Objective": "describe the developments in the Balkans and the crisis of June–July 1914"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1 Was the Treaty of Versailles fair?",
+      "Learning Objective": "explain the roles of Wilson; Clemenceau and Lloyd George in the peacemaking process"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1 Was the Treaty of Versailles fair?",
+      "Learning Objective": "describe the terms of the Treaty of Versailles"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1 Was the Treaty of Versailles fair?",
+      "Learning Objective": "explain the social; economic and political impact of the Treaty in Germany to the end of 1923"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2 To what extent was the League of Nations a success?",
+      "Learning Objective": "describe the structure; aims and membership of the League of Nations"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2 To what extent was the League of Nations a success?",
+      "Learning Objective": "explain the successes and failures in peacekeeping during the 1920s; including Vilna; Aaland Islands; Corfu and Bulgaria"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2 To what extent was the League of Nations a success?",
+      "Learning Objective": "describe the League’s humanitarian work; including refugees; health; working conditions and slavery"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2 To what extent was the League of Nations a success?",
+      "Learning Objective": "explain the causes; events and consequences of the Manchurian crisis and the Abyssinian crisis"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3 How far was Hitler’s foreign policy to blame for the outbreak of war in Europe in 1939?",
+      "Learning Objective": "describe Hitler’s foreign policy aims and rearmament"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3 How far was Hitler’s foreign policy to blame for the outbreak of war in Europe in 1939?",
+      "Learning Objective": "explain the remilitarisation of the Rhineland and the Rome–Berlin Axis"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3 How far was Hitler’s foreign policy to blame for the outbreak of war in Europe in 1939?",
+      "Learning Objective": "describe German and Italian involvement in the Spanish Civil War"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3 How far was Hitler’s foreign policy to blame for the outbreak of war in Europe in 1939?",
+      "Learning Objective": "explain the Anschluss with Austria and the crisis over Czechoslovakia"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3 How far was Hitler’s foreign policy to blame for the outbreak of war in Europe in 1939?",
+      "Learning Objective": "describe the Polish crisis and the outbreak of war in September 1939"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4 Who was to blame for the Cold War?",
+      "Learning Objective": "explain the breakdown of the US–Soviet alliance in 1945–46"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4 Who was to blame for the Cold War?",
+      "Learning Objective": "describe Soviet expansion into Eastern Europe to 1948 and American reactions to it"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4 Who was to blame for the Cold War?",
+      "Learning Objective": "explain the occupation of Germany and the Berlin Blockade"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4 Who was to blame for the Cold War?",
+      "Learning Objective": "describe the formation of NATO and the Warsaw Pact"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5 How effectively did the United States contain the spread of communism?",
+      "Learning Objective": "explain American reactions to North Korea’s invasion of South Korea and the involvement of the UN"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5 How effectively did the United States contain the spread of communism?",
+      "Learning Objective": "describe the course of the Korean War to 1953"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5 How effectively did the United States contain the spread of communism?",
+      "Learning Objective": "explain American reactions to the Cuban Revolution; including the Missile Crisis and its aftermath"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5 How effectively did the United States contain the spread of communism?",
+      "Learning Objective": "describe American involvement in the Vietnam War; including reasons for involvement; tactics and strategy; and reasons for withdrawal"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6 How secure was the USSR’s control over Eastern Europe; 1948–c.1989?",
+      "Learning Objective": "explain resistance to Soviet power in Hungary (1956) and Czechoslovakia (1968)"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6 How secure was the USSR’s control over Eastern Europe; 1948–c.1989?",
+      "Learning Objective": "describe the building of the Berlin Wall in 1961"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6 How secure was the USSR’s control over Eastern Europe; 1948–c.1989?",
+      "Learning Objective": "explain the significance of Solidarity in Poland for the decline of Soviet influence in Eastern Europe"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6 How secure was the USSR’s control over Eastern Europe; 1948–c.1989?",
+      "Learning Objective": "describe Gorbachev’s role in the collapse of Soviet control over Eastern Europe"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "A The First World War; 1914–18",
+      "Learning Objective": "explain the Schlieffen Plan and its failure"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "A The First World War; 1914–18",
+      "Learning Objective": "describe the battles of Mons; the Marne; and the First Battle of Ypres"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "A The First World War; 1914–18",
+      "Learning Objective": "explain the nature and problems of trench warfare"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "A The First World War; 1914–18",
+      "Learning Objective": "describe the use and impact of developments such as tanks; machine guns; aircraft and gas"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "A The First World War; 1914–18",
+      "Learning Objective": "explain the impact of the battles of Verdun and the Somme"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "A The First World War; 1914–18",
+      "Learning Objective": "describe the role and experiences of British Empire troops on the Western Front; including Indian and Canadian troops"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "A The First World War; 1914–18",
+      "Learning Objective": "explain the war in Africa; including German East Africa and South West Africa"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "A The First World War; 1914–18",
+      "Learning Objective": "describe the contribution of Japan in Asia; including the siege of Tsingtao and naval assistance"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "A The First World War; 1914–18",
+      "Learning Objective": "explain the Arab Revolt and its significance"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "A The First World War; 1914–18",
+      "Learning Objective": "describe the war at sea; including the Battle of Jutland and the U-boat campaign"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "A The First World War; 1914–18",
+      "Learning Objective": "explain the reasons for; and results of; the Gallipoli campaign"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "A The First World War; 1914–18",
+      "Learning Objective": "describe events on the Eastern Front and the defeat of Russia"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "A The First World War; 1914–18",
+      "Learning Objective": "explain the impact of war on civilian populations"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "A The First World War; 1914–18",
+      "Learning Objective": "describe the German offensive of 1918 and the Allied advance"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "A The First World War; 1914–18",
+      "Learning Objective": "explain the Kiel Mutiny; the German Revolution; and the abdication of the Kaiser"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "A The First World War; 1914–18",
+      "Learning Objective": "describe the Armistice and its significance"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "B Germany; 1918–45",
+      "Learning Objective": "explain the Revolution of 1918 and the establishment of the Weimar Republic"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "B Germany; 1918–45",
+      "Learning Objective": "describe the Versailles Settlement and German reactions to it"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "B Germany; 1918–45",
+      "Learning Objective": "explain the Weimar Constitution; the main political divisions; and the role of the army"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "B Germany; 1918–45",
+      "Learning Objective": "describe the political disorder of 1919–23; including threats from the left and right; economic crises; hyper-inflation; and the occupation of the Ruhr"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "B Germany; 1918–45",
+      "Learning Objective": "explain the Stresemann era; including economic and foreign policy achievements"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "B Germany; 1918–45",
+      "Learning Objective": "describe the cultural achievements of the Weimar period"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "B Germany; 1918–45",
+      "Learning Objective": "explain the early years of the Nazi Party; including Nazi ideas and methods; the Munich Putsch; and the roles of Hitler and other Nazi leaders"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "B Germany; 1918–45",
+      "Learning Objective": "describe the impact of the Depression on Germany; including the political; economic and social crisis of 1930–33"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "B Germany; 1918–45",
+      "Learning Objective": "explain the reasons for the Nazis’ rise to power and Hitler’s appointment as Chancellor"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "B Germany; 1918–45",
+      "Learning Objective": "describe the Reichstag Fire; the election of 1933; and the Enabling Act"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "B Germany; 1918–45",
+      "Learning Objective": "explain the Night of the Long Knives; the death of Hindenburg; and the removal of opposition"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "B Germany; 1918–45",
+      "Learning Objective": "describe the methods of control and repression used by the Nazis; including the use of culture and the mass media"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "B Germany; 1918–45",
+      "Learning Objective": "explain Nazi economic policy; including rearmament"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "B Germany; 1918–45",
+      "Learning Objective": "describe the different experiences of Nazi rule; including women; young people; anti-Semitism; persecution of minorities; and opposition to Nazi rule"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "B Germany; 1918–45",
+      "Learning Objective": "explain the impact of the Second World War on Germany; including the conversion to a war economy and the Final Solution"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "C Russia; 1905–41",
+      "Learning Objective": "describe the main features of Tsarist rule and Russian society before the First World War"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "C Russia; 1905–41",
+      "Learning Objective": "explain the 1905 Revolution and its aftermath; including attempts at reform"
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "C Russia; 1905–41",
+      "Learning Objective": "describe the impact of the First World War on the Russian people"
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "C Russia; 1905–41",
+      "Learning Objective": "explain the March Revolution of 1917 and the establishment of the Provisional Government"
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "C Russia; 1905–41",
+      "Learning Objective": "describe the growing power of revolutionary groups and the Soviets"
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "C Russia; 1905–41",
+      "Learning Objective": "explain the reasons for the failure of the Provisional Government"
+    },
+    {
+      "Lesson Number": "86",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "C Russia; 1905–41",
+      "Learning Objective": "describe the Bolshevik seizure of power and the role of Lenin"
+    },
+    {
+      "Lesson Number": "87",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "C Russia; 1905–41",
+      "Learning Objective": "explain the main features of Bolshevik rule; the Civil War; War Communism; and reasons for the Bolshevik victory"
+    },
+    {
+      "Lesson Number": "88",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "C Russia; 1905–41",
+      "Learning Objective": "describe the Kronstadt Rising and the establishment of the New Economic Policy"
+    },
+    {
+      "Lesson Number": "89",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "C Russia; 1905–41",
+      "Learning Objective": "explain Lenin’s death and the struggle for power"
+    },
+    {
+      "Lesson Number": "90",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "C Russia; 1905–41",
+      "Learning Objective": "describe the reasons for Stalin’s emergence as leader by 1928"
+    },
+    {
+      "Lesson Number": "91",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "C Russia; 1905–41",
+      "Learning Objective": "explain Stalin’s dictatorship; including the use of terror; the Purges; propaganda and official culture"
+    },
+    {
+      "Lesson Number": "92",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "C Russia; 1905–41",
+      "Learning Objective": "describe Stalin’s economic policies; including the modernisation of Soviet industry; the Five-Year Plans; and collectivisation in agriculture"
+    },
+    {
+      "Lesson Number": "93",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "C Russia; 1905–41",
+      "Learning Objective": "explain life in the Soviet Union; including the differing experiences of social groups; ethnic minorities and women"
+    },
+    {
+      "Lesson Number": "94",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "D The United States; 1919–41",
+      "Learning Objective": "describe the expansion of the US economy during the 1920s; including government policies; mass production; and the development of credit and hire purchase"
+    },
+    {
+      "Lesson Number": "95",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "D The United States; 1919–41",
+      "Learning Objective": "explain the fortunes of older industries and the decline of agriculture"
+    },
+    {
+      "Lesson Number": "96",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "D The United States; 1919–41",
+      "Learning Objective": "describe society in the 1920s; including the ‘Roaring Twenties’; film and other media; Prohibition and gangsterism"
+    },
+    {
+      "Lesson Number": "97",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "D The United States; 1919–41",
+      "Learning Objective": "explain restrictions on immigration; the ‘Red Scare’; religious intolerance; discrimination against Black Americans; the Ku Klux Klan; and the changing roles of women"
+    },
+    {
+      "Lesson Number": "98",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "D The United States; 1919–41",
+      "Learning Objective": "describe the Wall Street Crash and its financial; economic and social effects"
+    },
+    {
+      "Lesson Number": "99",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "D The United States; 1919–41",
+      "Learning Objective": "explain the reaction of President Hoover to the Crash"
+    },
+    {
+      "Lesson Number": "100",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "D The United States; 1919–41",
+      "Learning Objective": "describe the presidential election of 1932 and Hoover’s and Roosevelt’s programmes"
+    },
+    {
+      "Lesson Number": "101",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "D The United States; 1919–41",
+      "Learning Objective": "explain Roosevelt’s inauguration and the ‘Hundred Days’"
+    },
+    {
+      "Lesson Number": "102",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "D The United States; 1919–41",
+      "Learning Objective": "describe the New Deal legislation; the ‘alphabet agencies’ and their work; and the economic and social changes they caused"
+    },
+    {
+      "Lesson Number": "103",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "D The United States; 1919–41",
+      "Learning Objective": "explain opposition to the New Deal; including the Republicans; the rich; business interests; the Supreme Court; and radical critics like Huey Long"
+    },
+    {
+      "Lesson Number": "104",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "D The United States; 1919–41",
+      "Learning Objective": "describe the strengths and weaknesses of the New Deal programme in dealing with unemployment and the Depression"
+    },
+    {
+      "Lesson Number": "105",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "E The Second World War in Europe and the Asia–Pacific; 1939–c.1945",
+      "Learning Objective": "describe the extent of German conquest of Europe in 1940; including the invasion and surrender of France; the Vichy government; Dunkirk; and Operation Sea Lion"
+    },
+    {
+      "Lesson Number": "106",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "E The Second World War in Europe and the Asia–Pacific; 1939–c.1945",
+      "Learning Objective": "explain the Battle of Britain and its consequences"
+    },
+    {
+      "Lesson Number": "107",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "E The Second World War in Europe and the Asia–Pacific; 1939–c.1945",
+      "Learning Objective": "describe Operation Barbarossa and initial Nazi successes"
+    },
+    {
+      "Lesson Number": "108",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "E The Second World War in Europe and the Asia–Pacific; 1939–c.1945",
+      "Learning Objective": "explain German defeat at Stalingrad and its impact"
+    },
+    {
+      "Lesson Number": "109",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "E The Second World War in Europe and the Asia–Pacific; 1939–c.1945",
+      "Learning Objective": "describe the reasons for the Japanese attack on Pearl Harbor and its consequences"
+    },
+    {
+      "Lesson Number": "110",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "E The Second World War in Europe and the Asia–Pacific; 1939–c.1945",
+      "Learning Objective": "explain the reasons for initial Japanese military successes in Southeast Asia by early 1942; including Malaya and Singapore"
+    },
+    {
+      "Lesson Number": "111",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "E The Second World War in Europe and the Asia–Pacific; 1939–c.1945",
+      "Learning Objective": "describe the Battle of Midway and its impact"
+    },
+    {
+      "Lesson Number": "112",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "E The Second World War in Europe and the Asia–Pacific; 1939–c.1945",
+      "Learning Objective": "explain the impact of bombing on peoples’ lives and morale in Europe; including the Blitz and Allied bombing of German cities"
+    },
+    {
+      "Lesson Number": "113",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "E The Second World War in Europe and the Asia–Pacific; 1939–c.1945",
+      "Learning Objective": "describe the impact of Japanese control on people’s lives; including Malaya and Singapore"
+    },
+    {
+      "Lesson Number": "114",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "E The Second World War in Europe and the Asia–Pacific; 1939–c.1945",
+      "Learning Objective": "explain the impact of Nazi control in occupied Europe; including Poland; the Holocaust and its impact"
+    },
+    {
+      "Lesson Number": "115",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "E The Second World War in Europe and the Asia–Pacific; 1939–c.1945",
+      "Learning Objective": "describe the methods and effectiveness of resistance movements in Malaya and France"
+    },
+    {
+      "Lesson Number": "116",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "E The Second World War in Europe and the Asia–Pacific; 1939–c.1945",
+      "Learning Objective": "explain the Allied invasion of Sicily and victory over German forces in Italy"
+    },
+    {
+      "Lesson Number": "117",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "E The Second World War in Europe and the Asia–Pacific; 1939–c.1945",
+      "Learning Objective": "describe the collapse and surrender of Nazi Germany in 1945; including the D-Day landings; the advance to Germany; and the Russian advance from the East"
+    },
+    {
+      "Lesson Number": "118",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "E The Second World War in Europe and the Asia–Pacific; 1939–c.1945",
+      "Learning Objective": "explain the reasons for the defeat of Japan; including the battles of Guadalcanal and Okinawa; the US strategy of island-hopping; the bombing of Japan; and the decision to use the atomic bomb"
+    },
+    {
+      "Lesson Number": "119",
+      "Subject": "History",
+      "Year/Grade": "Years 10-11",
+      "Topic": "E The Second World War in Europe and the Asia–Pacific; 1939–c.1945",
+      "Learning Objective": "describe the consolidation of victory; including the Allied occupations and control of Germany and Japan; and the war crimes trials in Nuremberg and Tokyo"
+    }
+  ]
+}

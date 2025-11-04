@@ -1,0 +1,1238 @@
+{
+  "curriculum_name": "BUSINESSES STUDIES YEAR 10-11 CAMBRIDGE",
+  "total_lessons": 176,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Business activity",
+      "Learning Objective": "understand and explain the difference between needs; wants; scarcity and opportunity cost"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Business activity",
+      "Learning Objective": "explain the importance of specialisation"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Business activity",
+      "Learning Objective": "describe the purpose of business activity"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 Business activity",
+      "Learning Objective": "explain the concept of adding value and how added value can be increased"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Classification of businesses",
+      "Learning Objective": "classify businesses into primary; secondary and tertiary sectors using examples"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Classification of businesses",
+      "Learning Objective": "explain reasons for the changing importance of business classification in developed and developing economies"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 Classification of businesses",
+      "Learning Objective": "classify business enterprises between private sector and public sector in a mixed economy"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Enterprise; business growth and size",
+      "Learning Objective": "describe the characteristics of successful entrepreneurs"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Enterprise; business growth and size",
+      "Learning Objective": "explain the contents of a business plan and how business plans assist entrepreneurs"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Enterprise; business growth and size",
+      "Learning Objective": "explain why and how governments support business start-ups; e.g. grants; training schemes"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Enterprise; business growth and size",
+      "Learning Objective": "describe methods of measuring business size; e.g. number of people employed; value of output; capital employed"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Enterprise; business growth and size",
+      "Learning Objective": "explain the limitations of methods of measuring business size"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Enterprise; business growth and size",
+      "Learning Objective": "explain why the owners of a business may want to expand the business"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Enterprise; business growth and size",
+      "Learning Objective": "describe different ways in which businesses can grow; e.g. internal/external"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Enterprise; business growth and size",
+      "Learning Objective": "explain problems linked to business growth and how these might be overcome"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Enterprise; business growth and size",
+      "Learning Objective": "explain why some businesses remain small"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Enterprise; business growth and size",
+      "Learning Objective": "explain causes of business failure; e.g. lack of management skills; changes in the business environment; liquidity problems"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Enterprise; business growth and size",
+      "Learning Objective": "explain why new businesses are at a greater risk of failing"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.4 Types of business organisation",
+      "Learning Objective": "describe the main features of sole traders; partnerships; private and public limited companies; franchises and joint ventures"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.4 Types of business organisation",
+      "Learning Objective": "explain the differences between unincorporated businesses and limited companies"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.4 Types of business organisation",
+      "Learning Objective": "explain the concepts of risk; ownership and limited liability"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.4 Types of business organisation",
+      "Learning Objective": "recommend and justify a suitable form of business organisation to owners/management in a given situation"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.4 Types of business organisation",
+      "Learning Objective": "describe business organisations in the public sector; e.g. public corporations"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.5 Business objectives and stakeholder objectives",
+      "Learning Objective": "explain the need for business objectives and the importance of them"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.5 Business objectives and stakeholder objectives",
+      "Learning Objective": "describe different business objectives; e.g. survival; growth; profit and market share"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.5 Business objectives and stakeholder objectives",
+      "Learning Objective": "explain the objectives of social enterprises"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.5 Business objectives and stakeholder objectives",
+      "Learning Objective": "identify the main internal and external stakeholder groups"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.5 Business objectives and stakeholder objectives",
+      "Learning Objective": "explain the objectives of different stakeholder groups"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.5 Business objectives and stakeholder objectives",
+      "Learning Objective": "explain how these objectives might conflict with each other; using examples"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.5 Business objectives and stakeholder objectives",
+      "Learning Objective": "explain differences in the objectives of private sector and public sector enterprises"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Motivating employees",
+      "Learning Objective": "explain why people work and what motivation means"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Motivating employees",
+      "Learning Objective": "describe the benefits of a well-motivated workforce: labour productivity; reduced absenteeism and labour turnover"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Motivating employees",
+      "Learning Objective": "explain the concept of human needs; e.g. Maslow’s hierarchy"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Motivating employees",
+      "Learning Objective": "explain key motivational theories: Taylor and Herzberg"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Motivating employees",
+      "Learning Objective": "describe financial rewards; e.g. wage; salary; bonus; commission and profit sharing"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Motivating employees",
+      "Learning Objective": "describe non-financial methods; e.g. job enrichment; job rotation; teamworking; training; opportunities for promotion"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Motivating employees",
+      "Learning Objective": "recommend and justify appropriate method(s) of motivation in given circumstances"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Organisation and management",
+      "Learning Objective": "interpret and understand simple hierarchical structures: levels of hierarchy; span of control; chain of command e.g. tall/short"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Organisation and management",
+      "Learning Objective": "explain the roles and responsibilities of directors; managers; supervisors; other employees in an organisation and inter-relationships between them"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Organisation and management",
+      "Learning Objective": "explain the functions of management; e.g. planning; organising; coordinating; commanding and controlling"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Organisation and management",
+      "Learning Objective": "explain the importance of delegation; trust versus control"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Organisation and management",
+      "Learning Objective": "describe the features of the main leadership styles; e.g. autocratic; democratic and laissez-faire"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Organisation and management",
+      "Learning Objective": "recommend and justify an appropriate leadership style in given circumstances"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Organisation and management",
+      "Learning Objective": "explain what a trade union is and the effects of employees being union members"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Recruitment; selection and training of employees",
+      "Learning Objective": "describe recruitment and selection methods"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Recruitment; selection and training of employees",
+      "Learning Objective": "explain the difference between internal recruitment and external recruitment"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Recruitment; selection and training of employees",
+      "Learning Objective": "describe the main stages in recruitment and selection of employees"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Recruitment; selection and training of employees",
+      "Learning Objective": "recommend and justify who to employ in given circumstances"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Recruitment; selection and training of employees",
+      "Learning Objective": "explain the benefits and limitations of part-time employees and full-time employees"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Recruitment; selection and training of employees",
+      "Learning Objective": "explain the importance of training to a business and to employees"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Recruitment; selection and training of employees",
+      "Learning Objective": "explain the benefits and limitations of induction training; on-the-job training and off-the-job training"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Recruitment; selection and training of employees",
+      "Learning Objective": "explain the difference between dismissal and redundancy with examples"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Recruitment; selection and training of employees",
+      "Learning Objective": "understand situations in which downsizing the workforce might be necessary; e.g. automation or reduced demand for products"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Recruitment; selection and training of employees",
+      "Learning Objective": "recommend and justify which employees to make redundant in given circumstances"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Recruitment; selection and training of employees",
+      "Learning Objective": "explain legal controls over employment contracts; unfair dismissal; discrimination; health and safety; legal minimum wage"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Internal and external communication",
+      "Learning Objective": "explain effective communication and its importance to business"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Internal and external communication",
+      "Learning Objective": "describe the benefits and limitations of different communication methods including those based on information technology (IT)"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Internal and external communication",
+      "Learning Objective": "recommend and justify which communication method to use in given circumstances"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Internal and external communication",
+      "Learning Objective": "explain how communication barriers arise and problems of ineffective communication; how communication barriers can be reduced or removed"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Marketing; competition and the customer",
+      "Learning Objective": "explain how to identify customer needs"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Marketing; competition and the customer",
+      "Learning Objective": "explain how to satisfy customer needs"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Marketing; competition and the customer",
+      "Learning Objective": "explain how to maintain customer loyalty"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Marketing; competition and the customer",
+      "Learning Objective": "explain how to build customer relationships"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Marketing; competition and the customer",
+      "Learning Objective": "explain why customer/consumer spending patterns may change"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Marketing; competition and the customer",
+      "Learning Objective": "explain the importance of changing customer needs"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Marketing; competition and the customer",
+      "Learning Objective": "explain why some markets have become more competitive"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Marketing; competition and the customer",
+      "Learning Objective": "explain how businesses can respond to changing spending patterns and increased competition"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Marketing; competition and the customer",
+      "Learning Objective": "explain the benefits and limitations of niche marketing and mass marketing"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Marketing; competition and the customer",
+      "Learning Objective": "explain how markets can be segmented; e.g. according to age; socio-economic grouping; location; gender"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Marketing; competition and the customer",
+      "Learning Objective": "explain the potential benefits of segmentation to business"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Marketing; competition and the customer",
+      "Learning Objective": "recommend and justify an appropriate method of segmentation in given circumstances"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.2 Market research",
+      "Learning Objective": "explain market-orientated businesses (uses of market research information to a business)"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.2 Market research",
+      "Learning Objective": "explain primary research and secondary research (benefits and limitations of each)"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.2 Market research",
+      "Learning Objective": "describe methods of primary research; e.g. postal questionnaire; online survey; interviews; focus groups"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.2 Market research",
+      "Learning Objective": "explain the need for sampling"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.2 Market research",
+      "Learning Objective": "describe methods of secondary research; e.g. online; accessing government sources; paying for commercial market research reports"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.2 Market research",
+      "Learning Objective": "explain factors influencing the accuracy of market research data"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.2 Market research",
+      "Learning Objective": "analyse market research data shown in the form of graphs; charts and diagrams; draw simple conclusions from such data"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Marketing mix",
+      "Learning Objective": "explain the limitations and benefits of developing new products"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Marketing mix",
+      "Learning Objective": "explain brand image; impact on sales and customer loyalty"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Marketing mix",
+      "Learning Objective": "explain the role of packaging"
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Marketing mix",
+      "Learning Objective": "describe the product life cycle: main stages and extension strategies; draw and interpret a product life cycle diagram"
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Marketing mix",
+      "Learning Objective": "explain how stages of the product life cycle can influence marketing decisions; e.g. promotion and pricing decisions"
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Marketing mix",
+      "Learning Objective": "describe pricing methods (benefits and limitations of different methods); e.g. cost plus; competitive; penetration; skimming; and promotional"
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Marketing mix",
+      "Learning Objective": "recommend and justify an appropriate pricing method in given circumstances"
+    },
+    {
+      "Lesson Number": "86",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Marketing mix",
+      "Learning Objective": "understand the significance of price elasticity: difference between price elastic demand and price inelastic demand; importance of the concept in pricing decisions"
+    },
+    {
+      "Lesson Number": "87",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Marketing mix",
+      "Learning Objective": "explain the advantages and disadvantages of different distribution channels; e.g. use of wholesalers; retailers or direct to consumers"
+    },
+    {
+      "Lesson Number": "88",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Marketing mix",
+      "Learning Objective": "recommend and justify an appropriate distribution channel in given circumstances"
+    },
+    {
+      "Lesson Number": "89",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Marketing mix",
+      "Learning Objective": "explain the aims of promotion"
+    },
+    {
+      "Lesson Number": "90",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Marketing mix",
+      "Learning Objective": "describe different forms of promotion and how they influence sales; e.g. advertising; sales promotion"
+    },
+    {
+      "Lesson Number": "91",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Marketing mix",
+      "Learning Objective": "explain the need for cost-effectiveness in spending the marketing budget on promotion"
+    },
+    {
+      "Lesson Number": "92",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Marketing mix",
+      "Learning Objective": "define and explain the concept of e-commerce"
+    },
+    {
+      "Lesson Number": "93",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Marketing mix",
+      "Learning Objective": "explain the opportunities and threats of e-commerce to business and consumers"
+    },
+    {
+      "Lesson Number": "94",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Marketing mix",
+      "Learning Objective": "explain the use of the internet and social media networks for promotion"
+    },
+    {
+      "Lesson Number": "95",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Marketing strategy",
+      "Learning Objective": "explain the importance of different elements of the marketing mix in influencing consumer decisions in given circumstances"
+    },
+    {
+      "Lesson Number": "96",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Marketing strategy",
+      "Learning Objective": "recommend and justify an appropriate marketing strategy in given circumstances"
+    },
+    {
+      "Lesson Number": "97",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Marketing strategy",
+      "Learning Objective": "explain the impact of legal controls on marketing strategy; e.g. misleading promotion; faulty and dangerous goods"
+    },
+    {
+      "Lesson Number": "98",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Marketing strategy",
+      "Learning Objective": "explain the growth potential of new markets in other countries"
+    },
+    {
+      "Lesson Number": "99",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Marketing strategy",
+      "Learning Objective": "explain the problems of entering foreign markets; e.g. cultural differences and lack of knowledge"
+    },
+    {
+      "Lesson Number": "100",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Marketing strategy",
+      "Learning Objective": "explain the benefits and limitations of methods to overcome such problems; e.g. joint ventures; licensing"
+    },
+    {
+      "Lesson Number": "101",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 Production of goods and services",
+      "Learning Objective": "explain how to manage resources effectively to produce goods and services"
+    },
+    {
+      "Lesson Number": "102",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 Production of goods and services",
+      "Learning Objective": "explain the difference between production and productivity"
+    },
+    {
+      "Lesson Number": "103",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 Production of goods and services",
+      "Learning Objective": "explain the benefits of increasing efficiency and how to increase it; e.g. increasing productivity by automation and technology; improved labour skills"
+    },
+    {
+      "Lesson Number": "104",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 Production of goods and services",
+      "Learning Objective": "explain why businesses hold inventories"
+    },
+    {
+      "Lesson Number": "105",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 Production of goods and services",
+      "Learning Objective": "explain the concept of lean production: how to achieve it; e.g. just-in-time inventory control and Kaizen; benefits of lean production"
+    },
+    {
+      "Lesson Number": "106",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 Production of goods and services",
+      "Learning Objective": "describe the features; benefits and limitations of job; batch and flow production"
+    },
+    {
+      "Lesson Number": "107",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 Production of goods and services",
+      "Learning Objective": "recommend and justify an appropriate production method for a given situation"
+    },
+    {
+      "Lesson Number": "108",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 Production of goods and services",
+      "Learning Objective": "explain how technology has changed and is changing production methods; e.g. using computers in design and manufacturing"
+    },
+    {
+      "Lesson Number": "109",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 Costs; scale of production and break-even analysis",
+      "Learning Objective": "classify costs using examples; e.g. fixed; variable; average; total"
+    },
+    {
+      "Lesson Number": "110",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 Costs; scale of production and break-even analysis",
+      "Learning Objective": "use cost data to help make simple cost-based decisions; e.g. to stop production or continue"
+    },
+    {
+      "Lesson Number": "111",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 Costs; scale of production and break-even analysis",
+      "Learning Objective": "explain the concept of economies of scale with examples; e.g. purchasing; marketing; financial; managerial; technical"
+    },
+    {
+      "Lesson Number": "112",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 Costs; scale of production and break-even analysis",
+      "Learning Objective": "explain the concept of diseconomies of scale with examples; e.g. poor communication; lack of commitment from employees; weak coordination"
+    },
+    {
+      "Lesson Number": "113",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 Costs; scale of production and break-even analysis",
+      "Learning Objective": "explain the concept of break-even"
+    },
+    {
+      "Lesson Number": "114",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 Costs; scale of production and break-even analysis",
+      "Learning Objective": "construct; complete or amend a simple break-even chart"
+    },
+    {
+      "Lesson Number": "115",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 Costs; scale of production and break-even analysis",
+      "Learning Objective": "interpret a given chart and use it to analyse a situation"
+    },
+    {
+      "Lesson Number": "116",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 Costs; scale of production and break-even analysis",
+      "Learning Objective": "calculate break-even output from given data"
+    },
+    {
+      "Lesson Number": "117",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 Costs; scale of production and break-even analysis",
+      "Learning Objective": "define; calculate and interpret the margin of safety"
+    },
+    {
+      "Lesson Number": "118",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 Costs; scale of production and break-even analysis",
+      "Learning Objective": "use break-even analysis to help make simple decisions; e.g. impact of higher price"
+    },
+    {
+      "Lesson Number": "119",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 Costs; scale of production and break-even analysis",
+      "Learning Objective": "understand the limitations of break-even analysis"
+    },
+    {
+      "Lesson Number": "120",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.3 Achieving quality production",
+      "Learning Objective": "explain what quality means and why it is important for all businesses"
+    },
+    {
+      "Lesson Number": "121",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.3 Achieving quality production",
+      "Learning Objective": "explain the concept of quality control and how businesses implement quality control"
+    },
+    {
+      "Lesson Number": "122",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.3 Achieving quality production",
+      "Learning Objective": "explain the concept of quality assurance and how this can be implemented"
+    },
+    {
+      "Lesson Number": "123",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.4 Location decisions",
+      "Learning Objective": "explain factors relevant to the location decision of manufacturing businesses and service businesses"
+    },
+    {
+      "Lesson Number": "124",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.4 Location decisions",
+      "Learning Objective": "explain factors that a business could consider when deciding which country to locate operations in"
+    },
+    {
+      "Lesson Number": "125",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.4 Location decisions",
+      "Learning Objective": "explain the role of legal controls on location decisions"
+    },
+    {
+      "Lesson Number": "126",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.4 Location decisions",
+      "Learning Objective": "recommend and justify an appropriate location for a business in given circumstances"
+    },
+    {
+      "Lesson Number": "127",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 Business finance: needs and sources",
+      "Learning Objective": "explain the main reasons why businesses need finance; e.g. start-up capital; capital for expansion and additional working capital"
+    },
+    {
+      "Lesson Number": "128",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 Business finance: needs and sources",
+      "Learning Objective": "understand the difference between short-term and long-term finance needs"
+    },
+    {
+      "Lesson Number": "129",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 Business finance: needs and sources",
+      "Learning Objective": "describe internal sources and external sources with examples"
+    },
+    {
+      "Lesson Number": "130",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 Business finance: needs and sources",
+      "Learning Objective": "describe short-term and long-term sources with examples; e.g. overdraft for short-term finance and debt or equity for long-term finance"
+    },
+    {
+      "Lesson Number": "131",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 Business finance: needs and sources",
+      "Learning Objective": "explain the importance of alternative sources of capital; e.g. micro-finance; crowd-funding"
+    },
+    {
+      "Lesson Number": "132",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 Business finance: needs and sources",
+      "Learning Objective": "explain the main factors considered in making the financial choice; e.g. size and legal form of business; amount required; length of time; existing loans"
+    },
+    {
+      "Lesson Number": "133",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 Business finance: needs and sources",
+      "Learning Objective": "recommend and justify appropriate source(s) of finance in given circumstances"
+    },
+    {
+      "Lesson Number": "134",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.2 Cash-flow forecasting and working capital",
+      "Learning Objective": "explain why cash is important to a business"
+    },
+    {
+      "Lesson Number": "135",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.2 Cash-flow forecasting and working capital",
+      "Learning Objective": "explain what a cash-flow forecast is; how a simple one is constructed and the importance of it"
+    },
+    {
+      "Lesson Number": "136",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.2 Cash-flow forecasting and working capital",
+      "Learning Objective": "amend or complete a simple cash-flow forecast"
+    },
+    {
+      "Lesson Number": "137",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.2 Cash-flow forecasting and working capital",
+      "Learning Objective": "explain how to interpret a simple cash-flow forecast"
+    },
+    {
+      "Lesson Number": "138",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.2 Cash-flow forecasting and working capital",
+      "Learning Objective": "explain how a short-term cash-flow problem might be overcome; e.g. overdraft; delaying supplier payments; asking debtors to pay more quickly"
+    },
+    {
+      "Lesson Number": "139",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.2 Cash-flow forecasting and working capital",
+      "Learning Objective": "explain the concept and importance of working capital"
+    },
+    {
+      "Lesson Number": "140",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.3 Income statements",
+      "Learning Objective": "explain how a profit is made"
+    },
+    {
+      "Lesson Number": "141",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.3 Income statements",
+      "Learning Objective": "explain the importance of profit to private sector businesses; e.g. reward for risk-taking/enterprise; source of finance"
+    },
+    {
+      "Lesson Number": "142",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.3 Income statements",
+      "Learning Objective": "explain the difference between profit and cash"
+    },
+    {
+      "Lesson Number": "143",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.3 Income statements",
+      "Learning Objective": "describe the main features of an income statement; e.g. revenue; cost of sales; gross profit; profit and retained profit"
+    },
+    {
+      "Lesson Number": "144",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.3 Income statements",
+      "Learning Objective": "use simple income statements in decision-making based on profit calculations"
+    },
+    {
+      "Lesson Number": "145",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.4 Statement of financial position",
+      "Learning Objective": "describe the main classifications of assets and liabilities; using examples"
+    },
+    {
+      "Lesson Number": "146",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.4 Statement of financial position",
+      "Learning Objective": "interpret a simple statement of financial position and make deductions from it; e.g. how a business is financing its activities and what assets it owns; sale of inventories to raise finance"
+    },
+    {
+      "Lesson Number": "147",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.5 Analysis of accounts",
+      "Learning Objective": "explain the concept and importance of profitability"
+    },
+    {
+      "Lesson Number": "148",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.5 Analysis of accounts",
+      "Learning Objective": "explain the concept and importance of liquidity"
+    },
+    {
+      "Lesson Number": "149",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.5 Analysis of accounts",
+      "Learning Objective": "calculate and analyse gross profit margin"
+    },
+    {
+      "Lesson Number": "150",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.5 Analysis of accounts",
+      "Learning Objective": "calculate and analyse profit margin"
+    },
+    {
+      "Lesson Number": "151",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.5 Analysis of accounts",
+      "Learning Objective": "calculate and analyse Return on Capital Employed"
+    },
+    {
+      "Lesson Number": "152",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.5 Analysis of accounts",
+      "Learning Objective": "calculate and analyse current ratio"
+    },
+    {
+      "Lesson Number": "153",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.5 Analysis of accounts",
+      "Learning Objective": "calculate and analyse acid test ratio"
+    },
+    {
+      "Lesson Number": "154",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.5 Analysis of accounts",
+      "Learning Objective": "explain the needs of different users of accounts and ratio analysis"
+    },
+    {
+      "Lesson Number": "155",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.5 Analysis of accounts",
+      "Learning Objective": "explain how users of accounts and ratio results might use information to help make decisions; e.g. whether to lend to or invest in the business"
+    },
+    {
+      "Lesson Number": "156",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.1 Economic issues",
+      "Learning Objective": "describe the main stages of the business cycle; e.g. growth; boom; recession; slump"
+    },
+    {
+      "Lesson Number": "157",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.1 Economic issues",
+      "Learning Objective": "explain the impact on businesses of changes in employment levels; inflation and Gross Domestic Product (GDP)"
+    },
+    {
+      "Lesson Number": "158",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.1 Economic issues",
+      "Learning Objective": "identify government economic objectives; e.g. increasing Gross Domestic Product (GDP)"
+    },
+    {
+      "Lesson Number": "159",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.1 Economic issues",
+      "Learning Objective": "explain the impact of changes in taxes and government spending"
+    },
+    {
+      "Lesson Number": "160",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.1 Economic issues",
+      "Learning Objective": "explain the impact of changes in interest rates"
+    },
+    {
+      "Lesson Number": "161",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.1 Economic issues",
+      "Learning Objective": "explain how businesses might respond to these changes"
+    },
+    {
+      "Lesson Number": "162",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 Environmental and ethical issues",
+      "Learning Objective": "explain how business activity can impact on the environment; e.g. global warming"
+    },
+    {
+      "Lesson Number": "163",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 Environmental and ethical issues",
+      "Learning Objective": "explain the concept of externalities: possible external costs and external benefits of business decisions"
+    },
+    {
+      "Lesson Number": "164",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 Environmental and ethical issues",
+      "Learning Objective": "explain sustainable development; how business activity can contribute to this"
+    },
+    {
+      "Lesson Number": "165",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 Environmental and ethical issues",
+      "Learning Objective": "explain how and why business might respond to environmental pressures and opportunities; e.g. pressure groups"
+    },
+    {
+      "Lesson Number": "166",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 Environmental and ethical issues",
+      "Learning Objective": "explain the role of legal controls over business activity affecting the environment; e.g. pollution controls"
+    },
+    {
+      "Lesson Number": "167",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 Environmental and ethical issues",
+      "Learning Objective": "explain ethical issues a business might face: conflicts between profits and ethics"
+    },
+    {
+      "Lesson Number": "168",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 Environmental and ethical issues",
+      "Learning Objective": "explain how business might react and respond to ethical issues; e.g. child labour; paying fair prices to suppliers"
+    },
+    {
+      "Lesson Number": "169",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 Business and the international economy",
+      "Learning Objective": "explain the concept of globalisation and the reasons for it"
+    },
+    {
+      "Lesson Number": "170",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 Business and the international economy",
+      "Learning Objective": "explain the opportunities and threats of globalisation for businesses"
+    },
+    {
+      "Lesson Number": "171",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 Business and the international economy",
+      "Learning Objective": "explain why governments might introduce import tariffs and import quotas"
+    },
+    {
+      "Lesson Number": "172",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 Business and the international economy",
+      "Learning Objective": "explain the benefits to a business of becoming a multinational and the impact on its stakeholders"
+    },
+    {
+      "Lesson Number": "173",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 Business and the international economy",
+      "Learning Objective": "explain the potential benefits to a country and/or economy where a MNC is located; e.g. jobs; exports; increased choice; investment"
+    },
+    {
+      "Lesson Number": "174",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 Business and the international economy",
+      "Learning Objective": "explain the potential drawbacks to a country and/or economy where a MNC is located; e.g. reduced sales of local businesses; repatriation of profits"
+    },
+    {
+      "Lesson Number": "175",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 Business and the international economy",
+      "Learning Objective": "explain depreciation and appreciation of an exchange rate"
+    },
+    {
+      "Lesson Number": "176",
+      "Subject": "Business Studies",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 Business and the international economy",
+      "Learning Objective": "explain how exchange rate changes can affect businesses as importers and exporters of products; e.g. prices; competitiveness; profitability"
+    }
+  ]
+}

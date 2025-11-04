@@ -1,0 +1,1217 @@
+{
+  "curriculum_name": "Economics years 10-11 Cambridge",
+  "total_lessons": 173,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 The nature of the economic problem",
+      "Learning Objective": "understand and explain the difference between book-keeping and accounting"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 The nature of the economic problem",
+      "Learning Objective": "state the purposes of measuring business profit and loss"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 The factors of production",
+      "Learning Objective": "understand and explain definitions and examples of land; labour; capital and enterprise"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 The factors of production",
+      "Learning Objective": "understand the influences on the mobility of the various factors of production"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 The factors of production",
+      "Learning Objective": "understand the causes of changes in the quantity and quality of the various factors of production"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Opportunity cost",
+      "Learning Objective": "understand and explain the definition and examples of opportunity cost in different contexts"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 Opportunity cost",
+      "Learning Objective": "understand the influence of opportunity cost on decisions made by consumers; workers; producers and governments when allocating their resources"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.4 Production possibility curve (PPC) diagrams",
+      "Learning Objective": "understand and explain the definition; drawing and interpretation of appropriate diagrams"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.4 Production possibility curve (PPC) diagrams",
+      "Learning Objective": "understand the significance of the location of production points under; on and beyond a PPC"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.4 Production possibility curve (PPC) diagrams",
+      "Learning Objective": "understand movements along a PPC and opportunity cost"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.4 Production possibility curve (PPC) diagrams",
+      "Learning Objective": "understand the causes and consequences of shifts in a PPC in terms of an economy's growth"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 Microeconomics and macroeconomics",
+      "Learning Objective": "understand and explain the difference between microeconomics and macroeconomics and the decision makers involved in each"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 The role of markets in allocating resources",
+      "Learning Objective": "understand how a market system works; including buyers; sellers; allocation of scarce resources; market equilibrium; and market disequilibrium"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 The role of markets in allocating resources",
+      "Learning Objective": "understand that the economic problem creates three key questions about determining resource allocation - what to produce; how; and for whom"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 The role of markets in allocating resources",
+      "Learning Objective": "understand how the price mechanism provides answers to the key allocation questions"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Demand",
+      "Learning Objective": "understand and explain the definition; drawing and interpretation of appropriate diagrams"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Demand",
+      "Learning Objective": "draw and use a demand curve to illustrate movements along a demand curve with appropriate terminology"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Demand",
+      "Learning Objective": "understand the link between individual and market demand in terms of aggregation"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Demand",
+      "Learning Objective": "understand the causes of shifts in a demand curve with appropriate terminology"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Supply",
+      "Learning Objective": "understand and explain the definition; drawing and interpretation of appropriate diagrams"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Supply",
+      "Learning Objective": "draw and use a supply curve to illustrate movements along a supply curve with appropriate terminology"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Supply",
+      "Learning Objective": "understand the link between individual and market supply in terms of aggregation"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.4 Supply",
+      "Learning Objective": "understand the causes of shifts in a supply curve with appropriate terminology"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.5 Price determination",
+      "Learning Objective": "understand and explain the definition; drawing and interpretation of demand and supply schedules and curves used to establish equilibrium price and sales in a market"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.5 Price determination",
+      "Learning Objective": "understand and explain the definition; drawing and interpretation of demand and supply schedules and curves used to identify disequilibrium prices and shortages (demand exceeding supply) and surpluses (supply exceeding demand)"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.6 Price changes",
+      "Learning Objective": "understand changing market conditions as causes of price changes"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.6 Price changes",
+      "Learning Objective": "use demand and supply diagrams to illustrate changes in market conditions and their consequences for equilibrium price and sales"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.7 Price elasticity of demand (PED)",
+      "Learning Objective": "understand and explain the definition of PED"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.7 Price elasticity of demand (PED)",
+      "Learning Objective": "calculate PED using the formula and interpret the significance of the result"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.7 Price elasticity of demand (PED)",
+      "Learning Objective": "draw and interpret demand curve diagrams to show different PED"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.7 Price elasticity of demand (PED)",
+      "Learning Objective": "understand the key influences on whether demand is elastic or inelastic"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.7 Price elasticity of demand (PED)",
+      "Learning Objective": "understand the relationship between PED and total spending on a product/revenue; both in a diagram and as a calculation"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.7 Price elasticity of demand (PED)",
+      "Learning Objective": "understand the implications for decision making by consumers; producers and government"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.8 Price elasticity of supply (PES)",
+      "Learning Objective": "understand and explain the definition of PES"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.8 Price elasticity of supply (PES)",
+      "Learning Objective": "calculate PES using the formula and interpret the significance of the result"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.8 Price elasticity of supply (PES)",
+      "Learning Objective": "draw and interpret supply curve diagrams to show different PES"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.8 Price elasticity of supply (PES)",
+      "Learning Objective": "understand the key influences on whether supply is elastic or inelastic"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.8 Price elasticity of supply (PES)",
+      "Learning Objective": "understand the implications for decision making by consumers; producers and government"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.9 Market economic system",
+      "Learning Objective": "understand and explain the definition of market economic system"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.9 Market economic system",
+      "Learning Objective": "understand the advantages and disadvantages of the market economic system including examples of how it works in a variety of different countries"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.10 Market failure",
+      "Learning Objective": "understand and explain the key terms associated with market failure: public good; merit good; demerit good; social benefits; external benefits; private benefits; social costs; external costs; private costs"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.10 Market failure",
+      "Learning Objective": "understand the causes of market failure with respect to public goods; merit and demerit goods; external costs and external benefits; abuse of monopoly power and factor immobility"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.10 Market failure",
+      "Learning Objective": "understand the consequences of market failure in respect of the over consumption of demerit goods and goods with external costs; and the under consumption of merit goods and goods with external benefits"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.11 Mixed economic system",
+      "Learning Objective": "understand and explain the definition of the mixed economic system"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.11 Mixed economic system",
+      "Learning Objective": "understand government microeconomic policy measures: maximum and minimum prices in product; labour and foreign exchange markets; indirect taxation; and subsidies"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.11 Mixed economic system",
+      "Learning Objective": "understand the implications of other government microeconomic policy measures: regulation; privatisation and nationalisation; and direct provision of goods"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.11 Mixed economic system",
+      "Learning Objective": "understand the effectiveness of government intervention in overcoming the drawbacks of a market economic system"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Money and banking",
+      "Learning Objective": "understand the forms; functions and characteristics of money"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.1 Money and banking",
+      "Learning Objective": "understand the role and importance of central banks and commercial banks for government; producers and consumers"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.2 Households",
+      "Learning Objective": "understand the influences on spending; saving and borrowing – between different households and over time"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Workers",
+      "Learning Objective": "understand wage and non-wage factors affecting an individual's choice of occupation"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Workers",
+      "Learning Objective": "understand the influences of demand and supply; relative bargaining power and government policy on wage determination"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Workers",
+      "Learning Objective": "understand how changes in demand and supply; relative bargaining strengths; discrimination and government policy can influence differences in earnings between workers whether they are: skilled/unskilled; primary/secondary/tertiary; male/female; private sector/public sector"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.3 Workers",
+      "Learning Objective": "understand the advantages and disadvantages of division of labour/specialisation for workers; firms and the economy"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Trade unions",
+      "Learning Objective": "understand and explain the definition of a trade union"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Trade unions",
+      "Learning Objective": "understand the role of trade unions in the economy including engaging in collective bargaining on wages; working hours and working conditions; protecting employment; and influencing government policy"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.4 Trade unions",
+      "Learning Objective": "understand the advantages and disadvantages of trade union activity from the viewpoint of workers; firms and the government"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.5 Firms",
+      "Learning Objective": "understand the classification of firms in terms of primary/secondary/tertiary sectors and private/public sector; and the relative size of firms"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.5 Firms",
+      "Learning Objective": "understand the advantages and disadvantages of small firms; the challenges facing small firms and reasons for their existence"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.5 Firms",
+      "Learning Objective": "understand the causes and forms of the growth of firms including internal growth; for example increased market share; and external growth; for example mergers"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.5 Firms",
+      "Learning Objective": "understand examples; advantages and disadvantages of different types of mergers: horizontal; vertical; and conglomerate"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.5 Firms",
+      "Learning Objective": "understand how internal and external economies and diseconomies of scale can affect a firm/industry as the scale of production changes"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.6 Firms and production",
+      "Learning Objective": "understand influences on the demand for factors of production including demand for the product; the price of different factors of production; their availability and their productivity"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.6 Firms and production",
+      "Learning Objective": "understand the reasons for adopting labour-intensive and capital-intensive production and their advantages and disadvantages"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.6 Firms and production",
+      "Learning Objective": "understand the difference between; and influences on; production and productivity"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.7 Firms' costs; revenue and objectives",
+      "Learning Objective": "understand and define total cost (TC); average total cost (ATC); fixed cost (FC); variable cost (VC); average fixed cost (AFC); average variable cost (AVC)"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.7 Firms' costs; revenue and objectives",
+      "Learning Objective": "calculate TC; ATC; FC; VC; AFC and AVC and interpret diagrams that show how changes in output affect costs of production"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.7 Firms' costs; revenue and objectives",
+      "Learning Objective": "understand and define total revenue (TR) and average revenue (AR)"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.7 Firms' costs; revenue and objectives",
+      "Learning Objective": "calculate TR and AR and understand the influence of sales on revenue"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.7 Firms' costs; revenue and objectives",
+      "Learning Objective": "understand firm objectives including survival; social welfare; profit maximisation and growth"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.8 Market structure",
+      "Learning Objective": "understand the effect of having a high number of firms on price; quality; choice; profit"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3.8 Market structure",
+      "Learning Objective": "understand the characteristics; advantages and disadvantages of monopoly markets"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 The role of government",
+      "Learning Objective": "understand the role of government locally; nationally and internationally"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 The macroeconomic aims of government",
+      "Learning Objective": "understand government macroeconomic aims including economic growth; full employment/low unemployment; stable prices/low inflation; balance of payments stability; redistribution of income"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 The macroeconomic aims of government",
+      "Learning Objective": "understand possible conflicts between macroeconomic aims: full employment versus stable prices; economic growth versus balance of payments stability; and full employment versus balance of payments stability"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.3 Fiscal policy",
+      "Learning Objective": "understand and define the government budget"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.3 Fiscal policy",
+      "Learning Objective": "understand the main areas of government spending and the reasons for and effects of spending in these areas"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.3 Fiscal policy",
+      "Learning Objective": "understand taxation as the main source of government revenue and the reasons for levying taxation"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.3 Fiscal policy",
+      "Learning Objective": "understand examples of the different classifications of tax; progressive; regressive; proportional; and direct; indirect"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.3 Fiscal policy",
+      "Learning Objective": "understand the qualities of a good tax"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.3 Fiscal policy",
+      "Learning Objective": "understand the impact of taxation on consumers; producers; government and economy as a whole"
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.3 Fiscal policy",
+      "Learning Objective": "understand and define fiscal policy"
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.3 Fiscal policy",
+      "Learning Objective": "understand the tax and spending changes; in the form of fiscal policy; that cause budget balance or imbalance"
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.3 Fiscal policy",
+      "Learning Objective": "understand how fiscal policy measures may enable the government to achieve its macroeconomic aims"
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.4 Monetary policy",
+      "Learning Objective": "understand and define money supply and monetary policy"
+    },
+    {
+      "Lesson Number": "86",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.4 Monetary policy",
+      "Learning Objective": "understand changes in interest rates; money supply and foreign exchange rates as monetary policy measures"
+    },
+    {
+      "Lesson Number": "87",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.4 Monetary policy",
+      "Learning Objective": "understand how monetary policy measures may enable the government to achieve its macroeconomic aims"
+    },
+    {
+      "Lesson Number": "88",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.5 Supply-side policy",
+      "Learning Objective": "understand and define supply-side policy"
+    },
+    {
+      "Lesson Number": "89",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.5 Supply-side policy",
+      "Learning Objective": "understand possible supply-side policy measures including education and training; labour market reforms; lower direct taxes; deregulation; improving incentives to work and invest; and privatisation"
+    },
+    {
+      "Lesson Number": "90",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.5 Supply-side policy",
+      "Learning Objective": "understand how supply-side policy measures may enable the government to achieve its macroeconomic aims"
+    },
+    {
+      "Lesson Number": "91",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.6 Economic growth",
+      "Learning Objective": "understand and define economic growth"
+    },
+    {
+      "Lesson Number": "92",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.6 Economic growth",
+      "Learning Objective": "understand real Gross Domestic Product (GDP) and how it can be used to measure economic growth"
+    },
+    {
+      "Lesson Number": "93",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.6 Economic growth",
+      "Learning Objective": "understand the meaning of recession and how a recession moves the economy within its PPC"
+    },
+    {
+      "Lesson Number": "94",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.6 Economic growth",
+      "Learning Objective": "understand how changes in total demand may increase the utilisation of resources and GDP – resulting in a movement from inside toward the PPC"
+    },
+    {
+      "Lesson Number": "95",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.6 Economic growth",
+      "Learning Objective": "understand how economic growth shifts the economy's PPC to the right and is caused by changes in investment; technology; and the quantity and quality of the factors of production"
+    },
+    {
+      "Lesson Number": "96",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.6 Economic growth",
+      "Learning Objective": "understand the costs and benefits of economic growth in the context of different economies"
+    },
+    {
+      "Lesson Number": "97",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.6 Economic growth",
+      "Learning Objective": "understand the range of policies available to promote economic growth and how effective they might be"
+    },
+    {
+      "Lesson Number": "98",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.7 Employment and unemployment",
+      "Learning Objective": "understand and define employment; unemployment and full employment"
+    },
+    {
+      "Lesson Number": "99",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.7 Employment and unemployment",
+      "Learning Objective": "understand the nature and causes of changes in the pattern of employment; for example increase in proportion of workers employed in the tertiary sector and formal economy as an economy develops"
+    },
+    {
+      "Lesson Number": "100",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.7 Employment and unemployment",
+      "Learning Objective": "understand how unemployment is measured through claimant count and labour force survey and the formula for the unemployment rate"
+    },
+    {
+      "Lesson Number": "101",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.7 Employment and unemployment",
+      "Learning Objective": "understand frictional; structural and cyclical unemployment"
+    },
+    {
+      "Lesson Number": "102",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.7 Employment and unemployment",
+      "Learning Objective": "understand the consequences of unemployment for the individual; firms and the economy as a whole"
+    },
+    {
+      "Lesson Number": "103",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.7 Employment and unemployment",
+      "Learning Objective": "understand the range of policies available to reduce unemployment and how effective they might be"
+    },
+    {
+      "Lesson Number": "104",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.8 Inflation and deflation",
+      "Learning Objective": "understand and define inflation and deflation"
+    },
+    {
+      "Lesson Number": "105",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.8 Inflation and deflation",
+      "Learning Objective": "understand the measurement of inflation and deflation using the Consumer Prices Index (CPI)"
+    },
+    {
+      "Lesson Number": "106",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.8 Inflation and deflation",
+      "Learning Objective": "understand the causes of inflation: demand-pull and cost-push"
+    },
+    {
+      "Lesson Number": "107",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.8 Inflation and deflation",
+      "Learning Objective": "understand the causes of deflation: demand-side and supply-side"
+    },
+    {
+      "Lesson Number": "108",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.8 Inflation and deflation",
+      "Learning Objective": "understand the consequences of inflation and deflation for consumers; workers; savers; lenders; firms and the economy as a whole"
+    },
+    {
+      "Lesson Number": "109",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.8 Inflation and deflation",
+      "Learning Objective": "understand the range of policies available to control inflation and deflation and how effective they might be"
+    },
+    {
+      "Lesson Number": "110",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 Living standards",
+      "Learning Objective": "understand real GDP per head and the Human Development Index (HDI) as indicators of living standards"
+    },
+    {
+      "Lesson Number": "111",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 Living standards",
+      "Learning Objective": "understand the components of real GDP and HDI and their advantages and disadvantages"
+    },
+    {
+      "Lesson Number": "112",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 Living standards",
+      "Learning Objective": "understand reasons for differences in living standards and income distribution within and between countries"
+    },
+    {
+      "Lesson Number": "113",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.2 Poverty",
+      "Learning Objective": "understand and explain the difference between absolute and relative poverty"
+    },
+    {
+      "Lesson Number": "114",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.2 Poverty",
+      "Learning Objective": "understand the causes of poverty including unemployment; low wages; illness and age"
+    },
+    {
+      "Lesson Number": "115",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.2 Poverty",
+      "Learning Objective": "understand policies to alleviate poverty and redistribute income including those promoting economic growth; improved education; more generous state benefits; progressive taxation; and national minimum wage"
+    },
+    {
+      "Lesson Number": "116",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.3 Population",
+      "Learning Objective": "understand the factors that affect population growth including birth rate; death rate; net migration; immigration and emigration"
+    },
+    {
+      "Lesson Number": "117",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.3 Population",
+      "Learning Objective": "understand how and why birth rates; death rates and net migration vary between countries"
+    },
+    {
+      "Lesson Number": "118",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.3 Population",
+      "Learning Objective": "understand the concept of an optimum population and the effects of increases and decreases in population size and changes in the age and gender distribution of population"
+    },
+    {
+      "Lesson Number": "119",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.4 Differences in economic development between countries",
+      "Learning Objective": "understand the causes and impacts of differences in income; productivity; population growth; size of primary; secondary and tertiary sectors; saving and investment; education; and healthcare"
+    },
+    {
+      "Lesson Number": "120",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.1 International specialisation",
+      "Learning Objective": "understand the basis for specialisation at national level in broad terms of: superior resource allocation and/or cheaper production methods"
+    },
+    {
+      "Lesson Number": "121",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.1 International specialisation",
+      "Learning Objective": "understand the advantages and disadvantages of specialisation at a national level for consumers; firms and the economy"
+    },
+    {
+      "Lesson Number": "122",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 Globalisation; free trade and protection",
+      "Learning Objective": "understand and define globalisation"
+    },
+    {
+      "Lesson Number": "123",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 Globalisation; free trade and protection",
+      "Learning Objective": "understand the role of multinational companies (MNCs) and their costs and benefits to host and home countries"
+    },
+    {
+      "Lesson Number": "124",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 Globalisation; free trade and protection",
+      "Learning Objective": "understand the benefits of free trade for consumers; producers and the economy in a variety of countries"
+    },
+    {
+      "Lesson Number": "125",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 Globalisation; free trade and protection",
+      "Learning Objective": "understand methods of protection including tariffs; import quotas; subsidies and embargoes"
+    },
+    {
+      "Lesson Number": "126",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 Globalisation; free trade and protection",
+      "Learning Objective": "understand reasons for protection including infant industry; declining industry; strategic industry and avoidance of dumping"
+    },
+    {
+      "Lesson Number": "127",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 Globalisation; free trade and protection",
+      "Learning Objective": "understand the effectiveness of protection and its impact on the home country and its trading partners"
+    },
+    {
+      "Lesson Number": "128",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 Foreign exchange rates",
+      "Learning Objective": "understand and define foreign exchange rates including floating and fixed systems"
+    },
+    {
+      "Lesson Number": "129",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 Foreign exchange rates",
+      "Learning Objective": "understand the demand for and supply of a currency in the foreign exchange market and the determination of the equilibrium foreign exchange rate"
+    },
+    {
+      "Lesson Number": "130",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 Foreign exchange rates",
+      "Learning Objective": "understand the causes of foreign exchange rate fluctuations including changes in demand for exports and imports; changes in the rate of interest; speculation; and the entry or departure of MNCs"
+    },
+    {
+      "Lesson Number": "131",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 Foreign exchange rates",
+      "Learning Objective": "understand the effects of foreign exchange rate fluctuations on export and import prices and spending on imports and exports via the PED"
+    },
+    {
+      "Lesson Number": "132",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 Foreign exchange rates",
+      "Learning Objective": "understand the difference between; and the advantages and disadvantages of; a floating foreign exchange rate and a fixed foreign exchange rate system"
+    },
+    {
+      "Lesson Number": "133",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.4 Current account of balance of payments",
+      "Learning Objective": "understand the components of the current account of the balance of payments – trade in goods; trade in services; primary income and secondary income"
+    },
+    {
+      "Lesson Number": "134",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.4 Current account of balance of payments",
+      "Learning Objective": "calculate deficits and surpluses on the current account of the balance of payments and its component sections"
+    },
+    {
+      "Lesson Number": "135",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.4 Current account of balance of payments",
+      "Learning Objective": "understand reasons for deficits and surpluses on the current account"
+    },
+    {
+      "Lesson Number": "136",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.4 Current account of balance of payments",
+      "Learning Objective": "understand the impact of current account deficit and surplus on GDP; employment; inflation and foreign exchange rate"
+    },
+    {
+      "Lesson Number": "137",
+      "Subject": "Economics",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.4 Current account of balance of payments",
+      "Learning Objective": "understand the range of policies available to achieve balance of payments stability and how effective they might be"
+    },
+    {
+      "Lesson Number": "1",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Reading",
+      "Learning Objective": "identify and understand factual information; ideas and arguments in a range of texts"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Reading",
+      "Learning Objective": "identify and understand ideas; opinions and attitudes; in a range of texts and the connections between them"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Reading",
+      "Learning Objective": "understand what is implied but not directly stated"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Reading",
+      "Learning Objective": "select relevant details when reading for a specific purpose"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Writing",
+      "Learning Objective": "communicate factual information; ideas and arguments clearly and with expansion"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Writing",
+      "Learning Objective": "produce written texts that show control of language"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Writing",
+      "Learning Objective": "select and organise relevant information and ideas into coherent text using appropriate linking devices"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Writing",
+      "Learning Objective": "produce written texts with a range of grammatical and lexical structures"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Writing",
+      "Learning Objective": "respond to a written stimulus and use appropriate register; style and format for the given purpose and audience"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Listening",
+      "Learning Objective": "identify and understand factual detail and specific information in a range of spoken contexts and from a variety of sources"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Listening",
+      "Learning Objective": "identify and understand speakers' ideas; opinions; feelings and attitudes in a range of spoken contexts and from a variety of sources"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Listening",
+      "Learning Objective": "show understanding of the connections between ideas; opinions; feelings and attitudes in a range of spoken contexts and from a variety of sources"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Listening",
+      "Learning Objective": "show understanding of what is implied but not directly stated"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Speaking",
+      "Learning Objective": "communicate factual information; ideas and opinions with expansion"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Speaking",
+      "Learning Objective": "produce coherent and relevant responses"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Speaking",
+      "Learning Objective": "engage in different types of interaction (e.g.; conversation; short talk; interview)"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Speaking",
+      "Learning Objective": "produce responses using a range of grammatical and lexical structures"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "English as a Second Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Speaking",
+      "Learning Objective": "communicate showing control of pronunciation and intonation"
+    },
+    {
+      "Lesson Number": "1",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Reading",
+      "Learning Objective": "demonstrate understanding of written texts; and of the words and phrases within them"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Reading",
+      "Learning Objective": "summarise and use material for a specific context"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Reading",
+      "Learning Objective": "develop; analyse and evaluate facts; ideas and opinions"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Reading",
+      "Learning Objective": "demonstrate understanding of how writers achieve their effects and influence readers"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Reading",
+      "Learning Objective": "select appropriate information for specific purposes"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Reading",
+      "Learning Objective": "recognise and respond to linguistic devices; figurative language and imagery"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Writing",
+      "Learning Objective": "express what is thought; felt and imagined"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Writing",
+      "Learning Objective": "organise and convey facts; ideas and opinions effectively"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Writing",
+      "Learning Objective": "demonstrate a varied vocabulary appropriate to the context"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Writing",
+      "Learning Objective": "demonstrate an effective use of sentence structures"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Writing",
+      "Learning Objective": "demonstrate an understanding of audience; purpose and form"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Writing",
+      "Learning Objective": "demonstrate accuracy in spelling; punctuation and grammar"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Speaking and Listening",
+      "Learning Objective": "describe and reflect on experience; and express what is thought; felt and imagined"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Speaking and Listening",
+      "Learning Objective": "organise and convey facts; ideas and opinions effectively"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Speaking and Listening",
+      "Learning Objective": "understand and convey complex ideas"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Speaking and Listening",
+      "Learning Objective": "communicate with clarity; focus and purpose"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Speaking and Listening",
+      "Learning Objective": "communicate appropriately for the context"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "English First Language",
+      "Year/Grade": "Years 10-11",
+      "Topic": "Speaking and Listening",
+      "Learning Objective": "engage appropriately in conversation"
+    }
+  ]
+}

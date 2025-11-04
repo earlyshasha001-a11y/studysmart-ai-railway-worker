@@ -1,0 +1,160 @@
+{
+  "curriculum_name": "Accounting year 10-11 Cambridge",
+  "total_lessons": 22,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 The purpose of accounting",
+      "Learning Objective": "understand and explain the difference between book-keeping and accounting"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 The purpose of accounting",
+      "Learning Objective": "state the purposes of measuring business profit and loss"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 The purpose of accounting",
+      "Learning Objective": "explain the role of accounting in providing information for monitoring progress and decision-making"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 The accounting equation",
+      "Learning Objective": "explain the meaning of assets; liabilities and owner’s equity"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 The accounting equation",
+      "Learning Objective": "explain and apply the accounting equation"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 The double entry system of book-keeping",
+      "Learning Objective": "outline the double entry system of book-keeping"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 The double entry system of book-keeping",
+      "Learning Objective": "process accounting data using the double entry system"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 The double entry system of book-keeping",
+      "Learning Objective": "prepare ledger accounts"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 The double entry system of book-keeping",
+      "Learning Objective": "post transactions to the ledger accounts"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 The double entry system of book-keeping",
+      "Learning Objective": "balance ledger accounts as required and make transfers to financial statements"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 The double entry system of book-keeping",
+      "Learning Objective": "interpret ledger accounts and their balances"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 The double entry system of book-keeping",
+      "Learning Objective": "recognise the division of the ledger into the sales ledger; the purchases ledger and the nominal (general) ledger"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Business documents",
+      "Learning Objective": "recognise and understand the following business documents: invoice; debit note; credit note; statement of account; cheque; receipt"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Business documents",
+      "Learning Objective": "complete pro-forma business documents"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 Business documents",
+      "Learning Objective": "understand the use of business documents as sources of information: invoice; credit note; cheque counterfoil; paying-in slip; receipt; bank statement"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Books of prime entry",
+      "Learning Objective": "explain the advantage of using various books of prime entry"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Books of prime entry",
+      "Learning Objective": "explain the use of and process accounting data in the books of prime entry: cash book; petty cash book; sales journal; purchases journal; sales returns journal; purchases returns journal and the general journal"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Books of prime entry",
+      "Learning Objective": "post the ledger entries from the books of prime entry"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Books of prime entry",
+      "Learning Objective": "distinguish between and account for trade discount and cash discounts"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Books of prime entry",
+      "Learning Objective": "explain the dual function of the cash book as a book of prime entry and as a ledger account for bank and cash"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Books of prime entry",
+      "Learning Objective": "explain the use of and record payments and receipts made by bank transfers and other electronic means"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Accounting",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 Books of prime entry",
+      "Learning Objective": "explain and apply the imprest system of petty cash"
+    }
+  ]
+}

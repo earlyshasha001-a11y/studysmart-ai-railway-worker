@@ -1,0 +1,246 @@
+{
+  "curriculum_name": "Agriculture & nutrition grade 6 cbc",
+  "total_lessons": 30,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.1 Controlling Soil Erosion",
+      "Learning Objective": "a) describe types of soil erosion in the environment"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.1 Controlling Soil Erosion",
+      "Learning Objective": "b) control soil erosion in the environment"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.1 Controlling Soil Erosion",
+      "Learning Objective": "c) appreciate importance of conserving soil"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.2 Conserving Water",
+      "Learning Objective": "a) identify types of seedbeds that conserve soil moisture"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.2 Conserving Water",
+      "Learning Objective": "b) prepare different types of seedbeds that conserve moisture"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.2 Conserving Water",
+      "Learning Objective": "c) appreciate importance of conserving moisture in a seedbed to increase chances of plants growth"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.3 Conserving Wild Animals",
+      "Learning Objective": "a) identify deterrents that can keep off wild animals from crop and domestic animals"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.3 Conserving Wild Animals",
+      "Learning Objective": "b) establish deterrents to keep off wild animals from destroying crops and domestic animals"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.3 Conserving Wild Animals",
+      "Learning Objective": "c) acknowledge the importance of deterrents in conserving wild animals"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.1 Rearing Small Domestic Animals",
+      "Learning Objective": "a) explain routine practices in rearing of small domestic animals"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.1 Rearing Small Domestic Animals",
+      "Learning Objective": "b) rear small domestic animals used as sources of food"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.1 Rearing Small Domestic Animals",
+      "Learning Objective": "c) embrace the rearing of small domestic animals used as sources of food"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.2 Preserving Crop Products",
+      "Learning Objective": "a) describe how to preserve crop produce at home"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.2 Preserving Crop Products",
+      "Learning Objective": "b) preserve crop produce using drying method"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.2 Preserving Crop Products",
+      "Learning Objective": "c) adopt preservation crop produce to reduce food wastage"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.3 Cooking Food",
+      "Learning Objective": "a) describe different methods of cooking"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.3 Cooking Food",
+      "Learning Objective": "b) cook food using different methods"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.3 Cooking Food",
+      "Learning Objective": "c) embrace different methods of cooking in food production"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.1 Good Grooming",
+      "Learning Objective": "a) describe practices that enhance body cleanliness"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.1 Good Grooming",
+      "Learning Objective": "b) practice body cleanliness as a healthy habit"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.1 Good Grooming",
+      "Learning Objective": "c) recognise importance of body cleanliness as a hygienic practice"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.2 Laundry: Stain Removal",
+      "Learning Objective": "a) identify common stains on clothing and household articles"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.2 Laundry: Stain Removal",
+      "Learning Objective": "b) remove common stains from clothing and household articles"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.2 Laundry: Stain Removal",
+      "Learning Objective": "c) adopt stain removal for personal hygiene"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Crocheting Stitches",
+      "Learning Objective": "a) identify crocheting stitches in making household articles"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Crocheting Stitches",
+      "Learning Objective": "b) use crocheting stitches to make a household articles"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Crocheting Stitches",
+      "Learning Objective": "c) adopt the use of crocheting stiches in making household articles"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.2 Constructing Moist Bed Garden",
+      "Learning Objective": "a) explain the meaning of moist bed garden"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.2 Constructing Moist Bed Garden",
+      "Learning Objective": "b) construct a moist bed garden for growing a selected crop"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.2 Constructing Moist Bed Garden",
+      "Learning Objective": "c) embrace the use of moist bed garden in growing crops"
+    }
+  ]
+}

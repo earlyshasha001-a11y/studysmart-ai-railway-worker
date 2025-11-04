@@ -1,0 +1,550 @@
+{
+  "curriculum_name": "English grade 7 cbc",
+  "total_lessons": 68,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "1.1 Listening and Speaking",
+      "Sub-strand": "1.1.1 Conversational Skills: Polite Language",
+      "Learning Objective": "a) identify polite expressions used in the introduction of self and others"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "1.1 Listening and Speaking",
+      "Sub-strand": "1.1.1 Conversational Skills: Polite Language",
+      "Learning Objective": "b) use polite expressions in the introduction of self and others in different speaking contexts"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "1.1 Listening and Speaking",
+      "Sub-strand": "1.1.1 Conversational Skills: Polite Language",
+      "Learning Objective": "c) model respectful behaviour during introductions"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "1.2 Reading",
+      "Sub-strand": "1.2.1 Extensive Reading: Independent Reading",
+      "Learning Objective": "a) identify a variety of texts for independent reading"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "1.2 Reading",
+      "Sub-strand": "1.2.1 Extensive Reading: Independent Reading",
+      "Learning Objective": "b) read selected materials for information and enjoyment"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "1.2 Reading",
+      "Sub-strand": "1.2.1 Extensive Reading: Independent Reading",
+      "Learning Objective": "c) appreciate the value of independent reading in lifelong learning"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "1.3 Grammar in Use",
+      "Sub-strand": "1.3.1 Word Classes: Nouns",
+      "Learning Objective": "a) identify the different types of nouns from a print or digital text"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "1.3 Grammar in Use",
+      "Sub-strand": "1.3.1 Word Classes: Nouns",
+      "Learning Objective": "b) use different types of nouns in sentences"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "1.3 Grammar in Use",
+      "Sub-strand": "1.3.1 Word Classes: Nouns",
+      "Learning Objective": "c) appreciate the role of correct grammar in written and spoken communication"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "1.4 Reading",
+      "Sub-strand": "1.4.1 Intensive Reading: Trickster Narratives",
+      "Learning Objective": "a) identify the main events in trickster narratives"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "1.4 Reading",
+      "Sub-strand": "1.4.1 Intensive Reading: Trickster Narratives",
+      "Learning Objective": "b) analyse the characters in narratives"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "1.4 Reading",
+      "Sub-strand": "1.4.1 Intensive Reading: Trickster Narratives",
+      "Learning Objective": "c) appreciate the importance of trickster narratives in the inculcation of values"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "1.5 Writing",
+      "Sub-strand": "1.5.1 Handwriting: Legibility and Neatness",
+      "Learning Objective": "a) describe features of legible and neat handwriting for efficient writing"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "1.5 Writing",
+      "Sub-strand": "1.5.1 Handwriting: Legibility and Neatness",
+      "Learning Objective": "b) write texts legibly and neatly for effective communication"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "1.5 Writing",
+      "Sub-strand": "1.5.1 Handwriting: Legibility and Neatness",
+      "Learning Objective": "c) acknowledge the importance of writing neatly and legibly"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "2.1 Listening and Speaking",
+      "Sub-strand": "2.1.1 Oral Presentations: Oral Narratives",
+      "Learning Objective": "a) outline the oral narrative performance techniques for effective delivery"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "2.1 Listening and Speaking",
+      "Sub-strand": "2.1.1 Oral Presentations: Oral Narratives",
+      "Learning Objective": "b) use oral narrative techniques during the performance"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "2.1 Listening and Speaking",
+      "Sub-strand": "2.1.1 Oral Presentations: Oral Narratives",
+      "Learning Objective": "c) appreciate the importance of performance techniques in the successful delivery of oral material"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "2.2 Reading",
+      "Sub-strand": "2.2.1 Intensive reading: Simple poems",
+      "Learning Objective": "a) distinguish between poems and other literary genres"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "2.2 Reading",
+      "Sub-strand": "2.2.1 Intensive reading: Simple poems",
+      "Learning Objective": "b) recite a variety of simple poems for enjoyment"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "2.2 Reading",
+      "Sub-strand": "2.2.1 Intensive reading: Simple poems",
+      "Learning Objective": "c) collaborate in poetry recitation for enjoyment and learning"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "2.3 Grammar in Use",
+      "Sub-strand": "2.3.1 Word Classes: Nouns",
+      "Learning Objective": "a) identify count; non-count; singular; and plural nouns from a variety of texts"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "2.3 Grammar in Use",
+      "Sub-strand": "2.3.1 Word Classes: Nouns",
+      "Learning Objective": "b) use count; non-count; singular; and plural nouns in sentences"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "2.3 Grammar in Use",
+      "Sub-strand": "2.3.1 Word Classes: Nouns",
+      "Learning Objective": "c) appreciate the importance of the correct use of nouns in communication"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "2.4 Reading",
+      "Sub-strand": "2.4.1 Intensive Reading: Class Reader",
+      "Learning Objective": "a) explain the different parts that aid in previewing a book"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "2.4 Reading",
+      "Sub-strand": "2.4.1 Intensive Reading: Class Reader",
+      "Learning Objective": "b) describe the author and the setting of the text in terms of time and place"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "2.4 Reading",
+      "Sub-strand": "2.4.1 Intensive Reading: Class Reader",
+      "Learning Objective": "c) underscore the value of reading for lifelong learning"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "2.5 Writing",
+      "Sub-strand": "2.5.1 Mechanics of Writing: Punctuation Marks",
+      "Learning Objective": "a) recognise the full stop; exclamation mark; and question mark in texts"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "2.5 Writing",
+      "Sub-strand": "2.5.1 Mechanics of Writing: Punctuation Marks",
+      "Learning Objective": "b) use the full stop; exclamation mark; and question mark in sentences"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "2.5 Writing",
+      "Sub-strand": "2.5.1 Mechanics of Writing: Punctuation Marks",
+      "Learning Objective": "c) acknowledge the importance of punctuating sentences accurately"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "3.1 Listening and Speaking",
+      "Sub-strand": "3.1.1 Listening Comprehension: Selective Listening",
+      "Learning Objective": "a) identify the main idea from varied descriptive texts"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "3.1 Listening and Speaking",
+      "Sub-strand": "3.1.1 Listening Comprehension: Selective Listening",
+      "Learning Objective": "b) pick out specific information from varied descriptive texts"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "3.1 Listening and Speaking",
+      "Sub-strand": "3.1.1 Listening Comprehension: Selective Listening",
+      "Learning Objective": "c) acknowledge the importance of listening skills in communication"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "3.2 Reading",
+      "Sub-strand": "3.2.1. Reading: Information and Meaning",
+      "Learning Objective": "a) distinguish between reading for information and reading for meaning"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "3.2 Reading",
+      "Sub-strand": "3.2.1. Reading: Information and Meaning",
+      "Learning Objective": "b) infer the meaning of words and phrases from varied texts"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "3.2 Reading",
+      "Sub-strand": "3.2.1. Reading: Information and Meaning",
+      "Learning Objective": "c) appreciate the importance of reading for information and meaning"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "3.3 Grammar in Use",
+      "Sub-strand": "3.3.1 Verbs and Tense",
+      "Learning Objective": "a) identify regular and irregular verbs in sentences"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "3.3 Grammar in Use",
+      "Sub-strand": "3.3.1 Verbs and Tense",
+      "Learning Objective": "b) use regular and irregular verbs to construct sentences using the past; present; and future tenses"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "3.3 Grammar in Use",
+      "Sub-strand": "3.3.1 Verbs and Tense",
+      "Learning Objective": "c) appreciate the correct use of verbs and tenses for effective communication"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "3.4. Reading",
+      "Sub-strand": "3.4.1 Intensive Reading: Poetry",
+      "Learning Objective": "a) explain the structure of poems"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "3.4. Reading",
+      "Sub-strand": "3.4.1 Intensive Reading: Poetry",
+      "Learning Objective": "b) analyse the structure of varied simple poems"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "3.4. Reading",
+      "Sub-strand": "3.4.1 Intensive Reading: Poetry",
+      "Learning Objective": "c) read short poems addressing varied societal issues"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "3.4. Reading",
+      "Sub-strand": "3.4.1 Intensive Reading: Poetry",
+      "Learning Objective": "d) appreciate the poem's structure in communicating a message"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "3.5 Writing",
+      "Sub-strand": "3.5.1 Writing Narrative Paragraphs",
+      "Learning Objective": "a) identify the parts of a narrative paragraph"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "3.5 Writing",
+      "Sub-strand": "3.5.1 Writing Narrative Paragraphs",
+      "Learning Objective": "b) compose a narrative paragraph with the appropriate structure"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "3.5 Writing",
+      "Sub-strand": "3.5.1 Writing Narrative Paragraphs",
+      "Learning Objective": "c) acknowledge the significance of paragraphing in written communication"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.1 Listening and Speaking",
+      "Sub-strand": "4.1.1 Listening Comprehension: Selective Listening",
+      "Learning Objective": "a) distinguish between specific and general information from a listening text"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.1 Listening and Speaking",
+      "Sub-strand": "4.1.1 Listening Comprehension: Selective Listening",
+      "Learning Objective": "b) select specific information from a listening text"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.1 Listening and Speaking",
+      "Sub-strand": "4.1.1 Listening Comprehension: Selective Listening",
+      "Learning Objective": "c) listen and respond to texts on leadership"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.1 Listening and Speaking",
+      "Sub-strand": "4.1.1 Listening Comprehension: Selective Listening",
+      "Learning Objective": "d) emphasise the value of listening skills in communication"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.2. Reading",
+      "Sub-strand": "4.2.1 Intensive Reading",
+      "Learning Objective": "a) discuss the identified reading strategies"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.2. Reading",
+      "Sub-strand": "4.2.1 Intensive Reading",
+      "Learning Objective": "b) select main ideas and details from a variety of written texts"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.2. Reading",
+      "Sub-strand": "4.2.1 Intensive Reading",
+      "Learning Objective": "c) acknowledge the importance of reading for main idea and details as a comprehension skill"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.3 Grammar in Use",
+      "Sub-strand": "4.3.1 Verbs and Tense",
+      "Learning Objective": "a) identify verbs in the simple present and simple past tense in a text"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.3 Grammar in Use",
+      "Sub-strand": "4.3.1 Verbs and Tense",
+      "Learning Objective": "b) write sentences using the simple present tense"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.3 Grammar in Use",
+      "Sub-strand": "4.3.1 Verbs and Tense",
+      "Learning Objective": "c) write sentences using the simple past tense"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.3 Grammar in Use",
+      "Sub-strand": "4.3.1 Verbs and Tense",
+      "Learning Objective": "d) advocate appropriate use of tense in communication"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.4 Reading",
+      "Sub-strand": "4.4.1 Intensive Reading: Class Readers",
+      "Learning Objective": "a) identify the main characters in a text"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.4 Reading",
+      "Sub-strand": "4.4.1 Intensive Reading: Class Readers",
+      "Learning Objective": "b) explain how the characters make the story flow"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.4 Reading",
+      "Sub-strand": "4.4.1 Intensive Reading: Class Readers",
+      "Learning Objective": "c) make predictions based on the title and the sections read"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.4 Reading",
+      "Sub-strand": "4.4.1 Intensive Reading: Class Readers",
+      "Learning Objective": "d) appreciate the role of characters in the class reader"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.5 Writing",
+      "Sub-strand": "4.5.1 Paragraphing: Using examples and incidents",
+      "Learning Objective": "a) outline examples and incidents to include in a paragraph"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.5 Writing",
+      "Sub-strand": "4.5.1 Paragraphing: Using examples and incidents",
+      "Learning Objective": "b) create a well-developed paragraph using examples and incidents"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "4.5 Writing",
+      "Sub-strand": "4.5.1 Paragraphing: Using examples and incidents",
+      "Learning Objective": "c) appreciate the importance of well-written paragraphs in writing"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "5.1 Listening and Speaking",
+      "Sub-strand": "5.1.1 Pronunciation: Sounds and Word Stress",
+      "Learning Objective": "a) identify the consonant and vowel sounds in the words"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "5.1 Listening and Speaking",
+      "Sub-strand": "5.1.1 Pronunciation: Sounds and Word Stress",
+      "Learning Objective": "b) articulate consonants and vowel sounds for oral fluency"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "5.1 Listening and Speaking",
+      "Sub-strand": "5.1.1 Pronunciation: Sounds and Word Stress",
+      "Learning Objective": "c) distinguish the meaning of words on the basis of stress"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "English",
+      "Grade": "Grade 7",
+      "Strand": "5.1 Listening and Speaking",
+      "Sub-strand": "5.1.1 Pronunciation: Sounds and Word Stress",
+      "Learning Objective": "d) advocate the role of correct pronunciation in communication"
+    }
+  ]
+}

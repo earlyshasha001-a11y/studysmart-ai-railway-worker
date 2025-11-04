@@ -1,0 +1,3366 @@
+{
+  "curriculum_name": "English stages 1-6 Cambridge primary",
+  "total_lessons": 480,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ra.01",
+      "Learning Objective": "enjoy reading and hearing a range of simple stories; poems and non-fiction"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ra.02",
+      "Learning Objective": "join in with some words and phrases"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ra.03",
+      "Learning Objective": "recognise and name some familiar words in simple texts"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ra.04",
+      "Learning Objective": "begin to understand how books work; e.g. front cover; title page; left to right"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ra.05",
+      "Learning Objective": "begin to understand that print carries meaning"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ra.06",
+      "Learning Objective": "begin to recognise some letters of the alphabet"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rg.01",
+      "Learning Objective": "recognise and name some familiar words in simple texts"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rg.02",
+      "Learning Objective": "begin to understand how books work; e.g. front cover; title page; left to right"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rg.03",
+      "Learning Objective": "begin to understand that print carries meaning"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rg.04",
+      "Learning Objective": "begin to recognise some letters of the alphabet"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rg.05",
+      "Learning Objective": "begin to recognise some common digraphs"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rg.06",
+      "Learning Objective": "begin to recognise some common trigraphs"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rg.07",
+      "Learning Objective": "begin to recognise some high-frequency words"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ri.01",
+      "Learning Objective": "begin to understand that print carries meaning"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ri.02",
+      "Learning Objective": "begin to recognise some letters of the alphabet"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ri.03",
+      "Learning Objective": "begin to recognise some common digraphs"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ri.04",
+      "Learning Objective": "begin to recognise some common trigraphs"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ri.05",
+      "Learning Objective": "begin to recognise some high-frequency words"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ri.06",
+      "Learning Objective": "begin to understand how books work; e.g. front cover; title page; left to right"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ri.07",
+      "Learning Objective": "begin to understand that print carries meaning"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ri.08",
+      "Learning Objective": "begin to recognise some letters of the alphabet"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ri.09",
+      "Learning Objective": "begin to recognise some common digraphs"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ri.10",
+      "Learning Objective": "begin to recognise some common trigraphs"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ri.11",
+      "Learning Objective": "begin to recognise some high-frequency words"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ri.12",
+      "Learning Objective": "begin to understand how books work; e.g. front cover; title page; left to right"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ri.13",
+      "Learning Objective": "begin to understand that print carries meaning"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ri.14",
+      "Learning Objective": "begin to recognise some letters of the alphabet"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rs.01",
+      "Learning Objective": "begin to recognise some common digraphs"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rs.02",
+      "Learning Objective": "begin to recognise some common trigraphs"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rs.03",
+      "Learning Objective": "begin to recognise some high-frequency words"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rs.04",
+      "Learning Objective": "read aloud simple texts with increasing fluency and expression; recognise familiar words and phrases"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rv.01",
+      "Learning Objective": "understand and use a range of vocabulary related to familiar topics; recognise common words"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rv.02",
+      "Learning Objective": "identify and understand the meaning of simple words in context; use pictures to support understanding"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rv.03",
+      "Learning Objective": "recognise and understand simple compound words; identify root words and suffixes"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rv.04",
+      "Learning Objective": "understand and use simple synonyms and antonyms; recognise word relationships"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rv.05",
+      "Learning Objective": "understand and use simple prepositions; recognise their role in sentences"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rw.01",
+      "Learning Objective": "recognise and read common high-frequency words; use them in simple sentences"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rw.02",
+      "Learning Objective": "read and understand simple sentences; use punctuation to aid understanding"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rw.03",
+      "Learning Objective": "read and understand simple texts with support; use pictures and context clues"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rw.04",
+      "Learning Objective": "read and understand simple instructions; follow steps in order"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rw.05",
+      "Learning Objective": "read and understand simple poems; identify rhyming words and patterns"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rw.06",
+      "Learning Objective": "read and understand simple non-fiction texts; identify key information"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Rw.07",
+      "Learning Objective": "read and understand simple stories; identify characters and settings"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wc.01",
+      "Learning Objective": "write simple sentences using capital letters and full stops; use familiar vocabulary"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wc.02",
+      "Learning Objective": "write simple sentences with correct word order; use basic punctuation"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wc.03",
+      "Learning Objective": "write simple sentences using conjunctions; join ideas together"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wc.04",
+      "Learning Objective": "write simple sentences using adjectives; describe people and objects"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wc.05",
+      "Learning Objective": "write simple sentences using verbs; describe actions and events"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wg.01",
+      "Learning Objective": "use correct letter formation; write letters and words legibly"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wg.02",
+      "Learning Objective": "use correct spacing between words; write sentences neatly"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wg.03",
+      "Learning Objective": "use capital letters for names and the start of sentences; apply basic rules"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wg.04",
+      "Learning Objective": "use full stops to end sentences; apply basic punctuation rules"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wg.05",
+      "Learning Objective": "use question marks and exclamation marks; apply basic punctuation rules"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wg.06",
+      "Learning Objective": "use commas in simple lists; apply basic punctuation rules"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wp.01",
+      "Learning Objective": "plan simple sentences before writing; think about ideas and vocabulary"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wp.02",
+      "Learning Objective": "write simple sentences with support; use prompts and models"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wp.03",
+      "Learning Objective": "write simple sentences independently; express ideas clearly"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wp.04",
+      "Learning Objective": "write simple sentences with correct spelling; use phonics knowledge"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wp.05",
+      "Learning Objective": "write simple sentences with correct grammar; use basic rules"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wp.06",
+      "Learning Objective": "write simple sentences with correct punctuation; apply basic rules"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ws.01",
+      "Learning Objective": "use capital letters for names and the personal pronoun I"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ws.02",
+      "Learning Objective": "use full stops to separate sentences"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wv.01",
+      "Learning Objective": "understand that words can be grouped into categories"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wv.02",
+      "Learning Objective": "begin to understand that words can have similar meanings"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Wv.03",
+      "Learning Objective": "begin to understand that words can have opposite meanings"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ww.01",
+      "Learning Objective": "name the letters of the alphabet in order"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ww.02",
+      "Learning Objective": "recognise letter shapes and say the sounds for them"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ww.03",
+      "Learning Objective": "blend sounds in unfamiliar words"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ww.04",
+      "Learning Objective": "segment sounds in unfamiliar words"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ww.05",
+      "Learning Objective": "read common exception words"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ww.06",
+      "Learning Objective": "read words with suffixes"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "English",
+      "Year/Grade": "Stage 1",
+      "Topic": "1Ww.07",
+      "Learning Objective": "read words with contractions"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ra.01",
+      "Learning Objective": "read aloud age-appropriate texts with accuracy and at a reasonable pace"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ra.02",
+      "Learning Objective": "read aloud with some expression to show understanding"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ra.03",
+      "Learning Objective": "listen to and discuss a range of texts; including stories; poems and non-fiction"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ra.04",
+      "Learning Objective": "join in with repeated words and phrases in familiar texts"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ra.05",
+      "Learning Objective": "predict what might happen next in a story"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rg.01",
+      "Learning Objective": "identify and understand the meaning of words in context"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rg.02",
+      "Learning Objective": "recognise and use common suffixes and prefixes"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rg.03",
+      "Learning Objective": "identify and use nouns; verbs and adjectives correctly"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rg.04",
+      "Learning Objective": "use capital letters; full stops and question marks accurately"
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rg.05",
+      "Learning Objective": "use commas to separate items in a list"
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rg.06",
+      "Learning Objective": "use apostrophes for contractions and possession"
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ri.01",
+      "Learning Objective": "identify the main events in a story"
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ri.02",
+      "Learning Objective": "sequence events in a story logically"
+    },
+    {
+      "Lesson Number": "86",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ri.03",
+      "Learning Objective": "identify the main idea in a non-fiction text"
+    },
+    {
+      "Lesson Number": "87",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ri.04",
+      "Learning Objective": "find specific information in a text"
+    },
+    {
+      "Lesson Number": "88",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ri.05",
+      "Learning Objective": "make simple inferences from a text"
+    },
+    {
+      "Lesson Number": "89",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ri.06",
+      "Learning Objective": "identify the purpose of a text"
+    },
+    {
+      "Lesson Number": "90",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ri.07",
+      "Learning Objective": "identify the audience for a text"
+    },
+    {
+      "Lesson Number": "91",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ri.08",
+      "Learning Objective": "recognise the difference between fact and opinion"
+    },
+    {
+      "Lesson Number": "92",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ri.09",
+      "Learning Objective": "identify how language is used to describe characters and settings"
+    },
+    {
+      "Lesson Number": "93",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ri.10",
+      "Learning Objective": "identify how language is used to create mood"
+    },
+    {
+      "Lesson Number": "94",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ri.11",
+      "Learning Objective": "identify rhyming words in poems"
+    },
+    {
+      "Lesson Number": "95",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ri.12",
+      "Learning Objective": "recognise and discuss patterns in poetry"
+    },
+    {
+      "Lesson Number": "96",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ri.13",
+      "Learning Objective": "identify the features of different text types"
+    },
+    {
+      "Lesson Number": "97",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ri.14",
+      "Learning Objective": "compare different texts on the same topic"
+    },
+    {
+      "Lesson Number": "98",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ri.15",
+      "Learning Objective": "identify the use of repetition in texts"
+    },
+    {
+      "Lesson Number": "99",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ri.16",
+      "Learning Objective": "discuss favourite words and phrases in texts"
+    },
+    {
+      "Lesson Number": "100",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rs.01",
+      "Learning Objective": "participate in discussions about texts"
+    },
+    {
+      "Lesson Number": "101",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rs.02",
+      "Learning Objective": "ask and answer questions about texts"
+    },
+    {
+      "Lesson Number": "102",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rs.03",
+      "Learning Objective": "express opinions about texts"
+    },
+    {
+      "Lesson Number": "103",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rv.01",
+      "Learning Objective": "read and understand simple texts with familiar vocabulary; answer questions about the text"
+    },
+    {
+      "Lesson Number": "104",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rv.02",
+      "Learning Objective": "identify the main events in a story; retell the story in their own words"
+    },
+    {
+      "Lesson Number": "105",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rv.03",
+      "Learning Objective": "recognise and understand simple instructions; follow them correctly"
+    },
+    {
+      "Lesson Number": "106",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rv.04",
+      "Learning Objective": "identify and explain the meaning of simple words in context"
+    },
+    {
+      "Lesson Number": "107",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rv.05",
+      "Learning Objective": "predict what might happen next in a story; give reasons for their predictions"
+    },
+    {
+      "Lesson Number": "108",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rw.01",
+      "Learning Objective": "recognise and read common high-frequency words; use them in context"
+    },
+    {
+      "Lesson Number": "109",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rw.02",
+      "Learning Objective": "read aloud with increasing fluency; use expression and intonation"
+    },
+    {
+      "Lesson Number": "110",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rw.03",
+      "Learning Objective": "use phonics to decode unfamiliar words; blend sounds accurately"
+    },
+    {
+      "Lesson Number": "111",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rw.04",
+      "Learning Objective": "identify and use prefixes and suffixes to understand word meanings"
+    },
+    {
+      "Lesson Number": "112",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rw.05",
+      "Learning Objective": "recognise and use simple compound words; understand their meanings"
+    },
+    {
+      "Lesson Number": "113",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rw.06",
+      "Learning Objective": "use a dictionary to find the meaning of unfamiliar words; spell them correctly"
+    },
+    {
+      "Lesson Number": "114",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Rw.07",
+      "Learning Objective": "read and understand simple sentences; identify the subject and verb"
+    },
+    {
+      "Lesson Number": "115",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wc.01",
+      "Learning Objective": "write simple sentences using capital letters and full stops; check for accuracy"
+    },
+    {
+      "Lesson Number": "116",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wc.02",
+      "Learning Objective": "use adjectives to describe nouns; make sentences more interesting"
+    },
+    {
+      "Lesson Number": "117",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wc.03",
+      "Learning Objective": "write simple instructions; use clear and logical steps"
+    },
+    {
+      "Lesson Number": "118",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wc.04",
+      "Learning Objective": "write a short recount of an event; include time connectives"
+    },
+    {
+      "Lesson Number": "119",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wc.05",
+      "Learning Objective": "write a simple story; include a beginning; middle and end"
+    },
+    {
+      "Lesson Number": "120",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wg.01",
+      "Learning Objective": "use capital letters for names and the start of sentences; check for accuracy"
+    },
+    {
+      "Lesson Number": "121",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wg.02",
+      "Learning Objective": "use question marks and exclamation marks correctly; vary sentence types"
+    },
+    {
+      "Lesson Number": "122",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wg.03",
+      "Learning Objective": "use commas to separate items in a list; write lists clearly"
+    },
+    {
+      "Lesson Number": "123",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wg.04",
+      "Learning Objective": "use apostrophes for contractions; spell contractions correctly"
+    },
+    {
+      "Lesson Number": "124",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wg.05",
+      "Learning Objective": "use apostrophes for possession; show ownership accurately"
+    },
+    {
+      "Lesson Number": "125",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wg.06",
+      "Learning Objective": "use conjunctions to join sentences; create compound sentences"
+    },
+    {
+      "Lesson Number": "126",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wg.07",
+      "Learning Objective": "use adverbs to describe verbs; make sentences more detailed"
+    },
+    {
+      "Lesson Number": "127",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wg.08",
+      "Learning Objective": "use prepositions to show position; write sentences accurately"
+    },
+    {
+      "Lesson Number": "128",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wg.09",
+      "Learning Objective": "use pronouns to replace nouns; avoid repetition in writing"
+    },
+    {
+      "Lesson Number": "129",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wg.10",
+      "Learning Objective": "use time connectives to sequence events; write logically"
+    },
+    {
+      "Lesson Number": "130",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wp.01",
+      "Learning Objective": "plan writing by discussing ideas; organise thoughts clearly"
+    },
+    {
+      "Lesson Number": "131",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wp.02",
+      "Learning Objective": "draft writing by writing sentences; check for clarity and meaning"
+    },
+    {
+      "Lesson Number": "132",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wp.03",
+      "Learning Objective": "edit writing by checking spelling; punctuation and grammar"
+    },
+    {
+      "Lesson Number": "133",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wp.04",
+      "Learning Objective": "write sentences using a variety of sentence structures; including simple and compound sentences"
+    },
+    {
+      "Lesson Number": "134",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wp.05",
+      "Learning Objective": "use capital letters; full stops; question marks and exclamation marks correctly in writing"
+    },
+    {
+      "Lesson Number": "135",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wp.06",
+      "Learning Objective": "write narratives with a clear beginning; middle and end"
+    },
+    {
+      "Lesson Number": "136",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ws.01",
+      "Learning Objective": "use a range of sentence starters to vary sentence structure"
+    },
+    {
+      "Lesson Number": "137",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ws.02",
+      "Learning Objective": "use conjunctions to join sentences; such as and; but; because"
+    },
+    {
+      "Lesson Number": "138",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ws.03",
+      "Learning Objective": "use adjectives to describe nouns and make writing more interesting"
+    },
+    {
+      "Lesson Number": "139",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wv.01",
+      "Learning Objective": "use a range of vocabulary to express ideas clearly"
+    },
+    {
+      "Lesson Number": "140",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wv.02",
+      "Learning Objective": "use synonyms to avoid repetition in writing"
+    },
+    {
+      "Lesson Number": "141",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wv.03",
+      "Learning Objective": "use topic-specific vocabulary accurately"
+    },
+    {
+      "Lesson Number": "142",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wv.04",
+      "Learning Objective": "use prefixes and suffixes to change word meanings"
+    },
+    {
+      "Lesson Number": "143",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Wv.05",
+      "Learning Objective": "use a dictionary to find the meanings of unfamiliar words"
+    },
+    {
+      "Lesson Number": "144",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ww.01",
+      "Learning Objective": "spell common words correctly; including high-frequency words"
+    },
+    {
+      "Lesson Number": "145",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ww.02",
+      "Learning Objective": "spell words with common prefixes and suffixes correctly"
+    },
+    {
+      "Lesson Number": "146",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ww.03",
+      "Learning Objective": "use knowledge of phonics to spell unfamiliar words"
+    },
+    {
+      "Lesson Number": "147",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ww.04",
+      "Learning Objective": "use apostrophes for contractions correctly"
+    },
+    {
+      "Lesson Number": "148",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ww.05",
+      "Learning Objective": "use apostrophes for singular possession correctly"
+    },
+    {
+      "Lesson Number": "149",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ww.06",
+      "Learning Objective": "use homophones correctly in writing"
+    },
+    {
+      "Lesson Number": "150",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ww.07",
+      "Learning Objective": "use a dictionary to check spelling"
+    },
+    {
+      "Lesson Number": "151",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ww.08",
+      "Learning Objective": "use a thesaurus to find alternative words"
+    },
+    {
+      "Lesson Number": "152",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ww.09",
+      "Learning Objective": "proofread writing to correct spelling errors"
+    },
+    {
+      "Lesson Number": "153",
+      "Subject": "English",
+      "Year/Grade": "Stage 2",
+      "Topic": "2Ww.10",
+      "Learning Objective": "use correct spelling in final drafts of writing"
+    },
+    {
+      "Lesson Number": "154",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ra.01",
+      "Learning Objective": "read aloud with increasing fluency and expression"
+    },
+    {
+      "Lesson Number": "155",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ra.02",
+      "Learning Objective": "recognise and understand the meaning of common prefixes and suffixes"
+    },
+    {
+      "Lesson Number": "156",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ra.03",
+      "Learning Objective": "identify and explain the main ideas in a text"
+    },
+    {
+      "Lesson Number": "157",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ra.04",
+      "Learning Objective": "identify and explain the sequence of events in a text"
+    },
+    {
+      "Lesson Number": "158",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ra.05",
+      "Learning Objective": "identify and explain how language; structure and presentation contribute to meaning"
+    },
+    {
+      "Lesson Number": "159",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rg.01",
+      "Learning Objective": "recognise and understand the meaning of common homophones"
+    },
+    {
+      "Lesson Number": "160",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rg.02",
+      "Learning Objective": "recognise and understand the meaning of common synonyms and antonyms"
+    },
+    {
+      "Lesson Number": "161",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rg.03",
+      "Learning Objective": "recognise and understand the meaning of common idioms"
+    },
+    {
+      "Lesson Number": "162",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rg.04",
+      "Learning Objective": "recognise and understand the meaning of common similes"
+    },
+    {
+      "Lesson Number": "163",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rg.05",
+      "Learning Objective": "recognise and understand the meaning of common metaphors"
+    },
+    {
+      "Lesson Number": "164",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rg.06",
+      "Learning Objective": "recognise and understand the meaning of common proverbs"
+    },
+    {
+      "Lesson Number": "165",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rg.07",
+      "Learning Objective": "recognise and understand the meaning of common alliteration"
+    },
+    {
+      "Lesson Number": "166",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rg.08",
+      "Learning Objective": "recognise and understand the meaning of common onomatopoeia"
+    },
+    {
+      "Lesson Number": "167",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rg.09",
+      "Learning Objective": "recognise and understand the meaning of common personification"
+    },
+    {
+      "Lesson Number": "168",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rg.10",
+      "Learning Objective": "recognise and understand the meaning of common hyperbole"
+    },
+    {
+      "Lesson Number": "169",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rg.11",
+      "Learning Objective": "recognise and understand the meaning of common repetition"
+    },
+    {
+      "Lesson Number": "170",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.01",
+      "Learning Objective": "identify and explain the purpose of a text"
+    },
+    {
+      "Lesson Number": "171",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.02",
+      "Learning Objective": "identify and explain the audience of a text"
+    },
+    {
+      "Lesson Number": "172",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.03",
+      "Learning Objective": "identify and explain the context of a text"
+    },
+    {
+      "Lesson Number": "173",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.04",
+      "Learning Objective": "identify and explain the viewpoint of a text"
+    },
+    {
+      "Lesson Number": "174",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.05",
+      "Learning Objective": "identify and explain the bias in a text"
+    },
+    {
+      "Lesson Number": "175",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.06",
+      "Learning Objective": "identify and explain the fact and opinion in a text"
+    },
+    {
+      "Lesson Number": "176",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.07",
+      "Learning Objective": "identify and explain the persuasive techniques in a text"
+    },
+    {
+      "Lesson Number": "177",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.08",
+      "Learning Objective": "identify and explain the emotive language in a text"
+    },
+    {
+      "Lesson Number": "178",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.09",
+      "Learning Objective": "identify and explain the rhetorical questions in a text"
+    },
+    {
+      "Lesson Number": "179",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.10",
+      "Learning Objective": "identify and explain the statistics in a text"
+    },
+    {
+      "Lesson Number": "180",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.11",
+      "Learning Objective": "identify and explain the expert opinions in a text"
+    },
+    {
+      "Lesson Number": "181",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.12",
+      "Learning Objective": "identify and explain the anecdotes in a text"
+    },
+    {
+      "Lesson Number": "182",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.13",
+      "Learning Objective": "identify and explain the quotations in a text"
+    },
+    {
+      "Lesson Number": "183",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.14",
+      "Learning Objective": "identify and explain the references in a text"
+    },
+    {
+      "Lesson Number": "184",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.15",
+      "Learning Objective": "identify the main ideas and supporting details in a text; summarise the key points"
+    },
+    {
+      "Lesson Number": "185",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.16",
+      "Learning Objective": "make inferences based on evidence from the text; explain their reasoning"
+    },
+    {
+      "Lesson Number": "186",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ri.17",
+      "Learning Objective": "compare and contrast information from different texts; identify similarities and differences"
+    },
+    {
+      "Lesson Number": "187",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rs.01",
+      "Learning Objective": "read aloud with fluency and expression; use appropriate intonation and phrasing"
+    },
+    {
+      "Lesson Number": "188",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rs.02",
+      "Learning Objective": "participate in discussions about texts; share opinions and justify them"
+    },
+    {
+      "Lesson Number": "189",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rs.03",
+      "Learning Objective": "ask and answer questions about texts; demonstrate understanding"
+    },
+    {
+      "Lesson Number": "190",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rs.04",
+      "Learning Objective": "use context clues to understand unfamiliar words; expand vocabulary"
+    },
+    {
+      "Lesson Number": "191",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rv.01",
+      "Learning Objective": "recognise and understand the meaning of common prefixes and suffixes; use them in context"
+    },
+    {
+      "Lesson Number": "192",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rv.02",
+      "Learning Objective": "identify synonyms and antonyms; use them to enhance writing"
+    },
+    {
+      "Lesson Number": "193",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rv.03",
+      "Learning Objective": "understand and use figurative language; recognise similes and metaphors"
+    },
+    {
+      "Lesson Number": "194",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rv.04",
+      "Learning Objective": "identify the purpose and audience of a text; explain how language is used"
+    },
+    {
+      "Lesson Number": "195",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rv.05",
+      "Learning Objective": "recognise different text types; understand their features and purposes"
+    },
+    {
+      "Lesson Number": "196",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rv.06",
+      "Learning Objective": "use a dictionary and thesaurus to find meanings and synonyms; expand vocabulary"
+    },
+    {
+      "Lesson Number": "197",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rv.07",
+      "Learning Objective": "understand and use homophones and homonyms; avoid confusion in writing"
+    },
+    {
+      "Lesson Number": "198",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rw.01",
+      "Learning Objective": "plan and write narratives with a clear structure; include a beginning; middle and end"
+    },
+    {
+      "Lesson Number": "199",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rw.02",
+      "Learning Objective": "write non-fiction texts with appropriate features; use headings and subheadings"
+    },
+    {
+      "Lesson Number": "200",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rw.03",
+      "Learning Objective": "use descriptive language to enhance writing; create vivid images"
+    },
+    {
+      "Lesson Number": "201",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Rw.04",
+      "Learning Objective": "edit and improve writing; check for spelling; punctuation and grammar"
+    },
+    {
+      "Lesson Number": "202",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wc.01",
+      "Learning Objective": "use capital letters and full stops correctly; apply basic punctuation rules"
+    },
+    {
+      "Lesson Number": "203",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wc.02",
+      "Learning Objective": "use commas to separate items in a list; apply punctuation accurately"
+    },
+    {
+      "Lesson Number": "204",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wc.03",
+      "Learning Objective": "use apostrophes for possession and contraction; avoid common errors"
+    },
+    {
+      "Lesson Number": "205",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wc.04",
+      "Learning Objective": "use speech marks to indicate direct speech; punctuate dialogue correctly"
+    },
+    {
+      "Lesson Number": "206",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wc.05",
+      "Learning Objective": "use paragraphs to organise ideas; ensure coherence and clarity"
+    },
+    {
+      "Lesson Number": "207",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wc.06",
+      "Learning Objective": "use conjunctions to link sentences and ideas; create complex sentences"
+    },
+    {
+      "Lesson Number": "208",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wg.01",
+      "Learning Objective": "use nouns; verbs and adjectives correctly; ensure grammatical accuracy"
+    },
+    {
+      "Lesson Number": "209",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wg.02",
+      "Learning Objective": "use pronouns to avoid repetition; ensure clarity in writing"
+    },
+    {
+      "Lesson Number": "210",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wg.03",
+      "Learning Objective": "use adverbs to modify verbs; add detail to sentences"
+    },
+    {
+      "Lesson Number": "211",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wg.04",
+      "Learning Objective": "use prepositions to show relationships; ensure clarity in writing"
+    },
+    {
+      "Lesson Number": "212",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wg.05",
+      "Learning Objective": "use tenses consistently; avoid errors in verb forms"
+    },
+    {
+      "Lesson Number": "213",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wg.06",
+      "Learning Objective": "use modal verbs to indicate possibility; obligation and necessity"
+    },
+    {
+      "Lesson Number": "214",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wg.07",
+      "Learning Objective": "use a range of sentence structures; including simple and compound sentences"
+    },
+    {
+      "Lesson Number": "215",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wg.08",
+      "Learning Objective": "use a range of punctuation marks correctly; including full stops; commas; and question marks"
+    },
+    {
+      "Lesson Number": "216",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wp.01",
+      "Learning Objective": "plan writing by discussing and recording ideas"
+    },
+    {
+      "Lesson Number": "217",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wp.02",
+      "Learning Objective": "draft and write by composing sentences orally before writing"
+    },
+    {
+      "Lesson Number": "218",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wp.03",
+      "Learning Objective": "draft and write by organising paragraphs around a theme"
+    },
+    {
+      "Lesson Number": "219",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wp.04",
+      "Learning Objective": "draft and write by using a range of sentence structures"
+    },
+    {
+      "Lesson Number": "220",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wp.05",
+      "Learning Objective": "edit and improve writing by checking for sense and accuracy"
+    },
+    {
+      "Lesson Number": "221",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ws.01",
+      "Learning Objective": "spell words with common prefixes and suffixes"
+    },
+    {
+      "Lesson Number": "222",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ws.02",
+      "Learning Objective": "spell words with silent letters"
+    },
+    {
+      "Lesson Number": "223",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ws.03",
+      "Learning Objective": "spell words with homophones and near-homophones"
+    },
+    {
+      "Lesson Number": "224",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ws.04",
+      "Learning Objective": "use a dictionary to check spelling and meaning of words"
+    },
+    {
+      "Lesson Number": "225",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wv.01",
+      "Learning Objective": "understand and use a range of vocabulary related to familiar topics"
+    },
+    {
+      "Lesson Number": "226",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wv.02",
+      "Learning Objective": "understand and use a range of vocabulary related to less familiar topics"
+    },
+    {
+      "Lesson Number": "227",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wv.03",
+      "Learning Objective": "use synonyms and antonyms to enhance writing"
+    },
+    {
+      "Lesson Number": "228",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wv.04",
+      "Learning Objective": "use similes and metaphors to enhance writing"
+    },
+    {
+      "Lesson Number": "229",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wv.05",
+      "Learning Objective": "use idiomatic expressions to enhance writing"
+    },
+    {
+      "Lesson Number": "230",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wv.06",
+      "Learning Objective": "use technical vocabulary appropriately"
+    },
+    {
+      "Lesson Number": "231",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Wv.07",
+      "Learning Objective": "use vocabulary to create specific effects in writing"
+    },
+    {
+      "Lesson Number": "232",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ww.01",
+      "Learning Objective": "write narratives with a clear structure; including setting; characters; and plot"
+    },
+    {
+      "Lesson Number": "233",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ww.02",
+      "Learning Objective": "write non-fiction texts with a clear purpose; including instructions; reports; and explanations"
+    },
+    {
+      "Lesson Number": "234",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ww.03",
+      "Learning Objective": "write poetry with attention to rhythm; rhyme; and imagery"
+    },
+    {
+      "Lesson Number": "235",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ww.04",
+      "Learning Objective": "write letters with appropriate layout and tone"
+    },
+    {
+      "Lesson Number": "236",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ww.05",
+      "Learning Objective": "write for different audiences; adapting style and vocabulary as needed"
+    },
+    {
+      "Lesson Number": "237",
+      "Subject": "English",
+      "Year/Grade": "Stage 3",
+      "Topic": "3Ww.06",
+      "Learning Objective": "write for different purposes; including to inform; persuade; and entertain"
+    },
+    {
+      "Lesson Number": "238",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ra.01",
+      "Learning Objective": "read aloud a range of texts with accuracy and expression"
+    },
+    {
+      "Lesson Number": "239",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ra.02",
+      "Learning Objective": "identify and explain the main ideas in a text"
+    },
+    {
+      "Lesson Number": "240",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ra.03",
+      "Learning Objective": "identify and explain the sequence of events in a text"
+    },
+    {
+      "Lesson Number": "241",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ra.04",
+      "Learning Objective": "identify and explain how language; structure and presentation contribute to meaning"
+    },
+    {
+      "Lesson Number": "242",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rg.01",
+      "Learning Objective": "recognise and understand the vocabulary associated with books and reading"
+    },
+    {
+      "Lesson Number": "243",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rg.02",
+      "Learning Objective": "recognise and understand the vocabulary associated with grammar and punctuation"
+    },
+    {
+      "Lesson Number": "244",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rg.03",
+      "Learning Objective": "recognise and understand the vocabulary associated with poetry"
+    },
+    {
+      "Lesson Number": "245",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rg.04",
+      "Learning Objective": "recognise and understand the vocabulary associated with non-fiction texts"
+    },
+    {
+      "Lesson Number": "246",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rg.05",
+      "Learning Objective": "recognise and understand the vocabulary associated with fiction texts"
+    },
+    {
+      "Lesson Number": "247",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rg.06",
+      "Learning Objective": "recognise and understand the vocabulary associated with plays"
+    },
+    {
+      "Lesson Number": "248",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rg.07",
+      "Learning Objective": "recognise and understand the vocabulary associated with word meanings"
+    },
+    {
+      "Lesson Number": "249",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rg.08",
+      "Learning Objective": "recognise and understand the vocabulary associated with word origins"
+    },
+    {
+      "Lesson Number": "250",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rg.09",
+      "Learning Objective": "recognise and understand the vocabulary associated with word families"
+    },
+    {
+      "Lesson Number": "251",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rg.10",
+      "Learning Objective": "recognise and understand the vocabulary associated with figurative language"
+    },
+    {
+      "Lesson Number": "252",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.01",
+      "Learning Objective": "identify and explain the purpose of a text"
+    },
+    {
+      "Lesson Number": "253",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.02",
+      "Learning Objective": "identify and explain the audience for a text"
+    },
+    {
+      "Lesson Number": "254",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.03",
+      "Learning Objective": "identify and explain the context of a text"
+    },
+    {
+      "Lesson Number": "255",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.04",
+      "Learning Objective": "identify and explain the viewpoint in a text"
+    },
+    {
+      "Lesson Number": "256",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.05",
+      "Learning Objective": "identify and explain the effect of a text on the reader"
+    },
+    {
+      "Lesson Number": "257",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.06",
+      "Learning Objective": "identify and explain the use of persuasive language in a text"
+    },
+    {
+      "Lesson Number": "258",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.07",
+      "Learning Objective": "identify and explain the use of descriptive language in a text"
+    },
+    {
+      "Lesson Number": "259",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.08",
+      "Learning Objective": "identify and explain the use of figurative language in a text"
+    },
+    {
+      "Lesson Number": "260",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.09",
+      "Learning Objective": "identify and explain the use of dialogue in a text"
+    },
+    {
+      "Lesson Number": "261",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.10",
+      "Learning Objective": "identify and explain the use of narrative voice in a text"
+    },
+    {
+      "Lesson Number": "262",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.11",
+      "Learning Objective": "identify and explain the use of tense in a text"
+    },
+    {
+      "Lesson Number": "263",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.12",
+      "Learning Objective": "identify and explain the use of pronouns in a text"
+    },
+    {
+      "Lesson Number": "264",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.13",
+      "Learning Objective": "identify and explain the use of connectives in a text"
+    },
+    {
+      "Lesson Number": "265",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.14",
+      "Learning Objective": "identify and explain the use of adverbs in a text"
+    },
+    {
+      "Lesson Number": "266",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.15",
+      "Learning Objective": "identify and explain the use of adjectives in a text"
+    },
+    {
+      "Lesson Number": "267",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.16",
+      "Learning Objective": "identify and explain the use of prepositions in a text"
+    },
+    {
+      "Lesson Number": "268",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ri.17",
+      "Learning Objective": "identify and explain the main ideas in a text; summarise key information"
+    },
+    {
+      "Lesson Number": "269",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rs.01",
+      "Learning Objective": "read aloud with fluency and expression; adjust pace for effect"
+    },
+    {
+      "Lesson Number": "270",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rs.02",
+      "Learning Objective": "use appropriate intonation and tone to convey meaning"
+    },
+    {
+      "Lesson Number": "271",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rs.03",
+      "Learning Objective": "participate in discussions; listen and respond to others"
+    },
+    {
+      "Lesson Number": "272",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rs.04",
+      "Learning Objective": "ask questions to clarify understanding; build on others' ideas"
+    },
+    {
+      "Lesson Number": "273",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rv.01",
+      "Learning Objective": "understand the meaning of words in context; use a dictionary to check"
+    },
+    {
+      "Lesson Number": "274",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rv.02",
+      "Learning Objective": "identify synonyms and antonyms; expand vocabulary"
+    },
+    {
+      "Lesson Number": "275",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rv.03",
+      "Learning Objective": "recognise and use figurative language; similes and metaphors"
+    },
+    {
+      "Lesson Number": "276",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rv.04",
+      "Learning Objective": "understand prefixes and suffixes; use them to deduce meaning"
+    },
+    {
+      "Lesson Number": "277",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rv.05",
+      "Learning Objective": "explore word families; recognise root words"
+    },
+    {
+      "Lesson Number": "278",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rv.06",
+      "Learning Objective": "identify homophones and homonyms; use correctly"
+    },
+    {
+      "Lesson Number": "279",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rv.07",
+      "Learning Objective": "understand and use technical vocabulary; subject-specific terms"
+    },
+    {
+      "Lesson Number": "280",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rv.08",
+      "Learning Objective": "explore the origins of words; etymology"
+    },
+    {
+      "Lesson Number": "281",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rw.01",
+      "Learning Objective": "identify the purpose and audience of a text; explain features"
+    },
+    {
+      "Lesson Number": "282",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rw.02",
+      "Learning Objective": "recognise different text types; their structures and language"
+    },
+    {
+      "Lesson Number": "283",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Rw.03",
+      "Learning Objective": "compare texts; identify similarities and differences"
+    },
+    {
+      "Lesson Number": "284",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wc.01",
+      "Learning Objective": "write for a range of purposes; audience and form"
+    },
+    {
+      "Lesson Number": "285",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wc.02",
+      "Learning Objective": "organise writing logically; use paragraphs"
+    },
+    {
+      "Lesson Number": "286",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wc.03",
+      "Learning Objective": "use a variety of sentence structures; vary length and type"
+    },
+    {
+      "Lesson Number": "287",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wc.04",
+      "Learning Objective": "choose vocabulary for effect; precise and engaging"
+    },
+    {
+      "Lesson Number": "288",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wc.05",
+      "Learning Objective": "use descriptive language; create vivid images"
+    },
+    {
+      "Lesson Number": "289",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wc.06",
+      "Learning Objective": "develop characters and settings; use dialogue"
+    },
+    {
+      "Lesson Number": "290",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wc.07",
+      "Learning Objective": "write instructions and explanations; clear and sequential"
+    },
+    {
+      "Lesson Number": "291",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wc.08",
+      "Learning Objective": "write persuasive texts; use rhetorical devices"
+    },
+    {
+      "Lesson Number": "292",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wc.09",
+      "Learning Objective": "edit and improve writing; check for errors"
+    },
+    {
+      "Lesson Number": "293",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wc.10",
+      "Learning Objective": "present writing neatly; use appropriate layout"
+    },
+    {
+      "Lesson Number": "294",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wg.01",
+      "Learning Objective": "use capital letters; full stops and question marks correctly"
+    },
+    {
+      "Lesson Number": "295",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wg.02",
+      "Learning Objective": "use commas for lists and clauses; apostrophes for possession"
+    },
+    {
+      "Lesson Number": "296",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wg.03",
+      "Learning Objective": "spell common words correctly; use spelling patterns"
+    },
+    {
+      "Lesson Number": "297",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wg.04",
+      "Learning Objective": "use connectives to link ideas; create cohesion"
+    },
+    {
+      "Lesson Number": "298",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wg.05",
+      "Learning Objective": "use a range of sentence structures; including simple and compound sentences; to vary writing"
+    },
+    {
+      "Lesson Number": "299",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wg.06",
+      "Learning Objective": "use a range of conjunctions to link ideas; including coordinating and subordinating conjunctions"
+    },
+    {
+      "Lesson Number": "300",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wg.07",
+      "Learning Objective": "use paragraphs to organise ideas; grouping related material together"
+    },
+    {
+      "Lesson Number": "301",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wg.08",
+      "Learning Objective": "use a range of punctuation marks correctly; including commas; apostrophes; and inverted commas"
+    },
+    {
+      "Lesson Number": "302",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wg.09",
+      "Learning Objective": "use a range of vocabulary to add detail and interest to writing"
+    },
+    {
+      "Lesson Number": "303",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wg.10",
+      "Learning Objective": "use a range of grammatical structures to create different effects; such as questions; commands; and exclamations"
+    },
+    {
+      "Lesson Number": "304",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wp.01",
+      "Learning Objective": "plan writing by discussing and recording ideas; including through mind maps and notes"
+    },
+    {
+      "Lesson Number": "305",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wp.02",
+      "Learning Objective": "draft and write by organising ideas into paragraphs; using headings and subheadings where appropriate"
+    },
+    {
+      "Lesson Number": "306",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wp.03",
+      "Learning Objective": "evaluate and edit writing by checking for sense; accuracy; and improvement"
+    },
+    {
+      "Lesson Number": "307",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wp.04",
+      "Learning Objective": "proofread for spelling; punctuation; and grammar errors"
+    },
+    {
+      "Lesson Number": "308",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wp.05",
+      "Learning Objective": "present writing neatly; using appropriate handwriting or digital tools"
+    },
+    {
+      "Lesson Number": "309",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ws.01",
+      "Learning Objective": "write narratives; developing characters; settings; and plot"
+    },
+    {
+      "Lesson Number": "310",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ws.02",
+      "Learning Objective": "write non-fiction texts; using appropriate features such as headings; bullet points; and diagrams"
+    },
+    {
+      "Lesson Number": "311",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ws.03",
+      "Learning Objective": "write poetry; experimenting with rhyme; rhythm; and figurative language"
+    },
+    {
+      "Lesson Number": "312",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ws.04",
+      "Learning Objective": "write for a range of purposes and audiences; adapting style and tone accordingly"
+    },
+    {
+      "Lesson Number": "313",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wv.01",
+      "Learning Objective": "understand and use a range of vocabulary; including synonyms and antonyms"
+    },
+    {
+      "Lesson Number": "314",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wv.02",
+      "Learning Objective": "understand and use figurative language; such as similes and metaphors"
+    },
+    {
+      "Lesson Number": "315",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wv.03",
+      "Learning Objective": "understand and use technical vocabulary related to specific subjects"
+    },
+    {
+      "Lesson Number": "316",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wv.04",
+      "Learning Objective": "understand and use prefixes and suffixes to change word meaning"
+    },
+    {
+      "Lesson Number": "317",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wv.05",
+      "Learning Objective": "understand and use root words to build vocabulary"
+    },
+    {
+      "Lesson Number": "318",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Wv.06",
+      "Learning Objective": "understand and use homophones and homonyms correctly"
+    },
+    {
+      "Lesson Number": "319",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ww.01",
+      "Learning Objective": "spell words with common prefixes and suffixes correctly"
+    },
+    {
+      "Lesson Number": "320",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ww.02",
+      "Learning Objective": "spell words with silent letters correctly"
+    },
+    {
+      "Lesson Number": "321",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ww.03",
+      "Learning Objective": "spell words with irregular patterns correctly"
+    },
+    {
+      "Lesson Number": "322",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ww.04",
+      "Learning Objective": "spell words with double letters correctly"
+    },
+    {
+      "Lesson Number": "323",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ww.05",
+      "Learning Objective": "spell words with common endings correctly"
+    },
+    {
+      "Lesson Number": "324",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ww.06",
+      "Learning Objective": "spell words with common letter patterns correctly"
+    },
+    {
+      "Lesson Number": "325",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ww.07",
+      "Learning Objective": "spell words with common homophones correctly"
+    },
+    {
+      "Lesson Number": "326",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ww.08",
+      "Learning Objective": "use a dictionary to check spelling and meaning of words"
+    },
+    {
+      "Lesson Number": "327",
+      "Subject": "English",
+      "Year/Grade": "Stage 4",
+      "Topic": "4Ww.09",
+      "Learning Objective": "use a thesaurus to find synonyms and antonyms for words"
+    },
+    {
+      "Lesson Number": "328",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ra.01",
+      "Learning Objective": "read and demonstrate understanding of a range of fiction; poetry and non-fiction texts"
+    },
+    {
+      "Lesson Number": "329",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ra.02",
+      "Learning Objective": "identify and explain the main ideas and themes in texts"
+    },
+    {
+      "Lesson Number": "330",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ra.03",
+      "Learning Objective": "identify and explain how meaning is enhanced through choice of words and phrases"
+    },
+    {
+      "Lesson Number": "331",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ra.04",
+      "Learning Objective": "make inferences from the text and justify them with evidence"
+    },
+    {
+      "Lesson Number": "332",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rg.01",
+      "Learning Objective": "understand how word meanings change when used in different contexts"
+    },
+    {
+      "Lesson Number": "333",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rg.02",
+      "Learning Objective": "identify and explain figurative language such as similes; metaphors and personification"
+    },
+    {
+      "Lesson Number": "334",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rg.03",
+      "Learning Objective": "recognise and understand the use of synonyms and antonyms"
+    },
+    {
+      "Lesson Number": "335",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rg.04",
+      "Learning Objective": "identify and explain the effect of word choices on meaning and mood"
+    },
+    {
+      "Lesson Number": "336",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rg.05",
+      "Learning Objective": "understand how prefixes and suffixes change word meanings"
+    },
+    {
+      "Lesson Number": "337",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rg.06",
+      "Learning Objective": "recognise and use a range of vocabulary appropriate to the context"
+    },
+    {
+      "Lesson Number": "338",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.01",
+      "Learning Objective": "retrieve and record information from non-fiction texts"
+    },
+    {
+      "Lesson Number": "339",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.02",
+      "Learning Objective": "identify and summarise key information from texts"
+    },
+    {
+      "Lesson Number": "340",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.03",
+      "Learning Objective": "compare and contrast information from different texts"
+    },
+    {
+      "Lesson Number": "341",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.04",
+      "Learning Objective": "use organisational features to locate information"
+    },
+    {
+      "Lesson Number": "342",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.05",
+      "Learning Objective": "evaluate the reliability of information in texts"
+    },
+    {
+      "Lesson Number": "343",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.06",
+      "Learning Objective": "identify the purpose and audience of a text"
+    },
+    {
+      "Lesson Number": "344",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.07",
+      "Learning Objective": "recognise the difference between fact and opinion"
+    },
+    {
+      "Lesson Number": "345",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.08",
+      "Learning Objective": "identify and explain the writer’s viewpoint"
+    },
+    {
+      "Lesson Number": "346",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.09",
+      "Learning Objective": "understand how language and structure contribute to meaning"
+    },
+    {
+      "Lesson Number": "347",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.10",
+      "Learning Objective": "identify and explain how texts are structured for different purposes"
+    },
+    {
+      "Lesson Number": "348",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.11",
+      "Learning Objective": "recognise and explain the use of persuasive language"
+    },
+    {
+      "Lesson Number": "349",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.12",
+      "Learning Objective": "identify and explain the use of rhetorical questions"
+    },
+    {
+      "Lesson Number": "350",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.13",
+      "Learning Objective": "understand how bias can influence a reader"
+    },
+    {
+      "Lesson Number": "351",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.14",
+      "Learning Objective": "recognise and explain the use of emotive language"
+    },
+    {
+      "Lesson Number": "352",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.15",
+      "Learning Objective": "identify and explain the use of statistics and evidence in persuasive texts"
+    },
+    {
+      "Lesson Number": "353",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.16",
+      "Learning Objective": "understand how different cultures and traditions are represented in texts"
+    },
+    {
+      "Lesson Number": "354",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ri.17",
+      "Learning Objective": "recognise and explain stereotypes in texts"
+    },
+    {
+      "Lesson Number": "355",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rs.01",
+      "Learning Objective": "read aloud with fluency and expression"
+    },
+    {
+      "Lesson Number": "356",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rs.02",
+      "Learning Objective": "use appropriate intonation and tone when reading aloud"
+    },
+    {
+      "Lesson Number": "357",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rs.03",
+      "Learning Objective": "participate in discussions about texts; listening to others and sharing ideas"
+    },
+    {
+      "Lesson Number": "358",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rv.01",
+      "Learning Objective": "understand and respond to a range of texts; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "359",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rv.02",
+      "Learning Objective": "identify and explain the main ideas and themes in texts; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "360",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rv.03",
+      "Learning Objective": "identify and explain the purpose and audience of texts; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "361",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rv.04",
+      "Learning Objective": "identify and explain the structure and organisation of texts; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "362",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rv.05",
+      "Learning Objective": "identify and explain the use of language features in texts; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "363",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rv.06",
+      "Learning Objective": "make inferences and predictions based on evidence from texts; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "364",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rv.07",
+      "Learning Objective": "compare and contrast different texts; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "365",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Rw.01",
+      "Learning Objective": "read and understand a range of texts; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "366",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wc.01",
+      "Learning Objective": "write for a range of purposes and audiences; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "367",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wc.02",
+      "Learning Objective": "use a range of sentence structures to create effect in writing; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "368",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wc.03",
+      "Learning Objective": "use a range of vocabulary to create effect in writing; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "369",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wc.04",
+      "Learning Objective": "use a range of punctuation to create effect in writing; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "370",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wc.05",
+      "Learning Objective": "use a range of grammar to create effect in writing; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "371",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wc.06",
+      "Learning Objective": "plan; draft; edit and revise writing; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "372",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wc.07",
+      "Learning Objective": "use a range of spelling strategies to spell words correctly; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "373",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wc.08",
+      "Learning Objective": "present writing clearly and effectively; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "374",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wg.01",
+      "Learning Objective": "use a range of sentence structures to create effect in writing; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "375",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wg.02",
+      "Learning Objective": "use a range of vocabulary to create effect in writing; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "376",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wg.03",
+      "Learning Objective": "use a range of punctuation to create effect in writing; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "377",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wg.04",
+      "Learning Objective": "use a range of grammar to create effect in writing; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "378",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wg.05",
+      "Learning Objective": "plan; draft; edit and revise writing; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "379",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wg.06",
+      "Learning Objective": "use a range of spelling strategies to spell words correctly; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "380",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wg.07",
+      "Learning Objective": "present writing clearly and effectively; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "381",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wg.08",
+      "Learning Objective": "use a range of sentence structures to create effect in writing; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "382",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wp.01",
+      "Learning Objective": "plan; draft; edit and revise writing; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "383",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wp.02",
+      "Learning Objective": "use a range of spelling strategies to spell words correctly; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "384",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wp.03",
+      "Learning Objective": "present writing clearly and effectively; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "385",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wp.04",
+      "Learning Objective": "use a range of sentence structures to create effect in writing; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "386",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wp.05",
+      "Learning Objective": "use a range of vocabulary to create effect in writing; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "387",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ws.01",
+      "Learning Objective": "use a range of punctuation to create effect in writing; including fiction; non-fiction; poetry and plays"
+    },
+    {
+      "Lesson Number": "388",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ws.02",
+      "Learning Objective": "identify and explain the main ideas in a text; summarise key points"
+    },
+    {
+      "Lesson Number": "389",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ws.03",
+      "Learning Objective": "infer characters' feelings; thoughts and motives from their actions"
+    },
+    {
+      "Lesson Number": "390",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wv.01",
+      "Learning Objective": "understand how words are related by meaning; e.g. synonyms and antonyms"
+    },
+    {
+      "Lesson Number": "391",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wv.02",
+      "Learning Objective": "use a range of strategies to understand unfamiliar words; including context and word roots"
+    },
+    {
+      "Lesson Number": "392",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wv.03",
+      "Learning Objective": "explore how words can have different meanings in different contexts"
+    },
+    {
+      "Lesson Number": "393",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wv.04",
+      "Learning Objective": "recognise and use figurative language; such as similes and metaphors"
+    },
+    {
+      "Lesson Number": "394",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Wv.05",
+      "Learning Objective": "understand how prefixes and suffixes change word meaning"
+    },
+    {
+      "Lesson Number": "395",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ww.01",
+      "Learning Objective": "spell words with silent letters; e.g. knight; doubt"
+    },
+    {
+      "Lesson Number": "396",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ww.02",
+      "Learning Objective": "spell words with unstressed vowels; e.g. separate; desperate"
+    },
+    {
+      "Lesson Number": "397",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ww.03",
+      "Learning Objective": "use knowledge of word families to spell new words"
+    },
+    {
+      "Lesson Number": "398",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ww.04",
+      "Learning Objective": "spell words with common letter strings but different pronunciations; e.g. tough; through"
+    },
+    {
+      "Lesson Number": "399",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ww.05",
+      "Learning Objective": "use dictionaries to check spelling and meaning"
+    },
+    {
+      "Lesson Number": "400",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ww.06",
+      "Learning Objective": "use a thesaurus to expand vocabulary"
+    },
+    {
+      "Lesson Number": "401",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ww.07",
+      "Learning Objective": "use apostrophes for possession and contraction"
+    },
+    {
+      "Lesson Number": "402",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ww.08",
+      "Learning Objective": "use commas to clarify meaning in complex sentences"
+    },
+    {
+      "Lesson Number": "403",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ww.09",
+      "Learning Objective": "use hyphens to avoid ambiguity; e.g. man-eating shark"
+    },
+    {
+      "Lesson Number": "404",
+      "Subject": "English",
+      "Year/Grade": "Stage 5",
+      "Topic": "5Ww.10",
+      "Learning Objective": "use brackets; dashes or commas to indicate parenthesis"
+    },
+    {
+      "Lesson Number": "405",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ra.01",
+      "Learning Objective": "read and explore a range of fiction; non-fiction; poetry and plays; developing understanding of different genres and styles"
+    },
+    {
+      "Lesson Number": "406",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ra.02",
+      "Learning Objective": "identify and discuss themes; characters and events in texts; making connections to personal experiences and other texts"
+    },
+    {
+      "Lesson Number": "407",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ra.03",
+      "Learning Objective": "use inference and deduction to understand implied meanings; justifying interpretations with evidence from the text"
+    },
+    {
+      "Lesson Number": "408",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ra.04",
+      "Learning Objective": "explore how authors use language; structure and presentation to create effects and engage the reader"
+    },
+    {
+      "Lesson Number": "409",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rg.01",
+      "Learning Objective": "understand and use a range of grammatical terms to describe sentence structure; word classes and language features"
+    },
+    {
+      "Lesson Number": "410",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rg.02",
+      "Learning Objective": "identify and use different sentence types; including simple; compound and complex sentences; for clarity and effect"
+    },
+    {
+      "Lesson Number": "411",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rg.03",
+      "Learning Objective": "use a range of punctuation accurately; including commas; dashes; colons and semi-colons; to clarify meaning"
+    },
+    {
+      "Lesson Number": "412",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rg.04",
+      "Learning Objective": "understand and use modal verbs to indicate degrees of possibility; certainty and obligation"
+    },
+    {
+      "Lesson Number": "413",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rg.05",
+      "Learning Objective": "use expanded noun phrases to add detail and precision to writing; including prepositions and relative clauses"
+    },
+    {
+      "Lesson Number": "414",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rg.06",
+      "Learning Objective": "understand and use passive and active voice appropriately; recognising their effects on meaning and tone"
+    },
+    {
+      "Lesson Number": "415",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rg.07",
+      "Learning Objective": "use cohesive devices; such as conjunctions; adverbials and pronouns; to link ideas across paragraphs and texts"
+    },
+    {
+      "Lesson Number": "416",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rg.08",
+      "Learning Objective": "recognise and use formal and informal language appropriately; depending on audience and purpose"
+    },
+    {
+      "Lesson Number": "417",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.01",
+      "Learning Objective": "retrieve and record information from non-fiction texts; using headings; subheadings and other organisational features"
+    },
+    {
+      "Lesson Number": "418",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.02",
+      "Learning Objective": "summarise main ideas from texts; distinguishing between key points and supporting details"
+    },
+    {
+      "Lesson Number": "419",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.03",
+      "Learning Objective": "compare and contrast information from different sources; identifying similarities and differences"
+    },
+    {
+      "Lesson Number": "420",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.04",
+      "Learning Objective": "evaluate the reliability and usefulness of information; considering the author’s purpose and perspective"
+    },
+    {
+      "Lesson Number": "421",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.05",
+      "Learning Objective": "identify and explain the purpose; audience and context of different texts; including persuasive; informative and instructional texts"
+    },
+    {
+      "Lesson Number": "422",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.06",
+      "Learning Objective": "recognise and analyse bias; stereotypes and persuasive techniques in texts; considering their impact on the reader"
+    },
+    {
+      "Lesson Number": "423",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.07",
+      "Learning Objective": "interpret and analyse visual elements in texts; such as illustrations; diagrams and charts; to support understanding"
+    },
+    {
+      "Lesson Number": "424",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.08",
+      "Learning Objective": "make predictions based on evidence from the text; justifying reasoning with reference to the text"
+    },
+    {
+      "Lesson Number": "425",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.09",
+      "Learning Objective": "identify and explain the use of figurative language; such as similes; metaphors and personification; in texts"
+    },
+    {
+      "Lesson Number": "426",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.10",
+      "Learning Objective": "explore how authors use dialogue and description to develop characters and advance the plot"
+    },
+    {
+      "Lesson Number": "427",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.11",
+      "Learning Objective": "analyse how authors use setting and atmosphere to create mood and engage the reader"
+    },
+    {
+      "Lesson Number": "428",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.12",
+      "Learning Objective": "understand and explain how narrative structure; including openings; climaxes and resolutions; shapes a story"
+    },
+    {
+      "Lesson Number": "429",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.13",
+      "Learning Objective": "identify and discuss the use of rhetorical devices; such as repetition; rhetorical questions and emotive language; in persuasive texts"
+    },
+    {
+      "Lesson Number": "430",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.14",
+      "Learning Objective": "explore how authors use humour; irony and satire to entertain and convey meaning"
+    },
+    {
+      "Lesson Number": "431",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.15",
+      "Learning Objective": "recognise and analyse the use of symbolism and motifs in texts; considering their significance"
+    },
+    {
+      "Lesson Number": "432",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.16",
+      "Learning Objective": "understand and explain how historical; cultural and social contexts influence texts and their interpretation"
+    },
+    {
+      "Lesson Number": "433",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ri.17",
+      "Learning Objective": "reflect on personal responses to texts; considering how they relate to wider themes and ideas"
+    },
+    {
+      "Lesson Number": "434",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rs.01",
+      "Learning Objective": "participate in discussions; listening carefully and responding with relevant comments and questions"
+    },
+    {
+      "Lesson Number": "435",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rs.02",
+      "Learning Objective": "identify and explain the main ideas and themes in a text; summarise key points"
+    },
+    {
+      "Lesson Number": "436",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rs.03",
+      "Learning Objective": "make inferences and justify them with evidence from the text"
+    },
+    {
+      "Lesson Number": "437",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rv.01",
+      "Learning Objective": "understand the meaning of unfamiliar words using context; roots; prefixes and suffixes"
+    },
+    {
+      "Lesson Number": "438",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rv.02",
+      "Learning Objective": "explore the use of figurative language; including similes; metaphors and personification"
+    },
+    {
+      "Lesson Number": "439",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rv.03",
+      "Learning Objective": "identify and explain the effect of language choices; including word choice and sentence structure"
+    },
+    {
+      "Lesson Number": "440",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rv.04",
+      "Learning Objective": "recognise and explain the purpose and audience of different text types"
+    },
+    {
+      "Lesson Number": "441",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rv.05",
+      "Learning Objective": "compare and contrast texts on similar themes or topics"
+    },
+    {
+      "Lesson Number": "442",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Rv.06",
+      "Learning Objective": "evaluate the effectiveness of a text in achieving its purpose"
+    },
+    {
+      "Lesson Number": "443",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wc.01",
+      "Learning Objective": "write for a range of purposes and audiences; adapting style and tone as appropriate"
+    },
+    {
+      "Lesson Number": "444",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wc.02",
+      "Learning Objective": "organise writing into clear paragraphs with a logical sequence of ideas"
+    },
+    {
+      "Lesson Number": "445",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wc.03",
+      "Learning Objective": "use a range of sentence structures to create effect and clarity"
+    },
+    {
+      "Lesson Number": "446",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wc.04",
+      "Learning Objective": "use a variety of vocabulary to enhance meaning and interest"
+    },
+    {
+      "Lesson Number": "447",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wc.05",
+      "Learning Objective": "use punctuation accurately to clarify meaning; including commas; dashes and colons"
+    },
+    {
+      "Lesson Number": "448",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wc.06",
+      "Learning Objective": "use accurate spelling; including homophones and words with silent letters"
+    },
+    {
+      "Lesson Number": "449",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wc.07",
+      "Learning Objective": "proofread and edit writing to improve clarity and coherence"
+    },
+    {
+      "Lesson Number": "450",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wc.08",
+      "Learning Objective": "present writing neatly and legibly; using appropriate layout and formatting"
+    },
+    {
+      "Lesson Number": "451",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wg.01",
+      "Learning Objective": "use nouns; pronouns and determiners accurately and appropriately"
+    },
+    {
+      "Lesson Number": "452",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wg.02",
+      "Learning Objective": "use verbs and verb tenses accurately and appropriately"
+    },
+    {
+      "Lesson Number": "453",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wg.03",
+      "Learning Objective": "use adjectives and adverbs to add detail and description"
+    },
+    {
+      "Lesson Number": "454",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wg.04",
+      "Learning Objective": "use prepositions and conjunctions to show relationships between ideas"
+    },
+    {
+      "Lesson Number": "455",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wg.05",
+      "Learning Objective": "use direct and reported speech accurately and appropriately"
+    },
+    {
+      "Lesson Number": "456",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wg.06",
+      "Learning Objective": "use modal verbs to indicate possibility; obligation and necessity"
+    },
+    {
+      "Lesson Number": "457",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wg.07",
+      "Learning Objective": "use passive and active voice appropriately"
+    },
+    {
+      "Lesson Number": "458",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wg.08",
+      "Learning Objective": "use complex sentences to express detailed ideas"
+    },
+    {
+      "Lesson Number": "459",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wp.01",
+      "Learning Objective": "plan writing by identifying purpose; audience and structure"
+    },
+    {
+      "Lesson Number": "460",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wp.02",
+      "Learning Objective": "draft writing by developing ideas and organising them logically"
+    },
+    {
+      "Lesson Number": "461",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wp.03",
+      "Learning Objective": "revise writing by improving content; structure and language"
+    },
+    {
+      "Lesson Number": "462",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wp.04",
+      "Learning Objective": "proofread writing to correct errors in grammar; punctuation and spelling"
+    },
+    {
+      "Lesson Number": "463",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wp.05",
+      "Learning Objective": "present final drafts neatly and legibly; using appropriate layout and formatting"
+    },
+    {
+      "Lesson Number": "464",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ws.01",
+      "Learning Objective": "use a range of strategies to spell unfamiliar words accurately"
+    },
+    {
+      "Lesson Number": "465",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ws.02",
+      "Learning Objective": "use a range of sentence structures to create specific effects; vary sentence length for impact"
+    },
+    {
+      "Lesson Number": "466",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ws.03",
+      "Learning Objective": "use paragraphs to organise ideas; ensure coherence and cohesion within and between paragraphs"
+    },
+    {
+      "Lesson Number": "467",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ws.04",
+      "Learning Objective": "use a range of cohesive devices to link ideas across paragraphs; ensure clarity and logical progression"
+    },
+    {
+      "Lesson Number": "468",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wv.01",
+      "Learning Objective": "understand and use a range of vocabulary related to specific topics; expand word knowledge through reading"
+    },
+    {
+      "Lesson Number": "469",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wv.02",
+      "Learning Objective": "use synonyms and antonyms to enhance meaning; avoid repetition in writing"
+    },
+    {
+      "Lesson Number": "470",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wv.03",
+      "Learning Objective": "understand and use figurative language; recognise metaphors; similes and personification"
+    },
+    {
+      "Lesson Number": "471",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wv.04",
+      "Learning Objective": "use prefixes and suffixes to modify word meaning; understand root words and their derivatives"
+    },
+    {
+      "Lesson Number": "472",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wv.05",
+      "Learning Objective": "understand and use homophones; homonyms and homographs correctly in context"
+    },
+    {
+      "Lesson Number": "473",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Wv.06",
+      "Learning Objective": "use a dictionary and thesaurus to find word meanings; synonyms and antonyms"
+    },
+    {
+      "Lesson Number": "474",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ww.01",
+      "Learning Objective": "spell a wide range of words correctly; including those with complex spelling patterns"
+    },
+    {
+      "Lesson Number": "475",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ww.02",
+      "Learning Objective": "use apostrophes correctly for possession and contraction; understand their function"
+    },
+    {
+      "Lesson Number": "476",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ww.03",
+      "Learning Objective": "use commas accurately to separate clauses; items in a list and after introductory phrases"
+    },
+    {
+      "Lesson Number": "477",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ww.04",
+      "Learning Objective": "use inverted commas for direct speech; punctuate dialogue correctly"
+    },
+    {
+      "Lesson Number": "478",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ww.05",
+      "Learning Objective": "use colons and semi-colons appropriately; understand their functions in sentences"
+    },
+    {
+      "Lesson Number": "479",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ww.06",
+      "Learning Objective": "use brackets; dashes and hyphens correctly; understand their purpose in writing"
+    },
+    {
+      "Lesson Number": "480",
+      "Subject": "English",
+      "Year/Grade": "Stage 6",
+      "Topic": "6Ww.07",
+      "Learning Objective": "use capital letters correctly for proper nouns; titles and the start of sentences"
+    }
+  ]
+}

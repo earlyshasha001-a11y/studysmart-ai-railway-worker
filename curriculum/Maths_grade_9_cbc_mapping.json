@@ -1,0 +1,958 @@
+{
+  "curriculum_name": "Maths grade 9 cbc",
+  "total_lessons": 119,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Integers",
+      "Learning Objective": "a) perform basic operations on Integers in different situations"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Integers",
+      "Learning Objective": "b) work out combined Operations on Integers in different situations"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Integers",
+      "Learning Objective": "c) apply Integers to real life situations to solve problems"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Integers",
+      "Learning Objective": "d) use IT or other resources to learn more on integers"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Integers",
+      "Learning Objective": "e) appreciate use of integers in real life situations"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Cubes and Cube Roots",
+      "Learning Objective": "a) Work out cubes of numbers by multiplication in real life situations"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Cubes and Cube Roots",
+      "Learning Objective": "b) Determine cubes of numbers from mathematical tables in different situations"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Cubes and Cube Roots",
+      "Learning Objective": "c) Determine cube roots of numbers by factor method in different situations"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Cubes and Cube Roots",
+      "Learning Objective": "d) Determine cube roots of numbers from mathematical tables in different situations"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Cubes and Cube Roots",
+      "Learning Objective": "e) Apply cubes and cube roots in real life situations"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Cubes and Cube Roots",
+      "Learning Objective": "f) Work out cubes and cube roots using IT devices"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Algebra",
+      "Sub-strand": "1.3 Indices and Logarithms",
+      "Learning Objective": "a) Express numbers in index form in different situations"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Algebra",
+      "Sub-strand": "1.3 Indices and Logarithms",
+      "Learning Objective": "b) Generate the laws of Indices in different situations"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Algebra",
+      "Sub-strand": "1.3 Indices and Logarithms",
+      "Learning Objective": "c) Apply the laws of indices in different situations"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Algebra",
+      "Sub-strand": "1.3 Indices and Logarithms",
+      "Learning Objective": "d) Relate Powers of 10 to common logarithms in different situations"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Algebra",
+      "Sub-strand": "1.3 Indices and Logarithms",
+      "Learning Objective": "e) Use IT to learn more on indices and common logarithms"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Algebra",
+      "Sub-strand": "1.3 Indices and Logarithms",
+      "Learning Objective": "f) Appreciate use of indices and logarithms in real life situations"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Compound Proportions and Rates of Work",
+      "Learning Objective": "a) divide quantities into proportional parts in real life situations"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Compound Proportions and Rates of Work",
+      "Learning Objective": "b) relate different ratios in real life situations"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Compound Proportions and Rates of Work",
+      "Learning Objective": "c) work out compound proportions using ratio method in different situations"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Compound Proportions and Rates of Work",
+      "Learning Objective": "d) calculate rates of work in real life situations"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Compound Proportions and Rates of Work",
+      "Learning Objective": "e) use IT devices to learn more on Compound proportions and rates of work"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Compound Proportions and Rates of Work",
+      "Learning Objective": "f) appreciate use of Compound proportions and rates of work in real life situations"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.1 Matrices",
+      "Learning Objective": "a) identify a matrix in different situations"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.1 Matrices",
+      "Learning Objective": "b) determine the order of a matrix in different situations"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.1 Matrices",
+      "Learning Objective": "c) determine the position of items in a matrix in different situations"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.1 Matrices",
+      "Learning Objective": "d) determine compatibility of matrices in addition and subtraction"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.1 Matrices",
+      "Learning Objective": "e) carry out addition and subtraction of matrices in real life situations"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.1 Matrices",
+      "Learning Objective": "f) reflect on the use of matrices in real life situations"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Equations of a Straight Line",
+      "Learning Objective": "a) identify the gradient in real life situations"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Equations of a Straight Line",
+      "Learning Objective": "b) determine the gradient of a line from two known points"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Equations of a Straight Line",
+      "Learning Objective": "c) determine the equation of a straight line given two points"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Equations of a Straight Line",
+      "Learning Objective": "d) determine the equation of a straight line from a known point and a gradient"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Equations of a Straight Line",
+      "Learning Objective": "e) express the equation of a straight line in the form of y = mx + c"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Equations of a Straight Line",
+      "Learning Objective": "f) interpret the equation y = mx + c in different situations"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Equations of a Straight Line",
+      "Learning Objective": "g) determine the x and y intercepts of a straight line"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Equations of a Straight Line",
+      "Learning Objective": "h) recognize the use of equations of straight lines in real life"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.3 Linear Inequalities",
+      "Learning Objective": "a) solve linear inequalities in one unknown"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.3 Linear Inequalities",
+      "Learning Objective": "b) represent linear inequalities in one unknown graphically"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.3 Linear Inequalities",
+      "Learning Objective": "c) represent linear inequality in two unknowns graphically"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.3 Linear Inequalities",
+      "Learning Objective": "d) apply linear inequalities to real life situations"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.3 Linear Inequalities",
+      "Learning Objective": "e) reflect on the use of linear inequalities in real life"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.1 Area",
+      "Learning Objective": "a) calculate the area of a pentagon and a hexagon in different situations"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.1 Area",
+      "Learning Objective": "b) work out the surface area of triangular and rectangular based prisms"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.1 Area",
+      "Learning Objective": "c) work out the surface area of triangular; rectangular and square based pyramids"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.1 Area",
+      "Learning Objective": "d) calculate the area of a sector and segment of a circle"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.1 Area",
+      "Learning Objective": "e) work out the surface area of a cone in real life situations"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.1 Area",
+      "Learning Objective": "f) calculate the surface area of a sphere in real life situations"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.1 Area",
+      "Learning Objective": "g) recognize the use of area in real life situations"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Volume of Solids",
+      "Learning Objective": "a) work out the volume of a triangular and rectangular based prisms"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Volume of Solids",
+      "Learning Objective": "b) calculate the volume of a triangular; rectangular and squares based pyramids"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Volume of Solids",
+      "Learning Objective": "c) work out the volume of a cone in real life situations"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Volume of Solids",
+      "Learning Objective": "d) determine the volume of a frustum in real life situations"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Volume of Solids",
+      "Learning Objective": "e) calculate the volume of a sphere in real life situations"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Volume of Solids",
+      "Learning Objective": "f) promote use of volume and capacity of different containers in real life situations"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Mass; Volume; Weight and Density",
+      "Learning Objective": "a) convert units of mass from one form to another in different situations"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Mass; Volume; Weight and Density",
+      "Learning Objective": "b) relate mass and weight in real life situations"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Mass; Volume; Weight and Density",
+      "Learning Objective": "c) determine mass; volume and density in different situations"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Mass; Volume; Weight and Density",
+      "Learning Objective": "d) apply density to real life situations"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Mass; Volume; Weight and Density",
+      "Learning Objective": "e) recognize the use of density in daily life"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.4 Time; Distance and Speed",
+      "Learning Objective": "a) work out speed in km/h and m/s in real life situations"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.4 Time; Distance and Speed",
+      "Learning Objective": "b) work out average speed in real life situations"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.4 Time; Distance and Speed",
+      "Learning Objective": "c) determine velocity in real life situations"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.4 Time; Distance and Speed",
+      "Learning Objective": "d) work out acceleration in real life situations"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.4 Time; Distance and Speed",
+      "Learning Objective": "e) identify the longitudes on the globe"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.4 Time; Distance and Speed",
+      "Learning Objective": "f) relate longitudes to time on the globe"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.4 Time; Distance and Speed",
+      "Learning Objective": "g) determine local time of places on the earth along different longitudes"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.4 Time; Distance and Speed",
+      "Learning Objective": "h) appreciate use of time and distance in real life situations"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.5 Money",
+      "Learning Objective": "a) identify currencies that are used in different countries"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.5 Money",
+      "Learning Objective": "b) convert currency from one form to another in real life situations"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.5 Money",
+      "Learning Objective": "c) work out import and export duties charged on goods and services"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.5 Money",
+      "Learning Objective": "d) work out excise duty charged on goods and services"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.5 Money",
+      "Learning Objective": "e) determine value added tax charged on goods and services"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.5 Money",
+      "Learning Objective": "f) appreciate use of money in day to day activities"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.6 Approximations and Errors",
+      "Learning Objective": "a) approximate quantities in measurements in different situations"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.6 Approximations and Errors",
+      "Learning Objective": "b) determine errors using estimations and actual measurements of quantities"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.6 Approximations and Errors",
+      "Learning Objective": "c) determine percentage errors using actual measurements of quantities"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.6 Approximations and Errors",
+      "Learning Objective": "d) appreciate approximations and errors in real life situations"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Coordinates and Graphs",
+      "Learning Objective": "a) plot out points on a Cartesian plane"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Coordinates and Graphs",
+      "Learning Objective": "b) draw a straight line graph given an equation"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Coordinates and Graphs",
+      "Learning Objective": "c) draw parallel lines on the Cartesian plane"
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Coordinates and Graphs",
+      "Learning Objective": "d) relate the gradients of parallel lines"
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Coordinates and Graphs",
+      "Learning Objective": "e) draw perpendicular lines on the Cartesian plane"
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Coordinates and Graphs",
+      "Learning Objective": "f) relate the gradients of perpendicular lines"
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Coordinates and Graphs",
+      "Learning Objective": "g) apply graphs of straight line in real life situation"
+    },
+    {
+      "Lesson Number": "86",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Scale Drawing",
+      "Learning Objective": "a) identify compass and true bearings in real life situations"
+    },
+    {
+      "Lesson Number": "87",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Scale Drawing",
+      "Learning Objective": "b) determine the bearing of one point from another in real life situations"
+    },
+    {
+      "Lesson Number": "88",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Scale Drawing",
+      "Learning Objective": "c) locate a point using bearing and distance in real life situations"
+    },
+    {
+      "Lesson Number": "89",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Scale Drawing",
+      "Learning Objective": "d) identify angles of elevation in real life situations"
+    },
+    {
+      "Lesson Number": "90",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Scale Drawing",
+      "Learning Objective": "e) determine angles of elevation in different situations"
+    },
+    {
+      "Lesson Number": "91",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Scale Drawing",
+      "Learning Objective": "f) identify angles of depression in real life situations"
+    },
+    {
+      "Lesson Number": "92",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Scale Drawing",
+      "Learning Objective": "g) determine angles of depression in different situations"
+    },
+    {
+      "Lesson Number": "93",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Scale Drawing",
+      "Learning Objective": "h) apply scale drawing in simple surveying"
+    },
+    {
+      "Lesson Number": "94",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Scale Drawing",
+      "Learning Objective": "i) appreciate the use of scale drawing in real life situations"
+    },
+    {
+      "Lesson Number": "95",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Similarity and Enlargement",
+      "Learning Objective": "a) identify similar figures and their properties"
+    },
+    {
+      "Lesson Number": "96",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Similarity and Enlargement",
+      "Learning Objective": "b) draw similar figures in different situations"
+    },
+    {
+      "Lesson Number": "97",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Similarity and Enlargement",
+      "Learning Objective": "c) determine properties of enlargement of different figures"
+    },
+    {
+      "Lesson Number": "98",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Similarity and Enlargement",
+      "Learning Objective": "d) apply properties of enlargement to draw similar objects and their images"
+    },
+    {
+      "Lesson Number": "99",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Similarity and Enlargement",
+      "Learning Objective": "e) determine the linear scale factor of similar figures"
+    },
+    {
+      "Lesson Number": "100",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Similarity and Enlargement",
+      "Learning Objective": "f) promote use of similarity and enlargement in real life situations"
+    },
+    {
+      "Lesson Number": "101",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.4 Trigonometry",
+      "Learning Objective": "a) identify angles and sides of right angled triangles in different situations"
+    },
+    {
+      "Lesson Number": "102",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.4 Trigonometry",
+      "Learning Objective": "b) identify Sine; Cosine and Tangent ratios from a right angled triangle in different situations"
+    },
+    {
+      "Lesson Number": "103",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.4 Trigonometry",
+      "Learning Objective": "c) read tables of trigonometric ratios for acute angles"
+    },
+    {
+      "Lesson Number": "104",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.4 Trigonometry",
+      "Learning Objective": "d) determine trigonometric ratios of acute angles using calculators"
+    },
+    {
+      "Lesson Number": "105",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.4 Trigonometry",
+      "Learning Objective": "e) apply trigonometric ratios to calculate lengths and angles of right angled triangles in different situations"
+    },
+    {
+      "Lesson Number": "106",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.4 Trigonometry",
+      "Learning Objective": "f) appreciate use of trigonometric ratios in real life situations"
+    },
+    {
+      "Lesson Number": "107",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.1 Data Interpretation (Grouped Data)",
+      "Learning Objective": "a) determine appropriate class width for grouping data"
+    },
+    {
+      "Lesson Number": "108",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.1 Data Interpretation (Grouped Data)",
+      "Learning Objective": "b) draw frequency distribution tables of grouped data"
+    },
+    {
+      "Lesson Number": "109",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.1 Data Interpretation (Grouped Data)",
+      "Learning Objective": "c) identify the modal class of grouped data"
+    },
+    {
+      "Lesson Number": "110",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.1 Data Interpretation (Grouped Data)",
+      "Learning Objective": "d) calculate the mean of a grouped data from real life situations"
+    },
+    {
+      "Lesson Number": "111",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.1 Data Interpretation (Grouped Data)",
+      "Learning Objective": "e) determine the median of a grouped data from real life situations"
+    },
+    {
+      "Lesson Number": "112",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.1 Data Interpretation (Grouped Data)",
+      "Learning Objective": "f) appreciate data interpretation in real life situations"
+    },
+    {
+      "Lesson Number": "113",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.2 Probability",
+      "Learning Objective": "a) perform experiments involving equally and likely outcomes in different situations"
+    },
+    {
+      "Lesson Number": "114",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.2 Probability",
+      "Learning Objective": "b) determine the range of probability of an event"
+    },
+    {
+      "Lesson Number": "115",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.2 Probability",
+      "Learning Objective": "c) identify mutually exclusive events in real life situations"
+    },
+    {
+      "Lesson Number": "116",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.2 Probability",
+      "Learning Objective": "d) perform experiments of single chance involving mutually exclusive events"
+    },
+    {
+      "Lesson Number": "117",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.2 Probability",
+      "Learning Objective": "e) perform experiments involving independent events in different situations"
+    },
+    {
+      "Lesson Number": "118",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.2 Probability",
+      "Learning Objective": "f) draw a tree diagram for a single outcome"
+    },
+    {
+      "Lesson Number": "119",
+      "Subject": "Mathematics",
+      "Grade": "Grade 9",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.2 Probability",
+      "Learning Objective": "g) appreciate the probability of events occurring in real life situations"
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "curriculum_name": "businesses studies form 3-4 844",
+  "total_lessons": 78,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.1.1 Money",
+      "Learning Objective": "Identify the key security features of the Kenyan currency"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.1.1 Money",
+      "Learning Objective": "Describe the functions of money when carrying out financial transactions"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.1.1 Money",
+      "Learning Objective": "Justify the demand for money for achieving economic development"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.1.1 Money",
+      "Learning Objective": "Examine the factors that determine supply of money in an economy"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.1.1 Money",
+      "Learning Objective": "Evaluate ethical practices on the use of money in financial transactions"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.1.1 Money",
+      "Learning Objective": "Acknowledge the role of money in day-to-day life"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.2.1 Business Goals",
+      "Learning Objective": "Analyse the importance of goal setting in business"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.2.1 Business Goals",
+      "Learning Objective": "Examine the factors to consider when setting goals for a business"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.2.1 Business Goals",
+      "Learning Objective": "Describe steps followed when setting business goals"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.2.1 Business Goals",
+      "Learning Objective": "Formulate SMART short term and long term goals for a business"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.2.1 Business Goals",
+      "Learning Objective": "Appreciate the need for setting goals in business"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.3.1 Budgeting in Business",
+      "Learning Objective": "Explain the importance of budgeting in business"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.3.1 Budgeting in Business",
+      "Learning Objective": "Analyse the types of business budgets for financial planning"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.3.1 Budgeting in Business",
+      "Learning Objective": "Prepare a budget to control spending in business"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.3.1 Budgeting in Business",
+      "Learning Objective": "Appreciate the need for budgeting in business"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.4.1 Banking",
+      "Learning Objective": "Explain the importance of banking in an economy"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.4.1 Banking",
+      "Learning Objective": "Analyse types of accounts offered by banks"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.4.1 Banking",
+      "Learning Objective": "Explore the ethical practices in banking"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.4.1 Banking",
+      "Learning Objective": "Describe the trends in banking in Kenya"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "1.4.1 Banking",
+      "Learning Objective": "Appreciate the role of banking in an economy"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.1.1 Business Activities",
+      "Learning Objective": "Explain the concept of needs and wants as used in day to day life"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.1.1 Business Activities",
+      "Learning Objective": "Analyse the types of economic resources in satisfaction of human needs and wants"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.1.1 Business Activities",
+      "Learning Objective": "Investigate the importance of business activities in the society"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.1.1 Business Activities",
+      "Learning Objective": "Classify business activities in an economy"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.1.1 Business Activities",
+      "Learning Objective": "Examine the micro and macro factors that affect business activities"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.1.1 Business Activities",
+      "Learning Objective": "Appreciate the importance of business activities in an economy"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.2.1 Types of Business Ownership",
+      "Learning Objective": "Explore the formation; management; sources of finance; advantages; and disadvantages of a sole proprietorship business enterprise in Kenya"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.2.1 Types of Business Ownership",
+      "Learning Objective": "Examine the formation; management; sources of finance; advantages; and disadvantages of a partnership business enterprise in Kenya"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.2.1 Types of Business Ownership",
+      "Learning Objective": "Analyse the formation; types; management; sources of finance; advantages; and disadvantages of a cooperative for economic growth"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.2.1 Types of Business Ownership",
+      "Learning Objective": "Acknowledge the role of sole proprietorship; partnerships and cooperative societies in the economy"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.3.1 Social Responsibility of Business",
+      "Learning Objective": "Justify the need for social responsibility of a business in the society"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.3.1 Social Responsibility of Business",
+      "Learning Objective": "Examine social responsibility activities of a business in the community"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.3.1 Social Responsibility of Business",
+      "Learning Objective": "Analyse the challenges faced by businesses when carrying out social responsibilities"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.3.1 Social Responsibility of Business",
+      "Learning Objective": "Design and implement a social responsibility activity in the school"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.3.1 Social Responsibility of Business",
+      "Learning Objective": "Appreciate the need for business social responsibility in the society and the environment"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.4.1 Entrepreneurship",
+      "Learning Objective": "Assess the entrepreneurial skills for economic growth"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.4.1 Entrepreneurship",
+      "Learning Objective": "Examine the types of entrepreneurs in business"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.4.1 Entrepreneurship",
+      "Learning Objective": "Evaluate business ideas and opportunities for business start-ups"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.4.1 Entrepreneurship",
+      "Learning Objective": "Justify the importance of incubation for business growth"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.4.1 Entrepreneurship",
+      "Learning Objective": "Identify an opportunity and start a business in school"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.4.1 Entrepreneurship",
+      "Learning Objective": "Embrace entrepreneurial skills in business start-ups"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5.1 Production",
+      "Learning Objective": "Analyse the importance of production in an economy"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5.1 Production",
+      "Learning Objective": "Explain factors of production required to produce goods and services"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5.1 Production",
+      "Learning Objective": "Determine the types of costs in a production unit"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5.1 Production",
+      "Learning Objective": "Analyse the concept of the division of labour and specialization in production"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5.1 Production",
+      "Learning Objective": "Examine the roles and responsibilities of a producer to consumer"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5.1 Production",
+      "Learning Objective": "Design an appropriate label for a product"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.5.1 Production",
+      "Learning Objective": "Recognize the role of production in an economy"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.6.1 Consumer Satisfaction",
+      "Learning Objective": "Explore the importance of consumer satisfaction in business"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.6.1 Consumer Satisfaction",
+      "Learning Objective": "Examine the terms and conditions for the supply of goods and services to a consumer"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.6.1 Consumer Satisfaction",
+      "Learning Objective": "Justify the remedies for consumer satisfaction"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.6.1 Consumer Satisfaction",
+      "Learning Objective": "Carry out a customer satisfaction survey for improvement of service delivery"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "2.6.1 Consumer Satisfaction",
+      "Learning Objective": "Embrace the importance of customer satisfaction for business sustainability"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1.1 Public Finance",
+      "Learning Objective": "Explain the importance of public finance in Kenya"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1.1 Public Finance",
+      "Learning Objective": "Assess the concept of taxation in Kenya"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1.1 Public Finance",
+      "Learning Objective": "Analyse the types of custom duties in Kenya"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1.1 Public Finance",
+      "Learning Objective": "Evaluate the trends in taxation in Kenya"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1.1 Public Finance",
+      "Learning Objective": "Identify ethical issues in taxation"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1.1 Public Finance",
+      "Learning Objective": "Write an article on importance of taxation in Kenya to sensitize the community"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.1.1 Public Finance",
+      "Learning Objective": "Appreciate the role of public finance in Kenya"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2.1 International Trade",
+      "Learning Objective": "Examine the concept of international trade in an economy"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2.1 International Trade",
+      "Learning Objective": "Explore the limitations of international trade to a country"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2.1 International Trade",
+      "Learning Objective": "Analyse the terms of sale and payments used in international trade"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2.1 International Trade",
+      "Learning Objective": "Explore digital applications in international trade"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2.1 International Trade",
+      "Learning Objective": "Map the local products that can be developed for export"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "3.2.1 International Trade",
+      "Learning Objective": "Appreciate the importance of international trade in an economy"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.1.1 Business Transactions",
+      "Learning Objective": "Explain the concept of business transaction in book keeping"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.1.1 Business Transactions",
+      "Learning Objective": "Analyse methods used in making payments for goods and services"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.1.1 Business Transactions",
+      "Learning Objective": "Carry out a survey on the methods of payment in the school"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.1.1 Business Transactions",
+      "Learning Objective": "Recognize the methods of making payments for goods and services"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.2.1 Effects of Business Transactions",
+      "Learning Objective": "Analyse the effects of business transactions on the statement of financial position for a business"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.2.1 Effects of Business Transactions",
+      "Learning Objective": "Prepare a statement of financial position after adjustments to determine the net worth of a business"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.2.1 Effects of Business Transactions",
+      "Learning Objective": "Recognise the effects of transactions when determining the net worth of a business"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.3.1 Source Documents and Books of Original Entry",
+      "Learning Objective": "Explain the importance of source documents and books of original entry in book keeping"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.3.1 Source Documents and Books of Original Entry",
+      "Learning Objective": "Analyse the source documents used for recording business transactions"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.3.1 Source Documents and Books of Original Entry",
+      "Learning Objective": "Examine the books of original entry used in book keeping"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.3.1 Source Documents and Books of Original Entry",
+      "Learning Objective": "Record transactions in the relevant books of original entry"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "Business Studies",
+      "Year/Grade": "Form 3-4",
+      "Topic": "4.3.1 Source Documents and Books of Original Entry",
+      "Learning Objective": "Appreciate the books of original entry for recording business transactions"
+    }
+  ]
+}

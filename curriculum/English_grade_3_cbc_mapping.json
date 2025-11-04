@@ -1,0 +1,606 @@
+{
+  "curriculum_name": "English grade 3 cbc",
+  "total_lessons": 75,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.1 Pronunciation and vocabulary",
+      "Learning Objective": "a) recognise words with the target letter–sound combinations (bl; br; cl; and sound /tʃ/) in oral texts"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.1 Pronunciation and vocabulary",
+      "Learning Objective": "b) pronounce the words with the target letter-sound combinations (bl; br; cl; and sound /tʃ/) in preparation for reading"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.1 Pronunciation and vocabulary",
+      "Learning Objective": "c) use the new words learnt to communicate confidently in various contexts"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.1 Pronunciation and vocabulary",
+      "Learning Objective": "d) appreciate the new words learnt to communicate effectively"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.2 Fluency",
+      "Learning Objective": "a) identify words with target letter-sound combinations bl; br; cl; and sound /tʃ/ in a text"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.2 Fluency",
+      "Learning Objective": "b) read a text accurately; at the right speed and with expression for low vision"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.2 Fluency",
+      "Learning Objective": "c) read a text accurately; at the right speed and tonal variation for learners with blindness"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.2 Fluency",
+      "Learning Objective": "d) differentiate the correspondence between spoken words and written words in various contexts"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.2 Comprehension",
+      "Learning Objective": "a) identify characters and setting in a text for comprehension"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.2 Comprehension",
+      "Learning Objective": "b) make predictions and anticipate possible outcomes of a story"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.2 Comprehension",
+      "Learning Objective": "c) use context clues to infer meanings of words in a text"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.2 Comprehension",
+      "Learning Objective": "d) answer simple direct and indirect questions based on a text"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.2 Comprehension",
+      "Learning Objective": "e) appreciate various character traits in a text read for comprehension"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.3 Subject-verb agreement",
+      "Learning Objective": "a) select forms of the verb do from a text"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.3 Subject-verb agreement",
+      "Learning Objective": "b) use the forms of the verb do to show subject verb agreement"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.3 Subject-verb agreement",
+      "Learning Objective": "c) value the importance of subject-verb agreement in well-formed sentences"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.4 Handwriting: Long Words and Descenders",
+      "Learning Objective": "a) recognise aspects of good handwriting for effective communication (for learners with low vision)"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.4 Handwriting: Long Words and Descenders",
+      "Learning Objective": "b) recognise aspects of neat braille writing for effective communication(for learners with blindness)"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.4 Handwriting: Long Words and Descenders",
+      "Learning Objective": "c) write words with ascenders and target letter-sound combinations bl; br; ch; and cl; in clear legible handwriting (for learners with low vision )"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.4 Handwriting: Long Words and Descenders",
+      "Learning Objective": "d) write in neat and legible braille writing (learners with blindness)"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "1.0 Activities at Home and at School",
+      "Sub-strand": "1.4 Handwriting: Long Words and Descenders",
+      "Learning Objective": "e) appreciate the importance of writing clearly and legibly for effective communication"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.1 Pronunciation and vocabulary",
+      "Learning Objective": "a) recognise words with the target letter-sound combinations (‘dr’; ‘fl’; ‘fr’ and ‘gl’) in sentences"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.1 Pronunciation and vocabulary",
+      "Learning Objective": "b) pronounce the target letter-sound combinations (‘dr’; ‘fl’; ‘fr’ and ‘gl’) in words and sentences correctly"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.1 Pronunciation and vocabulary",
+      "Learning Objective": "c) use the vocabulary learnt to communicate appropriately in various contexts"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.1 Pronunciation and vocabulary",
+      "Learning Objective": "d) respond to simple specific three-directional instructions in oral communication"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.1 Pronunciation and vocabulary",
+      "Learning Objective": "e) realise the role of listening attentively and correct pronunciation for effective verbal communication"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.2 Fluency",
+      "Learning Objective": "a) identify words with the target letter-sound combinations (‘dr’; ‘fl’; ‘fr’ and ‘gl’) for ease of reading"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.2 Fluency",
+      "Learning Objective": "b) read a grade-appropriate text accurately; at the right speed and with expression"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.2 Fluency",
+      "Learning Objective": "c) read a grade-appropriate text accurately; at the right speed and with tonal variation"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.2 Fluency",
+      "Learning Objective": "d) adopt reading simple; short texts from a variety of genres"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.2 Comprehension",
+      "Learning Objective": "a) identify words related to the theme"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.2 Comprehension",
+      "Learning Objective": "b) make predictions and anticipate possible outcomes in a story for comprehension"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.2 Comprehension",
+      "Learning Objective": "c) use contextual clues to infer meanings of new words"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.2 Comprehension",
+      "Learning Objective": "d) answer direct and inferential questions for comprehension"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.2 Comprehension",
+      "Learning Objective": "e) acknowledge reading texts for lifelong learning"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.3 Forms of verb ‘do’",
+      "Learning Objective": "a) identify different forms of the verb ‘do’ in a print; braille or digital text"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.3 Forms of verb ‘do’",
+      "Learning Objective": "b) use different forms of the verb ‘do’ to construct sentences for effective communication"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.3 Forms of verb ‘do’",
+      "Learning Objective": "c) embrace the use of different forms of the verb ‘do’ in communication"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.4 Handwriting",
+      "Learning Objective": "a) recognise aspects of good handwriting for effective communication for learners with low vision"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.4 Handwriting",
+      "Learning Objective": "b) recognise aspects of good braille writing for effective communication for learners with blindness"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.4 Handwriting",
+      "Learning Objective": "c) write words related to the theme in clear and legible handwriting or braille writing"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "2.0 Sharing duties and responsibilities",
+      "Sub-strand": "2.4 Handwriting",
+      "Learning Objective": "d) acknowledge the importance of writing correctly; clearly and legibly for different purposes"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.1 Pronunciation and Vocabulary",
+      "Learning Objective": "a) identify words with the target letter-sound combinations (‘cr’; ‘pl’; ‘st’ and ‘sn’) in a text"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.1 Pronunciation and Vocabulary",
+      "Learning Objective": "b) pronounce words with the target letter-sound combinations (‘cr’; ‘pl’; ‘st’ and ‘sn’) correctly"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.1 Pronunciation and Vocabulary",
+      "Learning Objective": "c) use vocabulary related to the theme to communicate in various contexts"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.1 Pronunciation and Vocabulary",
+      "Learning Objective": "d) respond to simple specific three-directional instructions in oral communication"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.1 Pronunciation and Vocabulary",
+      "Learning Objective": "e) appreciate the use of vocabulary related to the theme for effective communication"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.2 Fluency",
+      "Learning Objective": "a) identify words with target letter-sound combinations (‘cr’ and ‘pl’; ‘st’ and ‘sn’) in preparation for reading"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.2 Fluency",
+      "Learning Objective": "b) read a grade-appropriate text accurately; at the right speed and with expression for learners with low vision"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.2 Fluency",
+      "Learning Objective": "c) read a grade-appropriate text accurately; at the right speed and with tonal variation for learners with blindness"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.2 Fluency",
+      "Learning Objective": "d) adopt reading simple; short texts in a variety of genres"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.2 Comprehension",
+      "Learning Objective": "a) identify the main idea; topic/purpose of the text for inference"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.2 Comprehension",
+      "Learning Objective": "b) summarise events in a story to check understanding"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.2 Comprehension",
+      "Learning Objective": "c) explain sequence of events in a text"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.2 Comprehension",
+      "Learning Objective": "d) appreciate the importance of reading a variety of texts for information"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.3 Indefinite pronouns: nobody; anybody; somebody",
+      "Learning Objective": "a) identify indefinite pronouns (nobody; anybody; somebody) in a text"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.3 Indefinite pronouns: nobody; anybody; somebody",
+      "Learning Objective": "b) use indefinite pronouns to construct sentences for effective communication"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.3 Indefinite pronouns: nobody; anybody; somebody",
+      "Learning Objective": "c) acknowledge using indefinite pronouns in day-to-day communication"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.4 Handwriting",
+      "Learning Objective": "a) recognise aspects of good handwriting for effective communication for low vision"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.4 Handwriting",
+      "Learning Objective": "b) recognise aspects of good braille writing for effective communication for low vision"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.4 Handwriting",
+      "Learning Objective": "c) write words in clear and legible handwriting or braille writing"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "3.0 Etiquette",
+      "Sub-strand": "3.4 Handwriting",
+      "Learning Objective": "d) value the importance of writing clearly and legibly for effective communication"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "4.0 Child rights",
+      "Sub-strand": "4.1 Pronunciation and Vocabulary",
+      "Learning Objective": "a) recognise words with the target letter-sound combinations (‘wr’; pr’; ‘sm’; ‘st’) in given words for effective communication"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "4.0 Child rights",
+      "Sub-strand": "4.1 Pronunciation and Vocabulary",
+      "Learning Objective": "b) articulate the words with the target letter-sound combinations (‘wr’; pr’; ‘sm’; ‘st’) correctly"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "4.0 Child rights",
+      "Sub-strand": "4.1 Pronunciation and Vocabulary",
+      "Learning Objective": "c) use new words related to the theme in relevant contexts"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "4.0 Child rights",
+      "Sub-strand": "4.1 Pronunciation and Vocabulary",
+      "Learning Objective": "d) appreciate the importance of listening attentively and using correct pronunciation for effective communication"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "4.0 Child rights",
+      "Sub-strand": "4.2 Fluency",
+      "Learning Objective": "a) recognise words with the target letter-sound combinations (wr’; pr’ sm ’and st) in preparation for reading"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "4.0 Child rights",
+      "Sub-strand": "4.2 Fluency",
+      "Learning Objective": "b) read words with the target letter-sound combinations (‘wr’; ‘pr’ ‘sm’ and ‘st’) correctly"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "4.0 Child rights",
+      "Sub-strand": "4.2 Fluency",
+      "Learning Objective": "c) value the importance of reading fluently in a variety of genres"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "4.0 Child rights",
+      "Sub-strand": "4.2 Comprehension",
+      "Learning Objective": "a) predict the likely outcomes in a story for comprehension"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "4.0 Child rights",
+      "Sub-strand": "4.2 Comprehension",
+      "Learning Objective": "b) answer direct and indirect questions to check for understanding"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "4.0 Child rights",
+      "Sub-strand": "4.2 Comprehension",
+      "Learning Objective": "c) embrace reading a variety of texts for information"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "4.0 Child rights",
+      "Sub-strand": "4.3 Subject- verb agreement – verb ‘do’",
+      "Learning Objective": "a) select forms of the verb do ( do; does did) from a text"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "4.0 Child rights",
+      "Sub-strand": "4.3 Subject- verb agreement – verb ‘do’",
+      "Learning Objective": "b) use the forms of the verb do to show subject verb agreement"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "English",
+      "Grade": "Grade 3",
+      "Strand": "4.0 Child rights",
+      "Sub-strand": "4.3 Subject- verb agreement – verb ‘do’",
+      "Learning Objective": "c) value the importance of subject verb agreement in well-formed sentences"
+    }
+  ]
+}

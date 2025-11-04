@@ -1,0 +1,798 @@
+{
+  "curriculum_name": "English grade 1 cbc",
+  "total_lessons": 99,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Greetings",
+      "Sub-strand": "1.1 Pronunciation and vocabulary",
+      "Learning Objective": "a) recognise the letters and their corresponding sounds for effective communication"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Greetings",
+      "Sub-strand": "1.1 Pronunciation and vocabulary",
+      "Learning Objective": "b) pronounce words with the target sounds accurately for effective communication"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Greetings",
+      "Sub-strand": "1.1 Pronunciation and vocabulary",
+      "Learning Objective": "c) use words related to greetings in everyday conversations"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Greetings",
+      "Sub-strand": "1.1 Pronunciation and vocabulary",
+      "Learning Objective": "d) realize the importance of greetings in diverse contexts"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Greetings",
+      "Sub-strand": "1.2 Pre-reading",
+      "Learning Objective": "a) identify an appropriate posture for reading preparedness"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Greetings",
+      "Sub-strand": "1.2 Pre-reading",
+      "Learning Objective": "b) read words containing the target letters correctly"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Greetings",
+      "Sub-strand": "1.2 Pre-reading",
+      "Learning Objective": "c) realize the importance of correct posture in preparation for reading"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Greetings",
+      "Sub-strand": "1.3 Verb ‘to be’",
+      "Learning Objective": "a) identify the present tense forms of the verb ‘to be’ in sentences"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Greetings",
+      "Sub-strand": "1.3 Verb ‘to be’",
+      "Learning Objective": "b) use the present tense realisations of the verb ‘to be’ to greet and introduce oneself and others"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Greetings",
+      "Sub-strand": "1.3 Verb ‘to be’",
+      "Learning Objective": "c) acknowledge the various present tense forms of the verb ‘to be’ in day-to-day communication"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Greetings",
+      "Sub-strand": "1.4 Pre-writing",
+      "Learning Objective": "a) recognise appropriate sitting posture in preparation for writing"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Greetings",
+      "Sub-strand": "1.4 Pre-writing",
+      "Learning Objective": "b) exhibit appropriate eye-hand coordination in preparation for writing"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "1.0 Greetings",
+      "Sub-strand": "1.4 Pre-writing",
+      "Learning Objective": "c) realize the role of correct posture and positioning of materials in writing"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "2.0 School",
+      "Sub-strand": "2.1 Pronunciation and Vocabulary",
+      "Learning Objective": "a) identify words featuring the target sounds for effective communication"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "2.0 School",
+      "Sub-strand": "2.1 Pronunciation and Vocabulary",
+      "Learning Objective": "b) articulate the target sounds correctly for effective communication"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "2.0 School",
+      "Sub-strand": "2.1 Pronunciation and Vocabulary",
+      "Learning Objective": "c) make sentences using words related to the theme"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "2.0 School",
+      "Sub-strand": "2.1 Pronunciation and Vocabulary",
+      "Learning Objective": "d) realise the role of listening in communication"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "2.0 School",
+      "Sub-strand": "2.2 Pre-reading",
+      "Learning Objective": "a) identify small and capital letters of the alphabet for reading preparedness"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "2.0 School",
+      "Sub-strand": "2.2 Pre-reading",
+      "Learning Objective": "b) demonstrate appropriate posture in preparation for reading"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "2.0 School",
+      "Sub-strand": "2.2 Pre-reading",
+      "Learning Objective": "c) realize the importance of positioning materials appropriately for reading"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "2.0 School",
+      "Sub-strand": "2.3 Subject-verb agreement",
+      "Learning Objective": "a) identify the correct use of subject-verb agreement in statements and questions"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "2.0 School",
+      "Sub-strand": "2.3 Subject-verb agreement",
+      "Learning Objective": "b) construct simple sentences related to the theme with correct subject-verb agreement for effective communication"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "2.0 School",
+      "Sub-strand": "2.3 Subject-verb agreement",
+      "Learning Objective": "c) acknowledge the importance of subject-verb agreement for fluency"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "2.0 School",
+      "Sub-strand": "2.4 Pre-writing",
+      "Learning Objective": "a) identify appropriate sitting posture in preparation for writing"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "2.0 School",
+      "Sub-strand": "2.4 Pre-writing",
+      "Learning Objective": "b) demonstrate appropriate eye hand co-ordination in preparation for writing"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "2.0 School",
+      "Sub-strand": "2.4 Pre-writing",
+      "Learning Objective": "c) realize the importance of positioning oneself and writing materials appropriately in preparation for writing"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Family",
+      "Sub-strand": "3.1 Pronunciation and vocabulary",
+      "Learning Objective": "a) link the target letters of the alphabet with their sound appropriately"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Family",
+      "Sub-strand": "3.1 Pronunciation and vocabulary",
+      "Learning Objective": "b) use words related to the theme correctly in oral communication"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Family",
+      "Sub-strand": "3.1 Pronunciation and vocabulary",
+      "Learning Objective": "c) respond to verbally and non-verbally to simple one directional instructions"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Family",
+      "Sub-strand": "3.1 Pronunciation and vocabulary",
+      "Learning Objective": "d) realize the role of correct pronunciation in conversations"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Family",
+      "Sub-strand": "3.2 Pre-reading",
+      "Learning Objective": "a) name the target letters in preparation for reading"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Family",
+      "Sub-strand": "3.2 Pre-reading",
+      "Learning Objective": "b) read the sounds corresponding to the target letters fluently"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Family",
+      "Sub-strand": "3.2 Pre-reading",
+      "Learning Objective": "c) advocate for the importance of letter–sound correspondence in preparation for reading"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Family",
+      "Sub-strand": "3.3 Pronouns (‘I; you’)",
+      "Learning Objective": "a) recognise the correct use of the pronouns “I”; and “you”in short sentences and other texts"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Family",
+      "Sub-strand": "3.3 Pronouns (‘I; you’)",
+      "Learning Objective": "b) use the pronouns “I; and “you” correctly in short sentences and other texts"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Family",
+      "Sub-strand": "3.3 Pronouns (‘I; you’)",
+      "Learning Objective": "c) value the role of pronoun “I”; and “you”correctlyin day- to- day communication"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Family",
+      "Sub-strand": "3.4 Handwriting",
+      "Learning Objective": "a) recognise the correct formation of lower case letters of the alphabet"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Family",
+      "Sub-strand": "3.4 Handwriting",
+      "Learning Objective": "b) form lower case letters correctly"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Family",
+      "Sub-strand": "3.4 Handwriting",
+      "Learning Objective": "c) write from left to right correctly"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "3.0 Family",
+      "Sub-strand": "3.4 Handwriting",
+      "Learning Objective": "d) adopt forming letters correctly for effective communication"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "4.0 Home",
+      "Sub-strand": "4.1 Pronunciation and Vocabulary",
+      "Learning Objective": "a) recognise target sounds in the given words"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "4.0 Home",
+      "Sub-strand": "4.1 Pronunciation and Vocabulary",
+      "Learning Objective": "b) pronounce the target sounds for clarity in communication"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "4.0 Home",
+      "Sub-strand": "4.1 Pronunciation and Vocabulary",
+      "Learning Objective": "c) respond to simple specific one- directional instructions using the new words"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "4.0 Home",
+      "Sub-strand": "4.1 Pronunciation and Vocabulary",
+      "Learning Objective": "d) adopt using the vocabulary learnt in oral communication"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "4.0 Home",
+      "Sub-strand": "4.2 Pre-reading",
+      "Learning Objective": "a) identify target letters in given words"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "4.0 Home",
+      "Sub-strand": "4.2 Pre-reading",
+      "Learning Objective": "b) form words using the target letters in preparation for reading"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "4.0 Home",
+      "Sub-strand": "4.2 Pre-reading",
+      "Learning Objective": "c) realise the importance of letters in word formation"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "4.0 Home",
+      "Sub-strand": "4.3 Singular and plurals (add -s and -es)",
+      "Learning Objective": "a) identify singular and plural nouns which require addition of -s and -es"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "4.0 Home",
+      "Sub-strand": "4.3 Singular and plurals (add -s and -es)",
+      "Learning Objective": "b) use singular and plural nouns which require an addition of -s and -es"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "4.0 Home",
+      "Sub-strand": "4.3 Singular and plurals (add -s and -es)",
+      "Learning Objective": "c) realise the importance of using singular and plural nouns for effective oral communication"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "4.0 Home",
+      "Sub-strand": "4.4 Handwriting",
+      "Learning Objective": "a) recognise the correct letter formation of target letters"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "4.0 Home",
+      "Sub-strand": "4.4 Handwriting",
+      "Learning Objective": "b) form letters in terms of shape and size correctly"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "4.0 Home",
+      "Sub-strand": "4.4 Handwriting",
+      "Learning Objective": "c) write from left to right to communicate effectively"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "4.0 Home",
+      "Sub-strand": "4.4 Handwriting",
+      "Learning Objective": "d) realize the importance of correct letter formation for effective communication"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "5.0 Time",
+      "Sub-strand": "5.1 Pronunciation and Vocabulary",
+      "Learning Objective": "a) identify new words featuring the target sounds in sentences"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "5.0 Time",
+      "Sub-strand": "5.1 Pronunciation and Vocabulary",
+      "Learning Objective": "b) use new words related to the theme in sentences"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "5.0 Time",
+      "Sub-strand": "5.1 Pronunciation and Vocabulary",
+      "Learning Objective": "c) use facial expressions appropriately during conversations"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "5.0 Time",
+      "Sub-strand": "5.1 Pronunciation and Vocabulary",
+      "Learning Objective": "d) appreciate the use of facial expression in communication"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "5.0 Time",
+      "Sub-strand": "5.2 Pre-reading",
+      "Learning Objective": "a) identify letter names and corresponding sounds for reading preparedness"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "5.0 Time",
+      "Sub-strand": "5.2 Pre-reading",
+      "Learning Objective": "b) read simple 3-4 letter words featuring the target letters for effective reading"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "5.0 Time",
+      "Sub-strand": "5.2 Pre-reading",
+      "Learning Objective": "c) realize the importance of letter-sound correspondence for reading preparedness"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "5.0 Time",
+      "Sub-strand": "5.3 Present Simple Tense",
+      "Learning Objective": "a) identify words in the present simple tense in given sentences"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "5.0 Time",
+      "Sub-strand": "5.3 Present Simple Tense",
+      "Learning Objective": "b) use present tense forms to talk about time"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "5.0 Time",
+      "Sub-strand": "5.3 Present Simple Tense",
+      "Learning Objective": "c) apply present tense forms to sequence routine or daily activities"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "5.0 Time",
+      "Sub-strand": "5.3 Present Simple Tense",
+      "Learning Objective": "d) adopt the use of present simple tense to talk about routine activities"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "5.0 Time",
+      "Sub-strand": "5.4 Handwriting",
+      "Learning Objective": "a) form letters in terms of shape and size correctly"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "5.0 Time",
+      "Sub-strand": "5.4 Handwriting",
+      "Learning Objective": "b) write words from left to right to communicate effectively"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "5.0 Time",
+      "Sub-strand": "5.4 Handwriting",
+      "Learning Objective": "c) realise the need to form letters correctly for effective communication"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "6.0 Weather and Our Environment",
+      "Sub-strand": "6.1 Pronunciation and Vocabulary",
+      "Learning Objective": "a) identify words featuring the target sounds from an oral text"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "6.0 Weather and Our Environment",
+      "Sub-strand": "6.1 Pronunciation and Vocabulary",
+      "Learning Objective": "b) pronounce words with the target sounds for reading preparedness"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "6.0 Weather and Our Environment",
+      "Sub-strand": "6.1 Pronunciation and Vocabulary",
+      "Learning Objective": "c) responding to simple specific one- directional instructions using new words"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "6.0 Weather and Our Environment",
+      "Sub-strand": "6.1 Pronunciation and Vocabulary",
+      "Learning Objective": "d) realize the importance of correct pronunciation in communication"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "6.0 Weather and Our Environment",
+      "Sub-strand": "6.2 Word Reading",
+      "Learning Objective": "a) identify words with the target sounds in preparation for reading"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "6.0 Weather and Our Environment",
+      "Sub-strand": "6.2 Word Reading",
+      "Learning Objective": "b) pronounce words with the target sounds accurately"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "6.0 Weather and Our Environment",
+      "Sub-strand": "6.2 Word Reading",
+      "Learning Objective": "c) realise the importance of reading words accurately"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "6.0 Weather and Our Environment",
+      "Sub-strand": "6.3 Present continuous tense",
+      "Learning Objective": "a) identify ongoing activities in and out of school"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "6.0 Weather and Our Environment",
+      "Sub-strand": "6.3 Present continuous tense",
+      "Learning Objective": "b) use the present continuous tense to describe on-going activities related to weather and the environment"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "6.0 Weather and Our Environment",
+      "Sub-strand": "6.3 Present continuous tense",
+      "Learning Objective": "c) adopt communicating ideas using the present continuous tense"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "6.0 Weather and Our Environment",
+      "Sub-strand": "6.4 Spelling",
+      "Learning Objective": "a) recognise words featuring the target letters in written texts"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "6.0 Weather and Our Environment",
+      "Sub-strand": "6.4 Spelling",
+      "Learning Objective": "b) spell 3-5 letter words featuring the target letters for writing fluency"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "6.0 Weather and Our Environment",
+      "Sub-strand": "6.4 Spelling",
+      "Learning Objective": "c) realise the need for correct spelling in written communication"
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "7.0 Hygiene",
+      "Sub-strand": "7.1 Pronunciation and Vocabulary",
+      "Learning Objective": "a) identify words with the target sounds in an oral text"
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "7.0 Hygiene",
+      "Sub-strand": "7.1 Pronunciation and Vocabulary",
+      "Learning Objective": "b) pronounce words with the target sounds in preparation for reading"
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "7.0 Hygiene",
+      "Sub-strand": "7.1 Pronunciation and Vocabulary",
+      "Learning Objective": "c) use new words related to the theme in a variety of contexts"
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "7.0 Hygiene",
+      "Sub-strand": "7.1 Pronunciation and Vocabulary",
+      "Learning Objective": "d) realise the importance of listening attentively"
+    },
+    {
+      "Lesson Number": "86",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "7.0 Hygiene",
+      "Sub-strand": "7.2 Word Reading",
+      "Learning Objective": "a) identify words with the target sounds and letters for reading competence"
+    },
+    {
+      "Lesson Number": "87",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "7.0 Hygiene",
+      "Sub-strand": "7.2 Word Reading",
+      "Learning Objective": "b) read non-decodable words featuring the target sounds for reading competence"
+    },
+    {
+      "Lesson Number": "88",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "7.0 Hygiene",
+      "Sub-strand": "7.2 Word Reading",
+      "Learning Objective": "c) realize the importance of word reading for lifelong learning"
+    },
+    {
+      "Lesson Number": "89",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "7.0 Hygiene",
+      "Sub-strand": "7.3 Simple past tense (adding -ed/- d)",
+      "Learning Objective": "a) identify words with -ed/ and -d from a written text"
+    },
+    {
+      "Lesson Number": "90",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "7.0 Hygiene",
+      "Sub-strand": "7.3 Simple past tense (adding -ed/- d)",
+      "Learning Objective": "b) use simple past tense to discuss activities they carried out in the past"
+    },
+    {
+      "Lesson Number": "91",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "7.0 Hygiene",
+      "Sub-strand": "7.3 Simple past tense (adding -ed/- d)",
+      "Learning Objective": "c) adopt communicating ideas using the simple past tense"
+    },
+    {
+      "Lesson Number": "92",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "7.0 Hygiene",
+      "Sub-strand": "7.4 Spelling",
+      "Learning Objective": "a) recognise words featuring the target letters in written texts"
+    },
+    {
+      "Lesson Number": "93",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "7.0 Hygiene",
+      "Sub-strand": "7.4 Spelling",
+      "Learning Objective": "b) form the target letters correctly in terms of shape and size for effective communication"
+    },
+    {
+      "Lesson Number": "94",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "7.0 Hygiene",
+      "Sub-strand": "7.4 Spelling",
+      "Learning Objective": "c) write 3-5 letter words featuring the target sounds correctly for effective communication"
+    },
+    {
+      "Lesson Number": "95",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "7.0 Hygiene",
+      "Sub-strand": "7.4 Spelling",
+      "Learning Objective": "d) realise the importance of writing words correctly"
+    },
+    {
+      "Lesson Number": "96",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "8.0 Parts of the Body",
+      "Sub-strand": "8.1 Pronunciation and vocabulary",
+      "Learning Objective": "a) identify words with the target sounds in an oral text"
+    },
+    {
+      "Lesson Number": "97",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "8.0 Parts of the Body",
+      "Sub-strand": "8.1 Pronunciation and vocabulary",
+      "Learning Objective": "b) pronounce words with the target sounds for reading preparedness"
+    },
+    {
+      "Lesson Number": "98",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "8.0 Parts of the Body",
+      "Sub-strand": "8.1 Pronunciation and vocabulary",
+      "Learning Objective": "c) use new words related to the theme in a variety of contexts"
+    },
+    {
+      "Lesson Number": "99",
+      "Subject": "English",
+      "Grade": "Grade 1",
+      "Strand": "8.0 Parts of the Body",
+      "Sub-strand": "8.1 Pronunciation and vocabulary",
+      "Learning Objective": "d) realise the importance of correct pronunciation in communication"
+    }
+  ]
+}

@@ -1,0 +1,1672 @@
+{
+  "curriculum_name": "ICT year 10-11 Cambridge",
+  "total_lessons": 238,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 hardware and software",
+      "Learning Objective": "define hardware as consisting of physical components of a computer system"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 hardware and software",
+      "Learning Objective": "identify internal hardware devices (e.g. processor; motherboards; random access memory (RAM); read-only memory (ROM); video cards; sound cards and internal hard disk drives)"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 hardware and software",
+      "Learning Objective": "identify external hardware devices and peripherals (such as monitors; keyboards; mice; printers as input and output devices and external storage devices in general)"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 hardware and software",
+      "Learning Objective": "define software as programs for controlling the operation of a computer or processing of electronic data"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 hardware and software",
+      "Learning Objective": "identify the two types of software – applications software and system software"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 hardware and software",
+      "Learning Objective": "define applications software (e.g. word processing; spreadsheet; database management systems; control software; measuring software; applets and apps; photo editing software; video editing software; graphics manipulation software)"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.1 hardware and software",
+      "Learning Objective": "define system software (e.g. compilers; linkers; device drivers; operating systems and utilities)"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 the main components of computer systems",
+      "Learning Objective": "describe the central processing unit (CPU) including its role"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 the main components of computer systems",
+      "Learning Objective": "describe internal memory; i.e. ROM and RAM and the differences between them"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 the main components of computer systems",
+      "Learning Objective": "define input and output devices and describe the difference between them"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.2 the main components of computer systems",
+      "Learning Objective": "define secondary/backing storage"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 operating systems",
+      "Learning Objective": "define and describe operating systems which contain a Command Line Interface (CLI)"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 operating systems",
+      "Learning Objective": "define and describe operating systems which contain a Graphical User Interface (GUI)"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.3 operating systems",
+      "Learning Objective": "describe the differences; including the benefits and drawbacks; between operating systems which contain a CLI and those which contain a GUI"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.4 types of computer",
+      "Learning Objective": "describe the characteristics of a personal/desktop computer and its uses; both as a standalone and as a networked computer"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.4 types of computer",
+      "Learning Objective": "describe the characteristics of a laptop computer and what it is used for; both as a standalone and as a networked computer"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.4 types of computer",
+      "Learning Objective": "describe the characteristics of a tablet computer and what it is used for; including its ability to use wireless technology or 3G/4G technology"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.4 types of computer",
+      "Learning Objective": "describe the computer characteristics of a smartphone and what it is used for in computing terms"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.4 types of computer",
+      "Learning Objective": "describe the advantages and disadvantages of each type of computer (as above) in comparison with the others (as above)"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "1.5 impact of emerging technologies",
+      "Learning Objective": "describe how emerging technologies are having an impact on everyday life (e.g. artificial intelligence; biometrics; vision enhancement; robotics; quantum cryptography; computer-assisted translation; 3D and holographic imaging; virtual reality)"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.1 input devices and their uses",
+      "Learning Objective": "identify input devices and their uses; e.g. keyboard; numeric keypad; pointing devices (such as mouse; touchpad; trackerball); remote control; joystick/driving wheel; touch screen; scanners; digital cameras; microphone; sensors (general); temperature sensor; pressure sensor; light sensor; graphics tablet; video camera; webcam"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 direct data entry and associated devices",
+      "Learning Objective": "describe direct data entry and associated devices; e.g. magnetic stripe readers; chip and PIN readers; Radio Frequency Identification (RFID) readers; Magnetic Ink Character Recognition/Reader (MICR); Optical Mark Recognition/Reader (OMR); Optical Character Recognition/Reader (OCR); bar code reader"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.2 direct data entry and associated devices",
+      "Learning Objective": "identify the advantages and disadvantages of any of the above devices in comparison with others"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 output devices and their uses",
+      "Learning Objective": "identify output devices and their uses; e.g. CRT monitor; TFT/LCD monitor; IPS/LCD monitor; LED monitor; touch screen (as an output device); multimedia projector; laser printer; inkjet printer; dot matrix printer; wide format printer; 3D printer; speakers; motors; buzzers; heaters; lights/lamps"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "2.3 output devices and their uses",
+      "Learning Objective": "describe the advantages and disadvantages of any of the above devices"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3 Storage devices and media",
+      "Learning Objective": "identify storage devices; their associated media and their uses; e.g. magnetic backing storage media: fixed hard disks and drives; portable and removable hard disks; portable and removable hard drives; magnetic tape drives and magnetic tapes; memory cards"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3 Storage devices and media",
+      "Learning Objective": "identify storage devices; their associated media and their uses; e.g. optical backing storage media (CD/DVD/Blu-ray): CD ROM/DVD ROM; CD R/DVD R; CD RW/DVD RW; DVD RAM; Blu-ray discs"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3 Storage devices and media",
+      "Learning Objective": "identify storage devices; their associated media and their uses; e.g. solid state backing storage: solid state drives (SSDs); flash drives (pen drive/memory stick/USB stick)"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "3 Storage devices and media",
+      "Learning Objective": "describe the advantages and disadvantages of the above devices"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 networks",
+      "Learning Objective": "understand how a router works and its purpose; describe how networks and individual computers connect to the internet; describe how a router stores computer addresses; describe how it routes data packets"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 networks",
+      "Learning Objective": "understand the use of other common network devices; including: network interface cards; hubs; bridges; switches; modems"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 networks",
+      "Learning Objective": "understand the use of WiFi and Bluetooth in networks; describe how computers can use WiFi to connect to a network; describe how computers can use Bluetooth to connect to a network; compare and contrast Bluetooth and WiFi"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 networks",
+      "Learning Objective": "understand how to set up and configure a small network; including: access to the internet; the use of a browser; the use of email; access to an Internet Service Provider (ISP)"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 networks",
+      "Learning Objective": "understand the characteristics and purpose of common network environments; such as intranets and the internet; define what the internet is; define what an intranet is; describe the differences between an intranet and the internet; explain the purpose of an intranet and how that differs from the purpose of the internet; describe the uses of an intranet; describe the uses of the internet"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 networks",
+      "Learning Objective": "define the terms Local Area Network (LAN); Wireless Local Area Network (WLAN) and Wide Area Network (WAN); describe the differences between a LAN; a WLAN and a WAN"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.1 networks",
+      "Learning Objective": "understand the advantages and disadvantages of using different types of computer to access the internet; compare the advantages and disadvantages of using laptop computers; desktop computers; tablet computers and smartphones to access the internet"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 network issues and communication",
+      "Learning Objective": "security issues regarding data transfer; describe the security issues surrounding the use of computer networks; describe other issues such as the idea that the internet is not policed and the effects of this; such as the existence of inappropriate sites"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 network issues and communication",
+      "Learning Objective": "identify methods of avoiding password interception (such as the use of anti-spyware and changing passwords regularly); describe the difference between strong and weak passwords; describe other authentication techniques (such as biometric methods; magnetic stripes; id cards; passports; other physical tokens; retina scans; iris scans; face scans)"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 network issues and communication",
+      "Learning Objective": "describe the use of anti-virus software and other methods of avoiding viruses (such as use of unknown storage media to transfer data; the risk of downloading software from the internet); define encryption and describe its use; list the principles of a typical data protection act"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 network issues and communication",
+      "Learning Objective": "network communication; describe facsimile communication and describe the differences between physical faxing (which does not require the use of a network) and electronic faxing (which does require the use of a network)"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 network issues and communication",
+      "Learning Objective": "describe email communication; including the use of attachments; describe the advantages and disadvantages of using email compared with faxing"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "4.2 network issues and communication",
+      "Learning Objective": "describe video-conferencing; including the hardware used; describe audio-conferencing; describe web-conferencing and how it can be linked to either video- or audio-conferencing"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 effects of IT on employment",
+      "Learning Objective": "describe how there has been a reduction of employment in offices; as workers’ jobs have been replaced by computers in a number of fields (e.g. payroll workers; typing pools; car production workers)"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.1 effects of IT on employment",
+      "Learning Objective": "describe how there has been an increase in employment in other fields (e.g. website designers; computer programmers; delivery drivers in retail stores)"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.2 effects of IT on working patterns within organisations",
+      "Learning Objective": "describe how the use of computers has led to a number of employees changing their working patterns (e.g. part-time working; flexible hours; job sharing; compressed hours)"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.2 effects of IT on working patterns within organisations",
+      "Learning Objective": "describe what is meant by part-time working; flexible hours; job sharing; compressed hours"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.3 microprocessor-controlled devices in the home",
+      "Learning Objective": "describe the positive effects microprocessors have on aspects of lifestyle (e.g. the amount and use of leisure time; the degree of social interaction; the ability to leave the home)"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.3 microprocessor-controlled devices in the home",
+      "Learning Objective": "describe the negative effects microprocessors have on aspects of lifestyle (e.g. lack of exercise)"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.4 potential health problems related to the prolonged use of IT equipment",
+      "Learning Objective": "describe repetitive strain injury (RSI) and what causes it"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.4 potential health problems related to the prolonged use of IT equipment",
+      "Learning Objective": "identify other health issues (e.g. back problems; eye problems; headaches)"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.4 potential health problems related to the prolonged use of IT equipment",
+      "Learning Objective": "describe some simple strategies for preventing these problems"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "5.4 potential health problems related to the prolonged use of IT equipment",
+      "Learning Objective": "evaluate the use of IT equipment and develop strategies to minimise the health risks"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.1 communication applications",
+      "Learning Objective": "describe a range of communication applications (e.g. newsletters; websites; multimedia presentations; music scores; cartoons; flyers and posters)"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.1 communication applications",
+      "Learning Objective": "describe the use of smartphones for communication (e.g. text messaging; phone calls; accessing the internet)"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.1 communication applications",
+      "Learning Objective": "describe the use of internet telephony; including Voice over Internet Protocol (VoIP)"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.1 communication applications",
+      "Learning Objective": "describe applications for publicity and corporate image publications (e.g. business cards; letterheads; flyers and brochures)"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.2 data handling applications",
+      "Learning Objective": "describe the use of a range of data handling applications (e.g. surveys; address lists; clubs and society records; school reports and school libraries)"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 measurement applications",
+      "Learning Objective": "describe a range of measurement applications (e.g. scientific experiments; weather stations)"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 measurement applications",
+      "Learning Objective": "explain the difference between analogue data and digital data"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 measurement applications",
+      "Learning Objective": "explain the need for conversion between analogue and digital data"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 measurement applications",
+      "Learning Objective": "describe the use of microprocessors and computers in a number of applications (e.g. pollution monitoring; intensive care units in hospitals)"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.3 measurement applications",
+      "Learning Objective": "discuss the advantages and disadvantages of using computers in measurement rather than humans"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.4 microprocessors in control applications",
+      "Learning Objective": "describe the role of a microprocessor or computer in control applications; including the role of the pre-set value"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.4 microprocessors in control applications",
+      "Learning Objective": "describe the use of computer control in applications (e.g. turtle graphics; automatic washing machines; automatic cookers; computer controlled central heating systems; burglar alarms; computer controlled glasshouses)"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.5 modelling applications",
+      "Learning Objective": "describe the use of computer modelling in spreadsheets (e.g. for personal finance)"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.6 applications in manufacturing industries",
+      "Learning Objective": "describe a range of computer controlled applications (e.g. robotics in manufacture and production line control)"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.6 applications in manufacturing industries",
+      "Learning Objective": "discuss the advantages and disadvantages of using computer controlled systems rather than humans"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.7 school management systems",
+      "Learning Objective": "describe how systems are used to manage learner registration and attendance"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.7 school management systems",
+      "Learning Objective": "describe how systems can be used to record learner performance"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.7 school management systems",
+      "Learning Objective": "describe how systems can be used for organising examinations; creating timetables and managing teaching cover/substitution"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.8 booking systems",
+      "Learning Objective": "identify areas where booking systems are used (e.g. travel industry; theatres and cinemas)"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.8 booking systems",
+      "Learning Objective": "describe the online processing involved in booking tickets"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.8 booking systems",
+      "Learning Objective": "discuss the advantages and disadvantages of online booking systems"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.9 banking applications",
+      "Learning Objective": "describe the computer processing involved in Electronic Funds Transfer (EFT)"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.9 banking applications",
+      "Learning Objective": "describe the computer processing involved in using automatic teller machines (ATM) (e.g. withdrawing cash; depositing cash or cheques; checking account balance; mini statements; smartphone/cellphone recharge/top up; bill paying; money transfers; ordering paper-based goods)"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.9 banking applications",
+      "Learning Objective": "describe the use of processing involved in credit/debit card transactions"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.9 banking applications",
+      "Learning Objective": "describe the clearing of cheques"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.9 banking applications",
+      "Learning Objective": "describe phone banking"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.9 banking applications",
+      "Learning Objective": "describe internet banking; and discuss the advantages and disadvantages of it"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.10 computers in medicine",
+      "Learning Objective": "describe the contents of information systems in medicine (including patient records; pharmacy records; monitoring and expert systems for diagnosis)"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.10 computers in medicine",
+      "Learning Objective": "describe how 3D printers can be used in producing medical aids (e.g. surgical and diagnostic aids; development of prosthetics and medical products; tissue engineering; artificial blood vessels and the design of medical tools and equipment)"
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.11 computers in libraries",
+      "Learning Objective": "describe the files used in libraries (e.g. records of books and borrowers)"
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.11 computers in libraries",
+      "Learning Objective": "describe the computer processing involved in the issue of books; including the use of direct data entry methods"
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.11 computers in libraries",
+      "Learning Objective": "describe the automatic processing involved in issuing reminders for overdue books"
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.12 expert systems",
+      "Learning Objective": "identify a range of applications which use expert systems (e.g. mineral prospecting; car engine fault diagnosis; medical diagnosis; chess games)"
+    },
+    {
+      "Lesson Number": "86",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.12 expert systems",
+      "Learning Objective": "identify the components of an expert system (e.g. interactive user interface; inference engine; rules base; knowledge base)"
+    },
+    {
+      "Lesson Number": "87",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.12 expert systems",
+      "Learning Objective": "describe how an expert system is used to suggest diagnoses"
+    },
+    {
+      "Lesson Number": "88",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.13 computers in the retail industry",
+      "Learning Objective": "describe the use of point of sale (POS) terminals; how the stock file is updated automatically; and how new stock can be ordered automatically"
+    },
+    {
+      "Lesson Number": "89",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.13 computers in the retail industry",
+      "Learning Objective": "describe the use of electronic funds transfer at point of sale (EFTPOS) terminals (e.g. the checking of the validity of cards; the use of chip and PIN; the communication between the supermarket computer and the bank computer)"
+    },
+    {
+      "Lesson Number": "90",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.13 computers in the retail industry",
+      "Learning Objective": "describe internet shopping"
+    },
+    {
+      "Lesson Number": "91",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.13 computers in the retail industry",
+      "Learning Objective": "discuss the advantages and disadvantages of internet shopping"
+    },
+    {
+      "Lesson Number": "92",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.14 recognition systems",
+      "Learning Objective": "describe how recognition systems work (e.g. Magnetic Ink Character Recognition (MICR); Optical Mark Recognition (OMR) and Optical Character Recognition (OCR); Radio Frequency Identification Device (RFID))"
+    },
+    {
+      "Lesson Number": "93",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.14 recognition systems",
+      "Learning Objective": "describe how number plate recognition systems work"
+    },
+    {
+      "Lesson Number": "94",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.14 recognition systems",
+      "Learning Objective": "describe the processing of cheques"
+    },
+    {
+      "Lesson Number": "95",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.14 recognition systems",
+      "Learning Objective": "describe the processing of OMR media (e.g. school registers; multiple-choice examination papers)"
+    },
+    {
+      "Lesson Number": "96",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.14 recognition systems",
+      "Learning Objective": "describe how RFID and RF technology is used in a range of applications (e.g. tracking stock; passports; automobiles; contactless payment)"
+    },
+    {
+      "Lesson Number": "97",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.15 monitoring and tracking systems",
+      "Learning Objective": "describe how a workforce or member of the public can be monitored or logged"
+    },
+    {
+      "Lesson Number": "98",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.15 monitoring and tracking systems",
+      "Learning Objective": "describe how the use of cookies can be used to monitor a person’s internet activity"
+    },
+    {
+      "Lesson Number": "99",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.15 monitoring and tracking systems",
+      "Learning Objective": "describe the use of key-logging"
+    },
+    {
+      "Lesson Number": "100",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.15 monitoring and tracking systems",
+      "Learning Objective": "describe how worker/employee call monitors can be used"
+    },
+    {
+      "Lesson Number": "101",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.15 monitoring and tracking systems",
+      "Learning Objective": "describe the use of automatic number plate recognition"
+    },
+    {
+      "Lesson Number": "102",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "6.16 satellite systems",
+      "Learning Objective": "describe the use of different satellite systems (e.g. Global Positioning Systems (GPS); satellite navigation; Geographic Information Systems (GIS); media communication systems)"
+    },
+    {
+      "Lesson Number": "103",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.1 analysis",
+      "Learning Objective": "methods of researching an existing system; identify and describe methods of researching an existing system (e.g. observation; interviews; questionnaires and examination of existing documents)"
+    },
+    {
+      "Lesson Number": "104",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.1 analysis",
+      "Learning Objective": "discuss the disadvantages and advantages of the different methods"
+    },
+    {
+      "Lesson Number": "105",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.1 analysis",
+      "Learning Objective": "recording and analysing information about the current system; describe the need to identify inputs; outputs and processing of the current system"
+    },
+    {
+      "Lesson Number": "106",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.1 analysis",
+      "Learning Objective": "describe the need to identify problems with the current system"
+    },
+    {
+      "Lesson Number": "107",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.1 analysis",
+      "Learning Objective": "describe the need to identify the user and information requirements for the new system"
+    },
+    {
+      "Lesson Number": "108",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.1 analysis",
+      "Learning Objective": "system specification; identify and justify suitable hardware for the new system"
+    },
+    {
+      "Lesson Number": "109",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.1 analysis",
+      "Learning Objective": "identify and justify suitable software for the new system"
+    },
+    {
+      "Lesson Number": "110",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.2 design",
+      "Learning Objective": "describe how it is necessary to design documents; files; forms/inputs; reports/outputs and validation"
+    },
+    {
+      "Lesson Number": "111",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.2 design",
+      "Learning Objective": "produce designs to solve a given problem"
+    },
+    {
+      "Lesson Number": "112",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.2 design",
+      "Learning Objective": "design data capture forms and screen layouts"
+    },
+    {
+      "Lesson Number": "113",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.2 design",
+      "Learning Objective": "design report layouts and screen displays"
+    },
+    {
+      "Lesson Number": "114",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.2 design",
+      "Learning Objective": "design validation routines (including length check; type check; format check; presence check; check digit)"
+    },
+    {
+      "Lesson Number": "115",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.2 design",
+      "Learning Objective": "design the required data/file structures (e.g. field length; field name; data type)"
+    },
+    {
+      "Lesson Number": "116",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.3 development and testing",
+      "Learning Objective": "testing designs; describe how data/file structures are created and tested"
+    },
+    {
+      "Lesson Number": "117",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.3 development and testing",
+      "Learning Objective": "describe how validation routines are created and tested"
+    },
+    {
+      "Lesson Number": "118",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.3 development and testing",
+      "Learning Objective": "describe how input methods are created and tested"
+    },
+    {
+      "Lesson Number": "119",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.3 development and testing",
+      "Learning Objective": "describe how output formats are created and tested"
+    },
+    {
+      "Lesson Number": "120",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.3 development and testing",
+      "Learning Objective": "testing strategies; describe the need to test each module"
+    },
+    {
+      "Lesson Number": "121",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.3 development and testing",
+      "Learning Objective": "describe the need to test the whole system"
+    },
+    {
+      "Lesson Number": "122",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.3 development and testing",
+      "Learning Objective": "describe testing using normal data including definition and examples"
+    },
+    {
+      "Lesson Number": "123",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.3 development and testing",
+      "Learning Objective": "describe testing using live data including definition and examples"
+    },
+    {
+      "Lesson Number": "124",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.3 development and testing",
+      "Learning Objective": "describe testing using abnormal data including definition and examples"
+    },
+    {
+      "Lesson Number": "125",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.3 development and testing",
+      "Learning Objective": "describe testing using extreme data including definition and examples"
+    },
+    {
+      "Lesson Number": "126",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.3 development and testing",
+      "Learning Objective": "improvements needed as a result of testing; describe how it may be necessary to improve the system and make changes (e.g. data/file structures; validation routines; input methods; output formats may need to be amended/improved)"
+    },
+    {
+      "Lesson Number": "127",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.4 implementation",
+      "Learning Objective": "different methods of system implementation; describe the four methods of implementation (direct changeover; parallel running; pilot running; phased implementation)"
+    },
+    {
+      "Lesson Number": "128",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.4 implementation",
+      "Learning Objective": "methods of implementation; identify suitable situations for the use of different methods of system implementation (e.g. organisations or departments within organisations which need a quick changeover; organisations or departments within organisations which cannot afford to lose data)"
+    },
+    {
+      "Lesson Number": "129",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.4 implementation",
+      "Learning Objective": "describe advantages and disadvantages of each method of implementation"
+    },
+    {
+      "Lesson Number": "130",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.5 documentation",
+      "Learning Objective": "technical documentation for an information system; explain the need for technical documentation"
+    },
+    {
+      "Lesson Number": "131",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.5 documentation",
+      "Learning Objective": "identify the components of technical documentation (e.g. purpose of the system/program; limitations of the system; program listing; program language; program flowcharts/algorithms; system flowcharts; hardware and software requirements; file structures; list of variables; input format; output format; sample runs/test runs; validation routines)"
+    },
+    {
+      "Lesson Number": "132",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.5 documentation",
+      "Learning Objective": "user documentation for an information system; explain the need for user documentation"
+    },
+    {
+      "Lesson Number": "133",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.5 documentation",
+      "Learning Objective": "identify the components of user documentation (e.g. purpose of the system; limitations of the system; hardware and software requirements; how to load/run/install software; how to save a file; how to print data; how to add records; how to delete/edit records; input format; output format; sample runs; error messages; error handling; troubleshooting guide/helpline; frequently asked questions; glossary of terms)"
+    },
+    {
+      "Lesson Number": "134",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.6 evaluation",
+      "Learning Objective": "describe the need to evaluate a solution in terms of the efficiency of the solution; the ease of use of the solution; and the appropriateness of the solution"
+    },
+    {
+      "Lesson Number": "135",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "7.6 evaluation",
+      "Learning Objective": "describe the need for a variety of evaluation strategies; e.g. compare the solution with the original task requirements; identify any limitations and necessary improvements to the system; evaluate the users’ responses to the results of testing the system"
+    },
+    {
+      "Lesson Number": "136",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 physical safety",
+      "Learning Objective": "describe common physical safety issues and what causes them; e.g. electrocution from spilling drinks; fire from sockets being overloaded or equipment overheating; tripping over trailing cables"
+    },
+    {
+      "Lesson Number": "137",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 physical safety",
+      "Learning Objective": "describe some simple strategies for preventing these issues"
+    },
+    {
+      "Lesson Number": "138",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.1 physical safety",
+      "Learning Objective": "evaluate own use of IT equipment and develop strategies to minimise the potential safety risks"
+    },
+    {
+      "Lesson Number": "139",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.2 eSafety",
+      "Learning Objective": "explain what is meant by personal data"
+    },
+    {
+      "Lesson Number": "140",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.2 eSafety",
+      "Learning Objective": "explain why personal data should be confidential and protected"
+    },
+    {
+      "Lesson Number": "141",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.2 eSafety",
+      "Learning Objective": "explain how to avoid inappropriate disclosure of personal data including: own name; address; school name; a picture in school uniform"
+    },
+    {
+      "Lesson Number": "142",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.2 eSafety",
+      "Learning Objective": "discuss why eSafety is needed"
+    },
+    {
+      "Lesson Number": "143",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.2 eSafety",
+      "Learning Objective": "evaluate own use of the internet and use strategies to minimise the potential dangers; e.g. only using websites recommended by teachers; only using a learner-friendly search engine"
+    },
+    {
+      "Lesson Number": "144",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.2 eSafety",
+      "Learning Objective": "evaluate own use of email and use strategies to minimise the potential dangers; including only emailing people already known; thinking before opening an email from an unknown person; never emailing the school’s name or a picture of a learner in school uniform"
+    },
+    {
+      "Lesson Number": "145",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.2 eSafety",
+      "Learning Objective": "evaluate own use of social media/networking sites; instant messaging and internet chat rooms and use strategies to minimise the potential dangers; including: knowing how to block and report unwanted users; never arranging to meet anyone alone; always telling an adult first and meeting in a public place; avoiding the misuse of images; using appropriate language; respecting confidentiality"
+    },
+    {
+      "Lesson Number": "146",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.2 eSafety",
+      "Learning Objective": "describe measures which should be taken when playing games on the internet (including not using real names)"
+    },
+    {
+      "Lesson Number": "147",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "effective security of data; define the term hacking and describe its effects"
+    },
+    {
+      "Lesson Number": "148",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "explain what is meant by the term hacking and the measures that must be taken in order to protect data"
+    },
+    {
+      "Lesson Number": "149",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "explain what is meant by the terms user id and password stating their purpose and how they are used to increase the security of data"
+    },
+    {
+      "Lesson Number": "150",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "explain what is meant by the term biometric data and why biometric data is used"
+    },
+    {
+      "Lesson Number": "151",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "security of data online; explain what is meant by the term digital certificate and its purpose"
+    },
+    {
+      "Lesson Number": "152",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "explain what is meant by the term Secure Socket Layer (SSL)"
+    },
+    {
+      "Lesson Number": "153",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "describe the features of a web page that identify it as using a secure server"
+    },
+    {
+      "Lesson Number": "154",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "define the terms: phishing; pharming; smishing"
+    },
+    {
+      "Lesson Number": "155",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "describe the methods which can be used to help prevent phishing; pharming and smishing"
+    },
+    {
+      "Lesson Number": "156",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "describe the potential for the malicious use of technology to collect personal data; including: phishing; pharming; smishing"
+    },
+    {
+      "Lesson Number": "157",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "describe how it is possible to recognise when someone is attempting to obtain personal data; report the attempt and avoid the disclosure of information"
+    },
+    {
+      "Lesson Number": "158",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "explain the difference between moderated and unmoderated forums and the relative security of these"
+    },
+    {
+      "Lesson Number": "159",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "explain the concept of and how to recognise spam mail and avoid being drawn into it"
+    },
+    {
+      "Lesson Number": "160",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "describe what encryption is and why it is used"
+    },
+    {
+      "Lesson Number": "161",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "define the term computer virus and describe its effects"
+    },
+    {
+      "Lesson Number": "162",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "describe the effects of infecting a computer with a virus from a downloaded file"
+    },
+    {
+      "Lesson Number": "163",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "describe how to take preventative action to avoid the danger of infecting a computer with a virus from a downloaded file"
+    },
+    {
+      "Lesson Number": "164",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "describe the measures that must be taken in order to protect against hacking"
+    },
+    {
+      "Lesson Number": "165",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "describe how it is possible to be the subject of fraud when using a credit card online"
+    },
+    {
+      "Lesson Number": "166",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "explain the issues related to security of data in the cloud"
+    },
+    {
+      "Lesson Number": "167",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "explain the concept of a firewall and why it is used"
+    },
+    {
+      "Lesson Number": "168",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "8.3 security of data",
+      "Learning Objective": "discuss the effectiveness of different methods of increasing security"
+    },
+    {
+      "Lesson Number": "169",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "9.1 audience appreciation",
+      "Learning Objective": "show a clear sense of audience when planning and creating ICT solutions"
+    },
+    {
+      "Lesson Number": "170",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "9.1 audience appreciation",
+      "Learning Objective": "analyse the needs of an audience"
+    },
+    {
+      "Lesson Number": "171",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "9.1 audience appreciation",
+      "Learning Objective": "explain why solutions must meet the needs of the audience"
+    },
+    {
+      "Lesson Number": "172",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "9.2 legal; moral; ethical and cultural appreciation",
+      "Learning Objective": "explain the need for copyright legislation and the principles of copyright relating to computer software (e.g. software piracy)"
+    },
+    {
+      "Lesson Number": "173",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "9.2 legal; moral; ethical and cultural appreciation",
+      "Learning Objective": "describe methods that software producers employ to prevent software copyright being broken"
+    },
+    {
+      "Lesson Number": "174",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "9.2 legal; moral; ethical and cultural appreciation",
+      "Learning Objective": "discuss the legal; moral; ethical and cultural implications of creating an ICT solution"
+    },
+    {
+      "Lesson Number": "175",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "9.2 legal; moral; ethical and cultural appreciation",
+      "Learning Objective": "create ICT solutions that are responsive to and respectful of the needs of the audience"
+    },
+    {
+      "Lesson Number": "176",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "9.2 legal; moral; ethical and cultural appreciation",
+      "Learning Objective": "discuss why the internet is not policed (although legislation is enforced in some countries) and the effects of this; including the existence of inappropriate sites"
+    },
+    {
+      "Lesson Number": "177",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.1 communication with other ICT users using email",
+      "Learning Objective": "describe the constraints that affect the use of email; including: the laws within a country; acceptable language; copyright; local guidelines set by an employer; the need for security; netiquette; password protection"
+    },
+    {
+      "Lesson Number": "178",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.1 communication with other ICT users using email",
+      "Learning Objective": "define the term spam"
+    },
+    {
+      "Lesson Number": "179",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.1 communication with other ICT users using email",
+      "Learning Objective": "explain why spam needs to be prevented"
+    },
+    {
+      "Lesson Number": "180",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.1 communication with other ICT users using email",
+      "Learning Objective": "describe the methods which can be used to help prevent spam"
+    },
+    {
+      "Lesson Number": "181",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.1 communication with other ICT users using email",
+      "Learning Objective": "explain why email groups are used"
+    },
+    {
+      "Lesson Number": "182",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.2 effective use of the internet",
+      "Learning Objective": "fundamentals of the internet; define the terms internet and intranet"
+    },
+    {
+      "Lesson Number": "183",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.2 effective use of the internet",
+      "Learning Objective": "explain the differences between the internet; an intranet and the World Wide Web (WWW)"
+    },
+    {
+      "Lesson Number": "184",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.2 effective use of the internet",
+      "Learning Objective": "explain the concept of storage in the cloud"
+    },
+    {
+      "Lesson Number": "185",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.2 effective use of the internet",
+      "Learning Objective": "define and understand the terms: HyperText Transfer Protocol (HTTP); HyperText Transfer Protocol secure variant (HTTPS); Uniform Resource Locator (URL); hyperlink; Internet Service Provider (ISP); File Transfer Protocol (FTP)"
+    },
+    {
+      "Lesson Number": "186",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.2 effective use of the internet",
+      "Learning Objective": "describe the structure of a web address"
+    },
+    {
+      "Lesson Number": "187",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.2 effective use of the internet",
+      "Learning Objective": "explain what a web browser is used for"
+    },
+    {
+      "Lesson Number": "188",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.2 effective use of the internet",
+      "Learning Objective": "explain what a search engine is used for"
+    },
+    {
+      "Lesson Number": "189",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.2 effective use of the internet",
+      "Learning Objective": "define the term blog and describe the use of a blog as a means of communication"
+    },
+    {
+      "Lesson Number": "190",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.2 effective use of the internet",
+      "Learning Objective": "define the term wiki and describe the use of a wiki as a means of communication"
+    },
+    {
+      "Lesson Number": "191",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.2 effective use of the internet",
+      "Learning Objective": "define the term social networking and describe the use of social networking websites as a means of communication"
+    },
+    {
+      "Lesson Number": "192",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.2 effective use of the internet",
+      "Learning Objective": "advantages and disadvantages of using the internet; explain why the internet is so popular; giving reasons such as the amount of information available and the speed of accessing information"
+    },
+    {
+      "Lesson Number": "193",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.2 effective use of the internet",
+      "Learning Objective": "explain why an internet search to find relevant information is not always fast"
+    },
+    {
+      "Lesson Number": "194",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.2 effective use of the internet",
+      "Learning Objective": "explain why it is not always easy to find reliable information on the internet"
+    },
+    {
+      "Lesson Number": "195",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "10.2 effective use of the internet",
+      "Learning Objective": "explain how to evaluate the reliability of information found on the internet"
+    },
+    {
+      "Lesson Number": "196",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "11.1 manage files effectively",
+      "Learning Objective": "identify different file types and their use(s); for example: css; csv; gif; htm; jpg; pdf; png; rtf; txt; zip"
+    },
+    {
+      "Lesson Number": "197",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "11.1 manage files effectively",
+      "Learning Objective": "locate stored files"
+    },
+    {
+      "Lesson Number": "198",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "11.1 manage files effectively",
+      "Learning Objective": "open and import files of different types"
+    },
+    {
+      "Lesson Number": "199",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "11.1 manage files effectively",
+      "Learning Objective": "save files in a planned hierarchical directory/folder structure"
+    },
+    {
+      "Lesson Number": "200",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "11.1 manage files effectively",
+      "Learning Objective": "save files using appropriate file names"
+    },
+    {
+      "Lesson Number": "201",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "11.1 manage files effectively",
+      "Learning Objective": "save and print files in a variety of formats; including: a draft document; final copy; screenshots; database reports; data table; graph/chart; a web page in browser view; a web page in HTML view"
+    },
+    {
+      "Lesson Number": "202",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "11.1 manage files effectively",
+      "Learning Objective": "save and export data into file formats for your applications packages; e.g. .doc; .docx; .xls; .sdb; .sdc; .rtf; .ppt"
+    },
+    {
+      "Lesson Number": "203",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "11.1 manage files effectively",
+      "Learning Objective": "explain why generic file formats are needed"
+    },
+    {
+      "Lesson Number": "204",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "11.1 manage files effectively",
+      "Learning Objective": "save and export data into generic file formats; including: .csv; .txt; .rtf; .pdf; .css; .htm"
+    },
+    {
+      "Lesson Number": "205",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "11.2 reduce file sizes for storage or transmission",
+      "Learning Objective": "explain the need to reduce file sizes for storage or transmission"
+    },
+    {
+      "Lesson Number": "206",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "11.2 reduce file sizes for storage or transmission",
+      "Learning Objective": "identify where it will be necessary to reduce file sizes for storage or transmission"
+    },
+    {
+      "Lesson Number": "207",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "11.2 reduce file sizes for storage or transmission",
+      "Learning Objective": "reduce file sizes using file compression"
+    },
+    {
+      "Lesson Number": "208",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "12 Images",
+      "Learning Objective": "use software tools to place and edit an image to meet the requirements of its intended application and audience"
+    },
+    {
+      "Lesson Number": "209",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "12 Images",
+      "Learning Objective": "know when it is necessary to edit an image and can appropriately: place an image with precision; resize an image; maintain or adjust the aspect ratio of an image; or distort an image; where appropriate; crop an image; rotate an image; reflect an image (flip an image horizontally or vertically); adjust the colour depth of an image; adjust the brightness of an image; adjust the contrast of an image; understand the need to reduce image resolution to increase transmission speed; reduce the resolution of an image to reduce file size"
+    },
+    {
+      "Lesson Number": "210",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "13 Layout",
+      "Learning Objective": "use software tools to prepare a basic document to match the purpose and target audience; create a new document or; where appropriate; open an existing document; enter text and numbers; use editing techniques to manipulate text and numbers; including: highlight; delete; move; cut; copy; paste; drag and drop; place objects into the document from a variety of sources; including: text; image; screenshot; spreadsheet extract; database extract; clip art or chart; create a table with a specified number of rows and columns; format a table and its contents; place text or objects in a table; wrap text around a table; chart or image; including: above; below; square and tight"
+    },
+    {
+      "Lesson Number": "211",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "13 Layout",
+      "Learning Objective": "use software tools to use headers and footers appropriately within a range of software packages; create headers and footers; align consistently within a document the contents of the header and footer including: to left margin; right margin and centre of the page; place automated objects in headers and footers; including: automated file information; automated page numbering; text; date; time; explain why headers and footers are needed"
+    },
+    {
+      "Lesson Number": "212",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "14 Styles",
+      "Learning Objective": "understand the purpose of a corporate house style and ensure that all work produced matches this; produce documents which conform to a corporate house style; explain what is meant by corporate branding/house style"
+    },
+    {
+      "Lesson Number": "213",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "14 Styles",
+      "Learning Objective": "apply styles to ensure consistency of presentation; explain why consistent styles are required; apply consistent styles using a variety of application packages; ensure that page/slide layout is consistent; including: font styles; text alignment; spacing between lines; spacing between paragraphs; spacing before and after headings; create and apply an appropriate style; including: font type (serif; sans serif); point size; font colour; alignment; line spacing; style of bullets; text alignment to the left; right; centre or fully justified; select an appropriate font style for a task; taking into account the audience; use text enhancement; including: bold; underline; italic; highlight; create and apply paragraph style(s) with a new style name to match the corporate house style"
+    },
+    {
+      "Lesson Number": "214",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "15.1 software tools",
+      "Learning Objective": "use software tools to ensure that all work produced contains as few errors as possible; explain why the automated suggestions given by spell check software do not always give the correct response; use automated tools; including spell check facilities; to remove errors; use validation routines to minimise errors; explain why validation checks must be appropriate to the data that is being checked"
+    },
+    {
+      "Lesson Number": "215",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "15.2 proofing techniques",
+      "Learning Objective": "accuracy of data entry; describe the importance of accuracy and the potential consequences of data entry errors; correct errors in data entry; including: transposed numbers; incorrect spelling; inconsistent character spacing; inconsistent case and factual errors (following proofreading by a third party); check to ensure consistent line spacing; remove blank pages/slides; remove widows/orphans; ensure that tables and lists are not split over columns or pages/slides"
+    },
+    {
+      "Lesson Number": "216",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "15.2 proofing techniques",
+      "Learning Objective": "verification; define the term verification; describe visual verification (i.e. visual comparison of data entered with a data source); describe double data entry (i.e. entering data twice and the computer compares the two sets of data; either by comparing them after data has been entered or by comparing them during data entry); explain the need for validation as well as verification"
+    },
+    {
+      "Lesson Number": "217",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "16 Graphs and charts",
+      "Learning Objective": "produce a graph or chart from the given data; select data to produce a graph/chart; including: using contiguous data; non-contiguous data; and specified data ranges; where necessary; select the graph or chart type to match the required purpose and meet the needs of the audience; label the graph or chart; including: chart title; legend; sector labels; sector values; segment labels; segment values; percentages; category axis title; value axis title; category axis labels; value axis labels; scales; add a second data series to a chart; as necessary; add a second axis to a chart; as necessary; change the maximum and minimum values of an axis scale to appropriate values; enhance the appearance of a graph or chart; including: changing the colour scheme or fill patterns; extracting a pie chart sector to meet the needs of the audience"
+    },
+    {
+      "Lesson Number": "218",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "17 Document production",
+      "Learning Objective": "format text and organise page layout; set page size; set page orientation; set page and gutter margins; set the number of columns; set the column width and spacing between columns; define the terms widow and orphan; explain why it is necessary to use page; section and column breaks; to adjust pagination and to avoid widows and orphans; set and remove page; section and column breaks; set line spacing; including: single; 1.5 times; double; multiple; spacing before and after paragraphs; set tabulation settings; including: indented paragraphs; hanging paragraphs; format text as bulleted or numbered lists to meet the needs of the audience"
+    },
+    {
+      "Lesson Number": "219",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "17 Document production",
+      "Learning Objective": "use software tools to edit tables; edit a table structure; where necessary; to include: insert row(s); delete row(s); insert column(s); delete column(s); merge cells; set horizontal cell alignment: left; right; centre; fully justified; set vertical cell alignment: top; centre; bottom; format cells and the cell contents; including: show gridlines; hide gridlines; wrap text within a cell; shading/colouring cells"
+    },
+    {
+      "Lesson Number": "220",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "17 Document production",
+      "Learning Objective": "mail merge a document with a data source; explain why mail merged documents are created; edit a master document to insert appropriate fields from a data source; insert special fields such as date; select records to merge; merge a document with selected fields; save and print merge master document; save and print selected merged documents; as appropriate"
+    },
+    {
+      "Lesson Number": "221",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "18.1 create a database structure",
+      "Learning Objective": "design and use suitable software tools to create an appropriate database record structure; define the terms flat file database and relational database; explain where it would be appropriate to select a flat file database or a relational database; assign appropriate data types to fields; including: text; numeric (integer; decimal; percentage; currency); date/time; Boolean/logical (–1/0; yes/no; true/false); explain that other field types such as placeholders for media; including images; sound bites and video clips are used in commercial databases; use short; meaningful file and field names; format fields and identify sub-types; including: specifying the number of decimal places; specifying a particular currency; identify the structure of external data with different file types; including: .csv; .txt; .rtf; locate; open and import data from an existing file; define and understand the terms primary key and foreign key and their role in a relational database; create a relationship between two or three tables; discuss the advantages and disadvantages of using relational tables rather than a flat file database"
+    },
+    {
+      "Lesson Number": "222",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "18.1 create a database structure",
+      "Learning Objective": "design and use suitable software tools to create a data entry form appropriate to purpose and audience; understand the key features of form design; create a data entry form to meet the needs of the audience; create a data entry form with all fields included to match the purpose of the task; create an appropriate data entry form; including: appropriate font styles and sizes; spacing between fields; character spacing of individual fields; use of white space; radio buttons; drop down menus; highlighting key fields"
+    },
+    {
+      "Lesson Number": "223",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "18.2 manipulate data",
+      "Learning Objective": "use arithmetic operations or numeric functions to perform calculations within a database; create a calculated field; perform calculations at run time using formulae and functions; including: addition; subtraction; multiplication; division; sum; average; maximum; minimum; count"
+    },
+    {
+      "Lesson Number": "224",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "18.2 manipulate data",
+      "Learning Objective": "use suitable software tools to sort data appropriately in a database; sort data using a single criterion and using multiple criteria where necessary; into ascending or descending order"
+    },
+    {
+      "Lesson Number": "225",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "18.2 manipulate data",
+      "Learning Objective": "use suitable software tools to search a database to select subsets of data; perform suitable searches using a single criterion and using multiple criteria; on different field types such as alphanumeric; numeric; Boolean; perform searches using a variety of operators including: AND; OR; NOT; LIKE; >; <; =; >=; <=; <>; perform searches using wildcards; as appropriate"
+    },
+    {
+      "Lesson Number": "226",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "18.3 present data",
+      "Learning Objective": "use suitable software tools to produce reports to display data appropriate to purpose and audience; produce reports to display all the required data and labels in full where required; use appropriate headers and footers within a database report; including: report header; report footer; page header; page footer; set report titles; produce different output layouts as required; including: tabular format; labels; align data and labels appropriately; including: right aligning numeric data and decimal alignment; format numeric data; including: number of decimal places; variety of currencies; percentage; as required by the task; show and hide data and labels within a report; as necessary; export data for use in another application"
+    },
+    {
+      "Lesson Number": "227",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "19 Presentations",
+      "Learning Objective": "use a master slide to appropriately place objects and set suitable styles to meet the needs of the audience; identify the need for consistency of presentation; in terms of styles; point sizes; colour schemes; transitions and animations; use the master slide to place objects appropriately; including: images; text; logos; slide footers; automated slide numbering; use the master slide to set font styles; heading styles and colour schemes; as required by the audience; manipulate and use specified areas for headings; subheadings; bullets; images; charts; colours; text boxes; presenter notes; audience notes; as appropriate"
+    },
+    {
+      "Lesson Number": "228",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "19 Presentations",
+      "Learning Objective": "use suitable software tools to create presentation slides to meet the needs of the audience; insert a new slide; when required; selecting the appropriate slide type for the purpose; place text on the slides including: headings; subheadings; bulleted lists; where appropriate; apply consistent styles using available software tools; including: select from the presentation colour scheme; the use of text enhancement; place appropriate images on the slides; including: still images; video clips; animated images; place sound within a slide; place charts imported from a spreadsheet; place other objects including: symbols; lines; arrows; call out boxes; create consistent transitions between pages; create consistent animation facilities on text; images and other objects"
+    },
+    {
+      "Lesson Number": "229",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "19 Presentations",
+      "Learning Objective": "use suitable software tools to display the presentation in a variety of formats; including: looped on-screen carousel; controlled presentation; presenter notes; audience notes; taking into account the needs of the audience"
+    },
+    {
+      "Lesson Number": "230",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "20.1 create a data model",
+      "Learning Objective": "create and edit a data model; define the terms: cells; rows; columns; sheets; tabs; pages; charts; explain the importance of accurate data entry in spreadsheets; enter data with 100 per cent accuracy; edit the structure of an existing model; including: inserting cells; deleting cells; inserting rows; deleting rows; inserting columns; deleting columns; define the terms: formula; function; absolute reference; relative reference; ranges; named cell; named range; nested formulae/functions; explain the difference between a formula and a function; explain the order in which mathematical operations are performed and use brackets to make sure that formulae work; use mathematical operators; including: add; subtract; multiply; divide; indices; where necessary; explain the function of; and use; absolute and relative referencing; as appropriate; when formulae are to be replicated; use absolute and relative references; named cells; named ranges and nested formulae; as appropriate; use functions; including: sum; average; maximum; minimum; integer; rounding; counting; LOOKUP; VLOOKUP; HLOOKUP; IF and nested functions; when necessary"
+    },
+    {
+      "Lesson Number": "231",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "20.2 test the data model",
+      "Learning Objective": "devise suitable test plans and test the data to demonstrate that the model works; define the terms: testing; test data; expected outcome; actual outcome; normal data; abnormal data; extreme data; what-if; explain the need to test a model before it is used; select appropriate test data to thoroughly test a data model; justify the choice of test data; calculate the expected outcomes before testing the model; test the model; correcting errors and re-testing; where appropriate; test the model by the use of what-ifs"
+    },
+    {
+      "Lesson Number": "232",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "20.3 manipulate data",
+      "Learning Objective": "use search tools in spreadsheet software to select subsets of data; search using a single criterion and using multiple criteria; where appropriate; with a variety of operators such as: AND; OR; NOT; LIKE; >; <; =; >=; <=; search; where appropriate; using wildcards"
+    },
+    {
+      "Lesson Number": "233",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "20.3 manipulate data",
+      "Learning Objective": "sort data using a single criterion and using multiple criteria into ascending or descending order; as required"
+    },
+    {
+      "Lesson Number": "234",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "20.4 present data",
+      "Learning Objective": "use software tools to adjust the display features in a spreadsheet; adjust row height; column width and cell sizes so that all data; labels; and formulae are fully visible; wrap text within cells so that all data are fully visible; hide and display rows and columns; where appropriate; use features to enhance a spreadsheet; including: text colour; cell colour; bold; underline; italic and shading to meet the needs of the audience; format numeric data to display the number of decimal places; a variety of different currency values; percentages; as appropriate; set the spreadsheet to display formulae and values; set the page orientation to portrait or landscape; as necessary; set the page layout so that it prints on a specified number of pages; use conditional formatting appropriately to change display format depending upon the contents of a cell"
+    },
+    {
+      "Lesson Number": "235",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "21.1 web development layers",
+      "Learning Objective": "identify and describe the three web development layers; understand the function of: content layer to enter the content and create the structure of a web page; presentation layer to display and format elements within a web page; behaviour layer to enter scripting language to elements within a web page"
+    },
+    {
+      "Lesson Number": "236",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "21.2 create a web page",
+      "Learning Objective": "use software tools to create the content layer of a web page to meet the needs of the audience; explain the purpose of the head and body sections of a web page; place appropriate elements in the head section of a web page; including: page title; attached stylesheets; place appropriate elements in the body section of a web page; explain why tables are used to structure elements within a web page; insert a table; including: table header; table rows; table data; use appropriate table attributes; including: to adjust cells to span more than one row/column; to set table and cell sizes in terms of pixels and/or % values; to apply styles to tables; to meet the needs of the audience"
+    },
+    {
+      "Lesson Number": "237",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "21.2 create a web page",
+      "Learning Objective": "use software tools to appropriately place the content in a web page; insert appropriate objects into a web page including: text; still images; moving images; sound clips; apply styles to text within a web page; apply styles to a list; including: ordered list; unordered list; insert an appropriate image into a web page; use appropriate image attributes; including: to adjust its size; aspect ratio and alternate text"
+    },
+    {
+      "Lesson Number": "238",
+      "Subject": "ICT",
+      "Year/Grade": "Years 10-11",
+      "Topic": "21.2 create a web page",
+      "Learning Objective": "use software tools to create navigation within a web page and between web pages; describe the function of a"
+    }
+  ]
+}

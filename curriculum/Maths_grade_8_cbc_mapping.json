@@ -1,0 +1,926 @@
+{
+  "curriculum_name": "Maths grade 8 cbc",
+  "total_lessons": 115,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Integers",
+      "Learning Objective": "a) identify integers in different situations"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Integers",
+      "Learning Objective": "b) represent integers on a number line in different situations"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Integers",
+      "Learning Objective": "c) carry out operations of addition and subtraction integers on the number line in real life situations"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Integers",
+      "Learning Objective": "d) use IT or print resources for learning more on integers and for skills development"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.1 Integers",
+      "Learning Objective": "e) reflect on use of integers in real life situations"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Fractions",
+      "Learning Objective": "a) carry out combined operations on fractions in different situations"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Fractions",
+      "Learning Objective": "b) Work out operations on fractions in real life Situations"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Fractions",
+      "Learning Objective": "c) use IT devices for learning more on fractions and for enjoyment"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.2 Fractions",
+      "Learning Objective": "d) promote use of fractions in real life situations"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Decimals",
+      "Learning Objective": "a) convert fractions to decimals in different situations"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Decimals",
+      "Learning Objective": "b) identify recurring decimals in different situations"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Decimals",
+      "Learning Objective": "c) convert recurring decimals into fractions in different situations"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Decimals",
+      "Learning Objective": "d) round off a decimal number to a required number of decimal places in different situations"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Decimals",
+      "Learning Objective": "e) express numbers to a required significant figure in real life situations"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Decimals",
+      "Learning Objective": "f) express numbers in standard form in different situations"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Decimals",
+      "Learning Objective": "g) carry out combined operations on decimals in different situations"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Decimals",
+      "Learning Objective": "h) apply decimals to real life situations"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Decimals",
+      "Learning Objective": "i) use IT or other resources for learning more on decimals and for enjoyment"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.3 Decimals",
+      "Learning Objective": "j) promote use of decimals in real life situations"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Squares and Square roots",
+      "Learning Objective": "a) work out the squares of numbers from tables in different situations"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Squares and Square roots",
+      "Learning Objective": "b) work out the square roots of numbers from tables in different situations"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Squares and Square roots",
+      "Learning Objective": "c) work out squares and square roots of numbers using a calculator in different situations"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Squares and Square roots",
+      "Learning Objective": "d) use IT or other materials to learn more on squares and square roots of numbers and for fun"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.4 Squares and Square roots",
+      "Learning Objective": "e) enjoy using squares and square roots in real life situations"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Rates; Ratio; Proportions and Percentages",
+      "Learning Objective": "a) identify rates in different situations for example different mobile service providers"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Rates; Ratio; Proportions and Percentages",
+      "Learning Objective": "b) work out rates in real life situations"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Rates; Ratio; Proportions and Percentages",
+      "Learning Objective": "c) express fractions as ratios in real life situations"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Rates; Ratio; Proportions and Percentages",
+      "Learning Objective": "d) compare two or more ratios in different situations"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Rates; Ratio; Proportions and Percentages",
+      "Learning Objective": "e) divide quantities in given ratios in real life situations"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Rates; Ratio; Proportions and Percentages",
+      "Learning Objective": "f) work out ratios in different situations"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Rates; Ratio; Proportions and Percentages",
+      "Learning Objective": "g) work out increase and decrease of quantities using ratios in real life situations"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Rates; Ratio; Proportions and Percentages",
+      "Learning Objective": "h) work out percentage change of given quantities in real life situations"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Rates; Ratio; Proportions and Percentages",
+      "Learning Objective": "i) identify direct and indirect proportions in real life situations"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Rates; Ratio; Proportions and Percentages",
+      "Learning Objective": "j) work out direct and indirect proportions in real life situations"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "1.0 Numbers",
+      "Sub-strand": "1.5 Rates; Ratio; Proportions and Percentages",
+      "Learning Objective": "k) promote use of ratios and proportions in real life"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.1 Algebraic Expressions",
+      "Learning Objective": "a) factorize algebraic expressions in different situations"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.1 Algebraic Expressions",
+      "Learning Objective": "b) simplify algebraic fractions in different situations"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.1 Algebraic Expressions",
+      "Learning Objective": "c) evaluate algebraic expressions by substituting numerical values in different situations"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.1 Algebraic Expressions",
+      "Learning Objective": "d) enjoy using algebraic expressions in real life situations"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Linear Equations",
+      "Learning Objective": "a) form linear equations in two unknowns in real life situations"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Linear Equations",
+      "Learning Objective": "b) solve linear equations in two unknowns by Substitution method in real life situations"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Linear Equations",
+      "Learning Objective": "c) solve linear equations in two unknowns by elimination method in real life situations"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Linear Equations",
+      "Learning Objective": "d) apply linear equations in two unknowns in real life situations"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "2.0 Algebra",
+      "Sub-strand": "2.2 Linear Equations",
+      "Learning Objective": "e) recognize use of linear equations in real life"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.1 Circles",
+      "Learning Objective": "a) work out the circumference of a circle in real life situations"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.1 Circles",
+      "Learning Objective": "b) work out the length of an Arc of a circle in different situations"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.1 Circles",
+      "Learning Objective": "c) calculate the Perimeter of a sector of a circle in different situations"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.1 Circles",
+      "Learning Objective": "d) promote use of circles in real life situations"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Area",
+      "Learning Objective": "a) calculate the Area of circle in different situations"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Area",
+      "Learning Objective": "b) work out the Area of a sector of a circle in different situations"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Area",
+      "Learning Objective": "c) work out the Surface Area of Cubes and Cuboids in real life situations"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Area",
+      "Learning Objective": "d) work out the Surface area of a cylinders in real life situations"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Area",
+      "Learning Objective": "e) determine the surface Area of a triangular Prism in different situations"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Area",
+      "Learning Objective": "f) work out the area of irregular shapes using square grids in real life situations"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Area",
+      "Learning Objective": "g) use IT and other materials for learning more on area and for enjoyment"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.2 Area",
+      "Learning Objective": "h) recognize use of length in real life situations"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Money",
+      "Learning Objective": "a) identify interest and principal in real life situations"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Money",
+      "Learning Objective": "b) calculate simple interest in real life situations"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Money",
+      "Learning Objective": "c) calculate compound interest per annum step by step up to three years in real life situations"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Money",
+      "Learning Objective": "d) work out appreciation and depreciation per annum step by step up to three years in different situations"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Money",
+      "Learning Objective": "e) work out hire purchase in real life situations"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Money",
+      "Learning Objective": "f) use IT and other resources to carry out operations related to money"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "3.0 Measurements",
+      "Sub-strand": "3.3 Money",
+      "Learning Objective": "g) spend money responsibly on needs and leisure"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Geometrical Constructions",
+      "Learning Objective": "a) construct parallel and perpendicular lines in different situations"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Geometrical Constructions",
+      "Learning Objective": "b) divide a line proportionally in different situations"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Geometrical Constructions",
+      "Learning Objective": "c) identify angle properties of polygons in different situations"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Geometrical Constructions",
+      "Learning Objective": "d) construct regular polygons up to a hexagon in different situations"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Geometrical Constructions",
+      "Learning Objective": "e) construct irregular polygons up to a hexagon in different situations"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Geometrical Constructions",
+      "Learning Objective": "f) construct circles passing through the vertices of a triangle in different situations"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Geometrical Constructions",
+      "Learning Objective": "g) construct circles touching the sides of the triangle in different situations"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.1 Geometrical Constructions",
+      "Learning Objective": "h) admire geometric patterns in objects and substances in real life"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Coordinates and graphs",
+      "Learning Objective": "a) draw a labelled Cartesian plane on different learning materials"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Coordinates and graphs",
+      "Learning Objective": "b) identify points on the Cartesian plane in different situations"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Coordinates and graphs",
+      "Learning Objective": "c) plot points on the Cartesian plane in different situations"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Coordinates and graphs",
+      "Learning Objective": "d) generate table of values for a linear equation in different situations"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Coordinates and graphs",
+      "Learning Objective": "e) determine an appropriate scale for a linear equation on the Cartesian plane in different situations"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Coordinates and graphs",
+      "Learning Objective": "f) draw a linear graph from table of values on Cartesian plane in different situations"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Coordinates and graphs",
+      "Learning Objective": "g) solve simultaneous linear equations graphically in different situations"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Coordinates and graphs",
+      "Learning Objective": "h) apply simultaneous equations in real life situations"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Coordinates and graphs",
+      "Learning Objective": "i) use IT or other resources to learn more on coordinates and graphs"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.2 Coordinates and graphs",
+      "Learning Objective": "j) reflect on the use of graphs in real life"
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Scale Drawing",
+      "Learning Objective": "a) represent length to a given scale in different situations"
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Scale Drawing",
+      "Learning Objective": "b) convert actual length to scale length in real life situations"
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Scale Drawing",
+      "Learning Objective": "c) convert scale length to actual length in real life situations"
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Scale Drawing",
+      "Learning Objective": "d) interpret linear scales in statement form in different situations"
+    },
+    {
+      "Lesson Number": "86",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Scale Drawing",
+      "Learning Objective": "e) write linear scales in statement form in different situations"
+    },
+    {
+      "Lesson Number": "87",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Scale Drawing",
+      "Learning Objective": "f) interpret linear scales in ratio form in different situations"
+    },
+    {
+      "Lesson Number": "88",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Scale Drawing",
+      "Learning Objective": "g) write linear scales in ratio form in different situations"
+    },
+    {
+      "Lesson Number": "89",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Scale Drawing",
+      "Learning Objective": "h) convert linear scale from statement form to ratio form and ratio form to statement form in different situations"
+    },
+    {
+      "Lesson Number": "90",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Scale Drawing",
+      "Learning Objective": "i) make scale drawings in different situations"
+    },
+    {
+      "Lesson Number": "91",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Scale Drawing",
+      "Learning Objective": "j) apply scale drawing in real life situations"
+    },
+    {
+      "Lesson Number": "92",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.3 Scale Drawing",
+      "Learning Objective": "k) recognize the use of scale drawing in maps"
+    },
+    {
+      "Lesson Number": "93",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.4 Common Solids",
+      "Learning Objective": "a) identify common solids from the environment"
+    },
+    {
+      "Lesson Number": "94",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.4 Common Solids",
+      "Learning Objective": "b) sketch nets of cubes; cuboids; cylinders; pyramids and cones in different situations"
+    },
+    {
+      "Lesson Number": "95",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.4 Common Solids",
+      "Learning Objective": "c) work out surface area of the solids from nets of solids in different situations"
+    },
+    {
+      "Lesson Number": "96",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.4 Common Solids",
+      "Learning Objective": "d) determine the distance between two points on the surface of a solid in different situations"
+    },
+    {
+      "Lesson Number": "97",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.4 Common Solids",
+      "Learning Objective": "e) make models of hollow and compact solids for skills development"
+    },
+    {
+      "Lesson Number": "98",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.4 Common Solids",
+      "Learning Objective": "f) use IT devices or other materials to draw models and nets of solids in different situations"
+    },
+    {
+      "Lesson Number": "99",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "4.0 Geometry",
+      "Sub-strand": "4.4 Common Solids",
+      "Learning Objective": "g) promote the use of common solids in real life situations"
+    },
+    {
+      "Lesson Number": "100",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.1 Data Presentation and Interpretation",
+      "Learning Objective": "a) draw bar graphs of data from real life situations"
+    },
+    {
+      "Lesson Number": "101",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.1 Data Presentation and Interpretation",
+      "Learning Objective": "b) interpret bar graphs of data from real life situations"
+    },
+    {
+      "Lesson Number": "102",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.1 Data Presentation and Interpretation",
+      "Learning Objective": "c) draw line graphs of given data from real life situations"
+    },
+    {
+      "Lesson Number": "103",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.1 Data Presentation and Interpretation",
+      "Learning Objective": "d) interpret line graphs of data from real life situations"
+    },
+    {
+      "Lesson Number": "104",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.1 Data Presentation and Interpretation",
+      "Learning Objective": "e) identify the mode of a set of discrete data from real life situations"
+    },
+    {
+      "Lesson Number": "105",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.1 Data Presentation and Interpretation",
+      "Learning Objective": "f) calculate the mean of a set of discrete data from real life situations"
+    },
+    {
+      "Lesson Number": "106",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.1 Data Presentation and Interpretation",
+      "Learning Objective": "g) determine the median of a set of discrete data from real life situations"
+    },
+    {
+      "Lesson Number": "107",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.1 Data Presentation and Interpretation",
+      "Learning Objective": "h) use IT or other materials to determine the mean; mode and median of discrete data in different situations"
+    },
+    {
+      "Lesson Number": "108",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.1 Data Presentation and Interpretation",
+      "Learning Objective": "i) recognize use of data representation and interpretation in real life situations"
+    },
+    {
+      "Lesson Number": "109",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.2 Probability",
+      "Learning Objective": "a) identify events involving chance in real life situations"
+    },
+    {
+      "Lesson Number": "110",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.2 Probability",
+      "Learning Objective": "b) perform chance experiments in different situations"
+    },
+    {
+      "Lesson Number": "111",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.2 Probability",
+      "Learning Objective": "c) write the experimental probability outcomes in different situations"
+    },
+    {
+      "Lesson Number": "112",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.2 Probability",
+      "Learning Objective": "d) express the probability outcomes in fractions in different situations"
+    },
+    {
+      "Lesson Number": "113",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.2 Probability",
+      "Learning Objective": "e) express the probability outcomes in decimals or percentages in different situations"
+    },
+    {
+      "Lesson Number": "114",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.2 Probability",
+      "Learning Objective": "f) use IT and other materials to play games involving probability"
+    },
+    {
+      "Lesson Number": "115",
+      "Subject": "Mathematics",
+      "Grade": "Grade 8",
+      "Strand": "5.0 Data Handling and Probability",
+      "Sub-strand": "5.2 Probability",
+      "Learning Objective": "g) recognize that there are events that happen by chance in real life situations"
+    }
+  ]
+}

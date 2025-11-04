@@ -1,0 +1,342 @@
+{
+  "curriculum_name": "Agriculture & nutrition grade 5 cbc",
+  "total_lessons": 42,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.1 Soil Conservation",
+      "Learning Objective": "a) identify sites for soil improvement in the school or community"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.1 Soil Conservation",
+      "Learning Objective": "b) construct organic waste pit for soil improvement"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.1 Soil Conservation",
+      "Learning Objective": "c) demonstrate use of plant remains for soil improvement"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.2 Water Conservation",
+      "Learning Objective": "a) identify ways of conserving water for household gardening"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.2 Water Conservation",
+      "Learning Objective": "b) practice water conservation within the school or community"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.2 Water Conservation",
+      "Learning Objective": "c) appreciate importance of conserving water in the community"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.3 Conserving Wild Animals",
+      "Learning Objective": "a) identify ways of repelling wild animals to avoid damage of property"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.3 Conserving Wild Animals",
+      "Learning Objective": "b) repel wild animals to avoid destruction of property"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "1.0 Conservation of Resources",
+      "Sub-strand": "1.3 Conserving Wild Animals",
+      "Learning Objective": "c) appreciate importance of living better with wild animals"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.1 Growing Vegetables",
+      "Learning Objective": "a) identify gardening practices in growing vegetables"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.1 Growing Vegetables",
+      "Learning Objective": "b) establish a nursery bed for vegetables"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.1 Growing Vegetables",
+      "Learning Objective": "c) care for vegetable seedlings after transplanting"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.1 Growing Vegetables",
+      "Learning Objective": "d) appreciate the importance of vegetables in provision of healthy meals"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.2 Uses of Domestic Animals",
+      "Learning Objective": "a) identify uses of various domestic animals in food production processes"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.2 Uses of Domestic Animals",
+      "Learning Objective": "b) relate various domestic animals to their uses"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.2 Uses of Domestic Animals",
+      "Learning Objective": "c) appreciate the importance of domestic animals in food production"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.3 Preservation of Cereals and Pulses",
+      "Learning Objective": "a) describe methods of preserving cereals and pulses in the locality"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.3 Preservation of Cereals and Pulses",
+      "Learning Objective": "b) preserve cereals and pulses for food security"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.3 Preservation of Cereals and Pulses",
+      "Learning Objective": "c) appreciate the importance of preserving cereals and pulses for food security"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.4 Food Nutrients",
+      "Learning Objective": "a) explain functions of food nutrients in the body"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.4 Food Nutrients",
+      "Learning Objective": "b) categorise foods based on their major nutrients"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.4 Food Nutrients",
+      "Learning Objective": "c) identify nutritional diseases and disorders associated with poor eating habits"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.4 Food Nutrients",
+      "Learning Objective": "d) appreciate the importance of various nutrients in the body"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.5 Cooking Food",
+      "Learning Objective": "a) describe various methods of cooking food"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.5 Cooking Food",
+      "Learning Objective": "b) cook foods using various methods"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "2.0 Food Production Processes",
+      "Sub-strand": "2.5 Cooking Food",
+      "Learning Objective": "c) embrace dry fat frying and deep frying in food production"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.1 Good Grooming Practices",
+      "Learning Objective": "a) describe good grooming as a daily health habit"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.1 Good Grooming Practices",
+      "Learning Objective": "b) practice good grooming as a daily health habit"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.1 Good Grooming Practices",
+      "Learning Objective": "c) appreciate good grooming as a healthy habit"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.2 Home Hygiene",
+      "Learning Objective": "a) identify surfaces made from different materials in home environment"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.2 Home Hygiene",
+      "Learning Objective": "b) clean different types of surfaces in the home environment"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.2 Home Hygiene",
+      "Learning Objective": "c) appreciate living in a clean home environment to promote healthy living"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.3 Laundering Cotton Item",
+      "Learning Objective": "a) describe how to launder a cotton item"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.3 Laundering Cotton Item",
+      "Learning Objective": "b) launder a cotton item for personal hygiene"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "3.0 Hygiene Practices",
+      "Sub-strand": "3.3 Laundering Cotton Item",
+      "Learning Objective": "c) appreciate importance of laundry work for hygiene purposes"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Repairing Garments",
+      "Learning Objective": "a) identify stitches used in repairing garment"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Repairing Garments",
+      "Learning Objective": "b) make samples of stitches used to repair garments"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Repairing Garments",
+      "Learning Objective": "c) use the stitches to repair gaping seam"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.1 Repairing Garments",
+      "Learning Objective": "d) adopt the use of stitches to repair of garments"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.2 Constructing Innovative Gardens",
+      "Learning Objective": "a) distinguish between horizontal and vertical innovative gardening"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.2 Constructing Innovative Gardens",
+      "Learning Objective": "b) construct innovative gardens for growing crops"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Agriculture & Nutrition",
+      "Grade": "Grade 5",
+      "Strand": "4.0 Production Techniques",
+      "Sub-strand": "4.2 Constructing Innovative Gardens",
+      "Learning Objective": "c) adopt the use of innovative gardens in growing crops"
+    }
+  ]
+}

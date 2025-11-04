@@ -1,0 +1,726 @@
+{
+  "curriculum_name": "English grade 8 cbc",
+  "total_lessons": 90,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Telephone Etiquette",
+      "Learning Objective": "a) identify polite words and phrases in telephone conversations"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Telephone Etiquette",
+      "Learning Objective": "b) conduct a telephone conversation using polite words and expressions"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Telephone Etiquette",
+      "Learning Objective": "c) acknowledge the significance of etiquette in telephone conversations"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Extensive Reading",
+      "Learning Objective": "a) identify print and non-print texts that are interesting to read"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Extensive Reading",
+      "Learning Objective": "b) read a range of texts for information"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Extensive Reading",
+      "Learning Objective": "c) appreciate the importance of reading for enjoyment"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Grammar in Use",
+      "Sub-strand": "Word classes",
+      "Learning Objective": "a) identify compound nouns in a text"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Grammar in Use",
+      "Sub-strand": "Word classes",
+      "Learning Objective": "b) use compound nouns in their singular and plural forms"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Grammar in Use",
+      "Sub-strand": "Word classes",
+      "Learning Objective": "c) appreciate the importance of compound nouns in communication"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "a) outline the sequence of events in a short story that they have read"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "b) use contextual clues to infer the meanings of words"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "c) answer direct and inferential questions from a short story"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "d) acknowledge the role of reading in communication"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Writing",
+      "Sub-strand": "Writing legibly and neatly",
+      "Learning Objective": "a) classify letters according to height differentials"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Writing",
+      "Sub-strand": "Writing legibly and neatly",
+      "Learning Objective": "b) write a text; legibly and neatly"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Writing",
+      "Sub-strand": "Writing legibly and neatly",
+      "Learning Objective": "c) advocate the need for legibility and neatness in writing"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Oral Presentations",
+      "Learning Objective": "a) identify features of songs that make the presentations appealing"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Oral Presentations",
+      "Learning Objective": "b) use performance techniques when singing"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Oral Presentations",
+      "Learning Objective": "c) write songs on a scientific innovation"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Oral Presentations",
+      "Learning Objective": "d) appreciate the role of songs in the society"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "a) identify the persona in a given poem"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "b) identify instances of repetition in a given poem"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "c) explain what the poem is about"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "d) appreciate the role of poems in communication"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Grammar in Use",
+      "Sub-strand": "Word classes",
+      "Learning Objective": "a) identify collective nouns from a text"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Grammar in Use",
+      "Sub-strand": "Word classes",
+      "Learning Objective": "b) use singular and plural forms of collective nouns correctly in sentences"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Grammar in Use",
+      "Sub-strand": "Word classes",
+      "Learning Objective": "c) appreciate the importance of collective nouns in communication"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "a) identify the setting - time and place-of a short story"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "b) highlight the episodes in the short story chronologically"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "c) appreciate the differences in culture and setting"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Writing",
+      "Sub-strand": "Mechanics of Writing",
+      "Learning Objective": "a) punctuate a given text using commas; apostrophes; and capital letters correctly"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Writing",
+      "Sub-strand": "Mechanics of Writing",
+      "Learning Objective": "b) use the apostrophe; comma and capital letters appropriately in composition writing"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Writing",
+      "Sub-strand": "Mechanics of Writing",
+      "Learning Objective": "c) advocate the use of correct punctuation in writing"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Listening Comprehension",
+      "Learning Objective": "a) identify the main idea from a cause and effect text"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Listening Comprehension",
+      "Learning Objective": "b) pinpoint specific information from a cause and effect text"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Listening Comprehension",
+      "Learning Objective": "c) infer the meanings of unfamiliar words using context clues"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Listening Comprehension",
+      "Learning Objective": "d) acknowledge the importance of listening for detail"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "a) answer questions based on a given text correctly"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "b) infer meanings of words in a given text correctly"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "c) acknowledge the importance of good reading skills in life"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Grammar in Use",
+      "Sub-strand": "Word classes",
+      "Learning Objective": "a) identify primary auxiliary verbs from a text"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Grammar in Use",
+      "Sub-strand": "Word classes",
+      "Learning Objective": "b) use primary auxiliary verbs in sentences correctly"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Grammar in Use",
+      "Sub-strand": "Word classes",
+      "Learning Objective": "c) appreciate the importance of primary auxiliary verbs in communication"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "a) identify the aspects of structure in a given poem"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "b) recognize the main ideas in a given poem"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "c) recognize the role of poems in communicating values"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Writing",
+      "Sub-strand": "Paragraphing",
+      "Learning Objective": "a) identify conjunctions used in a well formed paragraph"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Writing",
+      "Sub-strand": "Paragraphing",
+      "Learning Objective": "b) use conjunctions to sequence and connect ideas correctly in a paragraph"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Writing",
+      "Sub-strand": "Paragraphing",
+      "Learning Objective": "c) appreciate the role of conjunctions in communication"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Listening Comprehension",
+      "Learning Objective": "a) distinguish between specific and general information from a listening text"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Listening Comprehension",
+      "Learning Objective": "b) select specific information from a text"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Listening Comprehension",
+      "Learning Objective": "c) listen and respond to texts appropriately"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Listening Comprehension",
+      "Learning Objective": "d) emphasise the value of listening skills in communication"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "a) identify reading strategies for use on given texts"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "b) select main ideas and details from written texts"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "c) acknowledge reading for main ideas and details as a comprehension skill"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Grammar in Use",
+      "Sub-strand": "Verbs and Tense",
+      "Learning Objective": "a) identify verbs in the simple present and simple past tense in a text"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Grammar in Use",
+      "Sub-strand": "Verbs and Tense",
+      "Learning Objective": "b) write sentences using the simple present tense"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Grammar in Use",
+      "Sub-strand": "Verbs and Tense",
+      "Learning Objective": "c) write sentences using the simple past tense"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Grammar in Use",
+      "Sub-strand": "Verbs and Tense",
+      "Learning Objective": "d) advocate appropriate use of tense in communication"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "a) identify the characters in a short story"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "b) use contextual clues to infer character traits of the characters in a short story"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "c) acknowledge the role of characters in a short story"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Writing",
+      "Sub-strand": "Paragraphing",
+      "Learning Objective": "a) identify connectors of sequence from a given text"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Writing",
+      "Sub-strand": "Paragraphing",
+      "Learning Objective": "b) Sequence ideas in a given paragraph"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Writing",
+      "Sub-strand": "Paragraphing",
+      "Learning Objective": "c) appreciate the use of idea connectors for clarity in communication"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Pronunciation",
+      "Learning Objective": "a) identify words with sounds /ɒ/; /ͻ:/; /θ/ and /ð/ in a given text"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Pronunciation",
+      "Learning Objective": "b) pronounce words that have target sounds correctly"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Pronunciation",
+      "Learning Objective": "c) apply emphatic stress correctly in varied contexts"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Pronunciation",
+      "Learning Objective": "d) acknowledge the role of correct pronunciation in communication"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Study Skills",
+      "Learning Objective": "a) select relevant reference materials for varied tasks"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Study Skills",
+      "Learning Objective": "b) use reference materials to obtain information on varied subjects"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Study Skills",
+      "Learning Objective": "c) acknowledge the role of reference materials in lifelong learning"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Grammar in Use",
+      "Sub-strand": "Word classes",
+      "Learning Objective": "a) identify gradable and non-gradable adjectives from a text"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Grammar in Use",
+      "Sub-strand": "Word classes",
+      "Learning Objective": "b) use gradable and non-gradable adjectives in sentences"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Grammar in Use",
+      "Sub-strand": "Word classes",
+      "Learning Objective": "c) value the need for correct use of adjectives in communication"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "a) identify dialogue and repetition in a short story"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "b) explain the importance of repetition and dialogue in a short story"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Intensive Reading",
+      "Learning Objective": "c) acknowledge the role of dialogue and repetition in fiction writing"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Writing",
+      "Sub-strand": "Functional Writing",
+      "Learning Objective": "a) lists the parts of a letter of apology"
+    },
+    {
+      "Lesson Number": "81",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Writing",
+      "Sub-strand": "Functional Writing",
+      "Learning Objective": "b) write a letter of apology based on a given context"
+    },
+    {
+      "Lesson Number": "82",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Writing",
+      "Sub-strand": "Functional Writing",
+      "Learning Objective": "c) acknowledge the role of letter writing in communication"
+    },
+    {
+      "Lesson Number": "83",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Conversational Skills",
+      "Learning Objective": "a) list ways of disagreeing politely"
+    },
+    {
+      "Lesson Number": "84",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Conversational Skills",
+      "Learning Objective": "b) use conversational strategies to disagree appropriately"
+    },
+    {
+      "Lesson Number": "85",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Conversational Skills",
+      "Learning Objective": "c) apply non-verbal cues to express varied moods and feelings"
+    },
+    {
+      "Lesson Number": "86",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Listening and Speaking",
+      "Sub-strand": "Conversational Skills",
+      "Learning Objective": "d) advocate for the need to speak politely during communication"
+    },
+    {
+      "Lesson Number": "87",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Reading Fluency",
+      "Learning Objective": "a) identify techniques of reading fast"
+    },
+    {
+      "Lesson Number": "88",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Reading Fluency",
+      "Learning Objective": "b) read a text accurately; with expression and at the right speed"
+    },
+    {
+      "Lesson Number": "89",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Reading Fluency",
+      "Learning Objective": "c) apply fluency strategies when reading a text"
+    },
+    {
+      "Lesson Number": "90",
+      "Subject": "English",
+      "Grade": "Grade 8",
+      "Strand": "Reading",
+      "Sub-strand": "Reading Fluency",
+      "Learning Objective": "d) appreciate the value of fluency in reading to enhance understanding"
+    }
+  ]
+}

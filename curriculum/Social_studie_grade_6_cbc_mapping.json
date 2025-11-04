@@ -1,0 +1,646 @@
+{
+  "curriculum_name": "Social studie grade 6 cbc",
+  "total_lessons": 80,
+  "lessons": [
+    {
+      "Lesson Number": "1",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.1 Position and Size of Countries in Eastern Africa",
+      "Learning Objective": "a) identify the countries of Eastern Africa on a map"
+    },
+    {
+      "Lesson Number": "2",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.1 Position and Size of Countries in Eastern Africa",
+      "Learning Objective": "b) describe the position and size of countries in Eastern Africa"
+    },
+    {
+      "Lesson Number": "3",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.1 Position and Size of Countries in Eastern Africa",
+      "Learning Objective": "c) use latitudes and longitudes to locate places on a map"
+    },
+    {
+      "Lesson Number": "4",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.1 Position and Size of Countries in Eastern Africa",
+      "Learning Objective": "d) appreciate the unity of Eastern African countries"
+    },
+    {
+      "Lesson Number": "5",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.2 Main physical features in Eastern Africa",
+      "Learning Objective": "a) identify the main physical features in Eastern Africa on a map"
+    },
+    {
+      "Lesson Number": "6",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.2 Main physical features in Eastern Africa",
+      "Learning Objective": "b) describe the formation of the main physical features of Eastern Africa"
+    },
+    {
+      "Lesson Number": "7",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.2 Main physical features in Eastern Africa",
+      "Learning Objective": "c) draw a map of Eastern Africa and label the main physical features"
+    },
+    {
+      "Lesson Number": "8",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.2 Main physical features in Eastern Africa",
+      "Learning Objective": "d) value the physical features within the locality"
+    },
+    {
+      "Lesson Number": "9",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.3 Climatic regions in Eastern Africa",
+      "Learning Objective": "a) identify the main climatic regions in Eastern Africa on a map"
+    },
+    {
+      "Lesson Number": "10",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.3 Climatic regions in Eastern Africa",
+      "Learning Objective": "b) describe characteristics of the main climatic regions in Eastern Africa"
+    },
+    {
+      "Lesson Number": "11",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.3 Climatic regions in Eastern Africa",
+      "Learning Objective": "c) explain ways in which climate influences human activities in Eastern Africa"
+    },
+    {
+      "Lesson Number": "12",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.3 Climatic regions in Eastern Africa",
+      "Learning Objective": "d) acknowledge the main climatic regions in Eastern Africa"
+    },
+    {
+      "Lesson Number": "13",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.4 Vegetation in Eastern Africa",
+      "Learning Objective": "a) identify the main types of vegetation in Eastern Africa on a map"
+    },
+    {
+      "Lesson Number": "14",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.4 Vegetation in Eastern Africa",
+      "Learning Objective": "b) draw a map of Eastern Africa and label the main types of vegetation"
+    },
+    {
+      "Lesson Number": "15",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.4 Vegetation in Eastern Africa",
+      "Learning Objective": "c) describe the characteristics of the main types of vegetation in Eastern Africa"
+    },
+    {
+      "Lesson Number": "16",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.4 Vegetation in Eastern Africa",
+      "Learning Objective": "d) explain ways of conserving vegetation in the environment"
+    },
+    {
+      "Lesson Number": "17",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.4 Vegetation in Eastern Africa",
+      "Learning Objective": "e) value vegetation found at home and school"
+    },
+    {
+      "Lesson Number": "18",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.5 Historic Built Environments",
+      "Learning Objective": "a) identify the main historic built environments in Eastern Africa on a map"
+    },
+    {
+      "Lesson Number": "19",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.5 Historic Built Environments",
+      "Learning Objective": "b) describe the importance of the main historic built environments in Eastern Africa"
+    },
+    {
+      "Lesson Number": "20",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.5 Historic Built Environments",
+      "Learning Objective": "c) demonstrate ways of conserving historic built environments in Eastern Africa"
+    },
+    {
+      "Lesson Number": "21",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "1.0 Natural and the Built Environments",
+      "Sub-strand": "1.5 Historic Built Environments",
+      "Learning Objective": "d) value historic built environments in Eastern Africa within the locality"
+    },
+    {
+      "Lesson Number": "22",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.1 Language groups in Eastern Africa",
+      "Learning Objective": "a) Describe the classification of communities in Eastern Africa according to language groups"
+    },
+    {
+      "Lesson Number": "23",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.1 Language groups in Eastern Africa",
+      "Learning Objective": "b) explain the reasons for migration of selected language groups into Eastern Africa"
+    },
+    {
+      "Lesson Number": "24",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.1 Language groups in Eastern Africa",
+      "Learning Objective": "c) illustrate the movement and settlement of the selected language groups in Eastern Africa on a map"
+    },
+    {
+      "Lesson Number": "25",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.1 Language groups in Eastern Africa",
+      "Learning Objective": "d) describe the effects of the migration and settlement of selected language groups in Eastern Africa"
+    },
+    {
+      "Lesson Number": "26",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.1 Language groups in Eastern Africa",
+      "Learning Objective": "e) appreciate unity of language groups in Eastern Africa"
+    },
+    {
+      "Lesson Number": "27",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.2 Population distribution in Eastern Africa",
+      "Learning Objective": "a) explain factors influencing population distribution in Eastern Africa"
+    },
+    {
+      "Lesson Number": "28",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.2 Population distribution in Eastern Africa",
+      "Learning Objective": "b) locate areas of high and low population density in Eastern Africa on a map"
+    },
+    {
+      "Lesson Number": "29",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.2 Population distribution in Eastern Africa",
+      "Learning Objective": "c) explain effects of high population density in Eastern Africa"
+    },
+    {
+      "Lesson Number": "30",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.2 Population distribution in Eastern Africa",
+      "Learning Objective": "d) acknowledge population distribution in Eastern Africa"
+    },
+    {
+      "Lesson Number": "31",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.3 Culture and Social organisation",
+      "Learning Objective": "a) describe age-groups and age-sets in African traditional society"
+    },
+    {
+      "Lesson Number": "32",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.3 Culture and Social organisation",
+      "Learning Objective": "b) explain the functions of a clan in traditional African society"
+    },
+    {
+      "Lesson Number": "33",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.3 Culture and Social organisation",
+      "Learning Objective": "c) identify aspects of African traditional culture that ought to be preserved"
+    },
+    {
+      "Lesson Number": "34",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.3 Culture and Social organisation",
+      "Learning Objective": "d) desire to uphold aspects of African traditional culture that ought to be preserved"
+    },
+    {
+      "Lesson Number": "35",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.4 School and Community",
+      "Learning Objective": "a) identify ways in which the school collaborates with the community"
+    },
+    {
+      "Lesson Number": "36",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.4 School and Community",
+      "Learning Objective": "b) explain the benefits of collaboration between school and the community"
+    },
+    {
+      "Lesson Number": "37",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.4 School and Community",
+      "Learning Objective": "c) demonstrate ways in which the school collaborates with the community"
+    },
+    {
+      "Lesson Number": "38",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "2.0 People; Population and Social Organisations",
+      "Sub-strand": "2.4 School and Community",
+      "Learning Objective": "d) appreciate the collaboration between the school and community"
+    },
+    {
+      "Lesson Number": "39",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.1 Beef Farming",
+      "Learning Objective": "a) describe factors influencing beef farming in Eastern Africa"
+    },
+    {
+      "Lesson Number": "40",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.1 Beef Farming",
+      "Learning Objective": "b) locate on a map areas where beef farming is practised in Eastern Africa"
+    },
+    {
+      "Lesson Number": "41",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.1 Beef Farming",
+      "Learning Objective": "c) identify the contribution of beef farming to the economy of Eastern Africa"
+    },
+    {
+      "Lesson Number": "42",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.1 Beef Farming",
+      "Learning Objective": "d) explain the challenges facing beef farming in Eastern Africa"
+    },
+    {
+      "Lesson Number": "43",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.1 Beef Farming",
+      "Learning Objective": "e) acknowledge beef farming as an economic activity in Eastern Africa"
+    },
+    {
+      "Lesson Number": "44",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.2 Fishing in Eastern Africa",
+      "Learning Objective": "a) locate marine and inland fishing grounds on a map"
+    },
+    {
+      "Lesson Number": "45",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.2 Fishing in Eastern Africa",
+      "Learning Objective": "b) describe methods of marine fishing in Eastern Africa"
+    },
+    {
+      "Lesson Number": "46",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.2 Fishing in Eastern Africa",
+      "Learning Objective": "c) explain challenges facing fishing in Eastern Africa"
+    },
+    {
+      "Lesson Number": "47",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.2 Fishing in Eastern Africa",
+      "Learning Objective": "d) design possible solutions to challenges facing fishing in Eastern Africa"
+    },
+    {
+      "Lesson Number": "48",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.2 Fishing in Eastern Africa",
+      "Learning Objective": "e) value fishing as an economic activity"
+    },
+    {
+      "Lesson Number": "49",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.3 Wildlife and Tourism in Eastern Africa",
+      "Learning Objective": "a) explain factors that promote tourism in Eastern Africa"
+    },
+    {
+      "Lesson Number": "50",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.3 Wildlife and Tourism in Eastern Africa",
+      "Learning Objective": "b) locate game reserves and national parks in Eastern Africa on a map"
+    },
+    {
+      "Lesson Number": "51",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.3 Wildlife and Tourism in Eastern Africa",
+      "Learning Objective": "c) explain challenges facing tourism in Eastern Africa"
+    },
+    {
+      "Lesson Number": "52",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.3 Wildlife and Tourism in Eastern Africa",
+      "Learning Objective": "d) state possible solutions to challenges facing tourism in Eastern Africa"
+    },
+    {
+      "Lesson Number": "53",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.3 Wildlife and Tourism in Eastern Africa",
+      "Learning Objective": "e) value tourism as an economic activity"
+    },
+    {
+      "Lesson Number": "54",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.4 Transport in Eastern Africa",
+      "Learning Objective": "a) identify the main transport networks in Eastern Africa on a map"
+    },
+    {
+      "Lesson Number": "55",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.4 Transport in Eastern Africa",
+      "Learning Objective": "b) draw a map of Eastern Africa showing the main transport networks"
+    },
+    {
+      "Lesson Number": "56",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.4 Transport in Eastern Africa",
+      "Learning Objective": "c) explain the challenges facing transport networks in Eastern Africa"
+    },
+    {
+      "Lesson Number": "57",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.4 Transport in Eastern Africa",
+      "Learning Objective": "d) state possible solutions to challenges facing transport networks in Eastern Africa"
+    },
+    {
+      "Lesson Number": "58",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.4 Transport in Eastern Africa",
+      "Learning Objective": "e) appreciate the transport network in economic development"
+    },
+    {
+      "Lesson Number": "59",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.5 Communication in Eastern Africa",
+      "Learning Objective": "a) identify modes of communication in Eastern Africa"
+    },
+    {
+      "Lesson Number": "60",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.5 Communication in Eastern Africa",
+      "Learning Objective": "b) explain challenges facing communication networks in Eastern Africa"
+    },
+    {
+      "Lesson Number": "61",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.5 Communication in Eastern Africa",
+      "Learning Objective": "c) state possible solutions to challenges facing communication networks in Eastern Africa"
+    },
+    {
+      "Lesson Number": "62",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.5 Communication in Eastern Africa",
+      "Learning Objective": "d) demonstrate how different modes of communication are used in Eastern Africa"
+    },
+    {
+      "Lesson Number": "63",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.5 Communication in Eastern Africa",
+      "Learning Objective": "e) appreciate the role of communication networks in Eastern Africa"
+    },
+    {
+      "Lesson Number": "64",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.6 Mining in Eastern Africa",
+      "Learning Objective": "a) identify minerals found in Eastern Africa"
+    },
+    {
+      "Lesson Number": "65",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.6 Mining in Eastern Africa",
+      "Learning Objective": "b) describe the methods of extracting minerals in Eastern Africa (soda ash in Kenya; gold in Tanzania; limestone in Uganda)"
+    },
+    {
+      "Lesson Number": "66",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.6 Mining in Eastern Africa",
+      "Learning Objective": "c) explain the effects of mining on the environment in Eastern Africa"
+    },
+    {
+      "Lesson Number": "67",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.6 Mining in Eastern Africa",
+      "Learning Objective": "d) state the possible solutions to problems associated with mining"
+    },
+    {
+      "Lesson Number": "68",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "3.0 Resources and Economic Activities in Eastern Africa",
+      "Sub-strand": "3.6 Mining in Eastern Africa",
+      "Learning Objective": "e) desire to conserve areas affected by mining activities in Eastern Africa"
+    },
+    {
+      "Lesson Number": "69",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.1 Traditional forms of Government",
+      "Learning Objective": "a) describe traditional forms of government of the Buganda and Nyamwezi in Eastern Africa"
+    },
+    {
+      "Lesson Number": "70",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.1 Traditional forms of Government",
+      "Learning Objective": "b) compare traditional forms of government between the Buganda and Nyamwezi"
+    },
+    {
+      "Lesson Number": "71",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.1 Traditional forms of Government",
+      "Learning Objective": "c) value aspects of good governance in traditional societies"
+    },
+    {
+      "Lesson Number": "72",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.2 Regional co-operations",
+      "Learning Objective": "a) explain the objectives of East African Community"
+    },
+    {
+      "Lesson Number": "73",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.2 Regional co-operations",
+      "Learning Objective": "b) describe the benefits of East African Community to member states"
+    },
+    {
+      "Lesson Number": "74",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.2 Regional co-operations",
+      "Learning Objective": "c) identify the challenges facing the East African Community"
+    },
+    {
+      "Lesson Number": "75",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.2 Regional co-operations",
+      "Learning Objective": "d) formulate the possible solutions to challenges facing the East African Community"
+    },
+    {
+      "Lesson Number": "76",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.2 Regional co-operations",
+      "Learning Objective": "e) value the unity of Eastern African countries"
+    },
+    {
+      "Lesson Number": "77",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.3 Citizenship",
+      "Learning Objective": "a) describe the rights and responsibilities of a Kenyan citizen"
+    },
+    {
+      "Lesson Number": "78",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.3 Citizenship",
+      "Learning Objective": "b) state the qualities of a good citizen of Kenya"
+    },
+    {
+      "Lesson Number": "79",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.3 Citizenship",
+      "Learning Objective": "c) demonstrate the values of a good Kenyan citizen"
+    },
+    {
+      "Lesson Number": "80",
+      "Subject": "Social Studies",
+      "Grade": "Grade 6",
+      "Strand": "4.0 Political Systems and Governance",
+      "Sub-strand": "4.3 Citizenship",
+      "Learning Objective": "d) appreciate patriotism as a Kenyan citizen"
+    }
+  ]
+}
