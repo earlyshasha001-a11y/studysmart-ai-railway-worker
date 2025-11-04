@@ -192,7 +192,18 @@ class RailwayController:
                 print("✗ Failed to authenticate with Railway API")
                 return False
         except Exception as e:
-            print(f"✗ Connection test failed: {str(e)}")
+            error_str = str(e)
+            print(f"✗ Connection test failed: {error_str}")
+            
+            if "Not Authorized" in error_str:
+                print("\n⚠️  Token Authorization Issue:")
+                print("   Your token might be a Team or Project token.")
+                print("   Please create an Account token:")
+                print("   1. Go to: https://railway.app/account/tokens")
+                print("   2. Click 'Create New Token'")
+                print("   3. Leave 'Team' dropdown EMPTY")
+                print("   4. Copy the token and update RAILWAY_API_KEY in Secrets")
+            
             return False
     
     def create_project(self, project_name: str = "StudySmart-AI-Worker") -> Optional[str]:
@@ -388,10 +399,15 @@ def main():
     if not api_key:
         print("\n❌ ERROR: RAILWAY_API_KEY not found in environment")
         print("\n📝 Please add your Railway API key to Replit Secrets:")
-        print("   1. Click on 'Tools' in the left sidebar")
-        print("   2. Select 'Secrets'")
-        print("   3. Add: RAILWAY_API_KEY = your_api_key_here")
-        print("\n   Get your API key from: https://railway.app/account/tokens")
+        print("   1. Go to https://railway.app/account/tokens")
+        print("   2. Click 'Create New Token'")
+        print("   3. Leave 'Team' dropdown EMPTY (this creates an Account token)")
+        print("   4. Give it a name like 'Replit Controller'")
+        print("   5. Copy the generated token")
+        print("   6. In Replit: Tools → Secrets → Add:")
+        print("      Key: RAILWAY_API_KEY")
+        print("      Value: (paste your token)")
+        print("\n⚠️  IMPORTANT: Use an Account token, NOT a Team or Project token")
         sys.exit(1)
     
     controller = RailwayController(api_key)
