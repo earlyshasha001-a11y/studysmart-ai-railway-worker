@@ -117,10 +117,22 @@ class StudySmartWorker:
                 
                 prompt = f"""🎓 STUDYSMART AI LESSON GENERATOR
 
-📏 CHARACTER RULE (CRITICAL):
-Each script part = 1600–1950 characters (12-15 sentences, ~270 words)
-Total = {1600 * num_parts}–{1950 * num_parts} chars for {num_parts} parts
-Content < 1600 chars = AUTO-REJECT ❌
+🚨🚨🚨 CRITICAL LENGTH VALIDATION 🚨🚨🚨
+MINIMUM LENGTH: 1600 characters per part
+MAXIMUM LENGTH: 1950 characters per part
+TARGET LENGTH: 1750 characters per part
+
+MATH FOR {num_parts} PARTS:
+• Minimum total: {1600 * num_parts} characters
+• Target total: {1750 * num_parts} characters
+• Maximum total: {1950 * num_parts} characters
+
+⚠️ IF YOU WRITE LESS THAN 1600 CHARS = AUTOMATIC REJECTION ⚠️
+⚠️ IF YOU WRITE MORE THAN 1950 CHARS = AUTOMATIC REJECTION ⚠️
+
+Each part needs EXACTLY 12-15 full sentences.
+Sentence average: 120-140 characters each.
+1600 ÷ 120 = 13 sentences MINIMUM
 
 📐 HOW TO WRITE 1750 CHARACTERS:
 Write 12-15 full sentences:
@@ -179,21 +191,42 @@ Lesson {lesson_num}: {topic}
   ]
 }}
 
-⚠️ WRITE LONG CONTENT: 12-15 sentences = 1750 chars per part. Return ONLY JSON."""
+🚨 FINAL REMINDER BEFORE YOU GENERATE 🚨
+COUNT YOUR CHARACTERS!
+Part 1: Must be 1600-1950 chars (12-15 sentences)
+Part 2: Must be 1600-1950 chars (12-15 sentences)
+{"Part 3: Must be 1600-1950 chars (12-15 sentences)" if num_parts >= 3 else ""}
+{"Part 4: Must be 1600-1950 chars (12-15 sentences)" if num_parts >= 4 else ""}
+{"Part 5: Must be 1600-1950 chars (12-15 sentences)" if num_parts >= 5 else ""}
+{"Part 6: Must be 1600-1950 chars (12-15 sentences)" if num_parts >= 6 else ""}
+{"Part 7: Must be 1600-1950 chars (12-15 sentences)" if num_parts >= 7 else ""}
+{"Part 8: Must be 1600-1950 chars (12-15 sentences)" if num_parts >= 8 else ""}
+Notes & Exercises: Must be 1600-1950 chars
+
+EACH PART < 1600 CHARS = FAILURE
+EACH PART > 1950 CHARS = FAILURE
+
+WRITE LONG. WRITE DETAILED. COUNT CHARACTERS. Return ONLY JSON."""
                 
-                system_message = """You are an expert educational content writer. You MUST generate LONG, DETAILED content that meets EXACT length requirements. 
+                system_message = """You are a StudySmart AI educational content writer.
 
-CRITICAL RULE: Each script part must be EXACTLY 1600-1950 characters (approximately 250-300 words).
-This is NOT optional - content shorter than 1600 characters will be REJECTED.
+🚨 ABSOLUTE NON-NEGOTIABLE REQUIREMENT 🚨
+MINIMUM: 1600 characters per script part
+MAXIMUM: 1950 characters per script part
+TARGET: 1750 characters per script part
 
-Write comprehensive, thorough explanations with:
-- Detailed introductions and context
-- Multiple examples and illustrations
-- Step-by-step explanations
-- Real-world applications
-- Summary and reinforcement
+VALIDATION RULE:
+if len(content) < 1600: REJECT AND RETRY
+if len(content) > 1950: REJECT AND RETRY
 
-DO NOT write brief, concise, or summarized content. EXPAND everything fully."""
+YOU MUST COUNT CHARACTERS BEFORE RETURNING.
+Each part needs 12-15 full sentences.
+Each sentence should be 120-140 characters on average.
+
+WRITE LONG, EXPANSIVE, DETAILED CONTENT.
+Never abbreviate. Never summarize. EXPAND EVERYTHING.
+
+If you generate less than 1600 characters, the content will be automatically rejected and you will need to retry. This wastes time and API calls. GET IT RIGHT THE FIRST TIME."""
 
                 payload = {
                     "model": self.model,

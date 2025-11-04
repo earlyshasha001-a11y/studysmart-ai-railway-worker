@@ -21,15 +21,14 @@ This project is a **lightweight orchestration controller** on Replit that manage
 - Auto-shutdown Railway workers after completion
 
 ## Recent Changes
-- **2025-11-04**: StudySmart AI Orchestration System - SIMPLIFIED DIRECTIVE
-  - ✅ Ultra-concise prompt using simplified Master Directive format
+- **2025-11-04**: StudySmart AI Orchestration System - MAXIMUM ENFORCEMENT
+  - ✅ Ultra-strict character count validation (multiple enforcement points)
+  - ✅ Explicit math shown: 1600÷120=13 sentences minimum
+  - ✅ Per-part validation reminders (Part 1: 1600-1950, Part 2: 1600-1950...)
+  - ✅ System message with automatic rejection warnings
+  - ✅ Sentence-level guidance (120-140 chars per sentence)
   - ✅ Emoji-organized sections for easier AI parsing
-  - ✅ Clear flow notation (1=Concrete → 2=Representational...)
-  - ✅ Exact opening/closing templates built-in
-  - ✅ Character math shown (1600×4=6400 for 4-part lessons)
-  - ✅ Bullet-point style rules (no long paragraphs)
   - ✅ Realistic 1650-char example with proper format
-  - ✅ System message + optimized user prompt
   - ✅ Temperature: 0.8 for expansive responses
   - ✅ Railway HTTP API integration complete
   - ✅ DeepSeek V3.1 integration via OpenRouter
