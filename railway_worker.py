@@ -109,73 +109,77 @@ class StudySmartWorker:
                 teacher_key = f"{curriculum_type} {grade_year_form}"
                 teacher_name = teacher_rotation.get(teacher_key, "Teacher")
                 
-                prompt = f"""Generate StudySmart AI lesson content.
+                # Determine flow based on parts
+                if num_parts == 4:
+                    flow = "1=Concrete → 2=Representational → 3=Abstract & Real-life → 4=Recap + Transition"
+                else:
+                    flow = "1=Concrete → 2=Representational → 3=Abstract → 4=Real-Life → 5=Problem Solving → 6=Application → 7=Recap → 8=Closing"
+                
+                prompt = f"""🎓 STUDYSMART AI LESSON GENERATOR
 
-═══ PART 1: LENGTH REQUIREMENTS (CRITICAL) ═══
-⚠️ Each script part MUST be 1600-1950 characters (12-15 sentences, ~270 words)
-⚠️ Content under 1600 characters is AUTO-REJECTED
+📏 CHARACTER RULE (CRITICAL):
+Each script part = 1600–1950 characters (12-15 sentences, ~270 words)
+Total = {1600 * num_parts}–{1950 * num_parts} chars for {num_parts} parts
+Content < 1600 chars = AUTO-REJECT ❌
 
-HOW TO WRITE 1750 CHARACTERS:
-Write 12-15 complete sentences following this pattern:
-• Greeting + lesson intro (2 sentences)
-• Concept explanation with context (4-5 sentences)  
+📐 HOW TO WRITE 1750 CHARACTERS:
+Write 12-15 full sentences:
+• Opening greeting (2 sentences)
+• Concept explanation (4-5 sentences)
 • Detailed examples with steps (4-5 sentences)
-• Real-world connection (2 sentences)
-• Summary/reinforcement (1-2 sentences)
+• Real-world Kenyan/African context (2 sentences)
+• Summary (1-2 sentences)
 
-EXAMPLE (1650 chars - NOTICE THE LENGTH):
+EXAMPLE (1650 chars):
 "Hello learners. I am Sarah Johnson from StudySmart AI. This is Grade one Mathematics, Lesson three. Today we will learn about counting to ten. In our previous lesson, we learned about recognizing numbers from one to five. Now we will extend our knowledge to count all the way to ten, which is an important skill you will use every single day of your life. Let us begin our journey with numbers. When we count, we say the number names in order: one, two, three, four, five, six, seven, eight, nine, and ten. Each number represents a specific quantity. For example, if I show you one pencil, you say 'one'. If I show you two pencils, you say 'two'. Here is an illustration of ten colorful pencils arranged in a row from left to right. Notice how each pencil is different, but we can count them all. We start from the left and point to each pencil as we count: one, two, three, four, five, six, seven, eight, nine, ten. Let me give you another example using something you see every day. Imagine you have fingers on your hands. If you hold up all your fingers, you have ten fingers total! Five on your left hand and five on your right hand. When you add five plus five together, you get ten. This is why ten is such a special number. You can use your fingers to help you count whenever you need to. Now let us practice counting different objects. Here is an illustration of ten bright red apples on a table. Can you imagine counting them one by one? You would say: one apple, two apples, three apples, four apples, five apples, six apples, seven apples, eight apples, nine apples, ten apples. Well done!"
 
-═══ PART 2: LESSON STRUCTURE ═══
+📚 LESSON INFO:
 Subject: {subject}
 Level: {grade_year_form}
 Teacher: {teacher_name}
 Lesson {lesson_num}: {topic}
-Objective: {objective}
 
-YOU MUST CREATE {num_parts} PARTS:
-{chr(10).join(f"{i+1}. {part_names[i] if i < len(part_names) else f'Part {i+1}'}" for i in range(num_parts))}
+🔄 STRUCTURE ({num_parts} parts):
+{flow}
 
-Opening (Part 1 only): "Hello learners. I am {teacher_name} from StudySmart AI. This is {grade_year_form} {subject}, Lesson {lesson_num}. Today we will learn {topic}."
+📝 OPENING (Part 1 only):
+"Hello learners. I am {teacher_name} from StudySmart AI. This is {grade_year_form} {subject}, Lesson {lesson_num}. Today we will learn {topic}."
 
-Closing (Last part only): "Well done learners. I am {teacher_name} from StudySmart AI. This was {grade_year_form} {subject}, Lesson {lesson_num}. See you in the next lesson. Notes and Exercises will appear right after this."
+🏁 CLOSING (Last part only):
+"Well done learners. I am {teacher_name} from StudySmart AI. This was {grade_year_form} {subject}, Lesson {lesson_num}. See you in the next lesson. Notes and Exercises will appear right after this. Pause the video, copy them neatly in your book, and use the OCR camera in the app to check your work."
 
-═══ PART 3: TEACHING STYLE RULES ═══
-✓ Natural spoken British/Kenyan English
-✓ Write numbers as WORDS (one, two, ten) NOT digits (1, 2, 10)
-✓ NO math symbols: write "plus" not "+", "equals" not "=", "minus" not "-"
-✓ Friendly but precise tone
-✓ NO questions to learners, NO physical actions
-✓ Teach through spoken explanation + visual illustrations only
+✅ STYLE RULES:
+• British/Kenyan English, friendly tone
+• Numbers as WORDS (one, two, ten) NOT digits (1, 2, 10)
+• NO math symbols: "plus" not +, "equals" not =
+• NO questions to learners, NO physical actions
+• Clear continuous explanation
 
-═══ PART 4: ILLUSTRATIONS & NOTES ═══
-Illustrations:
-• Include 6-10 illustrations total (at least 1 per part)
-• Introduce each: "Here is an illustration of..."
-• Use familiar items: pencils, books, animals, cubes, fruits
-• Each needs: illustration_number, scene_description, elements array, part_association
+🖼️ ILLUSTRATIONS:
+• 6-10 total (≥1 per part)
+• Start each: "Here is an illustration of..."
+• Familiar items: pencils, books, animals, cubes, fruits
 
-Notes & Exercises (1600-1950 chars TOTAL):
-• Bulleted notes explaining key concepts
+📋 NOTES & EXERCISES (1600-1950 chars):
+• Bulleted notes (OCR-friendly)
 • 8-10 practice exercises
-• Use numerals in notes for clarity
-• OCR-friendly format
+• Use numerals in notes
 
-OUTPUT JSON STRUCTURE:
+📤 OUTPUT JSON:
 {{
   "script_parts": [
-    {{"heading": "{part_names[0] if len(part_names) > 0 else 'Part 1'}", "content": "1600-1950 chars"}},
-    {{"heading": "{part_names[1] if len(part_names) > 1 else 'Part 2'}", "content": "1600-1950 chars"}},
-    {"..." if num_parts > 2 else ""}
-    {{"heading": "{part_names[num_parts-1] if len(part_names) >= num_parts else f'Part {num_parts}'}", "content": "1600-1950 chars"}}
+    {{"heading": "Part 1", "content": "1600-1950 char narration"}},
+    {{"heading": "Part 2", "content": "1600-1950 char narration"}},
+    ... ({num_parts} total parts)
   ],
-  "notes_exercises": "1600-1950 chars with notes + exercises",
-  "illustrations": [{{"illustration_number": 1, "scene_description": "...", "elements": [...], "part_association": 1}}]
+  "notes_exercises": "1600-1950 chars with notes + 8-10 exercises",
+  "illustrations": [
+    {{"illustration_number": 1, "scene_description": "...", "elements": ["item1", "item2"], "part_association": 1}},
+    ... (6-10 total)
+  ]
 }}
 
-⚠️ REMEMBER: 12-15 sentences per part = 1750 characters. Write LONG detailed content.
-
-Return ONLY the JSON."""
+⚠️ WRITE LONG CONTENT: 12-15 sentences = 1750 chars per part. Return ONLY JSON."""
                 
                 system_message = """You are an expert educational content writer. You MUST generate LONG, DETAILED content that meets EXACT length requirements. 
 
