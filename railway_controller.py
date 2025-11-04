@@ -617,18 +617,18 @@ class StudySmartOrchestrator:
                 continue
             
             script_parts = lesson_content.get("script_parts", [])
-            notes_parts = lesson_content.get("notes_parts", [])
+            notes_content = lesson_content.get("notes_exercises", "")
             
             if len(script_parts) != num_parts:
                 print(f"⚠️  Wrong number of script parts: {len(script_parts)} (expected {num_parts})")
                 continue
             
-            if len(notes_parts) != num_parts:
-                print(f"⚠️  Wrong number of notes parts: {len(notes_parts)} (expected {num_parts})")
+            if not isinstance(notes_content, str):
+                print(f"⚠️  Notes & Exercises must be a single text string, not a list")
                 continue
             
             script_valid = all(self.validate_character_count(part.get("content", "")) for part in script_parts)
-            notes_valid = all(self.validate_character_count(part.get("content", "")) for part in notes_parts)
+            notes_valid = self.validate_character_count(notes_content)
             
             if script_valid and notes_valid:
                 print(f"✓ Character counts validated successfully")
@@ -639,10 +639,8 @@ class StudySmartOrchestrator:
                 if not self.validate_character_count(content_text):
                     print(f"⚠️  Script part {i}: {len(content_text)} chars (expected 1600-1950)")
             
-            for i, part in enumerate(notes_parts, 1):
-                content_text = part.get("content", "")
-                if not self.validate_character_count(content_text):
-                    print(f"⚠️  Notes part {i}: {len(content_text)} chars (expected 1600-1950)")
+            if not self.validate_character_count(notes_content):
+                print(f"⚠️  Notes & Exercises: {len(notes_content)} chars (expected 1600-1950)")
         
         print(f"✗ Failed to generate valid content after {max_retries} attempts")
         return None
@@ -658,17 +656,17 @@ class StudySmartOrchestrator:
         
         prompt = f"""You are generating a StudySmart AI lesson following Master Directive v7.2.
 
-🚨🚨🚨 CRITICAL REQUIREMENT: EVERY SINGLE PART MUST BE AT LEAST 1600 CHARACTERS 🚨🚨🚨
+🚨🚨🚨 CRITICAL REQUIREMENT: STRICT PART COUNT AND CHARACTER REQUIREMENTS 🚨🚨🚨
 
-YOUR RESPONSE WILL BE REJECTED IF ANY PART IS UNDER 1600 CHARACTERS!
+YOUR RESPONSE WILL BE REJECTED IF IT DOESN'T MATCH THESE EXACT REQUIREMENTS!
 
-MANDATORY REQUIREMENTS:
+MANDATORY STRUCTURE:
 • EXACTLY {num_parts} script parts - EACH 1600-1950 chars (NO EXCEPTIONS!)
-• EXACTLY {num_parts} notes/exercises parts - EACH 1600-1950 chars (NO EXCEPTIONS!)  
-• At least {num_parts} illustrations (minimum 1 per part)
+• EXACTLY ONE notes_exercises field - 1600-1950 chars TOTAL (NOT multiple parts - just ONE comprehensive text!)
+• At least {num_parts} illustrations (minimum 1 per script part)
 
-⚠️ NOTES & EXERCISES MUST ALSO BE 1600+ CHARACTERS! ⚠️
-Do NOT write short summaries for notes - write DETAILED, COMPREHENSIVE CONTENT!
+⚠️ NOTES & EXERCISES IS JUST ONE PART (NOT {num_parts} PARTS)! ⚠️
+Write a single comprehensive Notes & Exercises section combining notes and practice questions!
 
 CONCRETE EXAMPLE - THIS IS 1650 CHARACTERS (YOUR MINIMUM):
 
@@ -707,11 +705,7 @@ OUTPUT FORMAT (strict JSON):
     {{"heading": "[Concept 1]", "content": "MINIMUM 1600 characters of detailed narration script..."}},
     ... ({num_parts} total parts, EACH 1600-1950 chars)
   ],
-  "notes_parts": [
-    {{"heading": "Key Concept 1", "content": "MINIMUM 1600 characters of notes and exercises..."}},
-    {{"heading": "Key Concept 2", "content": "MINIMUM 1600 characters of notes and exercises..."}},
-    ... ({num_parts} total parts, EACH 1600-1950 chars)
-  ],
+  "notes_exercises": "SINGLE comprehensive text combining all notes and exercises. 1600-1950 characters TOTAL. Include bulleted notes explaining key concepts, then 8-10 practice questions. OCR-friendly format.",
   "illustrations": [
     {{
       "illustration_number": 1,
@@ -723,7 +717,10 @@ OUTPUT FORMAT (strict JSON):
   ]
 }}
 
-⚠️  FINAL REMINDER: Each "content" field MUST contain AT LEAST 1600 characters. Count carefully!
+⚠️  CRITICAL REMINDERS:
+- Each script part "content": MINIMUM 1600 characters
+- "notes_exercises" field: SINGLE text string of 1600-1950 characters (NOT an array!)
+- Do NOT create "notes_parts" array - use "notes_exercises" string instead!
 
 Return ONLY the JSON, no additional text."""
         
@@ -762,8 +759,8 @@ Return ONLY the JSON, no additional text."""
             
             lesson_content = json.loads(content)
             
-            if not all(k in lesson_content for k in ["script_parts", "notes_parts", "illustrations"]):
-                print(f"✗ Missing required keys in response")
+            if not all(k in lesson_content for k in ["script_parts", "notes_exercises", "illustrations"]):
+                print(f"✗ Missing required keys in response (need: script_parts, notes_exercises, illustrations)")
                 return None
             
             return lesson_content
@@ -785,7 +782,7 @@ Return ONLY the JSON, no additional text."""
             base_filename = f"{subject}_{grade_year_form}_Lesson{lesson_num}"
             
             script_parts = lesson_content.get("script_parts", [])
-            notes_parts = lesson_content.get("notes_parts", [])
+            notes_exercises = lesson_content.get("notes_exercises", "")
             illustrations = lesson_content.get("illustrations", [])
             
             script_csv = output_path / f"{lesson_id}_Script.csv"
@@ -811,12 +808,7 @@ Return ONLY the JSON, no additional text."""
                 row = []
                 row.append(self.format_csv_field(f"{base_filename}_Notes_Exercises.csv"))
                 row.append(self.format_csv_field(base_filename))
-                
-                for part in notes_parts:
-                    heading = self.format_csv_field(part.get("heading", ""))
-                    content = self.format_csv_field(part.get("content", ""))
-                    row.append(heading)
-                    row.append(content)
+                row.append(self.format_csv_field(notes_exercises))
                 
                 writer.writerow(row)
             
