@@ -1,11 +1,17 @@
-# StudySmart AI - DeepSeek V3.1 Orchestration Controller
+# StudySmart AI - Claude 3.5 Sonnet Orchestration Controller
 
 ## Overview
-This project is a **lightweight orchestration controller** on Replit that manages StudySmart AI lesson generation. Heavy computation (DeepSeek V3.1 processing) runs on Railway workers, while Replit acts only as a controller for triggering, monitoring, and receiving results.
+This project is a **lightweight orchestration controller** on Replit that manages StudySmart AI lesson generation. Heavy computation (Claude 3.5 Sonnet AI processing) runs on Railway workers, while Replit acts only as a controller for triggering, monitoring, and receiving results.
 
 ## Architecture
 - **Replit**: Lightweight controller (API triggers, logging, monitoring)
-- **Railway**: Heavy executor (DeepSeek V3.1 generation, validation, file saving)
+- **Railway**: Heavy executor (Claude 3.5 Sonnet generation, validation, file saving)
+
+## AI Model
+- **Claude 3.5 Sonnet** (via OpenRouter API)
+  - Superior instruction-following for character count requirements
+  - Excellent educational content quality
+  - Replaced DeepSeek Chat (which was optimized for brevity and failed length validation)
 
 ## Purpose
 - Deploy Railway workers for batch lesson generation
@@ -15,9 +21,10 @@ This project is a **lightweight orchestration controller** on Replit that manage
 - Auto-shutdown Railway workers after completion
 
 ## Recent Changes
-- **2025-11-04**: StudySmart AI Orchestration System - PRODUCTION READY
-  - ✅ Railway GraphQL API integration complete
-  - ✅ DeepSeek V3.1 integration via OpenRouter
+- **2025-11-04**: StudySmart AI Orchestration System - MODEL UPDATED
+  - ✅ Switched from DeepSeek Chat to **Claude 3.5 Sonnet** for better length compliance
+  - ✅ Railway HTTP API integration complete
+  - ✅ Claude 3.5 Sonnet integration via OpenRouter
   - ✅ Curriculum file loading system (54 mapping files, 6,180 lessons)
   - ✅ **3-file output system per lesson** (Script.csv, Notes_Exercises.csv, Illustrations.json)
   - ✅ CSV single-row format with no line breaks (Master Directive v7.2 compliant)

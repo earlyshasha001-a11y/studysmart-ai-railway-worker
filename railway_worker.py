@@ -16,7 +16,8 @@ class StudySmartWorker:
     def __init__(self):
         self.openrouter_key = os.getenv("OPENROUTER_API_KEY")
         self.openrouter_url = "https://openrouter.ai/api/v1/chat/completions"
-        self.model = "deepseek/deepseek-chat"
+        # Claude 3.5 Sonnet has excellent instruction-following for length requirements
+        self.model = "anthropic/claude-3.5-sonnet"
         self.output_dir = Path("/tmp/output")
         self.curriculum_dir = Path("curriculum")
         self.start_time = time.time()
