@@ -15,9 +15,9 @@ class RailwayController:
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json"
         }
-        self.workspace_id = None
-        self.project_id = None
-        self.service_id = None
+        self.workspace_id: Optional[str] = None
+        self.project_id: Optional[str] = None
+        self.service_id: Optional[str] = None
     
     def _execute_query(self, query: str, variables: Optional[Dict] = None) -> Dict[Any, Any]:
         """Execute GraphQL query against Railway API"""
@@ -203,8 +203,10 @@ class RailwayController:
     
     def create_project(self, project_name: str = "StudySmart-AI-Worker") -> Optional[str]:
         """Create a new Railway project"""
-        query = """
-        mutation ProjectCreate {
+        
+        # Try without workspace ID first (uses default)
+        query_simple = """
+        mutation {
             projectCreate {
                 id
                 name
@@ -212,13 +214,15 @@ class RailwayController:
         }
         """
         
+        print(f"  Attempting to create project (using default workspace)...")
+        
         try:
-            data = self._execute_query(query)
+            data = self._execute_query(query_simple)
             project = data.get("projectCreate", {})
             
             if project and project.get("id"):
                 self.project_id = project["id"]
-                print(f"✓ Created project: {project.get('name')} (ID: {self.project_id})")
+                print(f"✓ Created project: {project.get('name', 'Unnamed')} (ID: {self.project_id})")
                 return self.project_id
             else:
                 print("✗ Failed to create project - empty response")
@@ -321,6 +325,37 @@ class RailwayController:
             print(f"✗ Failed to get project info: {str(e)}")
             return None
     
+    def list_workspaces(self) -> None:
+        """List user's available workspaces"""
+        query = """
+        query {
+            me {
+                teams {
+                    edges {
+                        node {
+                            id
+                            name
+                        }
+                    }
+                }
+            }
+        }
+        """
+        
+        try:
+            data = self._execute_query(query)
+            teams = data.get("me", {}).get("teams", {}).get("edges", [])
+            
+            if teams:
+                print(f"\n📋 Your Railway Teams/Workspaces:")
+                for edge in teams:
+                    node = edge.get("node", {})
+                    print(f"  - {node.get('name')} (ID: {node.get('id')})")
+            else:
+                print("\n📋 No teams found - using personal workspace")
+        except Exception as e:
+            print(f"✗ Failed to list workspaces: {str(e)}")
+    
     def run_deployment(self) -> bool:
         """Main deployment workflow"""
         print("\n" + "="*60)
@@ -332,6 +367,8 @@ class RailwayController:
             print("\n❌ Cannot proceed without valid Railway connection")
             print("   Please check your RAILWAY_API_KEY in Secrets")
             return False
+        
+        self.list_workspaces()
         
         print("\nStep 2: Listing existing projects...")
         self.list_projects()
@@ -377,6 +414,7 @@ class RailwayController:
 def main():
     """Main entry point"""
     api_key = os.getenv("RAILWAY_API_KEY")
+    workspace_id = os.getenv("RAILWAY_WORKSPACE_ID")
     
     if not api_key:
         print("\n❌ ERROR: RAILWAY_API_KEY not found in environment")
@@ -393,6 +431,11 @@ def main():
         sys.exit(1)
     
     controller = RailwayController(api_key)
+    
+    if workspace_id:
+        controller.workspace_id = workspace_id
+        print(f"✓ Loaded workspace ID from secrets")
+    
     success = controller.run_deployment()
     
     if not success:
