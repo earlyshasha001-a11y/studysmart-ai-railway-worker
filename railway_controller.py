@@ -565,14 +565,21 @@ class StudySmartOrchestrator:
         text = text.replace('"', '""')
         return text
     
-    def _reload_current_files(self, current_mapping_filename: str) -> None:
-        """Reload master directive and current lesson mapping from disk for accuracy"""
+    def _reload_current_files(self, current_mapping_filename: str) -> Optional[Dict]:
+        """Reload master directive, curriculum-specific directive, and current lesson mapping from disk for accuracy"""
         try:
             master_directive_files = list(self.curriculum_dir.glob("MASTER_DIRECTIVE*.json"))
             if master_directive_files:
                 with open(master_directive_files[0], 'r') as f:
                     self.master_directive = json.load(f)
                 print(f"  ✓ Reloaded: {master_directive_files[0].name}")
+            
+            curriculum_specific_directive = None
+            directive_path = self.curriculum_dir / "directives" / current_mapping_filename
+            if directive_path.exists():
+                with open(directive_path, 'r') as f:
+                    curriculum_specific_directive = json.load(f)
+                print(f"  ✓ Loaded curriculum-specific directive: {current_mapping_filename}")
             
             current_mapping_file = self.curriculum_dir / current_mapping_filename
             if current_mapping_file.exists():
@@ -584,8 +591,11 @@ class StudySmartOrchestrator:
                         self.lesson_mappings[idx]["data"] = mapping_data
                         print(f"  ✓ Reloaded: {current_mapping_filename}")
                         break
+            
+            return curriculum_specific_directive
         except Exception as e:
             print(f"  ⚠️  Reload warning: {str(e)}")
+            return None
     
     def generate_lesson_content(self, lesson_data: Dict, directive: Optional[Dict] = None, max_retries: int = 3) -> Optional[Dict]:
         """Generate complete lesson content (Script, Notes & Exercises, Illustrations) using DeepSeek V3.1 with retry logic"""
@@ -648,20 +658,41 @@ class StudySmartOrchestrator:
         
         prompt = f"""You are generating a StudySmart AI lesson following Master Directive v7.2.
 
-ABSOLUTE CRITICAL CHARACTER COUNT REQUIREMENTS - NO EXCEPTIONS:
-1. Generate EXACTLY {num_parts} script parts
-2. EACH script part MUST be between 1600-1950 characters (NOT words - CHARACTERS)
-3. Generate EXACTLY {num_parts} notes & exercises parts
-4. EACH notes part MUST be between 1600-1950 characters (NOT words - CHARACTERS)
-5. Generate at least {num_parts} illustrations (minimum 1 per part)
+🚨🚨🚨 CRITICAL REQUIREMENT: EVERY SINGLE PART MUST BE AT LEAST 1600 CHARACTERS 🚨🚨🚨
 
-CHARACTER COUNT ENFORCEMENT:
-- Count every character including spaces and punctuation
-- 1600 characters = approximately 4-5 full paragraphs of detailed content
-- 1950 characters = approximately 5-6 full paragraphs of detailed content
-- If a part is too short, expand with more examples, explanations, and details
-- DO NOT use filler text - expand with educational content, real-world examples, and detailed explanations
-- Each part must be comprehensive, detailed, and educational
+YOUR RESPONSE WILL BE REJECTED IF ANY PART IS UNDER 1600 CHARACTERS!
+
+MANDATORY REQUIREMENTS:
+• EXACTLY {num_parts} script parts - EACH 1600-1950 chars (NO EXCEPTIONS!)
+• EXACTLY {num_parts} notes/exercises parts - EACH 1600-1950 chars (NO EXCEPTIONS!)  
+• At least {num_parts} illustrations (minimum 1 per part)
+
+⚠️ NOTES & EXERCISES MUST ALSO BE 1600+ CHARACTERS! ⚠️
+Do NOT write short summaries for notes - write DETAILED, COMPREHENSIVE CONTENT!
+
+CONCRETE EXAMPLE - THIS IS 1650 CHARACTERS (YOUR MINIMUM):
+
+"Photosynthesis is the remarkable process by which green plants convert light energy from the sun into chemical energy stored in glucose molecules. This process is absolutely essential for life on Earth because it produces the oxygen we breathe and forms the foundation of most food chains. Plants contain special structures called chloroplasts in their cells, and within these chloroplasts is a green pigment called chlorophyll that captures light energy. Let's explore this process step by step. First, plants absorb water from the soil through their root systems. This water travels up through the stem in special tubes called xylem vessels, eventually reaching the leaves. At the same time, tiny pores called stomata on the underside of leaves open up to allow carbon dioxide from the air to enter the leaf. Now here's where the magic happens: when sunlight hits the chlorophyll in the chloroplast, it provides the energy needed to split water molecules into hydrogen and oxygen. The oxygen is released back into the atmosphere as a waste product - this is the oxygen that we humans and animals breathe! Meanwhile, the hydrogen combines with carbon dioxide in a complex series of chemical reactions to produce glucose, a simple sugar that the plant uses for energy and growth. We can write this as a chemical equation: 6CO2 + 6H2O + light energy → C6H12O6 + 6O2. In Kenya, we can see photosynthesis happening all around us - in the maize fields of the Rift Valley, in the tea plantations of Kericho, and in the lush forests of Mount Kenya. Farmers understand that crops need sunlight, water, and air to grow well. Without adequate sunlight, plants become weak and yellowish because they cannot produce enough chlorophyll. This is why farmers clear weeds that might shade their crops and why greenhouses are designed to maximize light exposure. Understanding photosynthesis helps us appreciate why protecting our forests and planting more trees is so important for our environment and our future."
+
+READ THIS CAREFULLY: The above example is 1,650 characters. Every part you write MUST be this length or longer!
+
+HOW TO REACH 1600+ CHARACTERS IN EACH PART:
+1. Start with a solid introduction (200-250 chars)
+2. Provide 3-4 detailed examples with full explanations (400-500 chars each)
+3. Include real-world applications and connections (200-300 chars)
+4. Add step-by-step processes where applicable (300-400 chars)
+5. Conclude with synthesis and reinforcement (200-250 chars)
+
+CONTENT EXPANSION STRATEGIES:
+✓ Use concrete examples from African/Kenyan context
+✓ Include step-by-step explanations with reasoning
+✓ Add real-world applications and scenarios
+✓ Provide multiple examples showing different aspects
+✓ Explain the "why" behind concepts, not just the "what"
+✓ Use analogies and comparisons to aid understanding
+✓ Include historical context or background where relevant
+✗ DO NOT use filler text or repetition
+✗ DO NOT write brief summaries - write FULL DETAILED CONTENT
 
 MASTER DIRECTIVE:
 {json.dumps(directive or self.master_directive, indent=2)}
@@ -672,14 +703,14 @@ LESSON DATA:
 OUTPUT FORMAT (strict JSON):
 {{
   "script_parts": [
-    {{"heading": "Script1_Heading", "content": "1600-1950 char script part 1"}},
-    {{"heading": "Script2_Heading", "content": "1600-1950 char script part 2"}},
-    ... ({num_parts} total parts)
+    {{"heading": "Introduction to [Topic]", "content": "MINIMUM 1600 characters of detailed narration script..."}},
+    {{"heading": "[Concept 1]", "content": "MINIMUM 1600 characters of detailed narration script..."}},
+    ... ({num_parts} total parts, EACH 1600-1950 chars)
   ],
   "notes_parts": [
-    {{"heading": "Notes1_Heading", "content": "1600-1950 char notes part 1"}},
-    {{"heading": "Notes2_Heading", "content": "1600-1950 char notes part 2"}},
-    ... ({num_parts} total parts)
+    {{"heading": "Key Concept 1", "content": "MINIMUM 1600 characters of notes and exercises..."}},
+    {{"heading": "Key Concept 2", "content": "MINIMUM 1600 characters of notes and exercises..."}},
+    ... ({num_parts} total parts, EACH 1600-1950 chars)
   ],
   "illustrations": [
     {{
@@ -692,6 +723,8 @@ OUTPUT FORMAT (strict JSON):
   ]
 }}
 
+⚠️  FINAL REMINDER: Each "content" field MUST contain AT LEAST 1600 characters. Count carefully!
+
 Return ONLY the JSON, no additional text."""
         
         payload = {
@@ -699,7 +732,7 @@ Return ONLY the JSON, no additional text."""
             "messages": [
                 {"role": "user", "content": prompt}
             ],
-            "temperature": 0.7,
+            "temperature": 0.8,
             "max_tokens": 16384
         }
         
@@ -838,10 +871,10 @@ Return ONLY the JSON, no additional text."""
             
             print(f"\n[{i}/{total}] Generating lesson: {lesson_id}")
             
-            print("🔄 Reloading master directive and lesson mapping for accuracy...")
-            self._reload_current_files(filename)
+            print("🔄 Reloading directives and lesson mapping for accuracy...")
+            curriculum_directive = self._reload_current_files(filename)
             
-            lesson_content = self.generate_lesson_content(lesson)
+            lesson_content = self.generate_lesson_content(lesson, curriculum_directive)
             
             if lesson_content:
                 if self.save_lesson_files(output_path, lesson_id, lesson_content, lesson):

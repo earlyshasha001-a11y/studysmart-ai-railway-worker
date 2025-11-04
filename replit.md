@@ -20,7 +20,10 @@ This project is a lightweight orchestration controller that manages StudySmart A
   - ✅ Character count enforcement (1600-1950 per part) with retry logic (3 attempts)
   - ✅ Part count validation (4 parts lower primary, 8 parts upper/secondary)
   - ✅ Proper JSON illustration structure with arrays
-  - ✅ **Auto-reload directives after each lesson** (ensures accuracy by refreshing Master Directive and mapping from disk)
+  - ✅ **Two-tier directive system for maximum accuracy**:
+    - Master Directive (general rules) + Curriculum-Specific Directives (per subject/grade)
+    - Auto-reload both directives after each lesson from disk
+  - ✅ Enhanced prompt with concrete 1650-character example
   - ✅ Automatic output management with date-stamped directories
   - ✅ Progress tracking and error handling
   - Connected to Railway project: luminous-expression (cedc37d7-79dd-48f2-b880-6333d9d3760c)
@@ -36,8 +39,11 @@ This project is a lightweight orchestration controller that manages StudySmart A
   - Automatic output management
   
 - `curriculum/`: Directory for curriculum files
-  - Master directive JSON (MASTER_DIRECTIVE_v*.json)
-  - Lesson mapping JSONs
+  - Master directive JSON (MASTER_DIRECTIVE_v*.json) - general lesson generation rules
+  - Lesson mapping JSONs (54 files covering all curricula)
+  - `directives/`: Curriculum-specific directive files (optional, one per mapping)
+    - When present, provides subject-specific guidance for more accurate generation
+    - Falls back to Master Directive if curriculum-specific file not found
   - README with upload instructions
   
 - `output/`: Generated lesson files (3 per lesson)
