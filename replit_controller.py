@@ -7,170 +7,135 @@ from datetime import datetime
 from typing import Optional, Dict, List
 
 class ReplitController:
-    """Lightweight Replit controller - orchestrates Railway workers"""
+    """Lightweight Replit controller - orchestrates Railway workers via HTTP"""
     
     def __init__(self):
-        self.railway_token = os.getenv("RAILWAY_PROJECT_TOKEN")
-        self.railway_project_id = os.getenv("RAILWAY_PROJECT_ID", "cedc37d7-79dd-48f2-b880-6333d9d3760c")
-        self.graphql_url = "https://backboard.railway.com/graphql/v2"
-        self.headers = {
-            "Project-Access-Token": self.railway_token,
-            "Content-Type": "application/json"
-        }
+        self.railway_worker_url = os.getenv("RAILWAY_WORKER_URL", "")
+        if not self.railway_worker_url:
+            print("⚠️  RAILWAY_WORKER_URL not set - manual configuration required")
     
-    def execute_graphql(self, query: str, variables: Optional[Dict] = None) -> Dict:
-        """Execute GraphQL query against Railway API"""
-        payload = {"query": query}
-        if variables:
-            payload["variables"] = variables
+    def start_batch_job(self, max_mappings: int = 54, max_lessons_per_mapping: int = 100) -> bool:
+        """Start batch processing on Railway worker"""
+        print(f"\n🚀 Starting batch job on Railway worker...")
+        print(f"   Max mappings: {max_mappings}")
+        print(f"   Max lessons per mapping: {max_lessons_per_mapping}")
         
         try:
             response = requests.post(
-                self.graphql_url,
-                json=payload,
-                headers=self.headers,
+                f"{self.railway_worker_url}/start",
+                json={
+                    "max_mappings": max_mappings,
+                    "max_lessons_per_mapping": max_lessons_per_mapping
+                },
                 timeout=30
             )
             
-            if response.status_code >= 400:
-                raise Exception(f"Railway API error ({response.status_code}): {response.text}")
-            
-            result = response.json()
-            
-            if "errors" in result:
-                raise Exception(f"GraphQL errors: {result['errors']}")
-            
-            return result.get("data", {})
-        except requests.exceptions.RequestException as e:
-            raise Exception(f"Railway API request failed: {str(e)}")
-    
-    def test_connection(self) -> bool:
-        """Test Railway API connection"""
-        print("🔗 Testing Railway connection...")
-        
-        query = """
-        query GetProject($projectId: String!) {
-            project(id: $projectId) {
-                id
-                name
-                services {
-                    edges {
-                        node {
-                            id
-                            name
-                        }
-                    }
-                }
-            }
-        }
-        """
-        
-        try:
-            data = self.execute_graphql(query, {"projectId": self.railway_project_id})
-            project = data.get("project", {})
-            
-            if project and project.get("id"):
-                print(f"✓ Connected to Railway project: {project.get('name')}")
-                print(f"  Project ID: {project.get('id')}")
-                
-                services = project.get("services", {}).get("edges", [])
-                print(f"  Services: {len(services)} found")
+            if response.status_code == 200:
+                result = response.json()
+                print(f"✓ Batch job started: {result.get('message')}")
                 return True
             else:
-                print("✗ Failed to access Railway project")
+                print(f"✗ Failed to start batch job: {response.status_code}")
+                print(f"   {response.text}")
+                return False
+        except Exception as e:
+            print(f"✗ Error starting batch job: {str(e)}")
+            return False
+    
+    def test_connection(self) -> bool:
+        """Test Railway worker connection"""
+        print("🔗 Testing Railway worker connection...")
+        
+        if not self.railway_worker_url:
+            print("✗ RAILWAY_WORKER_URL not configured")
+            print("   Please set the environment variable after deploying Railway worker")
+            return False
+        
+        try:
+            response = requests.get(f"{self.railway_worker_url}/status", timeout=10)
+            
+            if response.status_code == 200:
+                status = response.json()
+                print(f"✓ Connected to Railway worker")
+                print(f"  Status: {status.get('status')}")
+                print(f"  Lessons generated: {status.get('lessons_generated', 0)}")
+                return True
+            else:
+                print(f"✗ Worker responded with status {response.status_code}")
                 return False
         except Exception as e:
             print(f"✗ Connection test failed: {str(e)}")
+            print(f"   URL: {self.railway_worker_url}")
             return False
     
-    def deploy_worker(self) -> Optional[str]:
-        """Deploy a Railway worker for lesson generation"""
-        print("\n🚀 Triggering Railway deployment...")
-        
-        query = """
-        mutation($projectId: String!) {
-            deploymentCreate(input: {projectId: $projectId}) {
-                id
-                url
-                staticUrl
-            }
-        }
-        """
-        
-        variables = {
-            "projectId": self.railway_project_id
-        }
-        
+    def get_worker_status(self) -> Optional[Dict]:
+        """Get current worker status"""
         try:
-            data = self.execute_graphql(query, variables)
-            deployment = data.get("deploymentCreate", {})
-            
-            if deployment and deployment.get("id"):
-                deployment_id = deployment["id"]
-                print(f"✓ Deployment triggered")
-                print(f"  Deployment ID: {deployment_id}")
-                if deployment.get("url"):
-                    print(f"  URL: {deployment.get('url')}")
-                return deployment_id
-            else:
-                print("✗ Failed to trigger deployment")
-                return None
-        except Exception as e:
-            print(f"✗ Deployment failed: {str(e)}")
-            print("\n💡 Note: Railway deployment may need manual setup")
-            print(f"   Visit: https://railway.app/project/{self.railway_project_id}")
+            response = requests.get(f"{self.railway_worker_url}/status", timeout=10)
+            if response.status_code == 200:
+                return response.json()
+            return None
+        except:
             return None
     
-    def poll_worker_status(self, service_id: str, timeout: int = 7200) -> bool:
-        """Poll Railway worker status until completion"""
-        print(f"\n⏳ Polling worker status (timeout: {timeout/60} minutes)...")
-        
-        query = """
-        query GetService($serviceId: String!) {
-            service(id: $serviceId) {
-                id
-                name
-            }
-        }
-        """
+    def monitor_progress(self, poll_interval: int = 30, timeout: int = 7200) -> bool:
+        """Monitor worker progress until completion"""
+        print(f"\n⏳ Monitoring worker progress...")
+        print(f"   Poll interval: {poll_interval} seconds")
+        print(f"   Timeout: {timeout/60} minutes")
         
         start_time = time.time()
+        last_generated = 0
         
         while time.time() - start_time < timeout:
-            try:
-                data = self.execute_graphql(query, {"serviceId": service_id})
-                service = data.get("service", {})
-                
-                if service:
-                    print(f"  ✓ Worker active: {service.get('name')}")
-                    time.sleep(30)  # Poll every 30 seconds
-                else:
-                    print(f"  ⚠️  Worker not found - may have completed")
-                    return True
-                    
-            except Exception as e:
-                print(f"  ⚠️  Polling error: {str(e)}")
-                time.sleep(30)
+            status = self.get_worker_status()
+            
+            if not status:
+                print(f"  ⚠️  Cannot reach worker")
+                time.sleep(poll_interval)
+                continue
+            
+            current_status = status.get("status", "unknown")
+            lessons_generated = status.get("lessons_generated", 0)
+            lessons_failed = status.get("lessons_failed", 0)
+            runtime = status.get("runtime", 0)
+            
+            # Show progress if changed
+            if lessons_generated > last_generated:
+                print(f"  Progress: {lessons_generated} generated, {lessons_failed} failed ({runtime/60:.1f}min)")
+                last_generated = lessons_generated
+            
+            # Check if completed
+            if current_status == "completed":
+                print(f"  ✓ Worker completed successfully")
+                return True
+            elif current_status == "error":
+                print(f"  ✗ Worker encountered an error")
+                return False
+            
+            time.sleep(poll_interval)
         
-        print("  ⚠️  Timeout reached")
+        print("  ⚠️  Monitoring timeout reached")
         return False
     
     def get_batch_summary(self) -> Dict:
         """Retrieve batch processing summary from Railway worker"""
         print("\n📊 Retrieving batch summary...")
         
-        # This would typically fetch from Railway storage or logs
-        # For now, return a placeholder
-        summary = {
-            "status": "Worker deployed successfully",
-            "message": "Check Railway dashboard for detailed logs and output files",
-            "project_url": f"https://railway.app/project/{self.railway_project_id}"
-        }
-        
-        print(f"✓ Summary retrieved")
-        return summary
+        try:
+            response = requests.get(f"{self.railway_worker_url}/summary", timeout=30)
+            if response.status_code == 200:
+                summary = response.json()
+                print(f"✓ Summary retrieved")
+                return summary
+            else:
+                print(f"✗ Failed to retrieve summary: {response.status_code}")
+                return {"error": "Failed to retrieve summary"}
+        except Exception as e:
+            print(f"✗ Error retrieving summary: {str(e)}")
+            return {"error": str(e)}
     
-    def run(self):
+    def run(self, max_mappings: int = 54, max_lessons_per_mapping: int = 100):
         """Main controller execution"""
         print("\n" + "="*60)
         print("  StudySmart AI - Replit Controller")
@@ -179,48 +144,67 @@ class ReplitController:
         
         # Test connection
         if not self.test_connection():
-            print("\n❌ Cannot proceed without valid Railway connection")
-            print("   Please verify RAILWAY_PROJECT_TOKEN and RAILWAY_PROJECT_ID")
+            print("\n❌ Cannot proceed without valid Railway worker connection")
+            print("\n📋 Setup Instructions:")
+            print("1. Deploy railway_worker.py to Railway")
+            print("2. Ensure Railway service is running")
+            print("3. Set RAILWAY_WORKER_URL environment variable")
+            print("   Example: https://your-worker.railway.app")
             return
         
-        # Deploy worker
-        service_id = self.deploy_worker()
-        if not service_id:
-            print("\n❌ Failed to deploy Railway worker")
+        # Start batch job
+        if not self.start_batch_job(max_mappings, max_lessons_per_mapping):
+            print("\n❌ Failed to start batch job on Railway worker")
             return
         
-        # Monitor worker
+        # Monitor progress
         print("\n" + "="*60)
-        print("  WORKER DEPLOYED - MONITORING PROGRESS")
+        print("  BATCH JOB STARTED - MONITORING PROGRESS")
         print("="*60)
-        print("📍 Railway Dashboard:")
-        print(f"   https://railway.app/project/{self.railway_project_id}")
-        print("\n💡 The Railway worker is now:")
+        print("💡 Railway worker is now:")
         print("   • Loading curriculum files")
         print("   • Generating lessons with DeepSeek V3.1")
+        print("   • Validating character counts")
         print("   • Saving output to Railway storage")
-        print("   • Will auto-shutdown when complete")
         print("\n⏳ Replit is monitoring progress...")
         
-        # Poll for completion
-        success = self.poll_worker_status(service_id)
+        # Monitor until completion
+        success = self.monitor_progress()
         
-        # Get summary
+        # Get final summary
         summary = self.get_batch_summary()
         
         # Final status
         print("\n" + "="*60)
-        print("  CONTROLLER COMPLETE")
+        print("  BATCH JOB COMPLETE")
         print("="*60)
         print(f"Status: {'Success' if success else 'Timeout/Error'}")
-        print(f"Worker Service ID: {service_id}")
         print(f"\n📊 Summary:")
-        for key, value in summary.items():
-            print(f"   {key}: {value}")
+        print(f"   Lessons generated: {summary.get('lessons_generated', 0)}")
+        print(f"   Lessons failed: {summary.get('lessons_failed', 0)}")
+        print(f"   Runtime: {summary.get('runtime', 0)/60:.1f} minutes")
+        print(f"   Worker status: {summary.get('status', 'unknown')}")
+        
+        if summary.get('batch_results'):
+            print(f"\n📁 Results by mapping:")
+            for result in summary['batch_results']:
+                print(f"   {result.get('filename')}: {result.get('successful')}/{result.get('total')} successful")
         
         print("\n✓ Replit controller finished")
-        print("   Check Railway dashboard for detailed results")
+        print(f"   Worker URL: {self.railway_worker_url}")
 
 if __name__ == "__main__":
+    import sys
+    
     controller = ReplitController()
-    controller.run()
+    
+    # Parse command line arguments
+    max_mappings = 54
+    max_lessons = 100
+    
+    if len(sys.argv) > 1:
+        max_mappings = int(sys.argv[1])
+    if len(sys.argv) > 2:
+        max_lessons = int(sys.argv[2])
+    
+    controller.run(max_mappings=max_mappings, max_lessons_per_mapping=max_lessons)

@@ -3,9 +3,17 @@
 ## Overview
 This guide helps you deploy the StudySmart AI worker to Railway for heavy DeepSeek V3.1 lesson generation.
 
-## Architecture
-- **Replit**: Lightweight controller (triggers, monitors, logs)
-- **Railway**: Heavy executor (DeepSeek generation, validation, saving)
+## Architecture (HTTP-Based Communication)
+- **Replit**: Lightweight controller
+  - Sends HTTP requests to Railway worker
+  - Monitors progress via REST API (/status endpoint)
+  - Receives final summary via /summary endpoint
+  
+- **Railway**: Heavy executor
+  - Runs HTTP server on port 5000
+  - Exposes REST API for job control
+  - Handles all DeepSeek V3.1 generation
+  - Validates and saves lesson files
 
 ## Prerequisites
 - Railway account: https://railway.app
@@ -61,7 +69,10 @@ The project includes these Railway configuration files:
   "deploy": {
     "startCommand": "python railway_worker.py",
     "restartPolicyType": "ON_FAILURE",
-    "restartPolicyMaxRetries": 2
+    "restartPolicyMaxRetries": 2,
+    "numReplicas": 1,
+    "healthcheckPath": "/status",
+    "healthcheckTimeout": 300
   }
 }
 ```
@@ -77,9 +88,52 @@ requests==2.31.0
 psutil==5.9.8
 ```
 
+#### Environment Variables (Railway)
+```
+OPENROUTER_API_KEY=<your_key>
+PORT=5000
+WORKER_MODE=http
+```
+
 ### 3. Worker Behavior
 
-When deployed, the Railway worker will:
+The Railway worker runs as an HTTP server and provides these endpoints:
+
+#### REST API Endpoints
+
+**POST /start** - Start batch processing
+```json
+{
+  "max_mappings": 54,
+  "max_lessons_per_mapping": 100
+}
+```
+Response: `{"message": "Batch job started", "status": "processing"}`
+
+**GET /status** - Get current status
+Response:
+```json
+{
+  "status": "processing",
+  "lessons_generated": 42,
+  "lessons_failed": 3,
+  "runtime": 1234.5
+}
+```
+
+**GET /summary** - Get detailed summary
+Response:
+```json
+{
+  "status": "completed",
+  "lessons_generated": 100,
+  "lessons_failed": 5,
+  "runtime": 3600.2,
+  "batch_results": [...]
+}
+```
+
+#### Processing Behavior
 
 1. **Load Curriculum Files**
    - Master Directive (MASTER_DIRECTIVE_v7.2.json)
@@ -99,23 +153,32 @@ When deployed, the Railway worker will:
    - 60-second backoff on 429 (rate limit) errors
    - 3 retry attempts per lesson
 
-5. **Auto-Shutdown**
-   - Completes all lessons in batch (max 100 per mapping)
-   - Saves summary JSON
-   - Exits (Railway service stops)
-
 ### 4. Replit Controller Usage
 
+#### Set Environment Variable
+After deploying the Railway worker, set the worker URL in Replit:
+```bash
+RAILWAY_WORKER_URL=https://your-worker.railway.app
+```
+
+#### Run Controller
 From Replit, run:
 ```bash
-python replit_controller.py
+python replit_controller.py [max_mappings] [max_lessons_per_mapping]
+```
+
+Examples:
+```bash
+python replit_controller.py                  # Process all 54 mappings, 100 lessons each
+python replit_controller.py 5 50            # Process 5 mappings, 50 lessons each
+python replit_controller.py 1 10            # Test: 1 mapping, 10 lessons
 ```
 
 The controller will:
-1. ✅ Test Railway API connection
-2. 🚀 Trigger Railway deployment
-3. ⏳ Poll worker status every 30 seconds
-4. 📊 Retrieve completion summary
+1. ✅ Test Railway worker connection (HTTP GET /status)
+2. 🚀 Start batch job (HTTP POST /start)
+3. ⏳ Monitor progress every 30 seconds (HTTP GET /status)
+4. 📊 Retrieve completion summary (HTTP GET /summary)
 5. ✓ Display results
 
 ### 5. Monitoring Progress
@@ -155,14 +218,14 @@ Each lesson generates:
 
 ### 7. Troubleshooting
 
-#### Deployment Fails
+#### Cannot Connect to Worker
 ```
-✗ Deployment failed: Railway API error (400)
+✗ RAILWAY_WORKER_URL not configured
 ```
 **Solution**: 
-- Verify RAILWAY_PROJECT_TOKEN is correct
-- Check Railway project ID
-- Ensure Railway project has proper permissions
+- Deploy worker to Railway first
+- Copy the Railway service URL (e.g., `https://your-worker.railway.app`)
+- Set `RAILWAY_WORKER_URL` environment variable in Replit
 
 #### Worker Can't Find Curriculum Files
 ```
@@ -218,16 +281,27 @@ Each lesson generates:
 ┌─────────────────────┐
 │   Replit Controller │
 │  (Lightweight Hub)  │
+│                     │
+│  HTTP Client        │
 └──────────┬──────────┘
            │
-           │ 1. Deploy Worker
-           │ 2. Poll Status
-           │ 3. Receive Summary
+           │ POST /start (trigger batch)
+           │ GET /status (poll progress)
+           │ GET /summary (final results)
            ▼
 ┌─────────────────────┐
 │   Railway Worker    │
 │  (Heavy Executor)   │
 │                     │
+│  HTTP Server :5000  │
+│                     │
+│ ┌─────────────────┐ │
+│ │ REST API        │ │
+│ │ /start /status  │ │
+│ │ /summary        │ │
+│ └─────────────────┘ │
+│         │           │
+│         ▼           │
 │ ┌─────────────────┐ │
 │ │ Load Curriculum │ │
 │ └─────────────────┘ │
@@ -246,16 +320,33 @@ Each lesson generates:
 │         │           │
 │         ▼           │
 │ ┌─────────────────┐ │
-│ │  Auto-Shutdown  │ │
+│ │  Return Status  │ │
 │ └─────────────────┘ │
 └─────────────────────┘
 ```
 
-## Next Steps
+## Quick Start
 
-1. ✅ Complete Railway project setup (Steps 1-2)
-2. ✅ Upload curriculum files to Railway
-3. ✅ Verify environment variables
-4. 🚀 Run `python replit_controller.py` from Replit
-5. 📊 Monitor progress in Railway dashboard
-6. ✓ Review generated lessons in output directory
+### Step 1: Deploy to Railway
+1. Push this code to GitHub repository
+2. In Railway, create new service from GitHub repo
+3. Railway will auto-detect `railway.json` and deploy
+4. Set environment variable: `OPENROUTER_API_KEY`
+5. Upload curriculum files to service (via volume or include in repo)
+6. Copy the Railway service URL (e.g., `https://your-worker.railway.app`)
+
+### Step 2: Configure Replit
+1. In Replit, set environment variable:
+   ```
+   RAILWAY_WORKER_URL=https://your-worker.railway.app
+   ```
+
+### Step 3: Run Controller
+```bash
+python replit_controller.py
+```
+
+### Step 4: Monitor
+- Watch Replit console for progress updates
+- Check Railway logs for detailed DeepSeek generation logs
+- Review generated lessons in Railway's `/tmp/output/` directory

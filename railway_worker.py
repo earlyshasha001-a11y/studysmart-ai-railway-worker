@@ -7,6 +7,8 @@ import psutil
 from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Optional, Any
+from http.server import HTTPServer, BaseHTTPRequestHandler
+import threading
 
 class StudySmartWorker:
     """Railway worker for heavy DeepSeek V3.1 lesson generation"""
@@ -21,6 +23,8 @@ class StudySmartWorker:
         self.max_runtime = 7200  # 2 hours
         self.lessons_generated = 0
         self.lessons_failed = 0
+        self.current_status = "idle"
+        self.batch_results = []
         
     def log_resources(self):
         """Log memory and CPU usage"""
@@ -38,6 +42,10 @@ class StudySmartWorker:
         
         master_directive = None
         lesson_mappings = []
+        
+        if not self.curriculum_dir.exists():
+            print(f"✗ Curriculum directory not found: {self.curriculum_dir}")
+            return None, []
         
         json_files = list(self.curriculum_dir.glob("*.json"))
         
@@ -182,7 +190,7 @@ Return ONLY JSON."""
             
             base_filename = f"{subject}_{grade_year_form}_Lesson{lesson_num}"
             
-            # Save as JSON for now (Railway storage)
+            # Save as JSON
             lesson_file = output_path / f"{lesson_id}_complete.json"
             complete_data = {
                 "lesson_id": lesson_id,
@@ -278,8 +286,15 @@ Return ONLY JSON."""
         
         return results
     
-    def run(self):
-        """Main worker execution"""
+    def run_batch_job(self, max_mappings: int = 54, max_lessons_per_mapping: int = 100):
+        """Run batch processing job"""
+        # Reset counters for new batch
+        self.start_time = time.time()
+        self.lessons_generated = 0
+        self.lessons_failed = 0
+        self.batch_results = []
+        self.current_status = "processing"
+        
         print("\n" + "="*60)
         print("  StudySmart AI - Railway Worker")
         print("  DeepSeek V3.1 Lesson Generation")
@@ -290,13 +305,14 @@ Return ONLY JSON."""
         
         if not lesson_mappings:
             print("✗ No lesson mappings found!")
+            self.current_status = "error"
             return
         
         # Process all mappings
-        all_results = []
-        for mapping in lesson_mappings:
-            results = self.process_batch(mapping, max_lessons=100)
-            all_results.append(results)
+        self.batch_results = []
+        for mapping in lesson_mappings[:max_mappings]:
+            results = self.process_batch(mapping, max_lessons=max_lessons_per_mapping)
+            self.batch_results.append(results)
         
         # Summary
         print("\n" + "="*60)
@@ -316,12 +332,129 @@ Return ONLY JSON."""
                 "runtime_seconds": time.time() - self.start_time,
                 "lessons_generated": self.lessons_generated,
                 "lessons_failed": self.lessons_failed,
-                "results": all_results
+                "results": self.batch_results
             }, f, indent=2)
         
         print(f"✓ Summary saved: {summary_file}")
-        print("\n🎯 Worker shutting down...")
+        self.current_status = "completed"
+        print("\n🎯 Worker batch complete")
+
+class WorkerHTTPHandler(BaseHTTPRequestHandler):
+    """HTTP handler for Railway worker API"""
+    
+    worker = None
+    
+    def do_GET(self):
+        """Handle GET requests for status"""
+        if self.path == "/status":
+            self.send_response(200)
+            self.send_header('Content-Type', 'application/json')
+            self.end_headers()
+            
+            response = {
+                "status": self.worker.current_status,
+                "lessons_generated": self.worker.lessons_generated,
+                "lessons_failed": self.worker.lessons_failed,
+                "runtime": time.time() - self.worker.start_time
+            }
+            self.wfile.write(json.dumps(response).encode())
+        
+        elif self.path == "/summary":
+            self.send_response(200)
+            self.send_header('Content-Type', 'application/json')
+            self.end_headers()
+            
+            response = {
+                "status": self.worker.current_status,
+                "lessons_generated": self.worker.lessons_generated,
+                "lessons_failed": self.worker.lessons_failed,
+                "runtime": time.time() - self.worker.start_time,
+                "batch_results": self.worker.batch_results
+            }
+            self.wfile.write(json.dumps(response).encode())
+        
+        else:
+            self.send_response(404)
+            self.end_headers()
+    
+    def do_POST(self):
+        """Handle POST requests for starting jobs"""
+        if self.path == "/start":
+            # Prevent concurrent batch runs
+            if self.worker.current_status == "processing":
+                self.send_response(409)
+                self.send_header('Content-Type', 'application/json')
+                self.end_headers()
+                
+                response = {"error": "Batch job already in progress"}
+                self.wfile.write(json.dumps(response).encode())
+                return
+            
+            content_length = int(self.headers.get('Content-Length', 0))
+            post_data = self.rfile.read(content_length)
+            
+            try:
+                params = json.loads(post_data.decode()) if post_data else {}
+                max_mappings = params.get("max_mappings", 54)
+                max_lessons = params.get("max_lessons_per_mapping", 100)
+                
+                # Start batch job in background thread
+                thread = threading.Thread(
+                    target=self.worker.run_batch_job,
+                    args=(max_mappings, max_lessons)
+                )
+                thread.daemon = True
+                thread.start()
+                
+                self.send_response(200)
+                self.send_header('Content-Type', 'application/json')
+                self.end_headers()
+                
+                response = {"message": "Batch job started", "status": "processing"}
+                self.wfile.write(json.dumps(response).encode())
+                
+            except Exception as e:
+                self.send_response(500)
+                self.send_header('Content-Type', 'application/json')
+                self.end_headers()
+                
+                response = {"error": str(e)}
+                self.wfile.write(json.dumps(response).encode())
+        
+        else:
+            self.send_response(404)
+            self.end_headers()
+    
+    def log_message(self, format, *args):
+        """Suppress default request logging"""
+        pass
+
+def run_http_server(port=5000):
+    """Run HTTP server for Railway worker"""
+    worker = StudySmartWorker()
+    WorkerHTTPHandler.worker = worker
+    
+    server = HTTPServer(('0.0.0.0', port), WorkerHTTPHandler)
+    print(f"\n🚀 Railway Worker API listening on port {port}")
+    print(f"Endpoints:")
+    print(f"  POST /start - Start batch job")
+    print(f"  GET /status - Get current status")
+    print(f"  GET /summary - Get detailed summary")
+    
+    try:
+        server.serve_forever()
+    except KeyboardInterrupt:
+        print("\n⚠️  Server stopped")
+        server.shutdown()
 
 if __name__ == "__main__":
-    worker = StudySmartWorker()
-    worker.run()
+    # Check if running as HTTP server (Railway) or standalone
+    mode = os.getenv("WORKER_MODE", "http")
+    
+    if mode == "http":
+        port = int(os.getenv("PORT", 5000))
+        run_http_server(port)
+    else:
+        # Standalone mode
+        worker = StudySmartWorker()
+        worker.run_batch_job()

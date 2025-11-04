@@ -70,9 +70,10 @@ This project is a **lightweight orchestration controller** on Replit that manage
 ### Configuration
 
 **Required Secrets:**
-- `OPENROUTER_API_KEY`: OpenRouter API key for DeepSeek V3.1 access
-- `RAILWAY_PROJECT_TOKEN`: Railway project token
-- `RAILWAY_PROJECT_ID`: cedc37d7-79dd-48f2-b880-6333d9d3760c
+- `OPENROUTER_API_KEY`: OpenRouter API key for DeepSeek V3.1 access (Railway only)
+- `RAILWAY_WORKER_URL`: Railway worker HTTP endpoint (Replit only)
+  - Example: `https://your-worker.railway.app`
+  - Set after deploying worker to Railway
 
 **Optional Secrets (for future features):**
 - `SUPABASE_URL`: Supabase project URL (for storing lesson JSONs)
