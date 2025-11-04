@@ -1,14 +1,18 @@
 # StudySmart AI - DeepSeek V3.1 Orchestration Controller
 
 ## Overview
-This project is a lightweight orchestration controller that manages StudySmart AI lesson generation using DeepSeek V3.1 via OpenRouter. It connects to Railway for future heavy workload deployment, while keeping Replit as the control hub.
+This project is a **lightweight orchestration controller** on Replit that manages StudySmart AI lesson generation. Heavy computation (DeepSeek V3.1 processing) runs on Railway workers, while Replit acts only as a controller for triggering, monitoring, and receiving results.
+
+## Architecture
+- **Replit**: Lightweight controller (API triggers, logging, monitoring)
+- **Railway**: Heavy executor (DeepSeek V3.1 generation, validation, file saving)
 
 ## Purpose
-- Generate StudySmart AI lesson scripts using DeepSeek V3.1 (via OpenRouter)
-- Process curriculum directives and lesson mappings
-- Batch generate lessons with progress tracking
-- Connect to Railway project "luminous-expression" for future deployment
-- Save generated lesson JSONs to output directory
+- Deploy Railway workers for batch lesson generation
+- Monitor worker status and resource usage
+- Receive completion summaries and logs
+- Keep Replit storage under 200 MB
+- Auto-shutdown Railway workers after completion
 
 ## Recent Changes
 - **2025-11-04**: StudySmart AI Orchestration System - PRODUCTION READY
@@ -31,12 +35,18 @@ This project is a lightweight orchestration controller that manages StudySmart A
 ## Project Architecture
 
 ### Main Components
-- `railway_controller.py`: Main orchestration controller
-  - **RailwayController**: Railway API management & GraphQL operations
-  - **StudySmartOrchestrator**: DeepSeek V3.1 lesson generation
-  - Curriculum file loading (directives + mappings)
-  - Batch processing with progress tracking
-  - Automatic output management
+- `replit_controller.py`: Lightweight Replit controller
+  - **ReplitController**: Railway worker deployment & monitoring
+  - GraphQL API calls for worker management
+  - Status polling and progress tracking
+  - Summary retrieval from Railway workers
+  
+- `railway_worker.py`: Heavy Railway worker (runs on Railway)
+  - **StudySmartWorker**: DeepSeek V3.1 lesson generation
+  - Curriculum file loading and validation
+  - Batch processing with retry logic
+  - Resource monitoring (CPU/Memory)
+  - Auto-shutdown after completion
   
 - `curriculum/`: Directory for curriculum files
   - Master directive JSON (MASTER_DIRECTIVE_v*.json) - general lesson generation rules

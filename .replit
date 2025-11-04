@@ -21,9 +21,9 @@ args = "StudySmart AI Controller"
 name = "StudySmart AI Controller"
 author = "agent"
 
-[[workflows.workflow.tasks]]
-task = "shell.exec"
-args = "python railway_controller.py"
-
 [workflows.workflow.metadata]
 outputType = "console"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python replit_controller.py"

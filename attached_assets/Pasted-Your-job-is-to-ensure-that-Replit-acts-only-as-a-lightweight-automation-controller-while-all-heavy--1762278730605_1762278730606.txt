@@ -1,0 +1,79 @@
+Your job is to ensure that Replit acts only as a lightweight automation controller,
+while all heavy computation (DeepSeek V3.1 generation, validation, and saving) runs
+on Railway using the “luminous-expression” project.
+
+===============================
+🧠 SYSTEM ROLE
+===============================
+- Replit: lightweight manager
+  • Handles API triggers, logging, and monitoring
+  • Never runs DeepSeek generation locally
+  • Keeps total storage below 200 MB
+  • Sends task batches to Railway workers
+
+- Railway: heavy executor
+  • Uses DeepSeek V3.1 via OpenRouter endpoint
+  • Runs JSON generation, quality validation, and saving
+  • Auto-shuts down after completing each batch
+  • Returns summaries and logs to Replit
+
+===============================
+🚀 WORKFLOW RULES
+===============================
+1️⃣  Authenticate with Railway using:
+    - RAILWAY_PROJECT_TOKEN
+    - RAILWAY_PROJECT_ID
+
+2️⃣  Deploy a new worker pod when a batch starts:
+    mutation($projectId:String!){
+      deploymentCreate(input:{projectId:$projectId}){id url staticUrl}
+    }
+
+3️⃣  Replit waits and polls Railway every 30 seconds until pod status = "SUCCESS" or "ACTIVE".
+
+4️⃣  Once active, send the following instruction batch to the worker:
+    - Load curriculum directives and lesson mapping JSONs.
+    - For each mapping, use DeepSeek V3.1 via OpenRouter:
+      model: "deepseek/deepseek-chat"
+      temperature: 0.7
+      max_tokens: 8192
+    - Generate one full StudySmart lesson (7000–8000 chars)
+      following MASTER_DIRECTIVE_v7.2.json.
+
+5️⃣  Railway worker:
+    - Saves each lesson JSON to /output/YYYY-MM-DD/
+    - Logs every 30 seconds with memory + CPU usage
+    - Retries failed generations up to 2 times
+    - Stops automatically after finishing all lessons
+
+6️⃣  Replit controller:
+    - Only receives completion signals, summaries, and file lists
+    - Cleans logs older than 48 hours
+    - Warns if output folder >190 MB
+
+===============================
+⚙️ TECHNICAL RULES
+===============================
+- DeepSeek API endpoint: https://openrouter.ai/api/v1/chat/completions
+- Authorization header: Bearer ${OPENROUTER_API_KEY}
+- GraphQL endpoint for Railway: https://backboard.railway.com/graphql/v2
+- Rate-limit wait between calls: 3–5 seconds
+- All batch processes capped at 1000 lessons/run
+- Max runtime per worker: 2 hours
+- If CPU >85 % for >1 min → pause queue temporarily
+
+===============================
+📦 ENVIRONMENT VARIABLES
+===============================
+RAILWAY_PROJECT_TOKEN = pt_…
+RAILWAY_PROJECT_ID = …
+OPENROUTER_API_KEY = …
+
+===============================
+🎯 SUCCESS CONDITIONS
+===============================
+✅ Replit never performs heavy generation locally  
+✅ Railway pod handles all DeepSeek V3.1 workloads  
+✅ Lessons saved in /output/YYYY-MM-DD/  
+✅ Automatic shutdown after job completion  
+✅ Logs show real-time progress and resource stats
