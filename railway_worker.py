@@ -115,118 +115,131 @@ class StudySmartWorker:
                 else:
                     flow = "1=Concrete → 2=Representational → 3=Abstract → 4=Real-Life → 5=Problem Solving → 6=Application → 7=Recap → 8=Closing"
                 
-                prompt = f"""🎓 STUDYSMART AI LESSON GENERATOR
+                prompt = f"""🎓 STUDYSMART AI — MASTER DIRECTIVE v7.2
 
-🚨🚨🚨 CRITICAL LENGTH VALIDATION 🚨🚨🚨
-MINIMUM LENGTH: 1600 characters per part
-MAXIMUM LENGTH: 1950 characters per part
-TARGET LENGTH: 1750 characters per part
+🚨🚨🚨 CRITICAL LENGTH REQUIREMENT 🚨🚨🚨
+EVERY SCRIPT PART: 1,600 – 1,950 characters
+TARGET: 1,750 characters per part
+VALIDATION: Content < 1,600 OR > 1,950 = AUTO-REJECT
 
-MATH FOR {num_parts} PARTS:
-• Minimum total: {1600 * num_parts} characters
-• Target total: {1750 * num_parts} characters
-• Maximum total: {1950 * num_parts} characters
+MATH: {num_parts} parts × 1,750 chars = {num_parts * 1750} characters total
+MINIMUM TOTAL: {num_parts * 1600} characters
+MAXIMUM TOTAL: {num_parts * 1950} characters
 
-⚠️ IF YOU WRITE LESS THAN 1600 CHARS = AUTOMATIC REJECTION ⚠️
-⚠️ IF YOU WRITE MORE THAN 1950 CHARS = AUTOMATIC REJECTION ⚠️
+HOW TO REACH 1,750 CHARACTERS:
+• 12-15 complete sentences
+• Each sentence: 120-140 characters average
+• 1,600 ÷ 120 = 13 sentences MINIMUM
+• Never abbreviate. Never summarize. EXPAND fully.
 
-Each part needs EXACTLY 12-15 full sentences.
-Sentence average: 120-140 characters each.
-1600 ÷ 120 = 13 sentences MINIMUM
-
-📐 HOW TO WRITE 1750 CHARACTERS:
-Write 12-15 full sentences:
-• Opening greeting (2 sentences)
-• Concept explanation (4-5 sentences)
-• Detailed examples with steps (4-5 sentences)
-• Real-world Kenyan/African context (2 sentences)
-• Summary (1-2 sentences)
-
-EXAMPLE (1650 chars):
-"Hello learners. I am Sarah Johnson from StudySmart AI. This is Grade one Mathematics, Lesson three. Today we will learn about counting to ten. In our previous lesson, we learned about recognizing numbers from one to five. Now we will extend our knowledge to count all the way to ten, which is an important skill you will use every single day of your life. Let us begin our journey with numbers. When we count, we say the number names in order: one, two, three, four, five, six, seven, eight, nine, and ten. Each number represents a specific quantity. For example, if I show you one pencil, you say 'one'. If I show you two pencils, you say 'two'. Here is an illustration of ten colorful pencils arranged in a row from left to right. Notice how each pencil is different, but we can count them all. We start from the left and point to each pencil as we count: one, two, three, four, five, six, seven, eight, nine, ten. Let me give you another example using something you see every day. Imagine you have fingers on your hands. If you hold up all your fingers, you have ten fingers total! Five on your left hand and five on your right hand. When you add five plus five together, you get ten. This is why ten is such a special number. You can use your fingers to help you count whenever you need to. Now let us practice counting different objects. Here is an illustration of ten bright red apples on a table. Can you imagine counting them one by one? You would say: one apple, two apples, three apples, four apples, five apples, six apples, seven apples, eight apples, nine apples, ten apples. Well done!"
-
-📚 LESSON INFO:
-Subject: {subject}
+📚 LESSON DETAILS:
+Curriculum: {curriculum_type}
 Level: {grade_year_form}
-Teacher: {teacher_name}
+Subject: {subject}
 Lesson {lesson_num}: {topic}
+Teacher: {teacher_name}
+Objective: {objective}
 
-🔄 STRUCTURE ({num_parts} parts):
+🧠 LESSON STRUCTURE ({num_parts} PARTS — C.R.A. METHODOLOGY):
+{'Lower Primary (4-part): Concrete → Representational → Abstract & Real-life → Recap + Transition' if num_parts == 4 else 'Upper/Secondary (8-part): Concrete → Representational → Abstract → Real-Life Reasoning → Problem Solving → Application/Case Study → Recap & Higher Order Thinking → Closing + Transition'}
+
+PART FLOW:
 {flow}
 
-📝 OPENING (Part 1 only):
-"Hello learners. I am {teacher_name} from StudySmart AI. This is {grade_year_form} {subject}, Lesson {lesson_num}. Today we will learn {topic}."
+1️⃣ LESSON OPENING (Part 1 ONLY):
+EXACT FORMAT: "Hello learners. I am {teacher_name} from StudySmart AI. This is {grade_year_form} {subject}, Lesson {lesson_num}. Today we will learn {topic}."
+{'If NOT Lesson 1, ADD RECAP: "In the previous lesson, we learned [brief recap]."' if lesson_num != "1" else ''}
 
-🏁 CLOSING (Last part only):
-"Well done learners. I am {teacher_name} from StudySmart AI. This was {grade_year_form} {subject}, Lesson {lesson_num}. See you in the next lesson. Notes and Exercises will appear right after this. Pause the video, copy them neatly in your book, and use the OCR camera in the app to check your work."
+2️⃣ TEACHING STYLE:
+✅ Natural spoken Kenyan/British English tone
+✅ Numbers as WORDS: "one, two, ten" NOT "1, 2, 10"
+✅ NO math symbols: "plus" not "+", "equals" not "=", "divided by" not "÷"
+✅ NO direct questions to learners
+✅ Continuous natural explanation flow
+✅ Kenyan/African context (school, home, market, farm settings)
+✅ Each sentence adds meaning — NO fillers
 
-✅ STYLE RULES:
-• British/Kenyan English, friendly tone
-• Numbers as WORDS (one, two, ten) NOT digits (1, 2, 10)
-• NO math symbols: "plus" not +, "equals" not =
-• NO questions to learners, NO physical actions
-• Clear continuous explanation
+3️⃣ ILLUSTRATIONS (6-10 TOTAL, ≥1 PER PART):
+• Introduce with: "Here is an illustration of..."
+• Describe clearly: layout, elements, colors, arrangement
+• Use familiar Kenyan items: pencils, books, fruits, animals, cubes, charts, maps
+• Match narration flow naturally
 
-🖼️ ILLUSTRATIONS:
-• 6-10 total (≥1 per part)
-• Start each: "Here is an illustration of..."
-• Familiar items: pencils, books, animals, cubes, fruits
+4️⃣ LESSON CLOSING (LAST PART ONLY):
+Include a short real-life story/reasoning before closing line.
+EXACT CLOSING: "Well done learners. I am {teacher_name} from StudySmart AI. This was {grade_year_form} {subject}, Lesson {lesson_num}. See you in the next lesson. Notes and Exercises will appear right after this. Pause the video, copy them neatly in your book, and use the OCR camera in the app to check your work."
 
-📋 NOTES & EXERCISES (1600-1950 chars):
-• Bulleted notes (OCR-friendly)
-• 8-10 practice exercises
-• Use numerals in notes
+5️⃣ NOTES & EXERCISES (1,600-1,950 characters):
+STRUCTURE (OCR-friendly, bulleted/numbered):
+• Key definitions and rules
+• Important points from lesson
+• 8-10 practice exercises (mix: simple, medium, 1-2 word problems)
+• Use NUMERALS in notes (1, 2, 10 etc.)
+• End with: "Use the OCR camera in the app to check your work."
 
-📤 OUTPUT JSON:
+📤 REQUIRED JSON OUTPUT:
 {{
   "script_parts": [
-    {{"heading": "Part 1", "content": "1600-1950 char narration"}},
-    {{"heading": "Part 2", "content": "1600-1950 char narration"}},
-    ... ({num_parts} total parts)
+    {{"heading": "Part 1", "content": "[1600-1950 chars with opening + teaching]"}},
+    {{"heading": "Part 2", "content": "[1600-1950 chars]"}},
+    {{"heading": "Part 3", "content": "[1600-1950 chars]"}},
+    {{"heading": "Part 4", "content": "[1600-1950 chars with closing]"}}{',' if num_parts > 4 else ''}
+    {'{"heading": "Part 5", "content": "[1600-1950 chars]"},' if num_parts >= 5 else ''}
+    {'{"heading": "Part 6", "content": "[1600-1950 chars]"},' if num_parts >= 6 else ''}
+    {'{"heading": "Part 7", "content": "[1600-1950 chars]"},' if num_parts >= 7 else ''}
+    {'{"heading": "Part 8", "content": "[1600-1950 chars with closing]"}' if num_parts >= 8 else ''}
   ],
-  "notes_exercises": "1600-1950 chars with notes + 8-10 exercises",
+  "notes_exercises": "[1600-1950 chars: notes + 8-10 exercises + OCR instruction]",
   "illustrations": [
-    {{"illustration_number": 1, "scene_description": "...", "elements": ["item1", "item2"], "part_association": 1}},
-    ... (6-10 total)
+    {{"type": "diagram/chart/scene", "description": "detailed visual description", "layout": "arrangement", "elements": ["item1", "item2", "item3"]}},
+    ... (6-10 illustrations total)
   ]
 }}
 
-🚨 FINAL REMINDER BEFORE YOU GENERATE 🚨
-COUNT YOUR CHARACTERS!
-Part 1: Must be 1600-1950 chars (12-15 sentences)
-Part 2: Must be 1600-1950 chars (12-15 sentences)
-{"Part 3: Must be 1600-1950 chars (12-15 sentences)" if num_parts >= 3 else ""}
-{"Part 4: Must be 1600-1950 chars (12-15 sentences)" if num_parts >= 4 else ""}
-{"Part 5: Must be 1600-1950 chars (12-15 sentences)" if num_parts >= 5 else ""}
-{"Part 6: Must be 1600-1950 chars (12-15 sentences)" if num_parts >= 6 else ""}
-{"Part 7: Must be 1600-1950 chars (12-15 sentences)" if num_parts >= 7 else ""}
-{"Part 8: Must be 1600-1950 chars (12-15 sentences)" if num_parts >= 8 else ""}
-Notes & Exercises: Must be 1600-1950 chars
+✅ VALIDATION CHECKLIST BEFORE RETURNING:
+□ Part 1 length: 1,600-1,950 characters ✓
+□ Part 2 length: 1,600-1,950 characters ✓
+□ Part 3 length: 1,600-1,950 characters ✓
+□ Part 4 length: 1,600-1,950 characters ✓
+{'□ Part 5 length: 1,600-1,950 characters ✓' if num_parts >= 5 else ''}
+{'□ Part 6 length: 1,600-1,950 characters ✓' if num_parts >= 6 else ''}
+{'□ Part 7 length: 1,600-1,950 characters ✓' if num_parts >= 7 else ''}
+{'□ Part 8 length: 1,600-1,950 characters ✓' if num_parts >= 8 else ''}
+□ Notes & Exercises: 1,600-1,950 characters ✓
+□ 6-10 illustrations (≥1 per part) ✓
+□ Correct opening format ✓
+□ Correct closing format ✓
+□ C.R.A. flow accurate ✓
+□ British/Kenyan grammar ✓
+□ Numbers written as words in script ✓
+□ Kenyan context included ✓
 
-EACH PART < 1600 CHARS = FAILURE
-EACH PART > 1950 CHARS = FAILURE
+🚨 FINAL WARNING 🚨
+COUNT EVERY CHARACTER BEFORE RETURNING JSON.
+Content < 1,600 characters = REJECTED
+Content > 1,950 characters = REJECTED
+This wastes API calls. GET IT RIGHT NOW.
 
-WRITE LONG. WRITE DETAILED. COUNT CHARACTERS. Return ONLY JSON."""
+Return ONLY valid JSON. No markdown. No explanations."""
                 
-                system_message = """You are a StudySmart AI educational content writer.
+                system_message = """You are a StudySmart AI Master Content Generator following Master Directive v7.2.
 
-🚨 ABSOLUTE NON-NEGOTIABLE REQUIREMENT 🚨
-MINIMUM: 1600 characters per script part
-MAXIMUM: 1950 characters per script part
-TARGET: 1750 characters per script part
+🚨 ABSOLUTE CHARACTER COUNT ENFORCEMENT 🚨
+RULE: Every script part MUST be 1,600–1,950 characters
+TARGET: 1,750 characters per part
+SENTENCES: 12-15 complete sentences per part
+AVERAGE: 120-140 characters per sentence
 
-VALIDATION RULE:
-if len(content) < 1600: REJECT AND RETRY
-if len(content) > 1950: REJECT AND RETRY
+AUTOMATIC VALIDATION:
+if len(part) < 1,600: REJECT ❌
+if len(part) > 1,950: REJECT ❌
 
-YOU MUST COUNT CHARACTERS BEFORE RETURNING.
-Each part needs 12-15 full sentences.
-Each sentence should be 120-140 characters on average.
+YOU MUST MENTALLY COUNT CHARACTERS AS YOU WRITE.
+Write in full detail. Never abbreviate. Never summarize. EXPAND EVERYTHING.
 
-WRITE LONG, EXPANSIVE, DETAILED CONTENT.
-Never abbreviate. Never summarize. EXPAND EVERYTHING.
+CRITICAL: Educational content for Kenyan learners requires THOROUGH explanations with multiple examples, real-world Kenyan context, and detailed step-by-step teaching. Brief content fails to educate properly.
 
-If you generate less than 1600 characters, the content will be automatically rejected and you will need to retry. This wastes time and API calls. GET IT RIGHT THE FIRST TIME."""
+Content under 1,600 characters will be automatically rejected and waste API calls. COUNT CAREFULLY and WRITE LONG."""
 
                 payload = {
                     "model": self.model,

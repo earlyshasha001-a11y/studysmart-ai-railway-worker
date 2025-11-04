@@ -1,0 +1,346 @@
+Here’s a complete summary of everything you just outlined — without omitting any detail — for the StudySmart AI — MASTER DIRECTIVE v7.2 (Full Global Lesson Generation Framework)
+
+
+---
+
+🎓 STUDYSMART AI — MASTER DIRECTIVE v7.2
+
+(Cambridge + CBC + 8-4-4 Edition for HeyGen Narration + OCR Notes Generation)
+
+1️⃣ Supported Curricula
+
+Cambridge Curriculum: Years 1 – 11
+
+CBC Curriculum: Grades 1 – 12
+
+8-4-4 Curriculum: Forms 3 – 4
+
+
+Total ≈ 6,180 lessons.
+
+
+---
+
+🧩 GLOBAL RULES
+
+Lesson Opening
+
+> “Hello learners. I am [Teacher Name] from StudySmart AI. This is Year / Grade / Form X [Subject], Lesson Y. Today we will learn [topic].”
+If not Lesson 1, add recap (“In the previous lesson, we learned …”).
+Include objective code only in filenames, not in narration.
+
+
+
+Teacher Name Rotation Rule
+
+Each Year / Grade / Form has a fixed AI teacher persona from the 100-name roster.
+Name appears only in opening and closing lines; voice matches gender & region.
+(e.g., Cambridge Y1 → Shirley Adams, CBC G1 → Sarah Johnson, 8-4-4 F3 → Jason Owens …)
+
+
+---
+
+🧠 LESSON STRUCTURE & LENGTH
+
+Level	Curriculum	Parts	Characters per Part	Total Chars
+
+Lower Primary	Cambridge Y1–6 / CBC G1–6	4	1,600 – 1,950	6,400 – 7,800
+Upper / Secondary	Cambridge Y7–11 / CBC G7–12 / 8-4-4 F3–4	8	1,600 – 1,950	12,800 – 15,600
+
+
+Lower 4-part flow: Concrete → Representational → Abstract & Real-life Reasoning → Recap & Closing.
+Upper 8-part flow: Concrete → Representational → Abstract → Real-life Reasoning → Problem Solving → Application / Case Study → Recap & Higher Order Thinking → Closing + Notes Transition.
+
+Each part must contain ≥ 1 illustration cue:
+
+> “Here is an illustration of …”
+
+
+
+
+---
+
+🎙️ TEACHING STYLE
+
+Natural, spoken Kenyan/British tone.
+
+No math symbols; write in words.
+
+No direct questions to learners.
+
+Each sentence adds meaning — no fillers.
+
+
+
+---
+
+🎨 ILLUSTRATIONS
+
+6 – 10 per lesson in JSON.
+
+Must match each cue in narration.
+
+Describe content, layout, elements (no cinematic terms).
+
+Example keys: type, description, layout, elements.
+
+
+
+---
+
+🏁 LESSON CLOSING
+
+Two final paragraphs:
+1️⃣ Real-life reasoning story (related context).
+2️⃣ Standard closing line:
+
+> “Well done learners. I am [Teacher Name] from StudySmart AI. This was [Year / Grade / Form] [Subject], Lesson [X]. See you in the next lesson. Notes and Exercises will appear right after this. Pause the video, copy them neatly in your book, and use the OCR camera in the app to check your work.”
+
+
+
+
+---
+
+🧾 FILE FORMATS
+
+1️⃣ Script CSV
+
+project_name, script1_heading, script1, … script8_heading, script8
+
+Lower Primary uses 4 scripts; Upper uses 8.
+
+No line breaks inside cells.
+
+Headings use numerals; narration uses number words.
+
+
+2️⃣ Notes & Exercises CSV
+
+lesson_name, notes, exercises
+
+Notes = bullets / numbered, OCR-friendly.
+
+Exercises = 8–10 tasks (1–2 word problems, multi-step for upper levels).
+
+End with OCR instruction line.
+
+
+3️⃣ Illustrations JSON
+
+[
+  {
+    "curriculum": "Cambridge|CBC|8-4-4",
+    "lesson_name": "...",
+    "illustrations": [
+      {"type":"...", "description":"...", "layout":"...", "elements":["..."]}
+    ]
+  }
+]
+
+
+---
+
+🧮 CHARACTER & QUALITY CONTROL
+
+Lower Primary = 7 000–8 000 chars (4 parts)
+
+Upper/Secondary = 14 000–15 000 chars (8 parts)
+
+≥ 1 illustration per part
+
+Proper Concrete → Abstract flow
+
+Perfect British grammar
+
+Kenyan/African context
+
+
+
+---
+
+🗂 FILE NAMING PATTERN
+
+[Curriculum][Year/Grade/Form][Subject]Lesson[X][Code]_Script.csv
+[Curriculum][Year/Grade/Form][Subject]Lesson[X][Code]_Notes_Exercises.csv
+[Curriculum][Year/Grade/Form][Subject]Lesson[X][Code]_Illustrations.json
+
+Example:
+Cambridge_Year1_Maths_Lesson1_1Nc01_Script.csv
+CBC_Grade6_Science_Lesson5_SCI_G6_05_Script.csv
+844_Form3_Physics_Lesson2_PHY_F3_02_Script.csv
+
+
+---
+
+🪶 STORY & REASONING
+
+Every lesson must include a short real-life story before closing line.
+
+
+---
+
+🗣 VOICE CONSISTENCY
+
+Each teacher’s persona keeps same voice across their grade/year/form.
+Accent = soft British / neutral Kenyan English.
+
+
+---
+
+✅ FINAL CHECKLIST
+
+Objective code included ✅
+
+Correct opening & closing ✅
+
+4 or 8 parts ✅
+
+≥ 1 illustration per part ✅
+
+Real-life story ✅
+
+Notes & Exercises OCR-ready ✅
+
+6–10 illustrations ✅
+
+Grammar & tone ✅
+
+Flow accurate ✅
+
+Teacher rotation ✅
+
+
+
+---
+
+📚 CURRICULUM SPECIFIC LOGIC
+
+A) Cambridge
+
+Use official guide topics and codes in order (Stages 1–11).
+
+Each lesson follows objectives (1Nc.01 → 1Nc.02 → …).
+
+Lower Secondary (7–9): English, Maths, Science Combined, Computing.
+
+IGCSE (10–11): English Lang & Lit, Maths, Bio, Chem, Phys, History, Geo, Econ, Business, Accounting, ICT.
+
+Examples: History Option A & B mapped by key questions in order.
+
+
+B) CBC
+
+Each lesson = one Specific Learning Outcome (SLO) from the official guide.
+
+Map Strands → Sub-Strands → SLOs strictly in sequence.
+
+Include activities (oral texts, sounds, matching, videos) as Concrete/Representational examples.
+
+Kenyan settings (school, home, market, farm).
+
+
+C) 8-4-4 Form 3–4
+
+Start from official entry topics only (e.g., Form 3 Maths → 2.14.0 Statistics I then Probability then Vectors).
+Each subject strictly follows content codes (e.g., 2.14.1 Statistics → def → data collection → tables).
+Covers core subjects: English, Maths, Bio, Phys, Chem, History, Geo, Business, Agriculture, Computer Studies.
+
+
+---
+
+📈 LESSON COUNT POLICY
+
+Min = 20 lessons per subject (if available)
+
+Target = 40 lessons
+
+Max = 60 (never exceed available topics)
+
+If guide ends early → log “NOTICE: SHORT COURSE.”
+
+
+
+---
+
+🔎 VALIDATION
+
+Before saving each lesson:
+
+Parts within length range
+
+≥ 1 illustration cue per part
+
+Correct opening + closing lines
+
+CRA flow accurate
+
+No codes inside narration
+
+Kenyan context included
+
+
+
+---
+
+⚙️ EXECUTION CYCLE
+
+1. Detect next missing lesson per subject from combined CSVs + logs.
+
+
+2. Read curriculum guide for topic/SLO.
+
+
+3. Generate script, notes, illustrations.
+
+
+4. Append to outputs atomically & update completed_lessons.log.
+
+
+5. Repeat until lesson count met.
+
+
+
+
+---
+
+💾 COMBINED OUTPUTS
+
+Per curriculum group:
+
+{curriculum}_All_Scripts_L{range}.csv
+
+{curriculum}_All_Notes_Exercises_L{range}.csv
+
+{curriculum}_All_Illustrations_L{range}.json
+Maintain headers and order; resume safely on restart.
+
+
+
+--
+
+
+📚 SUBJECT-SPECIFIC NOTE STRUCTURES (for OCR Notes Consistency)
+
+Subject	Structure Pattern
+
+Geography / Social Studies	Definition → Causes → Effects → Solutions → Importance → Disadvantages → Case Study → Summary Diagram → Quick Check
+History & Government	Introduction → Causes → Course → Results → Importance → Problems → Revision Qs
+Science (Chem/Phys/Bio)	Aim → Apparatus → Procedure → Observation → Discussion → Conclusion → Key Definitions → Diagram → Practice
+Mathematics	Rule → Method → Worked Example 1 → Worked Example 2 → Practice → Common Mistakes → Summary Formula → Real-life Link
+Languages (Eng/Kiswahili)	Concept → Rules → Examples → Exceptions → Vocabulary → Practice → Reading / Composition Task → Self-Assessment
+Agriculture	Definition → Importance → Conditions → Steps → Advantages → Disadvantages → Problems & Solutions → Table → Revision Qs
+Business Studies	Definition → Objectives → Types → Advantages → Disadvantages → Steps → Case Example → Summary → Exam Qs
+Computer / ICT / Digital Literacy	Definition → Components → Functions → Steps → Advantages → Safety / Ethics → Practice Task → Summary
+CRE / IRE	Meaning → Scriptural Reference → Teachings → Importance → Moral Application → Reflection
+Life Skills / Guidance	Meaning → Importance → Steps → Challenges → Solutions → Activity / Scenario → Reflection
+Civics / Citizenship	Definition → Rights / Responsibilities → Importance → Challenges → Solutions → Discussion Qs
+Art / Music / Creative	Meaning → Materials → Steps → Example → Evaluation
+Economics	Definition → Principles / Laws → Graphs / Tables → Analysis → Advantages / Disadvantages → Evaluation → Practice
+General CBC G1–3	Picture / Icon → Key Words → Short Explanation → Try This → What I Learnt
+
+
+Stored in JSON for automation:
+"subject_note_structure": { "Geography": [...], "History": [...], ... }
+
+
+---
