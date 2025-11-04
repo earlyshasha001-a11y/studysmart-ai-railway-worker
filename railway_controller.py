@@ -371,14 +371,32 @@ class RailwayController:
         self.list_workspaces()
         
         print("\nStep 2: Listing existing projects...")
-        self.list_projects()
+        existing_projects = self.list_projects()
         
-        print("\nStep 3: Creating new project 'StudySmart-AI-Worker'...")
-        project_id = self.create_project("StudySmart-AI-Worker")
+        # Check if StudySmart-AI-Worker already exists
+        studysmart_project = None
+        for proj in existing_projects:
+            if proj.get("name") == "StudySmart-AI-Worker":
+                studysmart_project = proj
+                self.project_id = proj.get("id")
+                print(f"\n✓ Found existing 'StudySmart-AI-Worker' project")
+                print(f"  Project ID: {self.project_id}")
+                break
         
-        if not project_id:
-            print("\n❌ Failed to create project")
-            return False
+        if not studysmart_project:
+            print("\nStep 3: Creating new project 'StudySmart-AI-Worker'...")
+            project_id = self.create_project("StudySmart-AI-Worker")
+            
+            if not project_id:
+                print("\n⚠️  API-based project creation failed")
+                print("\n📋 Manual Setup Required:")
+                print("   1. Go to https://railway.app/new")
+                print("   2. Click 'Empty Project'")
+                print("   3. Rename it to 'StudySmart-AI-Worker'")
+                print("   4. Copy the project ID from the URL")
+                print("   5. Add it to Secrets as RAILWAY_PROJECT_ID")
+                print("   6. Re-run this controller")
+                return False
         
         print("\nStep 4: Creating worker service...")
         service_id = self.create_service(project_id, "lesson-worker")
@@ -413,22 +431,25 @@ class RailwayController:
 
 def main():
     """Main entry point"""
-    api_key = os.getenv("RAILWAY_API_KEY")
+    # Try RAILWAY_API_KEY2 first (workspace token), fallback to RAILWAY_API_KEY
+    api_key = os.getenv("RAILWAY_API_KEY2") or os.getenv("RAILWAY_API_KEY")
     workspace_id = os.getenv("RAILWAY_WORKSPACE_ID")
     
     if not api_key:
-        print("\n❌ ERROR: RAILWAY_API_KEY not found in environment")
+        print("\n❌ ERROR: RAILWAY_API_KEY or RAILWAY_API_KEY2 not found in environment")
         print("\n📝 Please add your Railway API key to Replit Secrets:")
         print("   1. Go to https://railway.app/account/tokens")
         print("   2. Click 'Create New Token'")
-        print("   3. Leave 'Team' dropdown EMPTY (this creates an Account token)")
+        print("   3. Select your workplace/team if needed")
         print("   4. Give it a name like 'Replit Controller'")
         print("   5. Copy the generated token")
         print("   6. In Replit: Tools → Secrets → Add:")
-        print("      Key: RAILWAY_API_KEY")
+        print("      Key: RAILWAY_API_KEY2")
         print("      Value: (paste your token)")
-        print("\n⚠️  IMPORTANT: Use an Account token, NOT a Team or Project token")
         sys.exit(1)
+    
+    if os.getenv("RAILWAY_API_KEY2"):
+        print("✓ Using RAILWAY_API_KEY2 (workspace token)")
     
     controller = RailwayController(api_key)
     
