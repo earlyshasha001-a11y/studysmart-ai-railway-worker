@@ -3,6 +3,7 @@ import sys
 import requests
 import time
 import json
+import csv
 from datetime import datetime
 from pathlib import Path
 from typing import Optional, Dict, Any, List
@@ -552,8 +553,70 @@ class StudySmartOrchestrator:
         print(f"\n📊 Summary: {len(self.lesson_mappings)} lesson mapping(s) loaded")
         return len(self.lesson_mappings) > 0
     
-    def generate_lesson_script(self, lesson_data: Dict, directive: Optional[Dict] = None) -> Optional[str]:
-        """Generate a single lesson script using DeepSeek V3.1"""
+    def validate_character_count(self, text: str, min_chars: int = 1600, max_chars: int = 1950) -> bool:
+        """Validate text meets character count requirements"""
+        char_count = len(text)
+        return min_chars <= char_count <= max_chars
+    
+    def format_csv_field(self, text: str) -> str:
+        """Format text for CSV: remove line breaks, escape quotes"""
+        text = text.replace('\n', ' ').replace('\r', ' ')
+        text = ' '.join(text.split())
+        text = text.replace('"', '""')
+        return text
+    
+    def generate_lesson_content(self, lesson_data: Dict, directive: Optional[Dict] = None, max_retries: int = 3) -> Optional[Dict]:
+        """Generate complete lesson content (Script, Notes & Exercises, Illustrations) using DeepSeek V3.1 with retry logic"""
+        
+        grade = lesson_data.get("Grade", "").lower()
+        year = lesson_data.get("Year", "").lower()
+        form = lesson_data.get("Form", "").lower()
+        
+        is_lower_primary = any(x in grade + year for x in ["grade 1", "grade 2", "grade 3", "grade 4", "grade 5", "grade 6", "year 1", "year 2", "year 3", "year 4", "year 5", "year 6"])
+        num_parts = 4 if is_lower_primary else 8
+        
+        for attempt in range(1, max_retries + 1):
+            if attempt > 1:
+                print(f"  Retry attempt {attempt}/{max_retries}...")
+            
+            lesson_content = self._call_deepseek(lesson_data, directive, num_parts)
+            
+            if not lesson_content:
+                continue
+            
+            script_parts = lesson_content.get("script_parts", [])
+            notes_parts = lesson_content.get("notes_parts", [])
+            
+            if len(script_parts) != num_parts:
+                print(f"⚠️  Wrong number of script parts: {len(script_parts)} (expected {num_parts})")
+                continue
+            
+            if len(notes_parts) != num_parts:
+                print(f"⚠️  Wrong number of notes parts: {len(notes_parts)} (expected {num_parts})")
+                continue
+            
+            script_valid = all(self.validate_character_count(part.get("content", "")) for part in script_parts)
+            notes_valid = all(self.validate_character_count(part.get("content", "")) for part in notes_parts)
+            
+            if script_valid and notes_valid:
+                print(f"✓ Character counts validated successfully")
+                return lesson_content
+            
+            for i, part in enumerate(script_parts, 1):
+                content_text = part.get("content", "")
+                if not self.validate_character_count(content_text):
+                    print(f"⚠️  Script part {i}: {len(content_text)} chars (expected 1600-1950)")
+            
+            for i, part in enumerate(notes_parts, 1):
+                content_text = part.get("content", "")
+                if not self.validate_character_count(content_text):
+                    print(f"⚠️  Notes part {i}: {len(content_text)} chars (expected 1600-1950)")
+        
+        print(f"✗ Failed to generate valid content after {max_retries} attempts")
+        return None
+    
+    def _call_deepseek(self, lesson_data: Dict, directive: Optional[Dict], num_parts: int) -> Optional[Dict]:
+        """Internal method to call DeepSeek API"""
         headers = {
             "Authorization": f"Bearer {self.openrouter_key}",
             "Content-Type": "application/json",
@@ -561,15 +624,53 @@ class StudySmartOrchestrator:
             "X-Title": "StudySmart AI Controller"
         }
         
-        # Build prompt
-        prompt = "Generate a StudySmart AI lesson script following these requirements:\n\n"
-        
-        if directive or self.master_directive:
-            directive_text = json.dumps(directive or self.master_directive, indent=2)
-            prompt += f"MASTER DIRECTIVE:\n{directive_text}\n\n"
-        
-        prompt += f"LESSON DATA:\n{json.dumps(lesson_data, indent=2)}\n\n"
-        prompt += "Generate a complete lesson script (7,000-8,000 characters) following the StudySmart format."
+        prompt = f"""You are generating a StudySmart AI lesson following Master Directive v7.2.
+
+ABSOLUTE CRITICAL CHARACTER COUNT REQUIREMENTS - NO EXCEPTIONS:
+1. Generate EXACTLY {num_parts} script parts
+2. EACH script part MUST be between 1600-1950 characters (NOT words - CHARACTERS)
+3. Generate EXACTLY {num_parts} notes & exercises parts
+4. EACH notes part MUST be between 1600-1950 characters (NOT words - CHARACTERS)
+5. Generate at least {num_parts} illustrations (minimum 1 per part)
+
+CHARACTER COUNT ENFORCEMENT:
+- Count every character including spaces and punctuation
+- 1600 characters = approximately 4-5 full paragraphs of detailed content
+- 1950 characters = approximately 5-6 full paragraphs of detailed content
+- If a part is too short, expand with more examples, explanations, and details
+- DO NOT use filler text - expand with educational content, real-world examples, and detailed explanations
+- Each part must be comprehensive, detailed, and educational
+
+MASTER DIRECTIVE:
+{json.dumps(directive or self.master_directive, indent=2)}
+
+LESSON DATA:
+{json.dumps(lesson_data, indent=2)}
+
+OUTPUT FORMAT (strict JSON):
+{{
+  "script_parts": [
+    {{"heading": "Script1_Heading", "content": "1600-1950 char script part 1"}},
+    {{"heading": "Script2_Heading", "content": "1600-1950 char script part 2"}},
+    ... ({num_parts} total parts)
+  ],
+  "notes_parts": [
+    {{"heading": "Notes1_Heading", "content": "1600-1950 char notes part 1"}},
+    {{"heading": "Notes2_Heading", "content": "1600-1950 char notes part 2"}},
+    ... ({num_parts} total parts)
+  ],
+  "illustrations": [
+    {{
+      "illustration_number": 1,
+      "scene_description": "Detailed visual scene description",
+      "elements": ["element1", "element2", "element3"],
+      "part_association": 1
+    }},
+    ... (at least {num_parts} illustrations)
+  ]
+}}
+
+Return ONLY the JSON, no additional text."""
         
         payload = {
             "model": self.model,
@@ -577,7 +678,7 @@ class StudySmartOrchestrator:
                 {"role": "user", "content": prompt}
             ],
             "temperature": 0.7,
-            "max_tokens": 8192
+            "max_tokens": 16384
         }
         
         try:
@@ -585,7 +686,7 @@ class StudySmartOrchestrator:
                 self.openrouter_url,
                 headers=headers,
                 json=payload,
-                timeout=120
+                timeout=180
             )
             
             if response.status_code != 200:
@@ -593,12 +694,94 @@ class StudySmartOrchestrator:
                 return None
             
             result = response.json()
-            lesson_script = result['choices'][0]['message']['content']
-            return lesson_script
+            content = result['choices'][0]['message']['content']
             
+            content = content.strip()
+            if content.startswith('```json'):
+                content = content[7:]
+            if content.startswith('```'):
+                content = content[3:]
+            if content.endswith('```'):
+                content = content[:-3]
+            content = content.strip()
+            
+            lesson_content = json.loads(content)
+            
+            if not all(k in lesson_content for k in ["script_parts", "notes_parts", "illustrations"]):
+                print(f"✗ Missing required keys in response")
+                return None
+            
+            return lesson_content
+            
+        except json.JSONDecodeError as e:
+            print(f"✗ Failed to parse JSON response: {str(e)}")
+            return None
         except Exception as e:
             print(f"✗ Lesson generation failed: {str(e)}")
             return None
+    
+    def save_lesson_files(self, output_path: Path, lesson_id: str, lesson_content: Dict, lesson_data: Dict) -> bool:
+        """Save 3 separate files per lesson: Script.csv, Notes_Exercises.csv, Illustrations.json"""
+        try:
+            subject = lesson_data.get("Subject", "SUBJECT").replace(" ", "")
+            grade_year_form = lesson_data.get("Grade", lesson_data.get("Year", lesson_data.get("Form", "GRADE"))).replace(" ", "")
+            lesson_num = lesson_data.get("Lesson Number", lesson_id.replace("L", ""))
+            
+            base_filename = f"{subject}_{grade_year_form}_Lesson{lesson_num}"
+            
+            script_parts = lesson_content.get("script_parts", [])
+            notes_parts = lesson_content.get("notes_parts", [])
+            illustrations = lesson_content.get("illustrations", [])
+            
+            script_csv = output_path / f"{lesson_id}_Script.csv"
+            with open(script_csv, 'w', newline='', encoding='utf-8') as csvfile:
+                writer = csv.writer(csvfile, quoting=csv.QUOTE_ALL)
+                
+                row = []
+                row.append(self.format_csv_field(f"{base_filename}_Script.csv"))
+                row.append(self.format_csv_field(base_filename))
+                
+                for part in script_parts:
+                    heading = self.format_csv_field(part.get("heading", ""))
+                    content = self.format_csv_field(part.get("content", ""))
+                    row.append(heading)
+                    row.append(content)
+                
+                writer.writerow(row)
+            
+            notes_csv = output_path / f"{lesson_id}_Notes_Exercises.csv"
+            with open(notes_csv, 'w', newline='', encoding='utf-8') as csvfile:
+                writer = csv.writer(csvfile, quoting=csv.QUOTE_ALL)
+                
+                row = []
+                row.append(self.format_csv_field(f"{base_filename}_Notes_Exercises.csv"))
+                row.append(self.format_csv_field(base_filename))
+                
+                for part in notes_parts:
+                    heading = self.format_csv_field(part.get("heading", ""))
+                    content = self.format_csv_field(part.get("content", ""))
+                    row.append(heading)
+                    row.append(content)
+                
+                writer.writerow(row)
+            
+            illustrations_json = output_path / f"{lesson_id}_Illustrations.json"
+            illustrations_output = {
+                "lesson_id": lesson_id,
+                "project_name": base_filename,
+                "total_illustrations": len(illustrations),
+                "illustrations": illustrations
+            }
+            
+            with open(illustrations_json, 'w', encoding='utf-8') as f:
+                json.dump(illustrations_output, f, indent=2)
+            
+            print(f"✓ Saved 3 files: {lesson_id}_Script.csv, {lesson_id}_Notes_Exercises.csv, {lesson_id}_Illustrations.json")
+            return True
+            
+        except Exception as e:
+            print(f"✗ Error saving lesson files: {str(e)}")
+            return False
     
     def process_batch(self, mapping_file: Dict, max_lessons: int = 100) -> Dict[str, Any]:
         """Process a batch of lessons from a mapping file"""
@@ -614,7 +797,6 @@ class StudySmartOrchestrator:
         
         print(f"📊 Batch size: {total} lessons")
         
-        # Create output directory for this batch
         today = datetime.now().strftime("%Y-%m-%d")
         output_path = self.output_dir / today / filename.replace(".json", "")
         output_path.mkdir(parents=True, exist_ok=True)
@@ -628,34 +810,25 @@ class StudySmartOrchestrator:
         }
         
         for i, lesson in enumerate(lessons[:total], 1):
-            lesson_id = lesson.get("lesson_id", f"L{i:03d}")
+            lesson_id = lesson.get("Lesson Number", f"{i:03d}")
+            if not lesson_id.startswith("L"):
+                lesson_id = f"L{lesson_id}"
+            
             print(f"\n[{i}/{total}] Generating lesson: {lesson_id}")
             
-            script = self.generate_lesson_script(lesson)
+            lesson_content = self.generate_lesson_content(lesson)
             
-            if script:
-                # Save lesson script
-                output_file = output_path / f"{lesson_id}.json"
-                lesson_output = {
-                    "lesson_id": lesson_id,
-                    "generated_at": datetime.now().isoformat(),
-                    "source_mapping": filename,
-                    "lesson_data": lesson,
-                    "script": script
-                }
-                
-                with open(output_file, 'w') as f:
-                    json.dump(lesson_output, f, indent=2)
-                
-                results["successful"] += 1
-                print(f"✓ Saved: {output_file}")
+            if lesson_content:
+                if self.save_lesson_files(output_path, lesson_id, lesson_content, lesson):
+                    results["successful"] += 1
+                else:
+                    results["failed"] += 1
             else:
                 results["failed"] += 1
                 print(f"✗ Failed to generate lesson {lesson_id}")
             
-            # Progress update every lesson
             print(f"Progress: {results['successful']}/{total} successful, {results['failed']} failed")
-            time.sleep(1)  # Rate limiting
+            time.sleep(2)
         
         return results
     

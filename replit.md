@@ -11,11 +11,15 @@ This project is a lightweight orchestration controller that manages StudySmart A
 - Save generated lesson JSONs to output directory
 
 ## Recent Changes
-- **2025-11-04**: StudySmart AI Orchestration System Implemented
+- **2025-11-04**: StudySmart AI Orchestration System - PRODUCTION READY
   - ✅ Railway GraphQL API integration complete
   - ✅ DeepSeek V3.1 integration via OpenRouter
-  - ✅ Curriculum file loading system (directive + mappings)
-  - ✅ Batch lesson generation workflow
+  - ✅ Curriculum file loading system (54 mapping files, 6,180 lessons)
+  - ✅ **3-file output system per lesson** (Script.csv, Notes_Exercises.csv, Illustrations.json)
+  - ✅ CSV single-row format with no line breaks (Master Directive v7.2 compliant)
+  - ✅ Character count enforcement (1600-1950 per part) with retry logic (3 attempts)
+  - ✅ Part count validation (4 parts lower primary, 8 parts upper/secondary)
+  - ✅ Proper JSON illustration structure with arrays
   - ✅ Automatic output management with date-stamped directories
   - ✅ Progress tracking and error handling
   - Connected to Railway project: luminous-expression (cedc37d7-79dd-48f2-b880-6333d9d3760c)
@@ -35,9 +39,12 @@ This project is a lightweight orchestration controller that manages StudySmart A
   - Lesson mapping JSONs
   - README with upload instructions
   
-- `output/`: Generated lesson scripts
-  - Organized by date (YYYY-MM-DD)
-  - Each lesson saved as JSON with metadata
+- `output/`: Generated lesson files (3 per lesson)
+  - Organized by date (YYYY-MM-DD) and curriculum mapping
+  - Each lesson generates 3 files:
+    - `{LessonID}_Script.csv` - Single-row CSV with script parts (no line breaks)
+    - `{LessonID}_Notes_Exercises.csv` - Single-row CSV with notes/exercises (no line breaks)
+    - `{LessonID}_Illustrations.json` - JSON with illustration specifications
 
 ### Dependencies
 - Python 3.11
@@ -114,10 +121,14 @@ Check the workflow console to see:
 - Output file locations
 
 ### 4. Review Generated Lessons
-Generated lessons are saved to `output/YYYY-MM-DD/`:
-- Individual lesson JSON files
-- Each contains: lesson data, generated script, metadata
-- Following Master Directive v7.2 specifications
+Generated lessons are saved to `output/YYYY-MM-DD/{curriculum_mapping}/`:
+- **3 files per lesson** (Master Directive v7.2 format):
+  - `{LessonID}_Script.csv` - Script narration in single-row CSV format
+  - `{LessonID}_Notes_Exercises.csv` - Notes & exercises in single-row CSV format
+  - `{LessonID}_Illustrations.json` - Illustration specifications with proper array structure
+- Character counts enforced: 1600-1950 per part
+- Retry logic (3 attempts) ensures quality
+- Failed lessons are skipped and logged
 
 ## Generated Lesson Specifications
 
